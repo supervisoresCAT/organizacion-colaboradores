@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Estadísticas de Emails — Organización Colaboradores</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --impulsa:#5b9bd5; --impulsa-lt:#eaf4fb; --impulsa-md:#47799f;
+  --white:#fff; --bg:#e9edf5; --border:#dbe1eb;
+  --text:#1e293b; --muted:#64748b; --card:#fff;
+  --danger:#e74c3c;
+  --shadow:0 2px 10px rgba(30,41,59,.09);
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'Inter','Segoe UI',sans-serif;background:var(--bg);color:var(--text);}
+
+.hdr{background:#1a2340;padding:0 20px;height:58px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:60;box-shadow:0 2px 12px rgba(0,0,0,.2);}
+.hdr-brand a{display:flex;align-items:center;gap:10px;text-decoration:none;color:inherit;}
+.hdr-logo{width:32px;height:32px;background:#fff;border-radius:9px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:13px;color:var(--impulsa-md);font-style:italic;flex-shrink:0;}
+.hdr-title{color:#fff;font-size:13.5px;font-weight:800;}
+.hdr-sub{color:rgba(255,255,255,.5);font-size:10px;font-weight:500;}
+.hdr-back{font-size:12px;color:rgba(255,255,255,.75);padding:7px 13px;border:1.5px solid rgba(255,255,255,.18);border-radius:8px;cursor:pointer;background:transparent;font-family:inherit;font-weight:700;text-decoration:none;transition:.15s;}
+.hdr-back:hover{background:rgba(255,255,255,.1);color:#fff;}
+
+.wrap{max-width:1280px;margin:0 auto;padding:20px 16px 60px;}
+.toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin-bottom:14px;}
+.toolbar h1{font-size:18px;font-weight:800;}
+.toolbar-sub{font-size:11px;color:var(--muted);margin-top:2px;}
+.toolbar-right{display:flex;gap:8px;align-items:center;flex-wrap:wrap;}
+select, input#search{padding:8px 11px;border:1px solid var(--border);border-radius:9px;font-family:inherit;font-size:12.5px;background:#fff;color:var(--text);}
+select{font-weight:700;cursor:pointer;}
+input#search{min-width:180px;}
+.btn{padding:9px 15px;border:none;border-radius:9px;font-family:inherit;font-size:12.5px;font-weight:700;cursor:pointer;transition:.15s;}
+.btn-primary{background:var(--impulsa);color:#fff;}
+.btn-primary:hover{background:var(--impulsa-md);}
+.btn-ghost{background:#fff;color:var(--text);border:1px solid var(--border);}
+.btn-ghost:hover{background:var(--bg);}
+
+.view-tabs{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap;}
+.view-tab{padding:9px 16px;border-radius:10px;font-size:12px;font-weight:800;cursor:pointer;background:#fff;border:1.5px solid var(--border);color:var(--muted);}
+.view-tab.active{background:#1a2340;border-color:#1a2340;color:#fff;}
+
+.month-tabs{display:flex;gap:5px;margin-bottom:14px;flex-wrap:wrap;}
+.month-tab{padding:6px 12px;border-radius:16px;font-size:11px;font-weight:700;cursor:pointer;background:#fff;border:1.5px solid var(--border);color:var(--muted);}
+.month-tab:hover{border-color:var(--impulsa);color:var(--impulsa);}
+.month-tab.active{background:var(--impulsa);border-color:var(--impulsa);color:#fff;}
+
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px;}
+.tab{padding:7px 13px;border-radius:20px;font-size:11px;font-weight:700;cursor:pointer;background:#fff;border:1.5px solid var(--border);color:var(--muted);white-space:nowrap;}
+.tab:hover{border-color:var(--impulsa);color:var(--impulsa);}
+.tab.active{background:var(--impulsa);border-color:var(--impulsa);color:#fff;}
+.tab.total-tab{border-color:#00cd94;color:#00966d;}
+.tab.total-tab.active{background:#00cd94;border-color:#00cd94;color:#fff;}
+
+.card{background:var(--card);border-radius:14px;box-shadow:var(--shadow);border:1px solid var(--border);overflow:hidden;margin-bottom:18px;}
+.table-scroll{overflow-x:auto;}
+table{border-collapse:collapse;width:100%;}
+thead th{position:sticky;top:0;background:#f3f5fa;color:var(--muted);font-size:9px;font-weight:800;text-transform:uppercase;letter-spacing:.03em;padding:8px 5px;text-align:center;border-bottom:2px solid var(--border);z-index:2;min-width:34px;}
+thead th.th-name{text-align:left;padding-left:14px;min-width:190px;position:sticky;left:0;background:#f3f5fa;z-index:3;}
+thead th.th-total{color:var(--impulsa-md);min-width:52px;}
+tbody td{padding:0;border-bottom:1px solid var(--border);text-align:center;}
+tbody tr:hover td{background:#fafbfd;}
+td.td-name{text-align:left;padding:0 14px;font-size:11.5px;font-weight:700;color:var(--text);white-space:nowrap;position:sticky;left:0;background:#fff;z-index:1;border-right:1px solid var(--border);}
+td.td-name.indent-1{padding-left:26px;font-weight:600;color:var(--muted);font-size:11px;}
+td.td-name.indent-2{padding-left:38px;font-weight:500;color:var(--muted);font-size:10.5px;font-style:italic;}
+td.td-name .row-inner{display:flex;align-items:center;gap:6px;height:34px;}
+td.td-name input{border:none;background:transparent;font-family:inherit;font-size:inherit;font-weight:inherit;color:inherit;width:100%;padding:2px 0;}
+td.td-name input:focus{outline:none;background:var(--impulsa-lt);border-radius:5px;padding:2px 4px;}
+td.td-del{width:26px;padding:0;}
+td.td-del button{background:none;border:none;color:var(--muted);opacity:.3;cursor:pointer;font-size:11px;padding:6px;}
+td.td-del button:hover{opacity:1;color:var(--danger);}
+td.td-cell input{width:100%;height:34px;border:none;background:transparent;text-align:center;font-family:inherit;font-size:11px;color:var(--text);padding:0;}
+td.td-cell input:focus{outline:none;background:var(--impulsa-lt);box-shadow:inset 0 0 0 1.5px var(--impulsa);}
+td.td-cell.readonly input{color:var(--muted);background:#fafbfd;cursor:default;}
+td.td-rowtotal{font-weight:800;color:var(--impulsa-md);background:var(--impulsa-lt);font-size:11.5px;}
+tfoot td{padding:8px 5px;font-weight:800;font-size:11px;background:#f3f5fa;border-top:2px solid var(--border);text-align:center;}
+tfoot td.td-name{background:#f3f5fa;position:sticky;left:0;}
+tfoot td.td-grandtotal{color:var(--impulsa-md);background:var(--impulsa-lt);}
+
+.addrow-bar{padding:10px 14px;border-top:1px solid var(--border);}
+.addrow-bar button{background:none;border:2px dashed var(--border);color:var(--muted);border-radius:9px;font-size:11px;font-weight:700;cursor:pointer;font-family:inherit;padding:7px 14px;}
+.addrow-bar button:hover{border-color:var(--impulsa);color:var(--impulsa);background:var(--impulsa-lt);}
+
+.hint{font-size:11px;color:var(--muted);margin:10px 2px 0;line-height:1.5;}
+.save-toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%) translateY(20px);background:#1a2340;color:#fff;padding:10px 20px;border-radius:10px;font-size:12.5px;font-weight:700;box-shadow:0 10px 30px rgba(0,0,0,.25);opacity:0;pointer-events:none;transition:.25s;z-index:100;}
+.save-toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
+
+@media(max-width:700px){ .toolbar{flex-direction:column;align-items:stretch;} }
+</style>
+</head>
+<body>
+
+<div class="hdr">
+  <div class="hdr-brand">
+    <a href="index.html" title="Volver a Colaboradores">
+      <div style="display:flex;align-items:center;gap:10px;">
+        <div class="hdr-logo">JS</div>
+        <div>
+          <div class="hdr-title">Estadísticas de Emails</div>
+          <div class="hdr-sub">Organización Colaboradores</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <a href="index.html" class="hdr-back">← Colaboradores</a>
+</div>
+
+<div class="wrap">
+
+  <div class="toolbar">
+    <div>
+      <h1>📧 Estadísticas de Emails</h1>
+      <div class="toolbar-sub" id="toolbar-sub"></div>
+    </div>
+    <div class="toolbar-right">
+      <select id="year" onchange="onYearChange()"></select>
+      <input type="text" id="search" placeholder="🔍 Buscar auxiliar..." oninput="render()">
+      <button class="btn btn-ghost" onclick="exportCSV()">⬇️ CSV</button>
+      <button class="btn btn-primary" onclick="saveNow()">💾 Guardar</button>
+    </div>
+  </div>
+
+  <div class="view-tabs">
+    <div class="view-tab" data-view="campanas" onclick="setView('campanas')">📊 Resumen de campañas</div>
+    <div class="view-tab" data-view="auxiliar" onclick="setView('auxiliar')">👥 Por auxiliar (día a día)</div>
+    <div class="view-tab" data-view="anual" onclick="setView('anual')">📅 Resumen anual por auxiliar</div>
+  </div>
+
+  <div id="month-tabs-wrap" class="month-tabs"></div>
+  <div id="cat-tabs-wrap" class="tabs"></div>
+
+  <div class="card">
+    <div class="table-scroll">
+      <table id="tbl">
+        <thead><tr id="thead-row"></tr></thead>
+        <tbody id="tbody"></tbody>
+        <tfoot><tr id="tfoot-row"></tr></tfoot>
+      </table>
+    </div>
+    <div class="addrow-bar" id="addrow-bar" style="display:none;">
+      <button type="button" onclick="addAuxiliar()">+ Agregar auxiliar</button>
+    </div>
+  </div>
+
+  <div class="hint" id="hint"></div>
+
+</div>
+
+<div class="save-toast" id="toast">Guardado ✅</div>
+
+<script>
+const MESES = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+const MESES_CORTO = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic'];
+
+const FILAS_CAMPANAS = [
+  {key:'total_ingresos', label:'Total de ingresos diarios', indent:0, bold:true},
+  {key:'general', label:'General', indent:0},
+  {key:'general_ing', label:'Ingresos del día', indent:1},
+  {key:'general_der', label:'Derivaciones del día', indent:1},
+  {key:'farmacia', label:'Farmacia', indent:0},
+  {key:'farmacia_ing', label:'Ingresos del día', indent:1},
+  {key:'farmacia_der', label:'Derivaciones del día', indent:1},
+  {key:'prestadores', label:'Prestadores', indent:0},
+  {key:'prestadores_ing', label:'Ingresos del día', indent:1},
+  {key:'prestadores_der', label:'Derivaciones del día', indent:1},
+  {key:'reintegros', label:'Reintegros', indent:0},
+  {key:'reintegros_ing', label:'Ingresos del día', indent:1},
+  {key:'reintegros_der', label:'Derivaciones del día', indent:1},
+  {key:'nuevos_planes', label:'Nuevos Planes', indent:0},
+  {key:'whatsapp', label:'Whatsapp', indent:0, bold:true},
+  {key:'wa_general', label:'General', indent:1},
+  {key:'wa_autorizaciones', label:'Autorizaciones', indent:1},
+  {key:'wa_carga_solicitudes', label:'Carga de solicitudes', indent:1},
+  {key:'wa_ambulatorio', label:'Ambulatorio', indent:1},
+  {key:'wa_ambulatorio_ing', label:'Ingresos del día', indent:2},
+  {key:'wa_auditoria_farmacia', label:'Auditoría de Farmacia', indent:1},
+  {key:'wa_auditoria_farmacia_ing', label:'Ingresos del día', indent:2},
+  {key:'wa_programas_especiales', label:'Programas Especiales', indent:1},
+  {key:'wa_programas_especiales_ing', label:'Ingresos del día', indent:2},
+  {key:'wa_internaciones', label:'Internaciones', indent:1},
+  {key:'wa_internaciones_ing', label:'Ingresos del día', indent:2},
+  {key:'wa_telemedicina', label:'Telemedicina', indent:1},
+  {key:'wa_telemedicina_ing', label:'Ingresos del día', indent:2},
+];
+
+const CATEGORIAS = [
+  {id:'whatsapp',  label:'Atención WhatsApp',       icon:'💬'},
+  {id:'nuevos',    label:'Nuevos Planes',            icon:'🆕'},
+  {id:'keego',     label:'Keego Gestionados',        icon:'📦'},
+  {id:'redes',     label:'Redes Respondidos',        icon:'📱'},
+  {id:'carga',     label:'Carga de Solicitudes',     icon:'📝'},
+  {id:'mails',     label:'Mails Gestionados',        icon:'✉️'},
+  {id:'apoyo',     label:'Equipo de Apoyo',          icon:'🤝'},
+  {id:'linea7075', label:'Línea 7075',               icon:'☎️'},
+  {id:'brigadas',  label:'Brigadas',                 icon:'🚑'},
+];
+
+const ROSTER_INICIAL = ["Acosta, Maria Sol","Aguilar, Cecilia","Alberti, Estefania","Almiron, Agostina","Alvado, Gisela","Andreu, Maira","Antonini Tatiana","Armua, Gonzalo","Asencio, Estanislao","Ayala, Carolina","Barduca Flavia","Barroso, Valeria","Basabe, Julieta","Batistela, Luz","Battistella, Luz Azul","Beltramo, Giuliana","Benelli, Romina","Benitez, Sebastian","Bode ,Natalia","Bolivar, Martin","Bongiovanni, Agustina","Camara, Abril","Capaldi, Camila","Carello, Belen","Carpensano, Paula","Carpenzano, Micaela","Castillo, Ignacio","Chantiri, Alan Leonel","Clausen Valeria","Cosimano Ivana","Courault, Bautista","Courault, Delfina","Culcuy Yenit","D'andrea, Caterina","Dayer, Federico","Della Bianca Micaela","Delvo, Sebastian","Di Napoli, Evelina","Díaz, Rocío","Dusso, Soledad","Elias, Nair","Faccioli, Sofia","Fazzino, Melisa","Fernandez, Juan Pablo","Fernandez, Nicolas","Fernandez, Paula","Franco, Sybela Maria","Gaitan, Joaquin","Gallini, Gianfranco","Galvez, Maria","Garamendi, Mario","García, Lorenzo","Giavelli, Ma. Florencia","Giudice, Franco","Gomez, Alexis","Gonzalez, Ma. De los Angeles","Gottig, Laura","Grassi, Jesica","Hartmann, Ma. Sol","Jaure, Florencia","Jose, Julieta","Jovellano, Nicolas","Khoury, Maximiliano","Lanteri, Santiago","Laperchia, Solana","Ludueña, Rocio del Valle","Macaudiere, Rocio","Machado, Natalia","Maciel, Maykon","Martinez, Nahuel","Masjoan, Maria de los Milagros","Maurenzi, Andrea","Mazzolari, Fiorella","Mendoza, Victoria","Menotti, Aranda Giuliana","Montero, Iara","Monzón, Andrea","Muga Florencia","Murolo, Jonatan","Navarro, Eugenia","Novillo, Facundo","Ocanto, Mateo","Ortiz, Andrea","Pardo, Lorena","Pascuale, Paula","Patiño, Fausto","Payero, Nicolas","Perez, Melina","Perri, German","Perri, Lumila","Pierini, Clementina","Prieto, Bruno Rene","Ravelo, Facundo","Redigonda, Macarena","Regazzoni, Bruno","Riquelme, Sebastian","Rivolta, Tatiana","Rodriguez, Valentina","Romagnoli, Brisa","Romero, Cristian","Romero, Priscila","Romero, Ximena","Rubiolo, Valentina","Ruiz Diaz, Sheila","Sarina Gaston","Scaringi, Lucas","Scatolini, Melisa","Schdmit, Flavia","Schiavetti, Alejandro","Schmidhalter, Karin","Schmidt, Flavia","Schneider, Astrid","Sovrano, Gerónimo","Sozio, Marco","Spilotti, Ezequiel","Tallafer Abril","Unno, Catalina","Venturino, Milagros","Villareal, Agostina","Viñas, Julieta Sofia","Wollschlejel, Javier","Ylieff, Gonzalo","Zapacosta, Antonela","Zeballos, Lorena","Zigarnosky, Andrea","Zini, Ayelen"];
+
+const K_CAMPANAS = 'emailstats_campanas_v2';
+const K_AUX = 'emailstats_aux_v2';
+const K_ROSTER = 'emailstats_roster_v2';
+const K_YEARS = 'emailstats_years_v2';
+
+let view = 'campanas';
+let currentYear = new Date().getFullYear();
+let currentMonth = new Date().getMonth();
+let currentCat = CATEGORIAS[0].id;
+
+function diasEnMes(year, monthIdx) { return new Date(year, monthIdx+1, 0).getDate(); }
+
+function loadJSON(key, fallback) {
+  try { const v = JSON.parse(localStorage.getItem(key)); return v || fallback; } catch(e) { return fallback; }
+}
+let campanasData = loadJSON(K_CAMPANAS, {});
+let auxData      = loadJSON(K_AUX, {});
+let roster       = loadJSON(K_ROSTER, null) || ROSTER_INICIAL.slice();
+let years        = loadJSON(K_YEARS, null) || [currentYear];
+if (!loadJSON(K_ROSTER, null)) localStorage.setItem(K_ROSTER, JSON.stringify(roster));
+if (!loadJSON(K_YEARS, null)) localStorage.setItem(K_YEARS, JSON.stringify(years));
+
+function saveAllToStorage() {
+  localStorage.setItem(K_CAMPANAS, JSON.stringify(campanasData));
+  localStorage.setItem(K_AUX, JSON.stringify(auxData));
+  localStorage.setItem(K_ROSTER, JSON.stringify(roster));
+  localStorage.setItem(K_YEARS, JSON.stringify(years));
+}
+
+function ensureCampanasMonth(year, month) {
+  const nd = diasEnMes(year, month);
+  if (!campanasData[year]) campanasData[year] = {};
+  if (!campanasData[year][month]) campanasData[year][month] = {};
+  FILAS_CAMPANAS.forEach(f => {
+    const arr = campanasData[year][month][f.key];
+    if (!arr) campanasData[year][month][f.key] = new Array(nd).fill(0);
+    else if (arr.length !== nd) { arr.length = nd; for (let i=0;i<nd;i++) if (arr[i]==null) arr[i]=0; }
+  });
+  return campanasData[year][month];
+}
+function ensureAuxMonth(year, month, cat) {
+  const nd = diasEnMes(year, month);
+  if (!auxData[year]) auxData[year] = {};
+  if (!auxData[year][month]) auxData[year][month] = {};
+  if (!auxData[year][month][cat]) auxData[year][month][cat] = {};
+  const catData = auxData[year][month][cat];
+  roster.forEach(n => {
+    const arr = catData[n];
+    if (!arr) catData[n] = new Array(nd).fill(0);
+    else if (arr.length !== nd) { arr.length = nd; for (let i=0;i<nd;i++) if (arr[i]==null) arr[i]=0; }
+  });
+  return catData;
+}
+function sumArr(a){ return (a||[]).reduce((s,v)=>s+(parseInt(v)||0),0); }
+
+function renderYearSelect() {
+  const sel = document.getElementById('year');
+  sel.innerHTML = years.map(y=>`<option value="${y}" ${y===currentYear?'selected':''}>${y}</option>`).join('')
+    + `<option value="__nuevo">+ Agregar año...</option>`;
+}
+function onYearChange() {
+  const sel = document.getElementById('year');
+  if (sel.value === '__nuevo') {
+    const y = parseInt(prompt('¿Qué año querés agregar?', Math.max(...years)+1));
+    if (y && !years.includes(y)) { years.push(y); years.sort(); saveAllToStorage(); }
+    renderYearSelect();
+    render();
+    return;
+  }
+  currentYear = parseInt(sel.value);
+  render();
+}
+function setView(v) { view = v; render(); }
+function setMonth(m) { currentMonth = m; render(); }
+function setCat(id) { currentCat = id; render(); }
+
+function renderViewTabs() {
+  document.querySelectorAll('.view-tab').forEach(el => el.classList.toggle('active', el.dataset.view === view));
+}
+function renderMonthTabs() {
+  const wrap = document.getElementById('month-tabs-wrap');
+  if (view === 'anual') { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'flex';
+  wrap.innerHTML = MESES.map((m,i)=>`<div class="month-tab ${i===currentMonth?'active':''}" onclick="setMonth(${i})">${m}</div>`).join('');
+}
+function renderCatTabs() {
+  const wrap = document.getElementById('cat-tabs-wrap');
+  if (view === 'campanas') { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'flex';
+  wrap.innerHTML = CATEGORIAS.map(c=>`<div class="tab ${c.id===currentCat?'active':''}" onclick="setCat('${c.id}')">${c.icon} ${c.label}</div>`).join('')
+    + `<div class="tab total-tab ${currentCat==='__total'?'active':''}" onclick="setCat('__total')">🟢 Total</div>`;
+}
+
+function escHtml(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function escJs(s){ return String(s).replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
+
+function render() {
+  renderYearSelect();
+  renderViewTabs();
+  renderMonthTabs();
+  renderCatTabs();
+  document.getElementById('addrow-bar').style.display = (view==='auxiliar' && currentCat!=='__total') ? '' : 'none';
+
+  const sub = document.getElementById('toolbar-sub');
+  if (view === 'campanas') sub.textContent = `${MESES[currentMonth]} ${currentYear} · Ingresos y derivaciones por campaña, día a día`;
+  else if (view === 'auxiliar') sub.textContent = `${MESES[currentMonth]} ${currentYear} · Conteo diario por auxiliar`;
+  else sub.textContent = `${currentYear} · Total mensual por auxiliar (calculado solo, sumando los días cargados)`;
+
+  const hint = document.getElementById('hint');
+  if (view === 'campanas') hint.innerHTML = '💡 Cargá los números tal cual la planilla original: por campaña y por día. El total del mes se calcula solo a la derecha.';
+  else if (view === 'auxiliar') hint.innerHTML = '💡 Elegí la categoría arriba y cargá el conteo de cada auxiliar, día por día. La pestaña 🟢 Total suma las 9 categorías automáticamente.';
+  else hint.innerHTML = '💡 Esta vista no se edita: junta, para cada auxiliar, el total de días cargados en cada mes del año. Cambiá de categoría arriba (o dejá 🟢 Total) para ver otro recorte.';
+
+  if (view === 'campanas') renderCampanas();
+  else if (view === 'auxiliar') renderAuxiliarDiario();
+  else renderResumenAnual();
+}
+
+function renderCampanas() {
+  const nd = diasEnMes(currentYear, currentMonth);
+  const rowData = ensureCampanasMonth(currentYear, currentMonth);
+  const thead = document.getElementById('thead-row');
+  const tbody = document.getElementById('tbody');
+  const tfoot = document.getElementById('tfoot-row');
+
+  thead.innerHTML = `<th class="th-name">Campaña</th>` + Array.from({length:nd},(_,i)=>`<th>${i+1}</th>`).join('') + `<th class="th-total">Total</th>`;
+
+  tbody.innerHTML = FILAS_CAMPANAS.map(f => {
+    const arr = rowData[f.key];
+    const total = sumArr(arr);
+    const cells = arr.map((v,i)=>`<td class="td-cell"><input type="number" min="0" value="${v||''}" placeholder="—" onchange="setCampanaValor('${f.key}',${i},this.value)"></td>`).join('');
+    const nameStyle = f.bold ? 'font-weight:800;' : '';
+    return `<tr><td class="td-name indent-${f.indent}" style="${nameStyle}">${escHtml(f.label)}</td>${cells}<td class="td-cell td-rowtotal"><input type="text" value="${total||''}" readonly></td></tr>`;
+  }).join('');
+
+  tfoot.innerHTML = `<td class="td-name">—</td>` + Array.from({length:nd}).map(()=>'<td></td>').join('') + `<td></td>`;
+}
+function setCampanaValor(rowKey, dayIdx, val) {
+  const rowData = ensureCampanasMonth(currentYear, currentMonth);
+  rowData[rowKey][dayIdx] = Math.max(0, parseInt(val)||0);
+  saveAllToStorage();
+  render();
+}
+
+function renderAuxiliarDiario() {
+  const nd = diasEnMes(currentYear, currentMonth);
+  const isTotal = currentCat === '__total';
+  const q = document.getElementById('search').value.trim().toLowerCase();
+  const thead = document.getElementById('thead-row');
+  const tbody = document.getElementById('tbody');
+  const tfoot = document.getElementById('tfoot-row');
+
+  thead.innerHTML = `<th class="th-name">Auxiliar</th>` + Array.from({length:nd},(_,i)=>`<th>${i+1}</th>`).join('') + `<th class="th-total">Total</th>`;
+
+  const catsParaSumar = isTotal ? CATEGORIAS.map(c=>c.id) : [currentCat];
+  const rosterFiltrado = roster.filter(n => !q || n.toLowerCase().includes(q));
+  const dayTotals = new Array(nd).fill(0);
+  let grandTotal = 0;
+
+  tbody.innerHTML = rosterFiltrado.map(nombre => {
+    const sums = new Array(nd).fill(0);
+    catsParaSumar.forEach(catId => {
+      const catData = ensureAuxMonth(currentYear, currentMonth, catId);
+      (catData[nombre]||[]).forEach((v,i)=> sums[i]+=(parseInt(v)||0));
+    });
+    const rowTotal = sums.reduce((a,b)=>a+b,0);
+    sums.forEach((v,i)=>dayTotals[i]+=v);
+    grandTotal += rowTotal;
+
+    const cells = sums.map((v,i)=> isTotal
+      ? `<td class="td-cell readonly"><input type="text" value="${v||''}" readonly></td>`
+      : `<td class="td-cell"><input type="number" min="0" value="${v||''}" placeholder="—" onchange="setAuxValor('${escJs(nombre)}',${i},this.value)"></td>`
+    ).join('');
+
+    const nameCell = isTotal
+      ? `<td class="td-name"><div class="row-inner">${escHtml(nombre)}</div></td>`
+      : `<td class="td-name"><div class="row-inner"><input type="text" value="${escHtml(nombre)}" onchange="renombrarAuxiliar('${escJs(nombre)}',this.value)"></div></td>`;
+    const delCell = isTotal ? '' : `<td class="td-del"><button type="button" title="Quitar auxiliar" onclick="quitarAuxiliar('${escJs(nombre)}')">×</button></td>`;
+
+    return `<tr>${nameCell}${cells}<td class="td-cell td-rowtotal"><input type="text" value="${rowTotal||''}" readonly></td>${delCell}</tr>`;
+  }).join('');
+
+  tfoot.innerHTML = `<td class="td-name">Total</td>` + dayTotals.map(v=>`<td>${v||'—'}</td>`).join('') + `<td class="td-grandtotal">${grandTotal||'—'}</td>` + (isTotal?'':'<td></td>');
+}
+function setAuxValor(nombre, dayIdx, val) {
+  const catData = ensureAuxMonth(currentYear, currentMonth, currentCat);
+  if (!catData[nombre]) catData[nombre] = new Array(diasEnMes(currentYear,currentMonth)).fill(0);
+  catData[nombre][dayIdx] = Math.max(0, parseInt(val)||0);
+  saveAllToStorage();
+  render();
+}
+
+function renderResumenAnual() {
+  const isTotal = currentCat === '__total';
+  const q = document.getElementById('search').value.trim().toLowerCase();
+  const thead = document.getElementById('thead-row');
+  const tbody = document.getElementById('tbody');
+  const tfoot = document.getElementById('tfoot-row');
+
+  thead.innerHTML = `<th class="th-name">Auxiliar</th>` + MESES_CORTO.map(m=>`<th>${m}</th>`).join('') + `<th class="th-total">Total año</th>`;
+
+  const catsParaSumar = isTotal ? CATEGORIAS.map(c=>c.id) : [currentCat];
+  const rosterFiltrado = roster.filter(n => !q || n.toLowerCase().includes(q));
+  const monthTotals = new Array(12).fill(0);
+  let grandTotal = 0;
+
+  tbody.innerHTML = rosterFiltrado.map(nombre => {
+    const monthSums = new Array(12).fill(0);
+    for (let m=0; m<12; m++) {
+      catsParaSumar.forEach(catId => {
+        const catData = ensureAuxMonth(currentYear, m, catId);
+        monthSums[m] += sumArr(catData[nombre]);
+      });
+    }
+    const rowTotal = monthSums.reduce((a,b)=>a+b,0);
+    monthSums.forEach((v,i)=>monthTotals[i]+=v);
+    grandTotal += rowTotal;
+    const cells = monthSums.map(v=>`<td class="td-cell readonly"><input type="text" value="${v||''}" readonly></td>`).join('');
+    return `<tr><td class="td-name"><div class="row-inner">${escHtml(nombre)}</div></td>${cells}<td class="td-cell td-rowtotal"><input type="text" value="${rowTotal||''}" readonly></td></tr>`;
+  }).join('');
+
+  tfoot.innerHTML = `<td class="td-name">Total</td>` + monthTotals.map(v=>`<td>${v||'—'}</td>`).join('') + `<td class="td-grandtotal">${grandTotal||'—'}</td>`;
+}
+
+function renombrarAuxiliar(viejo, nuevo) {
+  nuevo = nuevo.trim();
+  if (!nuevo || nuevo === viejo) { render(); return; }
+  const idx = roster.indexOf(viejo);
+  if (idx === -1) return;
+  roster[idx] = nuevo;
+  Object.keys(auxData).forEach(y => Object.keys(auxData[y]).forEach(m => Object.keys(auxData[y][m]).forEach(c => {
+    if (auxData[y][m][c][viejo]) { auxData[y][m][c][nuevo] = auxData[y][m][c][viejo]; delete auxData[y][m][c][viejo]; }
+  })));
+  saveAllToStorage();
+  render();
+}
+function quitarAuxiliar(nombre) {
+  if (!confirm(`¿Quitar a "${nombre}" de la lista? (no se borran sus números guardados, solo deja de aparecer)`)) return;
+  roster = roster.filter(n => n !== nombre);
+  saveAllToStorage();
+  render();
+}
+function addAuxiliar() {
+  const nombre = (prompt('Nombre del auxiliar (ej: "Apellido, Nombre"):') || '').trim();
+  if (!nombre) return;
+  if (roster.includes(nombre)) { alert('Ya está en la lista.'); return; }
+  roster.push(nombre);
+  roster.sort((a,b)=>a.localeCompare(b,'es'));
+  saveAllToStorage();
+  render();
+}
+
+function saveNow() {
+  saveAllToStorage();
+  const t = document.getElementById('toast');
+  t.classList.add('show');
+  setTimeout(()=>t.classList.remove('show'), 1600);
+}
+
+function exportCSV() {
+  let rows = [];
+  let filename = '';
+  if (view === 'campanas') {
+    const nd = diasEnMes(currentYear, currentMonth);
+    const rowData = ensureCampanasMonth(currentYear, currentMonth);
+    rows.push(['Campaña', ...Array.from({length:nd},(_,i)=>i+1), 'Total']);
+    FILAS_CAMPANAS.forEach(f => {
+      const arr = rowData[f.key];
+      rows.push([f.label, ...arr, sumArr(arr)]);
+    });
+    filename = `Campanas_${MESES[currentMonth]}_${currentYear}.csv`;
+  } else if (view === 'auxiliar') {
+    const nd = diasEnMes(currentYear, currentMonth);
+    const isTotal = currentCat === '__total';
+    const catsParaSumar = isTotal ? CATEGORIAS.map(c=>c.id) : [currentCat];
+    rows.push(['Auxiliar', ...Array.from({length:nd},(_,i)=>i+1), 'Total']);
+    roster.forEach(nombre => {
+      const sums = new Array(nd).fill(0);
+      catsParaSumar.forEach(catId => {
+        const catData = ensureAuxMonth(currentYear, currentMonth, catId);
+        (catData[nombre]||[]).forEach((v,i)=>sums[i]+=(parseInt(v)||0));
+      });
+      rows.push([nombre, ...sums, sums.reduce((a,b)=>a+b,0)]);
+    });
+    const catLabel = isTotal ? 'Total' : (CATEGORIAS.find(c=>c.id===currentCat)||{}).label;
+    filename = `Auxiliares_${catLabel}_${MESES[currentMonth]}_${currentYear}.csv`;
+  } else {
+    const isTotal = currentCat === '__total';
+    const catsParaSumar = isTotal ? CATEGORIAS.map(c=>c.id) : [currentCat];
+    rows.push(['Auxiliar', ...MESES_CORTO, 'Total año']);
+    roster.forEach(nombre => {
+      const monthSums = new Array(12).fill(0);
+      for (let m=0;m<12;m++) catsParaSumar.forEach(catId => { monthSums[m]+=sumArr(ensureAuxMonth(currentYear,m,catId)[nombre]); });
+      rows.push([nombre, ...monthSums, monthSums.reduce((a,b)=>a+b,0)]);
+    });
+    const catLabel = isTotal ? 'Total' : (CATEGORIAS.find(c=>c.id===currentCat)||{}).label;
+    filename = `Resumen_anual_${catLabel}_${currentYear}.csv`;
+  }
+  const csv = rows.map(r => r.map(c => `"${String(c).replace(/"/g,'""')}"`).join(';')).join('\n');
+  const blob = new Blob(['\ufeff'+csv], {type:'text/csv;charset=utf-8'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = filename.replace(/\s+/g,'_');
+  a.click();
+  setTimeout(()=>URL.revokeObjectURL(a.href), 3000);
+}
+
+render();
+</script>
+
+</body>
+</html>
