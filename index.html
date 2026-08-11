@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Organización Colaboradores — Jerárquicos Salud</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Org Colaboradores">
+<meta name="theme-color" content="#00554e">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2213%22%20fill%3D%22%2300a884%22/%3E%3Ctext%20x%3D%2232%22%20y%3D%2245%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-size%3D%2236%22%20font-weight%3D%22900%22%20fill%3D%22%23ffffff%22%20text-anchor%3D%22middle%22%3EJS%3C/text%3E%3C/svg%3E">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --impulsa:#5b9bd5; --impulsa-lt:#eaf4fb; --impulsa-md:#47799f;
+  --white:#fff; --bg:#e9edf5; --border:#dbe1eb;
+  --text:#1e293b; --muted:#64748b;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'Inter','Segoe UI',sans-serif;background:var(--bg);color:var(--text);}
+
+@keyframes meshShift{0%,100%{background-position:0% 0%,0% 0%,0% 0%,0% 0%;}50%{background-position:10% 8%,-8% 6%,4% -6%,0% 0%;}}
+@keyframes landingIn{from{opacity:0;transform:translateY(10px);}to{opacity:1;transform:translateY(0);}}
+
+.landing-page{
+  position:fixed;top:0;left:0;width:100%;height:100%;
+  display:flex;flex-direction:column;align-items:center;justify-content:flex-start;
+  background:
+    radial-gradient(circle at 15% 20%, rgba(108,92,231,.55) 0%, transparent 45%),
+    radial-gradient(circle at 85% 12%, rgba(0,205,148,.45) 0%, transparent 45%),
+    radial-gradient(circle at 50% 100%, rgba(91,155,213,.55) 0%, transparent 55%),
+    linear-gradient(160deg,#1a2340 0%,#232f57 100%);
+  background-size:140% 140%,140% 140%,140% 140%,100% 100%;
+  animation:meshShift 20s ease-in-out infinite;
+  padding:36px 20px 40px;box-sizing:border-box;
+  overflow-y:auto;-webkit-overflow-scrolling:touch;
+}
+.landing-wrap{max-width:640px;width:100%;margin:0 auto;flex-shrink:0;}
+
+.landing-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;animation:landingIn .6s ease both;flex-wrap:wrap;gap:10px;}
+.landing-brand{display:flex;align-items:center;gap:12px;}
+.landing-logo{width:44px;height:44px;background:#fff;border-radius:13px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:15px;color:var(--impulsa-md);font-style:italic;box-shadow:0 4px 16px rgba(0,0,0,.25);flex-shrink:0;}
+.landing-brand-txt h1{color:#fff;font-size:15px;font-weight:800;letter-spacing:-.3px;}
+.landing-brand-txt p{color:rgba(255,255,255,.5);font-size:10.5px;font-weight:500;}
+
+.landing-greet{display:flex;align-items:center;gap:13px;margin-bottom:24px;animation:landingIn .6s .05s ease both;}
+.landing-greet-av{width:42px;height:42px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;color:var(--impulsa-md);font-weight:800;font-size:14px;flex-shrink:0;box-shadow:0 4px 14px rgba(0,0,0,.25);}
+.landing-greet h2{color:#fff;font-size:21px;font-weight:800;letter-spacing:-.4px;margin-bottom:2px;}
+.landing-greet p{color:rgba(255,255,255,.55);font-size:12px;font-weight:500;text-transform:capitalize;}
+
+.landing-cat{margin-bottom:20px;animation:landingIn .6s .15s ease both;}
+.landing-cat-title{color:rgba(255,255,255,.6);font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.07em;margin-bottom:9px;padding-left:2px;}
+.landing-cat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;}
+@media(max-width:480px){.landing-cat-grid{grid-template-columns:1fr;}}
+
+.landing-mcard{background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.14);border-radius:15px;padding:14px 15px;cursor:pointer;transition:.2s;position:relative;overflow:hidden;backdrop-filter:blur(6px);text-decoration:none;display:block;}
+.landing-mcard:hover{background:rgba(255,255,255,.15);transform:translateY(-3px);border-color:var(--lc-color);box-shadow:0 12px 28px rgba(0,0,0,.25),0 0 0 1px var(--lc-color);}
+.landing-mcard-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px;}
+.landing-mcard .lc-icon{font-size:19px;}
+.landing-mcard-badge{background:var(--lc-color);color:#0d1128;font-size:9px;font-weight:800;padding:3px 8px;border-radius:20px;white-space:nowrap;}
+.landing-mcard .lc-title{color:#fff;font-size:12.5px;font-weight:800;margin-bottom:3px;}
+.landing-mcard .lc-desc{color:rgba(255,255,255,.5);font-size:10px;line-height:1.4;}
+
+.landing-empty{animation:landingIn .6s .15s ease both;background:rgba(255,255,255,.07);border:1.5px dashed rgba(255,255,255,.25);border-radius:16px;padding:28px 20px;text-align:center;}
+.landing-empty-icon{font-size:26px;margin-bottom:8px;}
+.landing-empty-title{color:#fff;font-size:13px;font-weight:800;margin-bottom:4px;}
+.landing-empty-sub{color:rgba(255,255,255,.5);font-size:11.5px;}
+</style>
+</head>
+<body>
+
+<div class="landing-page" id="landing">
+  <div class="landing-wrap">
+
+    <div class="landing-top">
+      <div class="landing-brand">
+        <div class="landing-logo">JS</div>
+        <div class="landing-brand-txt">
+          <h1>Organización Colaboradores</h1>
+          <p>Jerárquicos Salud · Entrena2</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="landing-greet">
+      <div class="landing-greet-av">👋</div>
+      <div>
+        <h2 id="landing-greet-txt">¡Hola!</h2>
+        <p id="fecha-hoy"></p>
+      </div>
+    </div>
+
+    <div class="landing-empty">
+      <div class="landing-empty-icon">🧩</div>
+      <div class="landing-empty-title">Todavía no hay módulos cargados</div>
+      <div class="landing-empty-sub">Acá van a ir apareciendo las herramientas para colaboradores, a medida que las sumemos.</div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+const dEl = document.getElementById('fecha-hoy');
+if (dEl) dEl.textContent = new Date().toLocaleDateString('es-AR', {weekday:'long', day:'numeric', month:'long'});
+</script>
+
+</body>
+</html>
