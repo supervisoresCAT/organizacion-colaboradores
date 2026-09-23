@@ -1,9 +1,13 @@
 // scripts/backup-supabase.mjs
 //
-// Descarga TODO el contenido de campanas_mensual, aux_mensual y meta desde Supabase
-// y lo guarda en /backups como JSON. Esto es un respaldo INDEPENDIENTE de Supabase:
-// si el proyecto de Supabase se pierde, se borra o se corrompe, los datos siguen
-// existiendo acá, versionados en el historial de git.
+// Descarga TODO el contenido de las tablas de Supabase y lo guarda en /backups como JSON.
+// Esto es un respaldo INDEPENDIENTE de Supabase: si el proyecto se pierde, se borra o se
+// corrompe, los datos siguen existiendo acá, versionados en el historial de git.
+// Corre una vez por día.
+//
+// campanas_diario / aux_diario: las tablas activas (una fila por día editado).
+// campanas_mensual / aux_mensual: las tablas viejas (una fila por mes completo), ya no las
+// usa la app, pero se siguen respaldando por las dudas mientras nadie las borre a mano.
 
 import { writeFile, mkdir } from 'node:fs/promises';
 
@@ -23,6 +27,10 @@ async function fetchTodo(tabla) {
       },
     });
     if (!res.ok) {
+      if (res.status === 404 || res.status === 400) {
+        console.warn(`Aviso: la tabla "${tabla}" no existe o no respondió, se omite.`);
+        return [];
+      }
       throw new Error(`Error consultando ${tabla}: ${res.status} ${await res.text()}`);
     }
     const data = await res.json();
@@ -33,27 +41,32 @@ async function fetchTodo(tabla) {
   return filas;
 }
 
+async function respaldarTabla(tabla) {
+  const filas = await fetchTodo(tabla);
+  await writeFile(`backups/${tabla}.latest.json`, JSON.stringify(filas, null, 2));
+  return filas.length;
+}
+
 async function main() {
-  console.log('Descargando tablas de Supabase para el respaldo...');
-  const campanas = await fetchTodo('campanas_mensual');
-  const aux = await fetchTodo('aux_mensual');
-  const meta = await fetchTodo('meta');
-
-  console.log(`Traído: ${campanas.length} filas de campañas, ${aux.length} de auxiliares, ${meta.length} de meta.`);
-
+  console.log('Descargando tablas de Supabase para el respaldo diario...');
   await mkdir('backups', { recursive: true });
-  await writeFile('backups/campanas_mensual.latest.json', JSON.stringify(campanas, null, 2));
-  await writeFile('backups/aux_mensual.latest.json', JSON.stringify(aux, null, 2));
-  await writeFile('backups/meta.latest.json', JSON.stringify(meta, null, 2));
 
-  // Además del "latest" (que siempre se pisa), una foto fechada una vez por mes
-  // como punto de restauración a más largo plazo, sin acumular archivos de más.
-  if (new Date().getUTCDate() <= 7) {
+  const tablas = ['campanas_diario', 'aux_diario', 'meta', 'historial_cambios', 'campanas_mensual', 'aux_mensual'];
+  const conteos = {};
+  for (const tabla of tablas) {
+    conteos[tabla] = await respaldarTabla(tabla);
+  }
+  console.log('Filas respaldadas:', conteos);
+
+  // Además del "latest" (que siempre se pisa), una foto fechada el día 1 de cada mes
+  // como punto de restauración a más largo plazo, sin acumular un archivo por día.
+  if (new Date().getUTCDate() === 1) {
     const fecha = new Date().toISOString().slice(0, 10);
     await mkdir('backups/mensuales', { recursive: true });
-    await writeFile(`backups/mensuales/${fecha}-campanas_mensual.json`, JSON.stringify(campanas, null, 2));
-    await writeFile(`backups/mensuales/${fecha}-aux_mensual.json`, JSON.stringify(aux, null, 2));
-    await writeFile(`backups/mensuales/${fecha}-meta.json`, JSON.stringify(meta, null, 2));
+    for (const tabla of ['campanas_diario', 'aux_diario', 'meta']) {
+      const filas = await fetchTodo(tabla);
+      await writeFile(`backups/mensuales/${fecha}-${tabla}.json`, JSON.stringify(filas, null, 2));
+    }
   }
 
   console.log('Respaldo guardado en /backups.');
