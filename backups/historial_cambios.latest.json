@@ -1,0 +1,476 @@
+[
+  {
+    "id": 71,
+    "resumen": "Marcos prueba cargó 2 para Acosta, Maria Sol en Atención WhatsApp (día 24)",
+    "updated_by": "Marcos prueba",
+    "created_at": "2026-09-23T16:05:08.593281+00:00"
+  },
+  {
+    "id": 72,
+    "resumen": "Marcos prueba cargó 0 para Acosta, Maria Sol en Atención WhatsApp (día 24)",
+    "updated_by": "Marcos prueba",
+    "created_at": "2026-09-23T16:05:34.474659+00:00"
+  },
+  {
+    "id": 73,
+    "resumen": "German cargó 21 para Benitez, Sebastian en Redes Respondidos (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T16:16:28.798041+00:00"
+  },
+  {
+    "id": 74,
+    "resumen": "Mateo Ocanto cargó 12 para Acosta, Maria Sol en Atención WhatsApp (día 24)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T17:25:03.593067+00:00"
+  },
+  {
+    "id": 75,
+    "resumen": "Mateo Ocanto cargó 0 para Acosta, Maria Sol en Atención WhatsApp (día 24)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T17:25:05.790933+00:00"
+  },
+  {
+    "id": 76,
+    "resumen": "German cargó 1 en Ingresos del día (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:26:10.758422+00:00"
+  },
+  {
+    "id": 77,
+    "resumen": "German cargó 1 en Derivaciones del día (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:26:17.91136+00:00"
+  },
+  {
+    "id": 78,
+    "resumen": "German cargó 2 en General (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:26:25.028014+00:00"
+  },
+  {
+    "id": 79,
+    "resumen": "German cargó 0 en General (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:26:44.832178+00:00"
+  },
+  {
+    "id": 80,
+    "resumen": "German cargó 0 en Derivaciones del día (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:26:54.882987+00:00"
+  },
+  {
+    "id": 81,
+    "resumen": "German cargó 0 en Ingresos del día (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:26:55.493642+00:00"
+  },
+  {
+    "id": 82,
+    "resumen": "German cargó 87 en Ingresos del día (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:59:02.146801+00:00"
+  },
+  {
+    "id": 83,
+    "resumen": "German cargó 21 en Ingresos del día (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:59:11.078572+00:00"
+  },
+  {
+    "id": 84,
+    "resumen": "German cargó 65 en Ingresos del día (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:59:18.071045+00:00"
+  },
+  {
+    "id": 85,
+    "resumen": "German cargó 13 en Ingresos del día (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T17:59:34.185847+00:00"
+  },
+  {
+    "id": 86,
+    "resumen": "German cargó 43 en Ingresos del día (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T18:00:04.487+00:00"
+  },
+  {
+    "id": 87,
+    "resumen": "German cargó 2 para Ludueña, Rocio del Valle en Mails Gestionados (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T18:00:20.478488+00:00"
+  },
+  {
+    "id": 88,
+    "resumen": "German cargó 13 para Perez, Melina en Línea 7075 (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T18:00:33.391855+00:00"
+  },
+  {
+    "id": 89,
+    "resumen": "German cargó 17 para Laperchia, Solana en Mails Gestionados (día 23)",
+    "updated_by": "German",
+    "created_at": "2026-09-23T18:00:44.537358+00:00"
+  },
+  {
+    "id": 90,
+    "resumen": "Marcos cargó 2 para Acosta, Maria Sol en Atención WhatsApp (día 24)",
+    "updated_by": "Marcos",
+    "created_at": "2026-09-23T21:25:54.911248+00:00"
+  },
+  {
+    "id": 91,
+    "resumen": "Marcos cargó 0 para Acosta, Maria Sol en Atención WhatsApp (día 24)",
+    "updated_by": "Marcos",
+    "created_at": "2026-09-23T21:26:02.51036+00:00"
+  },
+  {
+    "id": 92,
+    "resumen": "Marcos cargó 3 para Aguilar, Cecilia en Atención WhatsApp (día 24)",
+    "updated_by": "Marcos",
+    "created_at": "2026-09-23T21:26:13.346724+00:00"
+  },
+  {
+    "id": 93,
+    "resumen": "Marcos cargó 0 para Aguilar, Cecilia en Atención WhatsApp (día 24)",
+    "updated_by": "Marcos",
+    "created_at": "2026-09-23T21:26:15.13096+00:00"
+  },
+  {
+    "id": 94,
+    "resumen": "Mateo Ocanto cargó 125 en Ingresos del día (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:04:10.190166+00:00"
+  },
+  {
+    "id": 95,
+    "resumen": "Mateo Ocanto cargó 38 en Ingresos del día (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:04:24.097778+00:00"
+  },
+  {
+    "id": 96,
+    "resumen": "Mateo Ocanto cargó 109 en Ingresos del día (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:04:41.973044+00:00"
+  },
+  {
+    "id": 97,
+    "resumen": "Mateo Ocanto cargó 8 en Ingresos del día (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:05:00.58916+00:00"
+  },
+  {
+    "id": 98,
+    "resumen": "Mateo Ocanto cargó 28 en Ingresos del día (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:05:30.667135+00:00"
+  },
+  {
+    "id": 99,
+    "resumen": "Mateo Ocanto cargó 83 en Ingresos del día (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:05:52.58343+00:00"
+  },
+  {
+    "id": 100,
+    "resumen": "Mateo Ocanto cargó 50 para Alvado, Gisela en Carga de Solicitudes (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:06:18.649379+00:00"
+  },
+  {
+    "id": 101,
+    "resumen": "Mateo Ocanto cargó 64 para Venturino, Milagros en Carga de Solicitudes (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:06:31.315474+00:00"
+  },
+  {
+    "id": 102,
+    "resumen": "Mateo Ocanto cargó 41 para Ludueña, Rocio del Valle en Carga de Solicitudes (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:06:46.165026+00:00"
+  },
+  {
+    "id": 103,
+    "resumen": "Mateo Ocanto cargó 29 para Pierini, Clementina en Carga de Solicitudes (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:06:58.980282+00:00"
+  },
+  {
+    "id": 104,
+    "resumen": "Mateo Ocanto cargó 23 para Schneider, Astrid en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:07:23.484161+00:00"
+  },
+  {
+    "id": 105,
+    "resumen": "Mateo Ocanto cargó 29 para Alberti, Estefania en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:07:32.489359+00:00"
+  },
+  {
+    "id": 106,
+    "resumen": "Mateo Ocanto cargó 0 para Alberti, Estefania en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:07:48.320817+00:00"
+  },
+  {
+    "id": 107,
+    "resumen": "Mateo Ocanto cargó 0 para Alberti, Estefania en Mails Gestionados (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:08:08.489974+00:00"
+  },
+  {
+    "id": 108,
+    "resumen": "Mateo Ocanto cargó 18 para Alberti, Estefania en Línea 7075 (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:08:16.169497+00:00"
+  },
+  {
+    "id": 109,
+    "resumen": "Mateo Ocanto cargó 29 para Alberti, Estefania en Línea 7075 (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:08:19.202907+00:00"
+  },
+  {
+    "id": 110,
+    "resumen": "Mateo Ocanto cargó 0 para Menotti, Aranda Giuliana en Mails Gestionados (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:08:34.939939+00:00"
+  },
+  {
+    "id": 111,
+    "resumen": "Mateo Ocanto cargó 19 para Menotti, Aranda Giuliana en Línea 7075 (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:08:39.433205+00:00"
+  },
+  {
+    "id": 112,
+    "resumen": "Mateo Ocanto cargó 25 para Menotti, Aranda Giuliana en Línea 7075 (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:08:42.029212+00:00"
+  },
+  {
+    "id": 113,
+    "resumen": "Mateo Ocanto cargó 0 para Armua, Gonzalo en Mails Gestionados (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:08:52.741742+00:00"
+  },
+  {
+    "id": 114,
+    "resumen": "Mateo Ocanto cargó 15 para Armua, Gonzalo en Línea 7075 (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:08:56.51084+00:00"
+  },
+  {
+    "id": 115,
+    "resumen": "Mateo Ocanto cargó 14 para Armua, Gonzalo en Línea 7075 (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:08:58.890021+00:00"
+  },
+  {
+    "id": 116,
+    "resumen": "Mateo Ocanto cargó 10 para Muga, Florencia en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:09:08.78743+00:00"
+  },
+  {
+    "id": 117,
+    "resumen": "Mateo Ocanto cargó 18 para Unno, Catalina en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:09:22.097259+00:00"
+  },
+  {
+    "id": 118,
+    "resumen": "Mateo Ocanto cargó 26 para Martinez, Nahuel en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:09:33.367544+00:00"
+  },
+  {
+    "id": 119,
+    "resumen": "Mateo Ocanto cargó 14 para Fernandez, Juan Pablo en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:09:50.581885+00:00"
+  },
+  {
+    "id": 120,
+    "resumen": "Mateo Ocanto cargó 16 para Riquelme, Sebastian en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:10:00.666702+00:00"
+  },
+  {
+    "id": 121,
+    "resumen": "Mateo Ocanto cargó 7 para Mazzolari, Fiorella en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:10:10.130995+00:00"
+  },
+  {
+    "id": 122,
+    "resumen": "Mateo Ocanto cargó 13 para Benitez, Sebastian en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:10:19.535233+00:00"
+  },
+  {
+    "id": 123,
+    "resumen": "Mateo Ocanto cargó 9 para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:10:30.870475+00:00"
+  },
+  {
+    "id": 124,
+    "resumen": "Mateo Ocanto cargó 11 para Pierini, Clementina en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:10:41.552534+00:00"
+  },
+  {
+    "id": 125,
+    "resumen": "Mateo Ocanto cargó 19 para Aguilar, Cecilia en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:10:50.678255+00:00"
+  },
+  {
+    "id": 126,
+    "resumen": "Mateo Ocanto cargó 19 para Sovrano, Gerónimo en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:11:00.63017+00:00"
+  },
+  {
+    "id": 127,
+    "resumen": "Mateo Ocanto cargó 23 para Monzón, Andrea en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:11:15.251241+00:00"
+  },
+  {
+    "id": 128,
+    "resumen": "Mateo Ocanto cargó 18 para Schmidhalter, Karin en Línea 7075 (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:11:28.295651+00:00"
+  },
+  {
+    "id": 129,
+    "resumen": "Mateo Ocanto cargó 0 para Schmidhalter, Karin en Mails Gestionados (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:11:34.903266+00:00"
+  },
+  {
+    "id": 130,
+    "resumen": "Mateo Ocanto cargó 18 para Schmidhalter, Karin en Línea 7075 (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:11:37.813143+00:00"
+  },
+  {
+    "id": 131,
+    "resumen": "Mateo Ocanto cargó 16 para Andreu, Maira en Línea 7075 (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:11:47.437802+00:00"
+  },
+  {
+    "id": 132,
+    "resumen": "Mateo Ocanto cargó 0 para Andreu, Maira en Mails Gestionados (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:11:53.096468+00:00"
+  },
+  {
+    "id": 133,
+    "resumen": "Mateo Ocanto cargó 5 para Andreu, Maira en Línea 7075 (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:11:55.543639+00:00"
+  },
+  {
+    "id": 134,
+    "resumen": "Mateo Ocanto cargó 13 para Ortiz, Andrea en Línea 7075 (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:12:06.114461+00:00"
+  },
+  {
+    "id": 135,
+    "resumen": "Mateo Ocanto cargó 0 para Ortiz, Andrea en Mails Gestionados (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:12:09.787087+00:00"
+  },
+  {
+    "id": 137,
+    "resumen": "Mateo Ocanto cargó 21 para Zini, Ayelen en Mails Gestionados (día 23)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:12:21.617111+00:00"
+  },
+  {
+    "id": 136,
+    "resumen": "Mateo Ocanto cargó 10 para Ortiz, Andrea en Línea 7075 (día 22)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-09-23T22:12:12.039842+00:00"
+  },
+  {
+    "id": 138,
+    "resumen": "Valentina cargó 65 en Ingresos del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:19:15.175027+00:00"
+  },
+  {
+    "id": 139,
+    "resumen": "Valentina cargó 12 en Derivaciones del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:20:10.003605+00:00"
+  },
+  {
+    "id": 140,
+    "resumen": "Valentina cargó 131 en Ingresos del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:20:49.174043+00:00"
+  },
+  {
+    "id": 141,
+    "resumen": "Valentina cargó 49 en Derivaciones del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:22:01.286043+00:00"
+  },
+  {
+    "id": 142,
+    "resumen": "Valentina cargó 50 en Ingresos del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:22:19.421175+00:00"
+  },
+  {
+    "id": 143,
+    "resumen": "Valentina cargó 51 en Ingresos del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:22:35.525828+00:00"
+  },
+  {
+    "id": 144,
+    "resumen": "Valentina cargó 2 en Derivaciones del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:22:38.595445+00:00"
+  },
+  {
+    "id": 145,
+    "resumen": "Valentina cargó 147 en Ingresos del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:23:14.20385+00:00"
+  },
+  {
+    "id": 146,
+    "resumen": "Valentina cargó 18 en Derivaciones del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:23:41.563906+00:00"
+  },
+  {
+    "id": 147,
+    "resumen": "Valentina cargó 87 en Ingresos del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:24:06.163534+00:00"
+  },
+  {
+    "id": 148,
+    "resumen": "Valentina cargó 29 en Ingresos del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T11:26:57.229905+00:00"
+  },
+  {
+    "id": 149,
+    "resumen": "Valentina cargó 52 en Ingresos del día (día 23)",
+    "updated_by": "Valentina",
+    "created_at": "2026-09-24T12:39:01.548709+00:00"
+  }
+]

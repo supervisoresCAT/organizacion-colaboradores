@@ -1,5 +1,12 @@
 [
   {
+    "key": "years",
+    "value": [
+      "2026"
+    ],
+    "updated_at": "2026-09-22T17:12:56.573+00:00"
+  },
+  {
     "key": "roster",
     "value": [
       "Acosta, Maria Sol",
@@ -38,14 +45,15 @@
       "D'andrea, Caterina",
       "Dayer, Federico",
       "Della Bianca, Micaela",
-      "Delvo, Sebastian",
       "Di Napoli, Evelina",
       "Díaz, Rocío",
       "Dusso, Soledad",
       "Elias, Nair",
+      "Eguiazu, Agustina",
       "Faccioli, Sofia",
       "Fazzino, Melisa",
       "Fernandez, Juan Pablo",
+      "Fernandez, Juan P.",
       "Fernandez, Nicolas",
       "Fernandez, Paula",
       "Franco, Sybela Maria",
@@ -108,6 +116,7 @@
       "Ruiz Diaz, Sheila",
       "Sarina, Gaston",
       "Scaringi, Lucas",
+      "Scattolini, Melisa",
       "Schdmit, Flavia",
       "Schiavetti, Alejandro",
       "Schmidhalter, Karin",
@@ -123,24 +132,62 @@
       "Viñas, Julieta Sofia",
       "Wollschlejel, Javier",
       "Ylieff, Gonzalo",
+      "Zappacosta, Antonela",
       "Zeballos, Lorena",
       "Zigarnosky, Andrea",
-      "Zini, Ayelen",
-      "Eguiazu, Agustina",
-      "Fernandez, Juan Pablo (N)",
-      "D'Andrea, Caterine",
-      "Fernandez, Juan P",
-      "Scattolini, Melisa",
-      "Tallfer, Abril",
-      "Zappacosta, Antonela"
+      "Zini, Ayelen"
     ],
-    "updated_at": "2026-09-22T09:58:13.702+00:00"
+    "updated_at": "2026-09-22T17:40:15.938+00:00"
   },
   {
-    "key": "years",
+    "key": "categorias",
     "value": [
-      "2026"
+      {
+        "id": "whatsapp",
+        "icon": "💬",
+        "label": "Atención WhatsApp"
+      },
+      {
+        "id": "nuevos",
+        "icon": "🆕",
+        "label": "Nuevos Planes"
+      },
+      {
+        "id": "keego",
+        "icon": "📦",
+        "label": "Keego Gestionados"
+      },
+      {
+        "id": "redes",
+        "icon": "📱",
+        "label": "Redes Respondidos"
+      },
+      {
+        "id": "carga",
+        "icon": "📝",
+        "label": "Carga de Solicitudes"
+      },
+      {
+        "id": "mails",
+        "icon": "✉️",
+        "label": "Mails Gestionados"
+      },
+      {
+        "id": "apoyo",
+        "icon": "🤝",
+        "label": "Equipo de Apoyo"
+      },
+      {
+        "id": "linea7075",
+        "icon": "☎️",
+        "label": "Línea 7075"
+      },
+      {
+        "id": "brigadas",
+        "icon": "🚑",
+        "label": "Soporte Eventual"
+      }
     ],
-    "updated_at": "2026-09-22T09:58:13.919+00:00"
+    "updated_at": "2026-09-23T15:56:05.248+00:00"
   }
 ]
