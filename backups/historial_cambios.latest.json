@@ -396,6 +396,48 @@
     "created_at": "2026-09-23T22:12:21.617111+00:00"
   },
   {
+    "id": 1300,
+    "resumen": "florencia cargó 64 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:08:11.349785+00:00"
+  },
+  {
+    "id": 1301,
+    "resumen": "florencia cargó 2 en Derivaciones del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:08:23.99963+00:00"
+  },
+  {
+    "id": 1377,
+    "resumen": "florencia cargó 41 en Ingresos del día (día 3)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T15:56:55.815088+00:00"
+  },
+  {
+    "id": 1401,
+    "resumen": "Franco cargó 15 para Gonzalez, Ma. De los Angeles en Equipo de Apoyo (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:39:34.092006+00:00"
+  },
+  {
+    "id": 1420,
+    "resumen": "Franco cargó 17 para Galvez, Maria en Soporte Eventual (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:51:16.223028+00:00"
+  },
+  {
+    "id": 1439,
+    "resumen": "Sin nombre cargó 34 para Schmidhalter, Karin en Atención WhatsApp (día 8)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:27:13.697868+00:00"
+  },
+  {
+    "id": 1441,
+    "resumen": "Sin nombre cargó 0 para Schmidhalter, Karin en Atención WhatsApp (día 8)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:27:24.168135+00:00"
+  },
+  {
     "id": 136,
     "resumen": "Mateo Ocanto cargó 10 para Ortiz, Andrea en Línea 7075 (día 22)",
     "updated_by": "Mateo Ocanto",
@@ -858,6 +900,66 @@
     "created_at": "2026-09-24T22:10:36.697449+00:00"
   },
   {
+    "id": 1302,
+    "resumen": "florencia cargó 55 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:08:55.580431+00:00"
+  },
+  {
+    "id": 1378,
+    "resumen": "florencia cargó 16 en Ingresos del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T15:58:19.535447+00:00"
+  },
+  {
+    "id": 1379,
+    "resumen": "florencia cargó 27 en Ingresos del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T15:58:38.755243+00:00"
+  },
+  {
+    "id": 1402,
+    "resumen": "Franco cargó 13 para Galvez, Maria en Soporte Eventual (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:41:17.625069+00:00"
+  },
+  {
+    "id": 1421,
+    "resumen": "Franco cargó 58 para Laperchia, Solana en Soporte Eventual (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:52:58.304134+00:00"
+  },
+  {
+    "id": 1422,
+    "resumen": "Franco cargó 39 para Fazzino, Melisa en Soporte Eventual (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:53:11.899412+00:00"
+  },
+  {
+    "id": 1424,
+    "resumen": "Franco cargó 19 para Monzón, Andrea en Línea 7075 (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:53:37.891407+00:00"
+  },
+  {
+    "id": 1425,
+    "resumen": "Franco cargó 49 para Schneider, Astrid en Carga de Solicitudes (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:54:00.390927+00:00"
+  },
+  {
+    "id": 1440,
+    "resumen": "Sin nombre cargó 34 para Schmidhalter, Karin en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:27:17.482949+00:00"
+  },
+  {
+    "id": 1442,
+    "resumen": "Sin nombre cargó 39 para Regazzoni, Bruno en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:27:35.948334+00:00"
+  },
+  {
     "id": 209,
     "resumen": "Mateo Ocanto cargó 10 para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 24)",
     "updated_by": "Mateo Ocanto",
@@ -1288,6 +1390,42 @@
     "resumen": "Mateo Ocanto cargó 23 para Perez, Melina en Carga de Solicitudes (día 25)",
     "updated_by": "Mateo Ocanto",
     "created_at": "2026-09-25T22:14:08.381445+00:00"
+  },
+  {
+    "id": 1303,
+    "resumen": "florencia cargó 6 en Derivaciones del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:09:43.260366+00:00"
+  },
+  {
+    "id": 1380,
+    "resumen": "Franco cargó 44 para Laperchia, Solana en Soporte Eventual (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T16:57:51.066932+00:00"
+  },
+  {
+    "id": 1403,
+    "resumen": "Franco cargó 309 en Ingresos del día (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:54:39.265913+00:00"
+  },
+  {
+    "id": 1423,
+    "resumen": "Franco cargó 36 para Menotti, Aranda Giuliana en Línea 7075 (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:53:32.252402+00:00"
+  },
+  {
+    "id": 1443,
+    "resumen": "Sin nombre cargó 0 para Regazzoni, Bruno en Atención WhatsApp (día 8)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:27:40.918457+00:00"
+  },
+  {
+    "id": 1448,
+    "resumen": "Sin nombre cargó 3 para Scattolini, Melisa en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:28:51.421582+00:00"
   },
   {
     "id": 281,
@@ -1732,6 +1870,48 @@
     "resumen": "David L cargó 18 para Barroso, Valeria en Atención WhatsApp (día 17)",
     "updated_by": "David L",
     "created_at": "2026-09-28T12:44:36.581142+00:00"
+  },
+  {
+    "id": 1304,
+    "resumen": "florencia cargó 996 en Derivaciones del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:11:01.494649+00:00"
+  },
+  {
+    "id": 1381,
+    "resumen": "Mateo Ocanto cargó 26 en Ingresos del día (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:53:12.477119+00:00"
+  },
+  {
+    "id": 1404,
+    "resumen": "Franco cargó 18 en Ingresos del día (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:55:27.539138+00:00"
+  },
+  {
+    "id": 1405,
+    "resumen": "Franco cargó 41 en Ingresos del día (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:55:40.138099+00:00"
+  },
+  {
+    "id": 1426,
+    "resumen": "florencia cargó 1 para Lanteri, Santiago en Atención WhatsApp (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T10:43:45.356523+00:00"
+  },
+  {
+    "id": 1444,
+    "resumen": "Sin nombre cargó 37 para Khoury, Maximiliano en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:28:08.373264+00:00"
+  },
+  {
+    "id": 1446,
+    "resumen": "Sin nombre cargó 1 para Fazzino, Melisa en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:28:29.09543+00:00"
   },
   {
     "id": 356,
@@ -2190,6 +2370,48 @@
     "created_at": "2026-09-28T14:36:12.186601+00:00"
   },
   {
+    "id": 1305,
+    "resumen": "ximena cargó 53 para Almiron, Agostina en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:11:44.915313+00:00"
+  },
+  {
+    "id": 1309,
+    "resumen": "ximena cargó 59 para Romagnoli, Brisa en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:12:38.479006+00:00"
+  },
+  {
+    "id": 1382,
+    "resumen": "Mateo Ocanto cargó 214 en Ingresos del día (día 5)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:53:59.452197+00:00"
+  },
+  {
+    "id": 1406,
+    "resumen": "Franco cargó 62 en Ingresos del día (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:56:10.901505+00:00"
+  },
+  {
+    "id": 1427,
+    "resumen": "Sin nombre cargó 223 en Autorizaciones (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:17:57.358361+00:00"
+  },
+  {
+    "id": 1445,
+    "resumen": "Sin nombre cargó 19 para Muga, Florencia en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:28:19.987122+00:00"
+  },
+  {
+    "id": 1447,
+    "resumen": "Sin nombre cargó 1 para Scattolini, Melisa en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:28:44.414161+00:00"
+  },
+  {
     "id": 425,
     "resumen": "Martin cargó 0 para Antonini, Tatiana en Atención WhatsApp (día 28)",
     "updated_by": "Martin",
@@ -2248,6 +2470,84 @@
     "resumen": "Martin cargó 488 en General (día 24)",
     "updated_by": "Martin",
     "created_at": "2026-09-28T14:36:11.185635+00:00"
+  },
+  {
+    "id": 1306,
+    "resumen": "ximena cargó 42 para Zini, Ayelen en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:12:03.79652+00:00"
+  },
+  {
+    "id": 1307,
+    "resumen": "florencia cargó 37 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:12:07.776862+00:00"
+  },
+  {
+    "id": 1308,
+    "resumen": "ximena cargó 43 para Regazzoni, Bruno en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:12:15.657523+00:00"
+  },
+  {
+    "id": 1310,
+    "resumen": "ximena cargó 41 para Ayala, Carolina en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:12:48.111445+00:00"
+  },
+  {
+    "id": 1383,
+    "resumen": "Mateo Ocanto cargó 11 en Ingresos del día (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:54:15.048737+00:00"
+  },
+  {
+    "id": 1407,
+    "resumen": "Franco cargó 53 en Ingresos del día (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:00:57.832903+00:00"
+  },
+  {
+    "id": 1408,
+    "resumen": "Franco cargó 99 en Ingresos del día (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:01:25.488017+00:00"
+  },
+  {
+    "id": 1428,
+    "resumen": "Sin nombre cargó 461 en General (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:18:44.161762+00:00"
+  },
+  {
+    "id": 1449,
+    "resumen": "Sin nombre cargó 2 para Galvez, Maria en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:29:28.938556+00:00"
+  },
+  {
+    "id": 1450,
+    "resumen": "Sin nombre cargó 41 para Elias, Nair en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:29:42.508765+00:00"
+  },
+  {
+    "id": 1451,
+    "resumen": "Sin nombre cargó 45 para Martinez, Nahuel en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:29:54.492559+00:00"
+  },
+  {
+    "id": 1453,
+    "resumen": "Sin nombre cargó 5 para Díaz, Rocío en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:30:19.670851+00:00"
+  },
+  {
+    "id": 1456,
+    "resumen": "Sin nombre cargó 30 para Faccioli, Sofia en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:30:58.247802+00:00"
   },
   {
     "id": 426,
@@ -2692,6 +2992,174 @@
     "resumen": "Mateo Ocanto cargó 1 para Zini, Ayelen en Redes Respondidos (día 28)",
     "updated_by": "Mateo Ocanto",
     "created_at": "2026-09-28T22:15:55.708951+00:00"
+  },
+  {
+    "id": 1311,
+    "resumen": "florencia cargó 114 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:13:34.938812+00:00"
+  },
+  {
+    "id": 1312,
+    "resumen": "ximena cargó 50 para Dayer, Federico en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:13:35.96094+00:00"
+  },
+  {
+    "id": 1314,
+    "resumen": "ximena cargó 5 para Barduca, Flavia en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:13:58.115449+00:00"
+  },
+  {
+    "id": 1315,
+    "resumen": "ximena cargó 17 para Mazzolari, Fiorella en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:14:09.890786+00:00"
+  },
+  {
+    "id": 1316,
+    "resumen": "ximena cargó 44 para Schmidt, Flavia en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:14:28.242038+00:00"
+  },
+  {
+    "id": 1318,
+    "resumen": "ximena cargó 1 para Menotti, Aranda Giuliana en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:15:00.076498+00:00"
+  },
+  {
+    "id": 1319,
+    "resumen": "ximena cargó 1 para Gallini, Gianfranco en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:15:07.507708+00:00"
+  },
+  {
+    "id": 1323,
+    "resumen": "ximena cargó 7 para Viñas, Julieta Sofia en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:16:06.637937+00:00"
+  },
+  {
+    "id": 1324,
+    "resumen": "ximena cargó 17 para Zeballos, Lorena en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:16:24.410034+00:00"
+  },
+  {
+    "id": 1325,
+    "resumen": "ximena cargó 37 para Khoury, Maximiliano en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:16:41.219483+00:00"
+  },
+  {
+    "id": 1326,
+    "resumen": "ximena cargó 26 para Muga, Florencia en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:16:50.126635+00:00"
+  },
+  {
+    "id": 1329,
+    "resumen": "ximena cargó 17 para Acosta, Maria Sol en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:17:51.192067+00:00"
+  },
+  {
+    "id": 1330,
+    "resumen": "ximena cargó 57 para Elias, Nair en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:18:03.184169+00:00"
+  },
+  {
+    "id": 1331,
+    "resumen": "ximena cargó 4 para Galvez, Maria en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:18:12.548379+00:00"
+  },
+  {
+    "id": 1332,
+    "resumen": "ximena cargó 48 para Carpensano, Paula en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:18:40.864041+00:00"
+  },
+  {
+    "id": 1333,
+    "resumen": "ximena cargó 51 para Martinez, Nahuel en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:18:53.020706+00:00"
+  },
+  {
+    "id": 1334,
+    "resumen": "ximena cargó 4 para Díaz, Rocío en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:19:06.830103+00:00"
+  },
+  {
+    "id": 1336,
+    "resumen": "ximena cargó 59 para Riquelme, Sebastian en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:19:36.234447+00:00"
+  },
+  {
+    "id": 1338,
+    "resumen": "ximena cargó 36 para Rodriguez, Valentina en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:20:18.371467+00:00"
+  },
+  {
+    "id": 1339,
+    "resumen": "ximena cargó 1 para Barroso, Valeria en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:20:30.025302+00:00"
+  },
+  {
+    "id": 1341,
+    "resumen": "ximena cargó 32 para Culcuy, Yenit en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:21:01.545628+00:00"
+  },
+  {
+    "id": 1384,
+    "resumen": "Mateo Ocanto cargó 42 en Ingresos del día (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:54:36.631572+00:00"
+  },
+  {
+    "id": 1409,
+    "resumen": "Franco cargó 29 para Barroso, Valeria en Carga de Solicitudes (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:07:47.192759+00:00"
+  },
+  {
+    "id": 1429,
+    "resumen": "Sin nombre cargó 24 para Almiron, Agostina en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:20:43.444548+00:00"
+  },
+  {
+    "id": 1452,
+    "resumen": "Sin nombre cargó 43 para Carpensano, Paula en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:30:08.973959+00:00"
+  },
+  {
+    "id": 1457,
+    "resumen": "Sin nombre cargó 28 para Antonini, Tatiana en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:31:11.390798+00:00"
+  },
+  {
+    "id": 1458,
+    "resumen": "Sin nombre cargó 57 para Rodriguez, Valentina en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:31:33.028054+00:00"
+  },
+  {
+    "id": 1459,
+    "resumen": "Sin nombre cargó 44 para Clausen, Valeria en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:31:54.69853+00:00"
   },
   {
     "id": 513,
@@ -3540,6 +4008,114 @@
     "created_at": "2026-09-30T12:46:57.198738+00:00"
   },
   {
+    "id": 1313,
+    "resumen": "florencia cargó 4 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:13:51.21541+00:00"
+  },
+  {
+    "id": 1317,
+    "resumen": "ximena cargó 42 para Sarina, Gaston en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:14:50.78467+00:00"
+  },
+  {
+    "id": 1320,
+    "resumen": "ximena cargó 15 para Castillo, Ignacio en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:15:31.109297+00:00"
+  },
+  {
+    "id": 1321,
+    "resumen": "ximena cargó 30 para Beltramo, Giuliana en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:15:38.814469+00:00"
+  },
+  {
+    "id": 1322,
+    "resumen": "ximena cargó 43 para Schmidhalter, Karin en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:16:00.405024+00:00"
+  },
+  {
+    "id": 1327,
+    "resumen": "ximena cargó 46 para Fazzino, Melisa en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:17:13.684596+00:00"
+  },
+  {
+    "id": 1328,
+    "resumen": "ximena cargó 19 para Maciel, Maykon en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:17:31.501775+00:00"
+  },
+  {
+    "id": 1335,
+    "resumen": "ximena cargó 6 para Macaudiere, Rocio en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:19:23.652941+00:00"
+  },
+  {
+    "id": 1337,
+    "resumen": "ximena cargó 47 para Faccioli, Sofia en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:19:53.442768+00:00"
+  },
+  {
+    "id": 1340,
+    "resumen": "ximena cargó 21 para Clausen, Valeria en Atención WhatsApp (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:20:53.260547+00:00"
+  },
+  {
+    "id": 1385,
+    "resumen": "Mateo Ocanto cargó 3 para Ortiz, Andrea en Línea 7075 (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:54:51.038092+00:00"
+  },
+  {
+    "id": 1388,
+    "resumen": "Mateo Ocanto cargó 1 para Armua, Gonzalo en Línea 7075 (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:55:33.923269+00:00"
+  },
+  {
+    "id": 1391,
+    "resumen": "Mateo Ocanto cargó 9 para Pierini, Clementina en Soporte Eventual (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:56:15.42261+00:00"
+  },
+  {
+    "id": 1410,
+    "resumen": "Franco cargó 24 para Tallafer, Abril en Equipo de Apoyo (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:23:19.098333+00:00"
+  },
+  {
+    "id": 1411,
+    "resumen": "Franco cargó 2 para Capaldi, Camila en Redes Respondidos (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:23:34.014357+00:00"
+  },
+  {
+    "id": 1430,
+    "resumen": "Sin nombre cargó 23 para Zini, Ayelen en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:21:10.46314+00:00"
+  },
+  {
+    "id": 1454,
+    "resumen": "Sin nombre cargó 3 para Macaudiere, Rocio en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:30:35.923121+00:00"
+  },
+  {
+    "id": 1455,
+    "resumen": "Sin nombre cargó 54 para Riquelme, Sebastian en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:30:49.398662+00:00"
+  },
+  {
     "id": 652,
     "resumen": "xepelbaum cargó 0 para Fazzino, Melisa en Atención WhatsApp (día 29)",
     "updated_by": "xepelbaum",
@@ -3586,6 +4162,54 @@
     "resumen": "xepelbaum cargó 0 para Sarina, Gaston en Atención WhatsApp (día 29)",
     "updated_by": "xepelbaum",
     "created_at": "2026-09-30T12:47:05.264928+00:00"
+  },
+  {
+    "id": 1342,
+    "resumen": "ximena cargó 276 en Autorizaciones (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:28:39.915308+00:00"
+  },
+  {
+    "id": 1343,
+    "resumen": "ximena cargó 587 en General (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:29:03.790078+00:00"
+  },
+  {
+    "id": 1386,
+    "resumen": "Mateo Ocanto cargó 17 para Perez, Melina en Mails Gestionados (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:55:05.559878+00:00"
+  },
+  {
+    "id": 1412,
+    "resumen": "Franco cargó 18 para Perez, Melina en Mails Gestionados (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:24:17.614772+00:00"
+  },
+  {
+    "id": 1431,
+    "resumen": "Sin nombre cargó 39 para Regazzoni, Bruno en Atención WhatsApp (día 8)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:23:08.8453+00:00"
+  },
+  {
+    "id": 1460,
+    "resumen": "florencia cargó 146 en Ingresos del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T13:07:41.684329+00:00"
+  },
+  {
+    "id": 1462,
+    "resumen": "florencia cargó 55 en Ingresos del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T13:08:05.056289+00:00"
+  },
+  {
+    "id": 1466,
+    "resumen": "florencia cargó 5 en Derivaciones del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T13:08:45.673351+00:00"
   },
   {
     "id": 654,
@@ -4018,6 +4642,108 @@
     "resumen": "Marcos cargó 51 para Romero, Ximena en Atención WhatsApp (día 22)",
     "updated_by": "Marcos",
     "created_at": "2026-09-30T14:11:30.366235+00:00"
+  },
+  {
+    "id": 1344,
+    "resumen": "ximena cargó 1 para Almiron, Agostina en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:29:43.722371+00:00"
+  },
+  {
+    "id": 1348,
+    "resumen": "ximena cargó 14 para Prieto, Bruno Rene en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:30:41.363508+00:00"
+  },
+  {
+    "id": 1354,
+    "resumen": "ximena cargó 39 para Beltramo, Giuliana en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:32:13.927497+00:00"
+  },
+  {
+    "id": 1355,
+    "resumen": "ximena cargó 24 para Sovrano, Gerónimo en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:32:25.393612+00:00"
+  },
+  {
+    "id": 1356,
+    "resumen": "ximena cargó 43 para Schmidhalter, Karin en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:32:41.295518+00:00"
+  },
+  {
+    "id": 1358,
+    "resumen": "ximena cargó 26 para Zeballos, Lorena en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:33:19.368392+00:00"
+  },
+  {
+    "id": 1387,
+    "resumen": "Mateo Ocanto cargó 20 para Unno, Catalina en Soporte Eventual (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:55:25.298408+00:00"
+  },
+  {
+    "id": 1389,
+    "resumen": "Mateo Ocanto cargó 43 para Capaldi, Camila en Mails Gestionados (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:55:53.315155+00:00"
+  },
+  {
+    "id": 1390,
+    "resumen": "Mateo Ocanto cargó 17 para Eguiazu, Agustina en Equipo de Apoyo (día 7)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-07T17:56:03.392948+00:00"
+  },
+  {
+    "id": 1413,
+    "resumen": "Franco cargó 22 para Alvado, Gisela en Línea 7075 (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:31:15.168176+00:00"
+  },
+  {
+    "id": 1432,
+    "resumen": "Sin nombre cargó 42 para Romagnoli, Brisa en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:23:23.770725+00:00"
+  },
+  {
+    "id": 1461,
+    "resumen": "florencia cargó 25 en Derivaciones del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T13:07:54.817448+00:00"
+  },
+  {
+    "id": 1463,
+    "resumen": "florencia cargó 1 en Derivaciones del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T13:08:13.048192+00:00"
+  },
+  {
+    "id": 1464,
+    "resumen": "florencia cargó 932 en Derivaciones del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T13:08:26.139423+00:00"
+  },
+  {
+    "id": 1465,
+    "resumen": "florencia cargó 79 en Ingresos del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T13:08:35.323359+00:00"
+  },
+  {
+    "id": 1467,
+    "resumen": "florencia cargó 55 en Ingresos del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T13:09:05.347068+00:00"
+  },
+  {
+    "id": 1468,
+    "resumen": "florencia cargó 107 en Ingresos del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-08T13:09:19.486557+00:00"
   },
   {
     "id": 737,
@@ -4752,10 +5478,196 @@
     "created_at": "2026-09-30T15:26:52.821052+00:00"
   },
   {
+    "id": 1345,
+    "resumen": "ximena cargó 34 para Zini, Ayelen en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:29:49.765369+00:00"
+  },
+  {
+    "id": 1346,
+    "resumen": "ximena cargó 59 para Romagnoli, Brisa en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:30:08.334649+00:00"
+  },
+  {
+    "id": 1347,
+    "resumen": "ximena cargó 46 para Regazzoni, Bruno en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:30:19.52175+00:00"
+  },
+  {
+    "id": 1349,
+    "resumen": "ximena cargó 40 para Ayala, Carolina en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:30:51.842143+00:00"
+  },
+  {
+    "id": 1350,
+    "resumen": "ximena cargó 50 para Dayer, Federico en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:31:14.554225+00:00"
+  },
+  {
+    "id": 1351,
+    "resumen": "ximena cargó 10 para Mazzolari, Fiorella en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:31:29.221415+00:00"
+  },
+  {
+    "id": 1352,
+    "resumen": "ximena cargó 37 para Schmidt, Flavia en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:31:49.871095+00:00"
+  },
+  {
+    "id": 1353,
+    "resumen": "ximena cargó 44 para Sarina, Gaston en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:31:54.905943+00:00"
+  },
+  {
+    "id": 1357,
+    "resumen": "ximena cargó 25 para Castillo, Ignacio en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:33:01.796995+00:00"
+  },
+  {
+    "id": 1359,
+    "resumen": "ximena cargó 24 para Khoury, Maximiliano en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:33:29.878048+00:00"
+  },
+  {
+    "id": 1392,
+    "resumen": "Franco cargó 8 para Aguilar, Cecilia en Carga de Solicitudes (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:30:22.705092+00:00"
+  },
+  {
+    "id": 1393,
+    "resumen": "Franco cargó 50 para Redigonda, Macarena en Carga de Solicitudes (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:30:36.780222+00:00"
+  },
+  {
+    "id": 1394,
+    "resumen": "Franco cargó 29 para Ayala, Carolina en Equipo de Apoyo (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:30:59.276638+00:00"
+  },
+  {
+    "id": 1395,
+    "resumen": "Franco cargó 10 para Pierini, Clementina en Soporte Eventual (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:31:15.917108+00:00"
+  },
+  {
+    "id": 1414,
+    "resumen": "Franco cargó 24 para Viñas, Julieta Sofia en Línea 7075 (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:33:57.541995+00:00"
+  },
+  {
+    "id": 1433,
+    "resumen": "Sin nombre cargó 40 para Dayer, Federico en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:24:14.506682+00:00"
+  },
+  {
     "id": 859,
     "resumen": "Mateo Ocanto cargó 0 para Mendoza, Victoria en Mails Gestionados (día 22)",
     "updated_by": "Mateo Ocanto",
     "created_at": "2026-09-30T15:26:18.541784+00:00"
+  },
+  {
+    "id": 1360,
+    "resumen": "ximena cargó 53 para Muga, Florencia en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:34:05.420579+00:00"
+  },
+  {
+    "id": 1361,
+    "resumen": "ximena cargó 10 para Gonzalez, Ma. De los Angeles en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:34:20.421415+00:00"
+  },
+  {
+    "id": 1363,
+    "resumen": "ximena cargó 22 para Maciel, Maykon en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:34:44.407851+00:00"
+  },
+  {
+    "id": 1367,
+    "resumen": "ximena cargó 51 para Martinez, Nahuel en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:35:42.065408+00:00"
+  },
+  {
+    "id": 1368,
+    "resumen": "ximena cargó 3 para Macaudiere, Rocio en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:36:04.010258+00:00"
+  },
+  {
+    "id": 1369,
+    "resumen": "ximena cargó 9 para Díaz, Rocío en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:36:15.538336+00:00"
+  },
+  {
+    "id": 1370,
+    "resumen": "ximena cargó 41 para Riquelme, Sebastian en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:36:37.240103+00:00"
+  },
+  {
+    "id": 1371,
+    "resumen": "ximena cargó 31 para Faccioli, Sofia en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:36:49.343113+00:00"
+  },
+  {
+    "id": 1372,
+    "resumen": "ximena cargó 1 para Barroso, Valeria en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:37:04.368384+00:00"
+  },
+  {
+    "id": 1373,
+    "resumen": "ximena cargó 16 para Benitez, Sebastian en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:37:12.264406+00:00"
+  },
+  {
+    "id": 1374,
+    "resumen": "ximena cargó 18 para Culcuy, Yenit en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:37:35.014563+00:00"
+  },
+  {
+    "id": 1396,
+    "resumen": "Franco cargó 18 para Fernandez, Juan Pablo en Soporte Eventual (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:31:49.022441+00:00"
+  },
+  {
+    "id": 1415,
+    "resumen": "Franco cargó 2 para Pascuale, Paula en Redes Respondidos (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:37:17.431229+00:00"
+  },
+  {
+    "id": 1434,
+    "resumen": "Sin nombre cargó 1 para Barduca, Flavia en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:24:29.987944+00:00"
+  },
+  {
+    "id": 1435,
+    "resumen": "Sin nombre cargó 20 para Mazzolari, Fiorella en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:24:44.114296+00:00"
   },
   {
     "id": 862,
@@ -5320,5 +6232,2159 @@
     "resumen": "Valentina cargó 20 en Ingresos del día (día 1)",
     "updated_by": "Valentina",
     "created_at": "2026-10-01T14:42:56.594267+00:00"
+  },
+  {
+    "id": 958,
+    "resumen": "German cargó 12 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T15:36:49.574158+00:00"
+  },
+  {
+    "id": 959,
+    "resumen": "German cargó 0 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T15:37:05.626435+00:00"
+  },
+  {
+    "id": 960,
+    "resumen": "German cargó 1 para Perri, German en Carga de Solicitudes (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T15:38:01.6106+00:00"
+  },
+  {
+    "id": 961,
+    "resumen": "German cargó 1 para Perri, German en Mails Gestionados (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T15:38:06.402929+00:00"
+  },
+  {
+    "id": 962,
+    "resumen": "German cargó 0 para Perri, German en Carga de Solicitudes (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T15:38:27.58227+00:00"
+  },
+  {
+    "id": 963,
+    "resumen": "German cargó 0 para Perri, German en Mails Gestionados (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T15:38:43.961201+00:00"
+  },
+  {
+    "id": 964,
+    "resumen": "Valentina cargó 12 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-01T16:47:45.729642+00:00"
+  },
+  {
+    "id": 965,
+    "resumen": "Valentina cargó 16 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-01T16:47:56.57801+00:00"
+  },
+  {
+    "id": 966,
+    "resumen": "Valentina cargó 13 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-01T16:48:08.788283+00:00"
+  },
+  {
+    "id": 967,
+    "resumen": "Valentina cargó 9 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-01T16:48:24.44807+00:00"
+  },
+  {
+    "id": 968,
+    "resumen": "Valentina cargó 73 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-01T16:48:52.713569+00:00"
+  },
+  {
+    "id": 969,
+    "resumen": "Valentina cargó 1 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-01T16:49:00.68557+00:00"
+  },
+  {
+    "id": 970,
+    "resumen": "Valentina cargó 2 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-01T16:49:08.441547+00:00"
+  },
+  {
+    "id": 971,
+    "resumen": "David cargó 1 para Zini, Ayelen en Redes Respondidos (día 1)",
+    "updated_by": "David",
+    "created_at": "2026-10-01T17:04:35.778464+00:00"
+  },
+  {
+    "id": 972,
+    "resumen": "David cargó 0 para Zini, Ayelen en Redes Respondidos (día 1)",
+    "updated_by": "David",
+    "created_at": "2026-10-01T17:05:19.437858+00:00"
+  },
+  {
+    "id": 973,
+    "resumen": "German cargó 9 para Mendoza, Victoria en Soporte Eventual (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:39:47.255756+00:00"
+  },
+  {
+    "id": 974,
+    "resumen": "German cargó 19 para Monzón, Andrea en Línea 7075 (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:39:59.803651+00:00"
+  },
+  {
+    "id": 975,
+    "resumen": "German cargó 7 para Romero, Ximena en Mails Gestionados (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:40:10.596732+00:00"
+  },
+  {
+    "id": 976,
+    "resumen": "German cargó 48 para Alvado, Gisela en Carga de Solicitudes (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:40:18.774128+00:00"
+  },
+  {
+    "id": 977,
+    "resumen": "German cargó 41 para Laperchia, Solana en Soporte Eventual (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:40:25.924432+00:00"
+  },
+  {
+    "id": 978,
+    "resumen": "German cargó 16 para Martinez, Nahuel en Soporte Eventual (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:40:31.815082+00:00"
+  },
+  {
+    "id": 979,
+    "resumen": "German cargó 16 para Benitez, Sebastian en Mails Gestionados (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:40:40.225995+00:00"
+  },
+  {
+    "id": 980,
+    "resumen": "German cargó 27 para Alberti, Estefania en Línea 7075 (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:40:46.752045+00:00"
+  },
+  {
+    "id": 981,
+    "resumen": "German cargó 44 para Viñas, Julieta Sofia en Línea 7075 (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:40:51.62592+00:00"
+  },
+  {
+    "id": 982,
+    "resumen": "German cargó 42 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:41:04.104589+00:00"
+  },
+  {
+    "id": 983,
+    "resumen": "German cargó 21 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:41:09.340022+00:00"
+  },
+  {
+    "id": 984,
+    "resumen": "German cargó 60 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:41:15.179799+00:00"
+  },
+  {
+    "id": 985,
+    "resumen": "German cargó 8 para Benitez, Sebastian en Redes Respondidos (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:41:26.846454+00:00"
+  },
+  {
+    "id": 986,
+    "resumen": "German cargó 10 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:41:52.385647+00:00"
+  },
+  {
+    "id": 987,
+    "resumen": "German cargó 88 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-01T18:42:09.861186+00:00"
+  },
+  {
+    "id": 988,
+    "resumen": "Mateo Ocanto cargó 69 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:16:06.610899+00:00"
+  },
+  {
+    "id": 989,
+    "resumen": "Mateo Ocanto cargó 42 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:16:18.850014+00:00"
+  },
+  {
+    "id": 990,
+    "resumen": "Mateo Ocanto cargó 103 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:16:27.03771+00:00"
+  },
+  {
+    "id": 991,
+    "resumen": "Mateo Ocanto cargó 15 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:16:39.146541+00:00"
+  },
+  {
+    "id": 992,
+    "resumen": "Mateo Ocanto cargó 3 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:16:48.352659+00:00"
+  },
+  {
+    "id": 993,
+    "resumen": "Mateo Ocanto cargó 109 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:16:58.388781+00:00"
+  },
+  {
+    "id": 994,
+    "resumen": "Mateo Ocanto cargó 1 para Zini, Ayelen en Redes Respondidos (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:17:48.639467+00:00"
+  },
+  {
+    "id": 995,
+    "resumen": "Mateo Ocanto cargó 20 para Zini, Ayelen en Mails Gestionados (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:17:53.149441+00:00"
+  },
+  {
+    "id": 996,
+    "resumen": "Mateo Ocanto cargó 14 para Perez, Melina en Mails Gestionados (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:18:03.370754+00:00"
+  },
+  {
+    "id": 997,
+    "resumen": "Mateo Ocanto cargó 9 para Perez, Melina en Carga de Solicitudes (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:18:07.341161+00:00"
+  },
+  {
+    "id": 998,
+    "resumen": "Mateo Ocanto cargó 50 para Venturino, Milagros en Carga de Solicitudes (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:18:16.357194+00:00"
+  },
+  {
+    "id": 999,
+    "resumen": "Mateo Ocanto cargó 14 para Aguilar, Cecilia en Soporte Eventual (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:18:23.532017+00:00"
+  },
+  {
+    "id": 1004,
+    "resumen": "Mateo Ocanto cargó 12 para Sovrano, Gerónimo en Soporte Eventual (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:19:45.097822+00:00"
+  },
+  {
+    "id": 1006,
+    "resumen": "Mateo Ocanto cargó 27 para Schmidhalter, Karin en Línea 7075 (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:20:02.617057+00:00"
+  },
+  {
+    "id": 1007,
+    "resumen": "Mateo Ocanto cargó 18 para Armua, Gonzalo en Línea 7075 (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:20:08.521891+00:00"
+  },
+  {
+    "id": 1008,
+    "resumen": "Mateo Ocanto cargó 16 para Ludueña, Rocio del Valle en Mails Gestionados (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:20:15.181011+00:00"
+  },
+  {
+    "id": 1362,
+    "resumen": "ximena cargó 20 para Fazzino, Melisa en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:34:37.497244+00:00"
+  },
+  {
+    "id": 1364,
+    "resumen": "ximena cargó 2 para Scattolini, Melisa en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:35:06.482899+00:00"
+  },
+  {
+    "id": 1365,
+    "resumen": "ximena cargó 3 para Galvez, Maria en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:35:13.906271+00:00"
+  },
+  {
+    "id": 1366,
+    "resumen": "ximena cargó 48 para Elias, Nair en Atención WhatsApp (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T12:35:23.847474+00:00"
+  },
+  {
+    "id": 1397,
+    "resumen": "Franco cargó 26 para Culcuy, Yenit en Soporte Eventual (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:32:39.486713+00:00"
+  },
+  {
+    "id": 1399,
+    "resumen": "Franco cargó 10 para Sovrano, Gerónimo en Soporte Eventual (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:33:04.508194+00:00"
+  },
+  {
+    "id": 1416,
+    "resumen": "Franco cargó 29 para Pascuale, Paula en Mails Gestionados (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:38:34.038031+00:00"
+  },
+  {
+    "id": 1436,
+    "resumen": "Sin nombre cargó 39 para Schdmit, Flavia en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:24:58.358604+00:00"
+  },
+  {
+    "id": 1000,
+    "resumen": "Mateo Ocanto cargó 29 para Capaldi, Camila en Equipo de Apoyo (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:18:35.822031+00:00"
+  },
+  {
+    "id": 1001,
+    "resumen": "Mateo Ocanto cargó 7 para Fernandez, Juan Pablo en Soporte Eventual (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:18:58.340955+00:00"
+  },
+  {
+    "id": 1002,
+    "resumen": "Mateo Ocanto cargó 30 para Unno, Catalina en Soporte Eventual (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:19:18.514096+00:00"
+  },
+  {
+    "id": 1003,
+    "resumen": "Mateo Ocanto cargó 9 para Eguiazu, Agustina en Soporte Eventual (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:19:24.851607+00:00"
+  },
+  {
+    "id": 1005,
+    "resumen": "Mateo Ocanto cargó 23 para Muga, Florencia en Equipo de Apoyo (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-01T22:19:56.732096+00:00"
+  },
+  {
+    "id": 1009,
+    "resumen": "Valentina cargó 9 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:15:29.344132+00:00"
+  },
+  {
+    "id": 1010,
+    "resumen": "Valentina cargó 1 para Rivolta, Tatiana en Atención WhatsApp (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:22:07.879288+00:00"
+  },
+  {
+    "id": 1011,
+    "resumen": "Valentina cargó 19 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:31:56.465996+00:00"
+  },
+  {
+    "id": 1012,
+    "resumen": "Valentina cargó 10 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:32:00.727663+00:00"
+  },
+  {
+    "id": 1013,
+    "resumen": "Valentina cargó 112 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:42:42.707469+00:00"
+  },
+  {
+    "id": 1014,
+    "resumen": "Valentina cargó 19 en Derivaciones del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:42:58.564298+00:00"
+  },
+  {
+    "id": 1015,
+    "resumen": "Valentina cargó 50 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:43:13.900419+00:00"
+  },
+  {
+    "id": 1016,
+    "resumen": "Valentina cargó 54 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:43:40.371246+00:00"
+  },
+  {
+    "id": 1017,
+    "resumen": "Valentina cargó 1 en Derivaciones del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:43:43.068478+00:00"
+  },
+  {
+    "id": 1018,
+    "resumen": "Valentina cargó 56 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:44:05.478361+00:00"
+  },
+  {
+    "id": 1019,
+    "resumen": "Valentina cargó 10 en Derivaciones del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T10:44:25.187887+00:00"
+  },
+  {
+    "id": 1020,
+    "resumen": "Valentina cargó 126 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T11:05:28.732262+00:00"
+  },
+  {
+    "id": 1021,
+    "resumen": "Valentina cargó 178 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T11:34:46.642083+00:00"
+  },
+  {
+    "id": 1022,
+    "resumen": "Valentina cargó 18 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T11:40:24.261475+00:00"
+  },
+  {
+    "id": 1023,
+    "resumen": "German cargó 193 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T12:18:01.112664+00:00"
+  },
+  {
+    "id": 1024,
+    "resumen": "German cargó 7 para Benitez, Sebastian en Mails Gestionados (día 2)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T14:33:16.93829+00:00"
+  },
+  {
+    "id": 1025,
+    "resumen": "German cargó 5 para Benitez, Sebastian en Redes Respondidos (día 2)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T14:33:59.690853+00:00"
+  },
+  {
+    "id": 1026,
+    "resumen": "German cargó 12 en Ingresos del día (día 2)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T14:36:37.779089+00:00"
+  },
+  {
+    "id": 1027,
+    "resumen": "German cargó 0 en Ingresos del día (día 2)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T14:36:55.230391+00:00"
+  },
+  {
+    "id": 1028,
+    "resumen": "German cargó 121 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T14:36:58.472638+00:00"
+  },
+  {
+    "id": 1029,
+    "resumen": "German cargó 109 en Ingresos del día (día 1)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T14:37:08.009245+00:00"
+  },
+  {
+    "id": 1030,
+    "resumen": "German cargó 12 en Ingresos del día (día 2)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T14:37:13.756264+00:00"
+  },
+  {
+    "id": 1031,
+    "resumen": "German cargó 12 en Ingresos del día (día 2)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T15:02:53.299843+00:00"
+  },
+  {
+    "id": 1032,
+    "resumen": "German cargó 22 en Ingresos del día (día 2)",
+    "updated_by": "German",
+    "created_at": "2026-10-02T15:06:52.132035+00:00"
+  },
+  {
+    "id": 1033,
+    "resumen": "Mateo Ocanto cargó 575 en Derivaciones del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T15:30:02.441383+00:00"
+  },
+  {
+    "id": 1034,
+    "resumen": "Valentina cargó 210 en Ingresos del día (día 1)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T16:35:20.773124+00:00"
+  },
+  {
+    "id": 1035,
+    "resumen": "Valentina cargó 1 en Ingresos del día (día 2)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T16:36:15.811435+00:00"
+  },
+  {
+    "id": 1036,
+    "resumen": "Valentina cargó 23 en Ingresos del día (día 2)",
+    "updated_by": "Valentina",
+    "created_at": "2026-10-02T16:36:24.768195+00:00"
+  },
+  {
+    "id": 1037,
+    "resumen": "Mateo Ocanto cargó 1 para Acosta, Maria Sol en Atención WhatsApp (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T20:14:39.026507+00:00"
+  },
+  {
+    "id": 1038,
+    "resumen": "Mateo Ocanto cargó 0 para Acosta, Maria Sol en Atención WhatsApp (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T20:14:45.286355+00:00"
+  },
+  {
+    "id": 1039,
+    "resumen": "Mateo Ocanto cargó 142 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:07:48.588057+00:00"
+  },
+  {
+    "id": 1040,
+    "resumen": "Mateo Ocanto cargó 37 en Ingresos del día (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:07:59.691574+00:00"
+  },
+  {
+    "id": 1041,
+    "resumen": "Mateo Ocanto cargó 62 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:08:08.572828+00:00"
+  },
+  {
+    "id": 1042,
+    "resumen": "Mateo Ocanto cargó 20 en Ingresos del día (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:08:18.770727+00:00"
+  },
+  {
+    "id": 1043,
+    "resumen": "Mateo Ocanto cargó 272 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:08:35.886137+00:00"
+  },
+  {
+    "id": 1044,
+    "resumen": "Mateo Ocanto cargó 155 en Ingresos del día (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:08:50.180182+00:00"
+  },
+  {
+    "id": 1045,
+    "resumen": "Mateo Ocanto cargó 66 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:08:59.017156+00:00"
+  },
+  {
+    "id": 1046,
+    "resumen": "Mateo Ocanto cargó 56 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:09:05.705377+00:00"
+  },
+  {
+    "id": 1047,
+    "resumen": "Mateo Ocanto cargó 66 en Ingresos del día (día 1)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:09:08.691994+00:00"
+  },
+  {
+    "id": 1048,
+    "resumen": "Mateo Ocanto cargó 17 en Ingresos del día (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:09:52.765872+00:00"
+  },
+  {
+    "id": 1049,
+    "resumen": "Mateo Ocanto cargó 80 en Ingresos del día (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:10:07.888325+00:00"
+  },
+  {
+    "id": 1050,
+    "resumen": "Mateo Ocanto cargó 37 para Alvado, Gisela en Carga de Solicitudes (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:10:56.194281+00:00"
+  },
+  {
+    "id": 1051,
+    "resumen": "Mateo Ocanto cargó 42 para Venturino, Milagros en Carga de Solicitudes (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:11:05.998235+00:00"
+  },
+  {
+    "id": 1052,
+    "resumen": "Mateo Ocanto cargó 23 para Perez, Melina en Carga de Solicitudes (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:11:12.750374+00:00"
+  },
+  {
+    "id": 1053,
+    "resumen": "Mateo Ocanto cargó 3 para Perez, Melina en Mails Gestionados (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:11:16.095566+00:00"
+  },
+  {
+    "id": 1054,
+    "resumen": "Mateo Ocanto cargó 12 para Pierini, Clementina en Soporte Eventual (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:11:30.80987+00:00"
+  },
+  {
+    "id": 1055,
+    "resumen": "Mateo Ocanto cargó 27 para Pierini, Clementina en Carga de Solicitudes (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:11:34.371741+00:00"
+  },
+  {
+    "id": 1056,
+    "resumen": "Mateo Ocanto cargó 22 para Monzón, Andrea en Línea 7075 (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:11:47.547062+00:00"
+  },
+  {
+    "id": 1057,
+    "resumen": "Mateo Ocanto cargó 1 para Riquelme, Sebastian en Soporte Eventual (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:11:55.214358+00:00"
+  },
+  {
+    "id": 1058,
+    "resumen": "Mateo Ocanto cargó 26 para Schneider, Astrid en Mails Gestionados (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:12:04.26675+00:00"
+  },
+  {
+    "id": 1059,
+    "resumen": "Mateo Ocanto cargó 23 para Alberti, Estefania en Línea 7075 (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:12:12.034128+00:00"
+  },
+  {
+    "id": 1060,
+    "resumen": "Mateo Ocanto cargó 24 para Viñas, Julieta Sofia en Línea 7075 (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:12:18.410015+00:00"
+  },
+  {
+    "id": 1061,
+    "resumen": "Mateo Ocanto cargó 24 para Armua, Gonzalo en Línea 7075 (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:12:24.914035+00:00"
+  },
+  {
+    "id": 1062,
+    "resumen": "Mateo Ocanto cargó 20 para Muga, Florencia en Equipo de Apoyo (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:12:32.684011+00:00"
+  },
+  {
+    "id": 1063,
+    "resumen": "Mateo Ocanto cargó 45 para Laperchia, Solana en Soporte Eventual (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:12:45.043188+00:00"
+  },
+  {
+    "id": 1064,
+    "resumen": "Mateo Ocanto cargó 19 para Schmidt, Flavia en Soporte Eventual (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:12:57.343699+00:00"
+  },
+  {
+    "id": 1065,
+    "resumen": "Mateo Ocanto cargó 42 para Schmidhalter, Karin en Línea 7075 (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:13:03.667129+00:00"
+  },
+  {
+    "id": 1066,
+    "resumen": "Mateo Ocanto cargó 19 para Eguiazu, Agustina en Soporte Eventual (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:13:19.912946+00:00"
+  },
+  {
+    "id": 1067,
+    "resumen": "Mateo Ocanto cargó 14 para Unno, Catalina en Soporte Eventual (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:13:26.347381+00:00"
+  },
+  {
+    "id": 1068,
+    "resumen": "Mateo Ocanto cargó 14 para Mendoza, Victoria en Soporte Eventual (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:13:33.277413+00:00"
+  },
+  {
+    "id": 1069,
+    "resumen": "Mateo Ocanto cargó 15 para Sovrano, Gerónimo en Soporte Eventual (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:13:38.575207+00:00"
+  },
+  {
+    "id": 1070,
+    "resumen": "Mateo Ocanto cargó 30 para Ludueña, Rocio del Valle en Mails Gestionados (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:13:46.475987+00:00"
+  },
+  {
+    "id": 1071,
+    "resumen": "Mateo Ocanto cargó 19 para Zini, Ayelen en Mails Gestionados (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:13:52.906707+00:00"
+  },
+  {
+    "id": 1072,
+    "resumen": "Mateo Ocanto cargó 30 para Capaldi, Camila en Equipo de Apoyo (día 2)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-10-02T22:14:01.525767+00:00"
+  },
+  {
+    "id": 1073,
+    "resumen": "Maira cargó 21 en Ingresos del día (día 2)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T11:20:14.856486+00:00"
+  },
+  {
+    "id": 1074,
+    "resumen": "Maira cargó 90 en Ingresos del día (día 2)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T11:25:11.086626+00:00"
+  },
+  {
+    "id": 1075,
+    "resumen": "Maira cargó 33 en Ingresos del día (día 2)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T11:37:51.53871+00:00"
+  },
+  {
+    "id": 1076,
+    "resumen": "Maira cargó 95 en Ingresos del día (día 2)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T11:46:31.104274+00:00"
+  },
+  {
+    "id": 1077,
+    "resumen": "Maira cargó 4 para Culcuy, Yenit en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T12:10:25.897268+00:00"
+  },
+  {
+    "id": 1078,
+    "resumen": "Maira cargó 774 en Derivaciones del día (día 2)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T12:18:27.991272+00:00"
+  },
+  {
+    "id": 1079,
+    "resumen": "Maira cargó 1 en Derivaciones del día (día 2)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T12:19:07.963427+00:00"
+  },
+  {
+    "id": 1080,
+    "resumen": "Maira cargó 2 para Monzón, Andrea en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T13:19:00.481006+00:00"
+  },
+  {
+    "id": 1081,
+    "resumen": "Maira cargó 16 en Ingresos del día (día 2)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:22:03.571387+00:00"
+  },
+  {
+    "id": 1082,
+    "resumen": "Maira cargó 7 en Ingresos del día (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:37:03.143094+00:00"
+  },
+  {
+    "id": 1083,
+    "resumen": "Maira cargó 9 en Ingresos del día (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:37:23.944208+00:00"
+  },
+  {
+    "id": 1084,
+    "resumen": "Maira cargó 15 en Ingresos del día (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:37:32.075178+00:00"
+  },
+  {
+    "id": 1085,
+    "resumen": "Maira cargó 5 en Ingresos del día (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:38:05.112321+00:00"
+  },
+  {
+    "id": 1086,
+    "resumen": "Maira cargó 9 en Ingresos del día (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:38:17.093572+00:00"
+  },
+  {
+    "id": 1087,
+    "resumen": "Maira cargó 19 para Regazzoni, Bruno en Carga de Solicitudes (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:40:55.776578+00:00"
+  },
+  {
+    "id": 1088,
+    "resumen": "Maira cargó 20 para Culcuy, Yenit en Carga de Solicitudes (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:44:58.490277+00:00"
+  },
+  {
+    "id": 1089,
+    "resumen": "Maira cargó 18 para Perez, Melina en Línea 7075 (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:47:18.117782+00:00"
+  },
+  {
+    "id": 1090,
+    "resumen": "Maira cargó 24 para Mendoza, Victoria en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:48:50.81937+00:00"
+  },
+  {
+    "id": 1091,
+    "resumen": "Maira cargó 22 para Zini, Ayelen en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:51:40.841657+00:00"
+  },
+  {
+    "id": 1092,
+    "resumen": "Maira cargó 17 para Alvado, Gisela en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:52:49.912305+00:00"
+  },
+  {
+    "id": 1093,
+    "resumen": "Maira cargó 13 para Redigonda, Macarena en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:54:42.13132+00:00"
+  },
+  {
+    "id": 1094,
+    "resumen": "Maira cargó 26 para Macaudiere, Rocio en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T14:56:58.734497+00:00"
+  },
+  {
+    "id": 1095,
+    "resumen": "Maira cargó 20 para Fazzino, Melisa en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T15:00:51.991724+00:00"
+  },
+  {
+    "id": 1096,
+    "resumen": "Maira cargó 7 para D'andrea, Caterina en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T15:02:32.955463+00:00"
+  },
+  {
+    "id": 1097,
+    "resumen": "Maira cargó 23 para Grassi, Jesica en Soporte Eventual (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-03T15:04:15.696779+00:00"
+  },
+  {
+    "id": 1098,
+    "resumen": "Maira cargó 203 en Ingresos del día (día 2)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-05T10:36:37.09592+00:00"
+  },
+  {
+    "id": 1099,
+    "resumen": "Maira cargó 231 en Ingresos del día (día 2)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-05T10:37:02.148224+00:00"
+  },
+  {
+    "id": 1100,
+    "resumen": "Paula cargó 3 en Ingresos del día (día 3)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:19:33.629196+00:00"
+  },
+  {
+    "id": 1101,
+    "resumen": "Paula cargó 0 en Ingresos del día (día 3)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:21:07.2549+00:00"
+  },
+  {
+    "id": 1102,
+    "resumen": "Paula cargó 3 en Ingresos del día (día 3)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:24:09.288212+00:00"
+  },
+  {
+    "id": 1103,
+    "resumen": "Maira cargó 31 en Ingresos del día (día 3)",
+    "updated_by": "Maira",
+    "created_at": "2026-10-05T11:24:15.390138+00:00"
+  },
+  {
+    "id": 1104,
+    "resumen": "Paula cargó 1 en Ingresos del día (día 3)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:24:34.429144+00:00"
+  },
+  {
+    "id": 1105,
+    "resumen": "Paula cargó 24 en Ingresos del día (día 3)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:24:46.572864+00:00"
+  },
+  {
+    "id": 1106,
+    "resumen": "Paula cargó 23 en Ingresos del día (día 4)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:25:10.651794+00:00"
+  },
+  {
+    "id": 1107,
+    "resumen": "Paula cargó 36 en Ingresos del día (día 3)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:25:36.078402+00:00"
+  },
+  {
+    "id": 1108,
+    "resumen": "Paula cargó 17 en Ingresos del día (día 3)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:26:08.390285+00:00"
+  },
+  {
+    "id": 1109,
+    "resumen": "Paula cargó 13 en Ingresos del día (día 3)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:26:20.895479+00:00"
+  },
+  {
+    "id": 1110,
+    "resumen": "Paula cargó 12 en Ingresos del día (día 4)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:26:40.21559+00:00"
+  },
+  {
+    "id": 1111,
+    "resumen": "Paula cargó 7 en Ingresos del día (día 4)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:26:51.116277+00:00"
+  },
+  {
+    "id": 1112,
+    "resumen": "Paula cargó 8 en Ingresos del día (día 4)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:27:00.977455+00:00"
+  },
+  {
+    "id": 1113,
+    "resumen": "Paula cargó 4 en Derivaciones del día (día 3)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:27:13.409296+00:00"
+  },
+  {
+    "id": 1114,
+    "resumen": "Paula cargó 2 para Culcuy, Yenit en Carga de Solicitudes (día 2)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:43:57.902097+00:00"
+  },
+  {
+    "id": 1115,
+    "resumen": "Paula cargó 53 en Ingresos del día (día 2)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T11:49:34.909446+00:00"
+  },
+  {
+    "id": 1116,
+    "resumen": "Marcos cargó 219 en Autorizaciones (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:32:56.457525+00:00"
+  },
+  {
+    "id": 1117,
+    "resumen": "Marcos cargó 483 en General (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:33:27.036827+00:00"
+  },
+  {
+    "id": 1118,
+    "resumen": "Marcos cargó 420 en General (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:33:56.699856+00:00"
+  },
+  {
+    "id": 1119,
+    "resumen": "Marcos cargó 194 en Autorizaciones (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:34:24.269245+00:00"
+  },
+  {
+    "id": 1120,
+    "resumen": "Marcos cargó 52 para Almiron, Agostina en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:35:57.711365+00:00"
+  },
+  {
+    "id": 1121,
+    "resumen": "Marcos cargó 28 para Schneider, Astrid en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:36:08.495859+00:00"
+  },
+  {
+    "id": 1122,
+    "resumen": "Marcos cargó 38 para Zappacosta, Antonela en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:36:17.530563+00:00"
+  },
+  {
+    "id": 1123,
+    "resumen": "Marcos cargó 26 para Romagnoli, Brisa en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:36:25.047132+00:00"
+  },
+  {
+    "id": 1124,
+    "resumen": "Marcos cargó 23 para Prieto, Bruno Rene en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:36:32.989566+00:00"
+  },
+  {
+    "id": 1125,
+    "resumen": "Marcos cargó 1 para Dayer, Federico en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:37:06.865807+00:00"
+  },
+  {
+    "id": 1126,
+    "resumen": "Marcos cargó 7 para Barduca, Flavia en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:37:17.65509+00:00"
+  },
+  {
+    "id": 1127,
+    "resumen": "Marcos cargó 57 para Jaure, Florencia en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:37:26.525388+00:00"
+  },
+  {
+    "id": 1128,
+    "resumen": "Marcos cargó 16 para Mazzolari, Fiorella en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:37:36.841461+00:00"
+  },
+  {
+    "id": 1129,
+    "resumen": "Marcos cargó 27 para Menotti, Aranda Giuliana en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:37:55.094235+00:00"
+  },
+  {
+    "id": 1130,
+    "resumen": "Marcos cargó 48 para Sarina, Gaston en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:38:07.216768+00:00"
+  },
+  {
+    "id": 1131,
+    "resumen": "Marcos cargó 24 para Beltramo, Giuliana en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:38:18.255391+00:00"
+  },
+  {
+    "id": 1132,
+    "resumen": "Marcos cargó 19 para Sovrano, Gerónimo en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:38:26.076546+00:00"
+  },
+  {
+    "id": 1133,
+    "resumen": "Marcos cargó 33 para Khoury, Maximiliano en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:38:34.001826+00:00"
+  },
+  {
+    "id": 1134,
+    "resumen": "Marcos cargó 15 para Giavelli, Ma. Florencia en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:38:41.708127+00:00"
+  },
+  {
+    "id": 1135,
+    "resumen": "Marcos cargó 24 para Muga, Florencia en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:38:51.63599+00:00"
+  },
+  {
+    "id": 1136,
+    "resumen": "Marcos cargó 6 para Scattolini, Melisa en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:38:59.470652+00:00"
+  },
+  {
+    "id": 1137,
+    "resumen": "Marcos cargó 57 para Redigonda, Macarena en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:39:09.193033+00:00"
+  },
+  {
+    "id": 1138,
+    "resumen": "Marcos cargó 10 para Carpenzano, Micaela en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:39:16.739017+00:00"
+  },
+  {
+    "id": 1139,
+    "resumen": "Marcos cargó 47 para Pascuale, Paula en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:39:25.081436+00:00"
+  },
+  {
+    "id": 1140,
+    "resumen": "Marcos cargó 32 para Carpensano, Paula en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:39:34.547377+00:00"
+  },
+  {
+    "id": 1141,
+    "resumen": "Marcos cargó 7 para Díaz, Rocío en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:39:41.327881+00:00"
+  },
+  {
+    "id": 1142,
+    "resumen": "Marcos cargó 12 para Macaudiere, Rocio en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:39:47.746359+00:00"
+  },
+  {
+    "id": 1143,
+    "resumen": "Marcos cargó 34 para Faccioli, Sofia en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:39:59.364218+00:00"
+  },
+  {
+    "id": 1144,
+    "resumen": "Marcos cargó 35 para Antonini, Tatiana en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:40:07.96695+00:00"
+  },
+  {
+    "id": 1147,
+    "resumen": "Marcos cargó 24 para Culcuy, Yenit en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:40:29.985543+00:00"
+  },
+  {
+    "id": 1375,
+    "resumen": "florencia cargó 115 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T15:55:52.402484+00:00"
+  },
+  {
+    "id": 1398,
+    "resumen": "Franco cargó 23 para Alberti, Estefania en Soporte Eventual (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:32:48.978552+00:00"
+  },
+  {
+    "id": 1417,
+    "resumen": "Franco cargó 44 para Venturino, Milagros en Mails Gestionados (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:42:21.985678+00:00"
+  },
+  {
+    "id": 1437,
+    "resumen": "Sin nombre cargó 32 para Sarina, Gaston en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:25:25.987992+00:00"
+  },
+  {
+    "id": 1145,
+    "resumen": "Marcos cargó 24 para Barroso, Valeria en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:40:15.571227+00:00"
+  },
+  {
+    "id": 1146,
+    "resumen": "Marcos cargó 46 para Clausen, Valeria en Atención WhatsApp (día 1)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:40:23.105172+00:00"
+  },
+  {
+    "id": 1148,
+    "resumen": "Marcos cargó 58 para Almiron, Agostina en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:41:16.437332+00:00"
+  },
+  {
+    "id": 1149,
+    "resumen": "Marcos cargó 27 para Prieto, Bruno Rene en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:41:22.175671+00:00"
+  },
+  {
+    "id": 1150,
+    "resumen": "Marcos cargó 8 para Barduca, Flavia en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:41:28.350796+00:00"
+  },
+  {
+    "id": 1151,
+    "resumen": "Marcos cargó 49 para Jaure, Florencia en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:41:36.948719+00:00"
+  },
+  {
+    "id": 1152,
+    "resumen": "Marcos cargó 30 para Menotti, Aranda Giuliana en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:41:44.246826+00:00"
+  },
+  {
+    "id": 1153,
+    "resumen": "Marcos cargó 44 para Sarina, Gaston en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:41:51.980578+00:00"
+  },
+  {
+    "id": 1154,
+    "resumen": "Marcos cargó 12 para Sovrano, Gerónimo en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:42:03.425418+00:00"
+  },
+  {
+    "id": 1155,
+    "resumen": "Marcos cargó 38 para Khoury, Maximiliano en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:42:09.471742+00:00"
+  },
+  {
+    "id": 1156,
+    "resumen": "Marcos cargó 22 para Muga, Florencia en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:42:16.976383+00:00"
+  },
+  {
+    "id": 1157,
+    "resumen": "Marcos cargó 5 para Scattolini, Melisa en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:42:27.603191+00:00"
+  },
+  {
+    "id": 1158,
+    "resumen": "Marcos cargó 66 para Redigonda, Macarena en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:42:35.629482+00:00"
+  },
+  {
+    "id": 1159,
+    "resumen": "Marcos cargó 50 para Pascuale, Paula en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:42:44.116142+00:00"
+  },
+  {
+    "id": 1160,
+    "resumen": "Marcos cargó 24 para Carpensano, Paula en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:42:52.773777+00:00"
+  },
+  {
+    "id": 1161,
+    "resumen": "Marcos cargó 5 para Díaz, Rocío en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:43:01.191013+00:00"
+  },
+  {
+    "id": 1162,
+    "resumen": "Marcos cargó 7 para Macaudiere, Rocio en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:43:08.02277+00:00"
+  },
+  {
+    "id": 1163,
+    "resumen": "Marcos cargó 46 para Faccioli, Sofia en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:43:14.642501+00:00"
+  },
+  {
+    "id": 1164,
+    "resumen": "Marcos cargó 38 para Antonini, Tatiana en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:43:26.123044+00:00"
+  },
+  {
+    "id": 1165,
+    "resumen": "Marcos cargó 23 para Barroso, Valeria en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:43:35.938417+00:00"
+  },
+  {
+    "id": 1166,
+    "resumen": "Marcos cargó 35 para Rubiolo, Valentina en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:43:45.684892+00:00"
+  },
+  {
+    "id": 1167,
+    "resumen": "Marcos cargó 56 para Clausen, Valeria en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:43:54.068106+00:00"
+  },
+  {
+    "id": 1168,
+    "resumen": "Marcos cargó 5 para Romero, Ximena en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:44:02.493739+00:00"
+  },
+  {
+    "id": 1169,
+    "resumen": "Marcos cargó 30 para Culcuy, Yenit en Atención WhatsApp (día 2)",
+    "updated_by": "Marcos",
+    "created_at": "2026-10-05T13:44:10.618715+00:00"
+  },
+  {
+    "id": 1170,
+    "resumen": "Paula cargó 20 en Ingresos del día (día 5)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T15:46:00.658313+00:00"
+  },
+  {
+    "id": 1171,
+    "resumen": "Paula cargó 245 en Ingresos del día (día 2)",
+    "updated_by": "Paula",
+    "created_at": "2026-10-05T16:44:53.300087+00:00"
+  },
+  {
+    "id": 1172,
+    "resumen": "ceci cargó 1 en Ingresos del día (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T17:15:42.756648+00:00"
+  },
+  {
+    "id": 1173,
+    "resumen": "ceci cargó 305 en Ingresos del día (día 2)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:27:56.917218+00:00"
+  },
+  {
+    "id": 1174,
+    "resumen": "ceci cargó 64 en Ingresos del día (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:31:58.367329+00:00"
+  },
+  {
+    "id": 1175,
+    "resumen": "ceci cargó 10 en Ingresos del día (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:32:08.197515+00:00"
+  },
+  {
+    "id": 1176,
+    "resumen": "ceci cargó 27 en Ingresos del día (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:32:30.216069+00:00"
+  },
+  {
+    "id": 1177,
+    "resumen": "ceci cargó 56 en Ingresos del día (día 3)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:34:10.485332+00:00"
+  },
+  {
+    "id": 1178,
+    "resumen": "ceci cargó 2 en Ingresos del día (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:34:25.56887+00:00"
+  },
+  {
+    "id": 1179,
+    "resumen": "ceci cargó 28 para Perez, Melina en Redes Respondidos (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:42:45.014341+00:00"
+  },
+  {
+    "id": 1180,
+    "resumen": "ceci cargó 6 para Ortiz, Andrea en Redes Respondidos (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:44:26.761712+00:00"
+  },
+  {
+    "id": 1181,
+    "resumen": "ceci cargó 10 para Romero, Ximena en Mails Gestionados (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:47:54.222322+00:00"
+  },
+  {
+    "id": 1182,
+    "resumen": "ceci cargó 10 para Armua, Gonzalo en Mails Gestionados (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T18:51:21.975793+00:00"
+  },
+  {
+    "id": 1183,
+    "resumen": "ceci cargó 28 para Alvado, Gisela en Mails Gestionados (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T19:03:24.151565+00:00"
+  },
+  {
+    "id": 1184,
+    "resumen": "ceci cargó 6 para Ortiz, Andrea en Mails Gestionados (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T19:05:40.681907+00:00"
+  },
+  {
+    "id": 1185,
+    "resumen": "ceci cargó 28 para Perez, Melina en Mails Gestionados (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T19:06:16.678634+00:00"
+  },
+  {
+    "id": 1186,
+    "resumen": "ceci cargó 31 para Capaldi, Camila en Mails Gestionados (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T19:09:00.586924+00:00"
+  },
+  {
+    "id": 1187,
+    "resumen": "ceci cargó 60 para Redigonda, Macarena en Mails Gestionados (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T19:11:36.883868+00:00"
+  },
+  {
+    "id": 1188,
+    "resumen": "ceci cargó 16 para Eguiazu, Agustina en Mails Gestionados (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T19:17:08.205124+00:00"
+  },
+  {
+    "id": 1189,
+    "resumen": "ceci cargó 9 para Carello, Belen en Mails Gestionados (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-05T19:19:18.179047+00:00"
+  },
+  {
+    "id": 1190,
+    "resumen": "Franco cargó 15 para Fernandez, Juan Pablo en Soporte Eventual (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T20:01:03.048344+00:00"
+  },
+  {
+    "id": 1191,
+    "resumen": "Franco cargó 10 para Pierini, Clementina en Carga de Solicitudes (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T20:01:34.15111+00:00"
+  },
+  {
+    "id": 1192,
+    "resumen": "Franco cargó 4 para Alberti, Estefania en Soporte Eventual (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T20:04:37.922916+00:00"
+  },
+  {
+    "id": 1193,
+    "resumen": "Franco cargó 28 para Barroso, Valeria en Carga de Solicitudes (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T20:06:48.540469+00:00"
+  },
+  {
+    "id": 1194,
+    "resumen": "Franco cargó 0 para Eguiazu, Agustina en Mails Gestionados (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:06:05.848002+00:00"
+  },
+  {
+    "id": 1195,
+    "resumen": "Franco cargó 0 para Carello, Belen en Mails Gestionados (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:06:31.181783+00:00"
+  },
+  {
+    "id": 1196,
+    "resumen": "Franco cargó 9 para Carello, Belen en Equipo de Apoyo (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:06:42.203462+00:00"
+  },
+  {
+    "id": 1197,
+    "resumen": "Franco cargó 16 para Eguiazu, Agustina en Equipo de Apoyo (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:06:57.929291+00:00"
+  },
+  {
+    "id": 1198,
+    "resumen": "Franco cargó 10 para Capaldi, Camila en Redes Respondidos (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:07:47.589554+00:00"
+  },
+  {
+    "id": 1199,
+    "resumen": "Franco cargó 47 en Ingresos del día (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:13:27.835713+00:00"
+  },
+  {
+    "id": 1200,
+    "resumen": "Franco cargó 128 en Ingresos del día (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:17:11.771904+00:00"
+  },
+  {
+    "id": 1201,
+    "resumen": "Franco cargó 13 en Ingresos del día (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:17:44.754178+00:00"
+  },
+  {
+    "id": 1202,
+    "resumen": "Franco cargó 13 en Ingresos del día (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:17:59.453507+00:00"
+  },
+  {
+    "id": 1203,
+    "resumen": "Franco cargó 26 para Laperchia, Solana en Soporte Eventual (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:20:11.250939+00:00"
+  },
+  {
+    "id": 1204,
+    "resumen": "Franco cargó 20 para Menotti, Aranda Giuliana en Línea 7075 (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:43:19.777704+00:00"
+  },
+  {
+    "id": 1205,
+    "resumen": "Franco cargó 19 para Monzón, Andrea en Línea 7075 (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:44:10.749603+00:00"
+  },
+  {
+    "id": 1206,
+    "resumen": "Franco cargó 24 para Viñas, Julieta Sofia en Línea 7075 (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:44:22.768138+00:00"
+  },
+  {
+    "id": 1207,
+    "resumen": "Franco cargó 21 para Pascuale, Paula en Mails Gestionados (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:45:52.728861+00:00"
+  },
+  {
+    "id": 1208,
+    "resumen": "Franco cargó 0 para Ortiz, Andrea en Redes Respondidos (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:47:36.028417+00:00"
+  },
+  {
+    "id": 1209,
+    "resumen": "Franco cargó 0 para Perez, Melina en Redes Respondidos (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:47:39.565167+00:00"
+  },
+  {
+    "id": 1210,
+    "resumen": "Franco cargó 4 para Pascuale, Paula en Redes Respondidos (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:47:51.733953+00:00"
+  },
+  {
+    "id": 1211,
+    "resumen": "Franco cargó 33 en Ingresos del día (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:54:36.427535+00:00"
+  },
+  {
+    "id": 1212,
+    "resumen": "Franco cargó 51 para Schneider, Astrid en Carga de Solicitudes (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:55:52.90368+00:00"
+  },
+  {
+    "id": 1213,
+    "resumen": "Franco cargó 37 para Alberti, Estefania en Carga de Solicitudes (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T21:56:43.833703+00:00"
+  },
+  {
+    "id": 1214,
+    "resumen": "Franco cargó 60 para Redigonda, Macarena en Carga de Solicitudes (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T22:01:11.02465+00:00"
+  },
+  {
+    "id": 1215,
+    "resumen": "Franco cargó 0 para Redigonda, Macarena en Mails Gestionados (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T22:01:38.736388+00:00"
+  },
+  {
+    "id": 1216,
+    "resumen": "Franco cargó 48 para Venturino, Milagros en Mails Gestionados (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-05T22:01:47.885672+00:00"
+  },
+  {
+    "id": 1217,
+    "resumen": "florencia cargó 150 en Ingresos del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T11:03:38.282074+00:00"
+  },
+  {
+    "id": 1218,
+    "resumen": "florencia cargó 17 en Derivaciones del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T11:05:27.883703+00:00"
+  },
+  {
+    "id": 1219,
+    "resumen": "florencia cargó 49 en Ingresos del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T11:08:09.195681+00:00"
+  },
+  {
+    "id": 1220,
+    "resumen": "florencia cargó 2 en Derivaciones del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T11:10:06.039082+00:00"
+  },
+  {
+    "id": 1221,
+    "resumen": "florencia cargó 13 en Ingresos del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T11:41:46.535819+00:00"
+  },
+  {
+    "id": 1222,
+    "resumen": "florencia cargó 4 en Derivaciones del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T11:41:53.4965+00:00"
+  },
+  {
+    "id": 1223,
+    "resumen": "florencia cargó 136 en Ingresos del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T11:42:37.478804+00:00"
+  },
+  {
+    "id": 1224,
+    "resumen": "florencia cargó 28 en Ingresos del día (día 3)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T12:30:32.589687+00:00"
+  },
+  {
+    "id": 1225,
+    "resumen": "florencia cargó 49 en Ingresos del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T13:07:00.515784+00:00"
+  },
+  {
+    "id": 1226,
+    "resumen": "florencia cargó 568 en Derivaciones del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T14:50:19.626221+00:00"
+  },
+  {
+    "id": 1227,
+    "resumen": "Franco cargó 194 en Derivaciones del día (día 3)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T15:51:44.142521+00:00"
+  },
+  {
+    "id": 1228,
+    "resumen": "florencia cargó 10 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T15:59:39.71584+00:00"
+  },
+  {
+    "id": 1229,
+    "resumen": "florencia cargó 1 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T15:59:47.526845+00:00"
+  },
+  {
+    "id": 1230,
+    "resumen": "florencia cargó 38 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-06T15:59:55.997856+00:00"
+  },
+  {
+    "id": 1231,
+    "resumen": "ceci cargó 44 en Ingresos del día (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:29:36.324762+00:00"
+  },
+  {
+    "id": 1232,
+    "resumen": "ceci cargó 2 en Ingresos del día (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:29:50.11056+00:00"
+  },
+  {
+    "id": 1233,
+    "resumen": "ceci cargó 50 en Ingresos del día (día 5)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:30:13.337162+00:00"
+  },
+  {
+    "id": 1234,
+    "resumen": "ceci cargó 29 en Ingresos del día (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:30:31.690436+00:00"
+  },
+  {
+    "id": 1235,
+    "resumen": "ceci cargó 67 en Ingresos del día (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:31:12.997539+00:00"
+  },
+  {
+    "id": 1236,
+    "resumen": "ceci cargó 15 en Ingresos del día (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:31:36.502054+00:00"
+  },
+  {
+    "id": 1237,
+    "resumen": "ceci cargó 22 para Barroso, Valeria en Atención WhatsApp (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:35:27.275695+00:00"
+  },
+  {
+    "id": 1238,
+    "resumen": "ceci cargó 32 para Perez, Melina en Atención WhatsApp (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:38:53.512702+00:00"
+  },
+  {
+    "id": 1239,
+    "resumen": "ceci cargó 5 para Ortiz, Andrea en Atención WhatsApp (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:41:50.237809+00:00"
+  },
+  {
+    "id": 1240,
+    "resumen": "ceci cargó 1 para Romero, Ximena en Atención WhatsApp (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:42:40.487624+00:00"
+  },
+  {
+    "id": 1241,
+    "resumen": "ceci cargó 9 para Armua, Gonzalo en Atención WhatsApp (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:43:53.751936+00:00"
+  },
+  {
+    "id": 1242,
+    "resumen": "ceci cargó 31 para Alvado, Gisela en Atención WhatsApp (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:45:37.79087+00:00"
+  },
+  {
+    "id": 1243,
+    "resumen": "ceci cargó 32 para Alvado, Gisela en Atención WhatsApp (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:47:46.749245+00:00"
+  },
+  {
+    "id": 1244,
+    "resumen": "ceci cargó 43 para Capaldi, Camila en Atención WhatsApp (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:51:27.087899+00:00"
+  },
+  {
+    "id": 1245,
+    "resumen": "ceci cargó 56 para Redigonda, Macarena en Atención WhatsApp (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T18:55:37.769561+00:00"
+  },
+  {
+    "id": 1246,
+    "resumen": "Franco cargó 0 para Capaldi, Camila en Redes Respondidos (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T19:00:57.319064+00:00"
+  },
+  {
+    "id": 1247,
+    "resumen": "Franco cargó 0 para Capaldi, Camila en Atención WhatsApp (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T19:01:26.65168+00:00"
+  },
+  {
+    "id": 1248,
+    "resumen": "ceci cargó 43 para Capaldi, Camila en Mails Gestionados (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:02:51.057351+00:00"
+  },
+  {
+    "id": 1249,
+    "resumen": "ceci cargó 5 para Ortiz, Andrea en Línea 7075 (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:03:47.154509+00:00"
+  },
+  {
+    "id": 1250,
+    "resumen": "ceci cargó 1 para Romero, Ximena en Línea 7075 (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:04:02.592203+00:00"
+  },
+  {
+    "id": 1251,
+    "resumen": "ceci cargó 9 para Armua, Gonzalo en Línea 7075 (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:04:20.87016+00:00"
+  },
+  {
+    "id": 1252,
+    "resumen": "ceci cargó 32 para Alvado, Gisela en Línea 7075 (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:04:31.422399+00:00"
+  },
+  {
+    "id": 1253,
+    "resumen": "ceci cargó 22 para Barroso, Valeria en Carga de Solicitudes (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:05:00.562029+00:00"
+  },
+  {
+    "id": 1254,
+    "resumen": "Franco cargó 0 para Barroso, Valeria en Atención WhatsApp (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T19:05:17.814508+00:00"
+  },
+  {
+    "id": 1255,
+    "resumen": "ceci cargó 56 para Redigonda, Macarena en Carga de Solicitudes (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:05:17.999989+00:00"
+  },
+  {
+    "id": 1256,
+    "resumen": "Franco cargó 0 para Redigonda, Macarena en Atención WhatsApp (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T19:05:32.534048+00:00"
+  },
+  {
+    "id": 1257,
+    "resumen": "ceci cargó 32 para Perez, Melina en Mails Gestionados (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:05:42.82536+00:00"
+  },
+  {
+    "id": 1258,
+    "resumen": "Franco cargó 0 para Perez, Melina en Atención WhatsApp (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T19:05:44.19677+00:00"
+  },
+  {
+    "id": 1259,
+    "resumen": "Franco cargó 0 para Romero, Ximena en Atención WhatsApp (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T19:06:04.510543+00:00"
+  },
+  {
+    "id": 1260,
+    "resumen": "Franco cargó 0 para Ortiz, Andrea en Atención WhatsApp (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T19:06:11.161271+00:00"
+  },
+  {
+    "id": 1261,
+    "resumen": "Franco cargó 0 para Armua, Gonzalo en Atención WhatsApp (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T19:06:16.089819+00:00"
+  },
+  {
+    "id": 1262,
+    "resumen": "Franco cargó 0 para Alvado, Gisela en Atención WhatsApp (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T19:06:18.974364+00:00"
+  },
+  {
+    "id": 1263,
+    "resumen": "ceci cargó 22 para Eguiazu, Agustina en Equipo de Apoyo (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:09:20.578615+00:00"
+  },
+  {
+    "id": 1264,
+    "resumen": "ceci cargó 9 para Carello, Belen en Equipo de Apoyo (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:10:44.807374+00:00"
+  },
+  {
+    "id": 1265,
+    "resumen": "ceci cargó 1 para Zini, Ayelen en Mails Gestionados (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:11:28.03768+00:00"
+  },
+  {
+    "id": 1266,
+    "resumen": "ceci cargó 13 para Mazzolari, Fiorella en Equipo de Apoyo (día 6)",
+    "updated_by": "ceci",
+    "created_at": "2026-10-06T19:14:07.909288+00:00"
+  },
+  {
+    "id": 1267,
+    "resumen": "Franco cargó 9 en Ingresos del día (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:33:06.715747+00:00"
+  },
+  {
+    "id": 1268,
+    "resumen": "Franco cargó 42 en Ingresos del día (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:33:17.020702+00:00"
+  },
+  {
+    "id": 1269,
+    "resumen": "Franco cargó 17 en Ingresos del día (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:33:31.126541+00:00"
+  },
+  {
+    "id": 1270,
+    "resumen": "Franco cargó 34 en Ingresos del día (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:34:01.651655+00:00"
+  },
+  {
+    "id": 1271,
+    "resumen": "Franco cargó 3 en Ingresos del día (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:34:08.85527+00:00"
+  },
+  {
+    "id": 1272,
+    "resumen": "Franco cargó 1 en Ingresos del día (día 5)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:34:11.312742+00:00"
+  },
+  {
+    "id": 1273,
+    "resumen": "Franco cargó 100 en Ingresos del día (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:34:24.238118+00:00"
+  },
+  {
+    "id": 1274,
+    "resumen": "Franco cargó 16 para Alberti, Estefania en Soporte Eventual (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:40:02.473502+00:00"
+  },
+  {
+    "id": 1275,
+    "resumen": "Franco cargó 10 para Culcuy, Yenit en Soporte Eventual (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:40:23.124126+00:00"
+  },
+  {
+    "id": 1276,
+    "resumen": "Franco cargó 9 para Basabe, Julieta en Soporte Eventual (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:40:33.361205+00:00"
+  },
+  {
+    "id": 1277,
+    "resumen": "Franco cargó 9 para Scattolini, Melisa en Soporte Eventual (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:40:59.408019+00:00"
+  },
+  {
+    "id": 1278,
+    "resumen": "Franco cargó 1 para Romero, Cristian en Soporte Eventual (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:41:07.691931+00:00"
+  },
+  {
+    "id": 1279,
+    "resumen": "Franco cargó 3 para Gonzalez, Ma. De los Angeles en Equipo de Apoyo (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:41:53.549902+00:00"
+  },
+  {
+    "id": 1280,
+    "resumen": "Franco cargó 12 para Viñas, Julieta Sofia en Línea 7075 (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:45:12.107088+00:00"
+  },
+  {
+    "id": 1281,
+    "resumen": "Franco cargó 16 para Monzón, Andrea en Línea 7075 (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:45:27.948163+00:00"
+  },
+  {
+    "id": 1282,
+    "resumen": "Franco cargó 23 para Menotti, Aranda Giuliana en Línea 7075 (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:45:36.866658+00:00"
+  },
+  {
+    "id": 1283,
+    "resumen": "Franco cargó 48 para Venturino, Milagros en Mails Gestionados (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:47:19.660895+00:00"
+  },
+  {
+    "id": 1284,
+    "resumen": "Franco cargó 10 para Tallafer, Abril en Equipo de Apoyo (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:48:04.605878+00:00"
+  },
+  {
+    "id": 1285,
+    "resumen": "Franco cargó 31 para Pascuale, Paula en Mails Gestionados (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:52:17.062328+00:00"
+  },
+  {
+    "id": 1286,
+    "resumen": "Franco cargó 49 para Schneider, Astrid en Carga de Solicitudes (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:55:41.653911+00:00"
+  },
+  {
+    "id": 1287,
+    "resumen": "Franco cargó 43 para Laperchia, Solana en Mails Gestionados (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T21:57:10.670959+00:00"
+  },
+  {
+    "id": 1288,
+    "resumen": "Franco cargó 43 para Laperchia, Solana en Soporte Eventual (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T22:03:12.4465+00:00"
+  },
+  {
+    "id": 1289,
+    "resumen": "Franco cargó 0 para Laperchia, Solana en Mails Gestionados (día 6)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-06T22:03:25.716305+00:00"
+  },
+  {
+    "id": 1290,
+    "resumen": "ximena cargó 587 en General (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T11:54:30.597336+00:00"
+  },
+  {
+    "id": 1291,
+    "resumen": "ximena cargó 276 en Autorizaciones (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T11:54:52.317579+00:00"
+  },
+  {
+    "id": 1292,
+    "resumen": "ximena cargó 587 en General (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T11:54:58.920958+00:00"
+  },
+  {
+    "id": 1293,
+    "resumen": "ximena cargó 276 en Autorizaciones (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T11:55:05.333734+00:00"
+  },
+  {
+    "id": 1294,
+    "resumen": "ximena cargó 0 en General (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T11:55:15.666657+00:00"
+  },
+  {
+    "id": 1295,
+    "resumen": "ximena cargó 0 en Autorizaciones (día 6)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T11:55:29.689455+00:00"
+  },
+  {
+    "id": 1296,
+    "resumen": "ximena cargó 705 en General (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T11:57:06.897322+00:00"
+  },
+  {
+    "id": 1297,
+    "resumen": "ximena cargó 278 en Autorizaciones (día 5)",
+    "updated_by": "ximena",
+    "created_at": "2026-10-07T11:57:12.168601+00:00"
+  },
+  {
+    "id": 1298,
+    "resumen": "florencia cargó 171 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:06:38.062481+00:00"
+  },
+  {
+    "id": 1299,
+    "resumen": "florencia cargó 24 en Derivaciones del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T12:07:21.672164+00:00"
+  },
+  {
+    "id": 1376,
+    "resumen": "florencia cargó 73 en Ingresos del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-10-07T15:56:25.778773+00:00"
+  },
+  {
+    "id": 1400,
+    "resumen": "Franco cargó 9 para Scattolini, Melisa en Equipo de Apoyo (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T20:39:22.109796+00:00"
+  },
+  {
+    "id": 1418,
+    "resumen": "Franco cargó 48 para Schneider, Astrid en Carga de Solicitudes (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:49:49.17121+00:00"
+  },
+  {
+    "id": 1419,
+    "resumen": "Franco cargó 12 para Culcuy, Yenit en Carga de Solicitudes (día 7)",
+    "updated_by": "Franco",
+    "created_at": "2026-10-07T21:49:57.981337+00:00"
+  },
+  {
+    "id": 1438,
+    "resumen": "Sin nombre cargó 27 para Beltramo, Giuliana en Atención WhatsApp (día 7)",
+    "updated_by": "Sin nombre",
+    "created_at": "2026-10-08T11:25:43.878206+00:00"
   }
 ]
