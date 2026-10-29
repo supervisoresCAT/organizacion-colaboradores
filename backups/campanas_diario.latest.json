@@ -53057,20 +53057,11 @@
   {
     "year": 2026,
     "month": 9,
-    "row_key": "general_der",
-    "day": 21,
-    "valor": 42,
+    "row_key": "reintegros_ing",
+    "day": 22,
+    "valor": 66,
     "updated_by": "florencia",
-    "updated_at": "2026-10-22T13:02:52.304+00:00"
-  },
-  {
-    "year": 2026,
-    "month": 9,
-    "row_key": "farmacia_ing",
-    "day": 21,
-    "valor": 53,
-    "updated_by": "florencia",
-    "updated_at": "2026-10-22T13:03:24.848+00:00"
+    "updated_at": "2026-10-23T12:14:57.847+00:00"
   },
   {
     "year": 2026,
@@ -53094,28 +53085,10 @@
     "year": 2026,
     "month": 9,
     "row_key": "reintegros_der",
-    "day": 21,
-    "valor": 1,
+    "day": 22,
+    "valor": 6,
     "updated_by": "florencia",
-    "updated_at": "2026-10-22T13:08:16.575+00:00"
-  },
-  {
-    "year": 2026,
-    "month": 9,
-    "row_key": "prestadores_ing",
-    "day": 21,
-    "valor": 126,
-    "updated_by": "florencia",
-    "updated_at": "2026-10-22T13:09:11.152+00:00"
-  },
-  {
-    "year": 2026,
-    "month": 9,
-    "row_key": "prestadores_der",
-    "day": 21,
-    "valor": 139,
-    "updated_by": "florencia",
-    "updated_at": "2026-10-22T13:10:37.607+00:00"
+    "updated_at": "2026-10-23T12:15:07.368+00:00"
   },
   {
     "year": 2026,
@@ -53125,6 +53098,15 @@
     "valor": 127,
     "updated_by": "florencia",
     "updated_at": "2026-10-22T13:11:35.929+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_internaciones_ing",
+    "day": 22,
+    "valor": 132,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-23T12:15:29.552+00:00"
   },
   {
     "year": 2026,
@@ -53255,6 +53237,42 @@
   {
     "year": 2026,
     "month": 9,
+    "row_key": "wa_general",
+    "day": 21,
+    "valor": 507,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-10-22T13:52:32.051+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_autorizaciones",
+    "day": 21,
+    "valor": 282,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-10-22T13:53:06.121+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_general",
+    "day": 20,
+    "valor": 525,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-10-22T14:07:11.904+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_autorizaciones",
+    "day": 20,
+    "valor": 256,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-10-22T14:07:23.927+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
     "row_key": "wa_auditoria_farmacia_ing",
     "day": 21,
     "valor": 0,
@@ -53273,6 +53291,33 @@
   {
     "year": 2026,
     "month": 9,
+    "row_key": "general_der",
+    "day": 21,
+    "valor": 44,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-22T16:13:56.509+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_der",
+    "day": 21,
+    "valor": 2,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-22T16:14:14.606+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_der",
+    "day": 21,
+    "valor": 155,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-22T16:14:45.675+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
     "row_key": "general_ing",
     "day": 20,
     "valor": 148,
@@ -53282,11 +53327,11 @@
   {
     "year": 2026,
     "month": 9,
-    "row_key": "farmacia_ing",
-    "day": 20,
-    "valor": 43,
+    "row_key": "wa_ambulatorio_ing",
+    "day": 22,
+    "valor": 48,
     "updated_by": "florencia",
-    "updated_at": "2026-10-21T12:35:37.697+00:00"
+    "updated_at": "2026-10-23T12:15:41.895+00:00"
   },
   {
     "year": 2026,
@@ -53355,9 +53400,729 @@
     "year": 2026,
     "month": 9,
     "row_key": "wa_programas_especiales_ing",
+    "day": 22,
+    "valor": 3,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-23T12:15:53.103+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_ing",
+    "day": 20,
+    "valor": 44,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-10-22T18:56:24.258+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_programas_especiales_ing",
     "day": 21,
     "valor": 1,
     "updated_by": "Franco",
     "updated_at": "2026-10-21T21:52:14.418+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_ing",
+    "day": 21,
+    "valor": 54,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-10-22T18:56:27.698+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_ing",
+    "day": 21,
+    "valor": 172,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-10-22T18:56:47.474+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_programas_especiales_ing",
+    "day": 23,
+    "valor": 1,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-23T16:52:05.052+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_auditoria_farmacia_ing",
+    "day": 22,
+    "valor": 1,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-10-22T18:57:18.769+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_internaciones_ing",
+    "day": 23,
+    "valor": 94,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T12:22:22.164+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_ambulatorio_ing",
+    "day": 23,
+    "valor": 43,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T12:22:27.676+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_der",
+    "day": 23,
+    "valor": 35,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T12:22:59.645+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_der",
+    "day": 23,
+    "valor": 2,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T12:23:20.789+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_der",
+    "day": 23,
+    "valor": 4,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T12:24:41.222+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_der",
+    "day": 23,
+    "valor": 118,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T12:26:18.991+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_auditoria_farmacia_ing",
+    "day": 23,
+    "valor": 2,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-10-23T18:50:25.398+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_general",
+    "day": 22,
+    "valor": 623,
+    "updated_by": "David",
+    "updated_at": "2026-10-23T11:58:51.463+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_autorizaciones",
+    "day": 22,
+    "valor": 278,
+    "updated_by": "David",
+    "updated_at": "2026-10-23T12:00:14.727+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_ing",
+    "day": 22,
+    "valor": 151,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-23T12:12:23.774+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_der",
+    "day": 22,
+    "valor": 35,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-23T12:12:29.494+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_ing",
+    "day": 22,
+    "valor": 40,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-23T12:14:04.128+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_der",
+    "day": 22,
+    "valor": 1,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-23T12:14:13.744+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_ing",
+    "day": 22,
+    "valor": 155,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-23T12:14:30.471+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_der",
+    "day": 22,
+    "valor": 129,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-23T12:14:41.878+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_ing",
+    "day": 24,
+    "valor": 56,
+    "updated_by": "ceci",
+    "updated_at": "2026-10-26T15:49:51.206+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_ing",
+    "day": 23,
+    "valor": 61,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:40:35.883+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_ing",
+    "day": 23,
+    "valor": 143,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T12:21:38.932+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_ing",
+    "day": 23,
+    "valor": 65,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T12:21:51.131+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_ing",
+    "day": 23,
+    "valor": 141,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T12:22:09.116+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_auditoria_farmacia_ing",
+    "day": 24,
+    "valor": 1,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-24T14:27:26.047+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_ing",
+    "day": 24,
+    "valor": 8,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:41:18.26+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_ambulatorio_ing",
+    "day": 24,
+    "valor": 4,
+    "updated_by": "ceci",
+    "updated_at": "2026-10-26T15:49:33.479+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_der",
+    "day": 24,
+    "valor": 2,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:39:58.066+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_ing",
+    "day": 24,
+    "valor": 8,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:43:16.651+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_ing",
+    "day": 24,
+    "valor": 17,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:42:27.052+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_der",
+    "day": 24,
+    "valor": 16,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:42:34.555+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_ing",
+    "day": 25,
+    "valor": 3,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:42:58.644+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_internaciones_ing",
+    "day": 24,
+    "valor": 19,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-26T14:56:20.896+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_ing",
+    "day": 25,
+    "valor": 7,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:43:27.82+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_ing",
+    "day": 25,
+    "valor": 10,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:43:38.828+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_ing",
+    "day": 25,
+    "valor": 6,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:43:46.451+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_internaciones_ing",
+    "day": 25,
+    "valor": 12,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T13:43:58.852+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_ing",
+    "day": 26,
+    "valor": 66,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-27T13:01:28.711+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_ambulatorio_ing",
+    "day": 26,
+    "valor": 41,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-27T16:52:34.778+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_internaciones_ing",
+    "day": 26,
+    "valor": 126,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-27T13:02:49.169+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_ing",
+    "day": 26,
+    "valor": 176,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-27T13:01:08.314+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_general",
+    "day": 23,
+    "valor": 524,
+    "updated_by": "DAvid",
+    "updated_at": "2026-10-26T16:02:19.933+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_autorizaciones",
+    "day": 23,
+    "valor": 212,
+    "updated_by": "DAvid",
+    "updated_at": "2026-10-26T16:02:21.859+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_ing",
+    "day": 28,
+    "valor": 62,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:25:00.495+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_auditoria_farmacia_ing",
+    "day": 26,
+    "valor": 1,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-26T16:53:38.651+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_der",
+    "day": 28,
+    "valor": 6,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:25:17.704+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_internaciones_ing",
+    "day": 28,
+    "valor": 84,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:25:27.96+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_ambulatorio_ing",
+    "day": 28,
+    "valor": 51,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:25:36.319+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_general",
+    "day": 26,
+    "valor": 671,
+    "updated_by": "Ale",
+    "updated_at": "2026-10-27T11:41:23.097+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_autorizaciones",
+    "day": 26,
+    "valor": 323,
+    "updated_by": "Ale",
+    "updated_at": "2026-10-27T11:41:41.397+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_der",
+    "day": 26,
+    "valor": 46,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-27T13:01:17.656+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_ing",
+    "day": 26,
+    "valor": 204,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-27T13:01:42.097+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_der",
+    "day": 26,
+    "valor": 73,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-27T13:01:50.953+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_ing",
+    "day": 26,
+    "valor": 58,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-27T13:02:03.888+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_der",
+    "day": 26,
+    "valor": 5,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-27T15:05:55.506+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_auditoria_farmacia_ing",
+    "day": 27,
+    "valor": 2,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-10-27T18:53:27.991+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_ing",
+    "day": 27,
+    "valor": 179,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-28T11:50:18.584+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_ing",
+    "day": 27,
+    "valor": 42,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-28T11:50:42.248+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_der",
+    "day": 27,
+    "valor": 1,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-28T11:50:50.84+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_ing",
+    "day": 27,
+    "valor": 168,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-28T11:50:59.864+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_ing",
+    "day": 27,
+    "valor": 97,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-28T11:51:17.568+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_internaciones_ing",
+    "day": 27,
+    "valor": 134,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-28T11:51:40.239+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_ambulatorio_ing",
+    "day": 27,
+    "valor": 45,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-28T11:52:16.088+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_der",
+    "day": 27,
+    "valor": 41,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-28T15:20:59.847+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "reintegros_der",
+    "day": 27,
+    "valor": 1,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-28T15:29:00.63+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_der",
+    "day": 27,
+    "valor": 82,
+    "updated_by": "Franco",
+    "updated_at": "2026-10-28T15:35:03.291+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_ambulatorio_ing",
+    "day": 29,
+    "valor": 0,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-28T16:38:53.963+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_general",
+    "day": 24,
+    "valor": 0,
+    "updated_by": "ximena",
+    "updated_at": "2026-10-29T11:27:33.075+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_general",
+    "day": 27,
+    "valor": 501,
+    "updated_by": "ximena",
+    "updated_at": "2026-10-29T11:27:47.227+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_autorizaciones",
+    "day": 27,
+    "valor": 307,
+    "updated_by": "ximena",
+    "updated_at": "2026-10-29T11:28:13.883+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_general",
+    "day": 28,
+    "valor": 588,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-10-29T13:32:03.313+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "wa_autorizaciones",
+    "day": 28,
+    "valor": 295,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-10-29T13:32:12.146+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_ing",
+    "day": 28,
+    "valor": 149,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:24:07.241+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "general_der",
+    "day": 28,
+    "valor": 44,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:24:18.192+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_ing",
+    "day": 28,
+    "valor": 35,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:24:27.12+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "farmacia_der",
+    "day": 28,
+    "valor": 1,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:24:33.6+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_ing",
+    "day": 28,
+    "valor": 168,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:24:45.36+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "row_key": "prestadores_der",
+    "day": 28,
+    "valor": 99,
+    "updated_by": "florencia",
+    "updated_at": "2026-10-29T14:24:51.855+00:00"
   }
 ]
