@@ -18876,6 +18876,120 @@
     "created_at": "2026-11-02T16:51:33.862071+00:00"
   },
   {
+    "id": 4643,
+    "resumen": "Mateo Ocanto cargó 12 para Gaitan, Joaquin en Soporte Eventual (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:51:19.236358+00:00"
+  },
+  {
+    "id": 4658,
+    "resumen": "Andrea Ortiz cargó 20 para Rubiolo, Valentina en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:49:55.935164+00:00"
+  },
+  {
+    "id": 4674,
+    "resumen": "Andrea Ortiz cargó 21 para Schiavetti, Alejandro en Carga de Solicitudes (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:07:43.627716+00:00"
+  },
+  {
+    "id": 4690,
+    "resumen": "Andrea Ortiz cargó 15 para Unno, Catalina en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:48:17.605312+00:00"
+  },
+  {
+    "id": 4708,
+    "resumen": "florencia cargó 36 para Perez, Melina en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T20:49:48.198381+00:00"
+  },
+  {
+    "id": 4723,
+    "resumen": "florencia cargó 34 para Unno, Catalina en Mails Gestionados (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:48:47.512042+00:00"
+  },
+  {
+    "id": 4742,
+    "resumen": "Andrea Ortiz cargó 13 para Gonzalez, Ma. De los Angeles en Carga de Solicitudes (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T12:43:29.421995+00:00"
+  },
+  {
+    "id": 4781,
+    "resumen": "Andrea Ortiz cargó 30 para Franco, Sybela Maria en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T14:59:22.952409+00:00"
+  },
+  {
+    "id": 4807,
+    "resumen": "Andrea Ortiz cargó 31 para Menotti, Aranda Giuliana en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:09:57.527807+00:00"
+  },
+  {
+    "id": 4808,
+    "resumen": "Andrea Ortiz cargó 31 para Culcuy, Yenit en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:10:24.66931+00:00"
+  },
+  {
+    "id": 4824,
+    "resumen": "florencia cargó 42 para Venturino, Milagros en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T17:41:16.772043+00:00"
+  },
+  {
+    "id": 4826,
+    "resumen": "Andrea Ortiz cargó 21 para Zappacosta, Antonela en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:41:50.284936+00:00"
+  },
+  {
+    "id": 4841,
+    "resumen": "Andrea Ortiz cargó 23 para Andreu, Maira en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:37:44.585099+00:00"
+  },
+  {
+    "id": 4856,
+    "resumen": "florencia cargó 11 para Perez, Melina en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T19:54:35.462991+00:00"
+  },
+  {
+    "id": 4873,
+    "resumen": "florencia cargó 20 para Eguiazu, Agustina en Equipo de Apoyo (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:37:15.246064+00:00"
+  },
+  {
+    "id": 4891,
+    "resumen": "florencia cargó 21 para Romero, Priscila en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:03:32.828594+00:00"
+  },
+  {
+    "id": 4916,
+    "resumen": "Marcos cargó 21 para Armua, Gonzalo en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:59:11.143904+00:00"
+  },
+  {
+    "id": 4941,
+    "resumen": "Andrea Ortiz cargó 7 para Zappacosta, Antonela en Línea 7075 (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:39:06.807029+00:00"
+  },
+  {
+    "id": 4957,
+    "resumen": "florencia cargó 63 para Faccioli, Sofia en Equipo de Apoyo (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-19T16:00:04.756318+00:00"
+  },
+  {
     "id": 3215,
     "resumen": "Mateo Ocanto cargó 24 en Ingresos del día (día 1)",
     "updated_by": "Mateo Ocanto",
@@ -19260,6 +19374,114 @@
     "created_at": "2026-11-02T22:03:32.482931+00:00"
   },
   {
+    "id": 4644,
+    "resumen": "Mateo Ocanto cargó 5 para Barroso, Valeria en Soporte Eventual (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:51:27.262749+00:00"
+  },
+  {
+    "id": 4659,
+    "resumen": "Andrea Ortiz cargó 27 para Fazzino, Melisa en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:50:40.446535+00:00"
+  },
+  {
+    "id": 4675,
+    "resumen": "Andrea Ortiz cargó 21 para Rodriguez, Florencia en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:08:53.16967+00:00"
+  },
+  {
+    "id": 4691,
+    "resumen": "Andrea Ortiz cargó 28 para Rodriguez, Florencia en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:52:37.296585+00:00"
+  },
+  {
+    "id": 4709,
+    "resumen": "florencia cargó 37 para Perez, Melina en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T20:54:32.484816+00:00"
+  },
+  {
+    "id": 4725,
+    "resumen": "florencia cargó 50 para Schiavetti, Alejandro en Carga de Solicitudes (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:53:01.791994+00:00"
+  },
+  {
+    "id": 4743,
+    "resumen": "Andrea Ortiz cargó 6 para Murolo, Jonatan en Carga de Solicitudes (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T13:00:17.130416+00:00"
+  },
+  {
+    "id": 4782,
+    "resumen": "Andrea Ortiz cargó 26 para Rodriguez, Valentina en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T14:59:51.915073+00:00"
+  },
+  {
+    "id": 4809,
+    "resumen": "Andrea Ortiz cargó 11 para Perri, German en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:10:47.271367+00:00"
+  },
+  {
+    "id": 4810,
+    "resumen": "Andrea Ortiz cargó 18 para Zappacosta, Antonela en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:11:11.482854+00:00"
+  },
+  {
+    "id": 4825,
+    "resumen": "Andrea Ortiz cargó 13 para Perri, German en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:41:30.733448+00:00"
+  },
+  {
+    "id": 4842,
+    "resumen": "Andrea Ortiz cargó 8 para Antonini, Tatiana en Equipo de Apoyo (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:39:05.227353+00:00"
+  },
+  {
+    "id": 4857,
+    "resumen": "florencia cargó 11 para Ludueña, Rocio del Valle en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T19:55:29.160843+00:00"
+  },
+  {
+    "id": 4874,
+    "resumen": "florencia cargó 33 para Faccioli, Sofia en Equipo de Apoyo (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:38:22.821944+00:00"
+  },
+  {
+    "id": 4892,
+    "resumen": "florencia cargó 25 para Antonini, Tatiana en Equipo de Apoyo (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:06:16.583846+00:00"
+  },
+  {
+    "id": 4918,
+    "resumen": "Marcos cargó 48 para Viñas, Julieta Sofia en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:59:32.320491+00:00"
+  },
+  {
+    "id": 4942,
+    "resumen": "Andrea Ortiz cargó 5 en Ingresos del día (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:54:18.260883+00:00"
+  },
+  {
+    "id": 4958,
+    "resumen": "florencia cargó 43 para Ludueña, Rocio del Valle en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-19T16:00:16.765526+00:00"
+  },
+  {
     "id": 3281,
     "resumen": "florencia cargó 123 en Ingresos del día (día 2)",
     "updated_by": "florencia",
@@ -19278,10 +19500,244 @@
     "created_at": "2026-11-02T22:04:15.474384+00:00"
   },
   {
+    "id": 4645,
+    "resumen": "Andrea Ortiz cargó 88 para Laperchia, Solana en Carga de Solicitudes (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:21:41.631839+00:00"
+  },
+  {
+    "id": 4660,
+    "resumen": "Andrea Ortiz cargó 32 para Venturino, Milagros en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:51:29.833625+00:00"
+  },
+  {
+    "id": 4676,
+    "resumen": "Andrea Ortiz cargó 37 para Sozio, Marco en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:09:38.415009+00:00"
+  },
+  {
+    "id": 4692,
+    "resumen": "Andrea Ortiz cargó 42 para Murolo, Jonatan en Carga de Solicitudes (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:54:53.901793+00:00"
+  },
+  {
+    "id": 4710,
+    "resumen": "florencia cargó 11 para Elias, Nair en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T20:57:30.974394+00:00"
+  },
+  {
+    "id": 4726,
+    "resumen": "florencia cargó 12 para Zini, Ayelen en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:54:06.023731+00:00"
+  },
+  {
+    "id": 4744,
+    "resumen": "Andrea Ortiz cargó 21 en Ingresos del día (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T13:03:14.807552+00:00"
+  },
+  {
+    "id": 4783,
+    "resumen": "Andrea Ortiz cargó 22 para Capaldi, Camila en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T15:01:20.257064+00:00"
+  },
+  {
+    "id": 4811,
+    "resumen": "Andrea Ortiz cargó 20 para Alvado, Gisela en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:11:50.906291+00:00"
+  },
+  {
+    "id": 4827,
+    "resumen": "florencia cargó 23 para Regazzoni, Bruno en Equipo de Apoyo (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T17:42:53.072081+00:00"
+  },
+  {
+    "id": 4843,
+    "resumen": "Andrea Ortiz cargó 31 para Macaudiere, Rocio en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:44:41.077516+00:00"
+  },
+  {
+    "id": 4858,
+    "resumen": "florencia cargó 18 para Unno, Catalina en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T19:59:55.280957+00:00"
+  },
+  {
+    "id": 4875,
+    "resumen": "florencia cargó 13 para Ludueña, Rocio del Valle en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:41:40.346192+00:00"
+  },
+  {
+    "id": 4893,
+    "resumen": "florencia cargó 16 para Acosta, Maria Sol en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:08:11.635797+00:00"
+  },
+  {
+    "id": 4919,
+    "resumen": "Marcos cargó 55 para Muga, Florencia en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:01:23.849813+00:00"
+  },
+  {
+    "id": 4921,
+    "resumen": "Marcos cargó 60 para Redigonda, Macarena en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:01:42.308285+00:00"
+  },
+  {
+    "id": 4924,
+    "resumen": "Marcos cargó 1 para Galvez, Maria en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:02:06.349732+00:00"
+  },
+  {
+    "id": 4943,
+    "resumen": "Andrea Ortiz cargó 10 en Ingresos del día (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:54:55.627857+00:00"
+  },
+  {
+    "id": 4959,
+    "resumen": "Andrea Ortiz cargó 24 para Murolo, Jonatan en Carga de Solicitudes (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T16:03:33.670417+00:00"
+  },
+  {
     "id": 3283,
     "resumen": "florencia cargó 2 en Ingresos del día (día 2)",
     "updated_by": "florencia",
     "created_at": "2026-11-02T22:04:07.070212+00:00"
+  },
+  {
+    "id": 4646,
+    "resumen": "Andrea Ortiz cargó 35 para Murolo, Jonatan en Carga de Solicitudes (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:31:59.482314+00:00"
+  },
+  {
+    "id": 4661,
+    "resumen": "Andrea Ortiz cargó 17 para Machado, Natalia en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:52:23.062218+00:00"
+  },
+  {
+    "id": 4677,
+    "resumen": "Andrea Ortiz cargó 13 para Andreu, Maira en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:10:42.521149+00:00"
+  },
+  {
+    "id": 4693,
+    "resumen": "Andrea Ortiz cargó 27 para Schiavetti, Alejandro en Carga de Solicitudes (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:56:08.574819+00:00"
+  },
+  {
+    "id": 4711,
+    "resumen": "florencia cargó 27 para Machado, Natalia en Mails Gestionados (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:03:18.764629+00:00"
+  },
+  {
+    "id": 4727,
+    "resumen": "florencia cargó 47 para Machado, Natalia en Mails Gestionados (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:55:35.419547+00:00"
+  },
+  {
+    "id": 4745,
+    "resumen": "Andrea Ortiz cargó 16 para Rodriguez, Valentina en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T13:06:11.827062+00:00"
+  },
+  {
+    "id": 4784,
+    "resumen": "Andrea Ortiz cargó 23 para Capaldi, Camila en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T15:02:28.314368+00:00"
+  },
+  {
+    "id": 4812,
+    "resumen": "Andrea Ortiz cargó 10 para Lanteri, Santiago en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:12:15.064134+00:00"
+  },
+  {
+    "id": 4828,
+    "resumen": "Andrea Ortiz cargó 22 para Andreu, Maira en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:43:04.277104+00:00"
+  },
+  {
+    "id": 4844,
+    "resumen": "Andrea Ortiz cargó 48 para Fazzino, Melisa en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:45:31.475266+00:00"
+  },
+  {
+    "id": 4859,
+    "resumen": "florencia cargó 51 para Rodriguez, Florencia en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T20:01:23.584302+00:00"
+  },
+  {
+    "id": 4861,
+    "resumen": "florencia cargó 0 para Rodriguez, Florencia en Equipo de Apoyo (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T20:01:50.621408+00:00"
+  },
+  {
+    "id": 4876,
+    "resumen": "florencia cargó 42 para Sozio, Marco en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:42:33.563276+00:00"
+  },
+  {
+    "id": 4894,
+    "resumen": "florencia cargó 28 para Beltramo, Giuliana en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:08:49.40592+00:00"
+  },
+  {
+    "id": 4920,
+    "resumen": "Marcos cargó 14 para Scattolini, Melisa en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:01:33.89465+00:00"
+  },
+  {
+    "id": 4922,
+    "resumen": "Marcos cargó 1 para Acosta, Maria Sol en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:01:50.844097+00:00"
+  },
+  {
+    "id": 4925,
+    "resumen": "Marcos cargó 33 para Jovellano, Nicolas en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:02:15.043456+00:00"
+  },
+  {
+    "id": 4944,
+    "resumen": "Andrea Ortiz cargó 15 en Ingresos del día (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:56:20.596327+00:00"
+  },
+  {
+    "id": 4960,
+    "resumen": "Andrea Ortiz cargó 15 para Faccioli, Sofia en Equipo de Apoyo (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T16:27:05.501751+00:00"
   },
   {
     "id": 3285,
@@ -20128,6 +20584,144 @@
     "resumen": "Martin cargó 0 para Navarro, Eugenia en Atención WhatsApp (día 3)",
     "updated_by": "Martin",
     "created_at": "2026-11-04T12:08:37.41623+00:00"
+  },
+  {
+    "id": 4647,
+    "resumen": "Andrea Ortiz cargó 37 para Pascuale, Paula en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:33:51.534064+00:00"
+  },
+  {
+    "id": 4662,
+    "resumen": "Andrea Ortiz cargó 5 para Antonini, Tatiana en Equipo de Apoyo (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:55:12.783213+00:00"
+  },
+  {
+    "id": 4678,
+    "resumen": "Andrea Ortiz cargó 29 para Fazzino, Melisa en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:15:00.970097+00:00"
+  },
+  {
+    "id": 4694,
+    "resumen": "Andrea Ortiz cargó 95 en Ingresos del día (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:56:35.42896+00:00"
+  },
+  {
+    "id": 4695,
+    "resumen": "Andrea Ortiz cargó 36 en Ingresos del día (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:57:01.339295+00:00"
+  },
+  {
+    "id": 4712,
+    "resumen": "florencia cargó 38 para Perez, Melina en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:15:45.380019+00:00"
+  },
+  {
+    "id": 4728,
+    "resumen": "florencia cargó 16 en Ingresos del día (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:57:36.116604+00:00"
+  },
+  {
+    "id": 4730,
+    "resumen": "florencia cargó 128 en Ingresos del día (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:57:56.903209+00:00"
+  },
+  {
+    "id": 4746,
+    "resumen": "Andrea Ortiz cargó 25 en Ingresos del día (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T13:13:51.361804+00:00"
+  },
+  {
+    "id": 4785,
+    "resumen": "Andrea Ortiz cargó 10 para Armua, Gonzalo en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T15:06:34.028184+00:00"
+  },
+  {
+    "id": 4813,
+    "resumen": "Andrea Ortiz cargó 30 para Murolo, Jonatan en Carga de Solicitudes (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:16:16.547234+00:00"
+  },
+  {
+    "id": 4829,
+    "resumen": "florencia cargó 8 para Khoury, Maximiliano en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T17:50:13.567327+00:00"
+  },
+  {
+    "id": 4845,
+    "resumen": "Andrea Ortiz cargó 22 para Galvez, Maria en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:46:34.295492+00:00"
+  },
+  {
+    "id": 4860,
+    "resumen": "florencia cargó 13 para Rodriguez, Florencia en Mails Gestionados (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T20:01:35.646017+00:00"
+  },
+  {
+    "id": 4877,
+    "resumen": "florencia cargó 26 para Ayala, Carolina en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:43:12.996752+00:00"
+  },
+  {
+    "id": 4895,
+    "resumen": "florencia cargó 79 en Ingresos del día (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:09:35.57461+00:00"
+  },
+  {
+    "id": 4896,
+    "resumen": "florencia cargó 55 en Ingresos del día (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:09:41.817154+00:00"
+  },
+  {
+    "id": 4897,
+    "resumen": "florencia cargó 18 en Ingresos del día (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:09:52.494246+00:00"
+  },
+  {
+    "id": 4900,
+    "resumen": "florencia cargó 1 en Ingresos del día (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:10:24.008167+00:00"
+  },
+  {
+    "id": 4923,
+    "resumen": "Marcos cargó 11 para Carpenzano, Micaela en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:01:58.289198+00:00"
+  },
+  {
+    "id": 4926,
+    "resumen": "Marcos cargó 66 para Martinez, Nahuel en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:02:21.647545+00:00"
+  },
+  {
+    "id": 4945,
+    "resumen": "Andrea Ortiz cargó 1 en Ingresos del día (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T14:55:58.089896+00:00"
+  },
+  {
+    "id": 4961,
+    "resumen": "florencia cargó 15 para Redigonda, Macarena en Mails Gestionados (día 19)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-19T16:32:47.889296+00:00"
   },
   {
     "id": 3416,
@@ -22542,6 +23136,138 @@
     "created_at": "2026-11-07T15:08:29.589719+00:00"
   },
   {
+    "id": 4648,
+    "resumen": "Andrea Ortiz cargó 12 para Unno, Catalina en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:37:34.985246+00:00"
+  },
+  {
+    "id": 4663,
+    "resumen": "Andrea Ortiz cargó 3 para Regazzoni, Bruno en Equipo de Apoyo (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:56:47.772488+00:00"
+  },
+  {
+    "id": 4679,
+    "resumen": "Andrea Ortiz cargó 15 para Ravelo, Facundo en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:15:32.699034+00:00"
+  },
+  {
+    "id": 4696,
+    "resumen": "Andrea Ortiz cargó 30 para Rodriguez, Florencia en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:59:45.4414+00:00"
+  },
+  {
+    "id": 4713,
+    "resumen": "florencia cargó 29 para Unno, Catalina en Mails Gestionados (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:18:11.93698+00:00"
+  },
+  {
+    "id": 4729,
+    "resumen": "florencia cargó 6 en Ingresos del día (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:57:44.512014+00:00"
+  },
+  {
+    "id": 4731,
+    "resumen": "florencia cargó 42 en Ingresos del día (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:58:06.208209+00:00"
+  },
+  {
+    "id": 4747,
+    "resumen": "jesica cargó 297 en Autorizaciones (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:37:10.61095+00:00"
+  },
+  {
+    "id": 4786,
+    "resumen": "Andrea Ortiz cargó 27 para Macaudiere, Rocio en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T15:07:07.159022+00:00"
+  },
+  {
+    "id": 4814,
+    "resumen": "Andrea Ortiz cargó 25 para Pascuale, Paula en Mails Gestionados (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:24:55.486097+00:00"
+  },
+  {
+    "id": 4830,
+    "resumen": "florencia cargó 30 para Macaudiere, Rocio en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T17:56:29.317047+00:00"
+  },
+  {
+    "id": 4846,
+    "resumen": "Andrea Ortiz cargó 41 para Sozio, Marco en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:51:19.993719+00:00"
+  },
+  {
+    "id": 4862,
+    "resumen": "florencia cargó 29 para Fernandez, Juan Pablo en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T20:44:42.883483+00:00"
+  },
+  {
+    "id": 4878,
+    "resumen": "florencia cargó 31 para Unno, Catalina en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:45:11.590723+00:00"
+  },
+  {
+    "id": 4898,
+    "resumen": "florencia cargó 39 en Ingresos del día (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:10:04.606922+00:00"
+  },
+  {
+    "id": 4899,
+    "resumen": "florencia cargó 12 en Ingresos del día (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:10:16.288656+00:00"
+  },
+  {
+    "id": 4927,
+    "resumen": "Marcos cargó 55 para Carpensano, Paula en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:02:56.538814+00:00"
+  },
+  {
+    "id": 4930,
+    "resumen": "Marcos cargó 18 para Barroso, Valeria en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:03:19.783185+00:00"
+  },
+  {
+    "id": 4931,
+    "resumen": "Marcos cargó 14 para Rodriguez, Valentina en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:03:27.459264+00:00"
+  },
+  {
+    "id": 4946,
+    "resumen": "Andrea Ortiz cargó 18 para Murolo, Jonatan en Carga de Solicitudes (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T14:58:05.534278+00:00"
+  },
+  {
+    "id": 4947,
+    "resumen": "Andrea Ortiz cargó 26 para Gonzalez, Ma. De los Angeles en Carga de Solicitudes (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T14:58:29.438547+00:00"
+  },
+  {
+    "id": 4962,
+    "resumen": "florencia cargó 36 para Scattolini, Melisa en Soporte Eventual (día 19)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-19T16:41:38.144647+00:00"
+  },
+  {
     "id": 3820,
     "resumen": "Mateo Ocanto cargó 38 en Ingresos del día (día 5)",
     "updated_by": "Mateo Ocanto",
@@ -22558,6 +23284,138 @@
     "resumen": "Mateo Ocanto cargó 10 en Derivaciones del día (día 6)",
     "updated_by": "Mateo Ocanto",
     "created_at": "2026-11-07T15:07:21.567808+00:00"
+  },
+  {
+    "id": 4649,
+    "resumen": "florencia cargó 5 para Venturino, Milagros en Redes Respondidos (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T17:37:55.491645+00:00"
+  },
+  {
+    "id": 4664,
+    "resumen": "Andrea Ortiz cargó 36 para Sozio, Marco en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:57:54.595015+00:00"
+  },
+  {
+    "id": 4680,
+    "resumen": "Andrea Ortiz cargó 13 para Grassi, Jesica en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:18:11.567118+00:00"
+  },
+  {
+    "id": 4697,
+    "resumen": "Andrea Ortiz cargó 19 para Zappacosta, Antonela en Línea 7075 (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T19:01:52.373349+00:00"
+  },
+  {
+    "id": 4714,
+    "resumen": "florencia cargó 10 para Franco, Sybela Maria en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:19:19.200783+00:00"
+  },
+  {
+    "id": 4732,
+    "resumen": "florencia cargó 3 en Ingresos del día (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:58:15.753304+00:00"
+  },
+  {
+    "id": 4748,
+    "resumen": "jesica cargó 577 en General (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:38:15.508335+00:00"
+  },
+  {
+    "id": 4787,
+    "resumen": "Andrea Ortiz cargó 26 para Rodriguez, Florencia en Mails Gestionados (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T15:37:14.722786+00:00"
+  },
+  {
+    "id": 4815,
+    "resumen": "Andrea Ortiz cargó 10 para Unno, Catalina en Mails Gestionados (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:25:36.100127+00:00"
+  },
+  {
+    "id": 4831,
+    "resumen": "Andrea Ortiz cargó 35 para Murolo, Jonatan en Carga de Solicitudes (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:05:49.015688+00:00"
+  },
+  {
+    "id": 4847,
+    "resumen": "Andrea Ortiz cargó 10 para Ayala, Carolina en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:52:58.007174+00:00"
+  },
+  {
+    "id": 4863,
+    "resumen": "florencia cargó 24 para Ravelo, Facundo en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T20:46:51.352126+00:00"
+  },
+  {
+    "id": 4879,
+    "resumen": "florencia cargó 44 para Pierini, Clementina en Carga de Solicitudes (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:48:00.131052+00:00"
+  },
+  {
+    "id": 4901,
+    "resumen": "Mateo Ocanto cargó 246 en Derivaciones del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T10:28:17.550238+00:00"
+  },
+  {
+    "id": 4928,
+    "resumen": "Marcos cargó 1 para Ludueña, Rocio del Valle en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:03:05.403003+00:00"
+  },
+  {
+    "id": 4932,
+    "resumen": "Marcos cargó 1 para Rubiolo, Valentina en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:03:33.019761+00:00"
+  },
+  {
+    "id": 4933,
+    "resumen": "Marcos cargó 29 para Clausen, Valeria en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:03:39.51254+00:00"
+  },
+  {
+    "id": 4948,
+    "resumen": "Andrea Ortiz cargó 18 para Pascuale, Paula en Mails Gestionados (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T14:59:10.942508+00:00"
+  },
+  {
+    "id": 4963,
+    "resumen": "Mateo Ocanto cargó 141 en Ingresos del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:46:29.304744+00:00"
+  },
+  {
+    "id": 4965,
+    "resumen": "Mateo Ocanto cargó 60 en Ingresos del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:46:43.701988+00:00"
+  },
+  {
+    "id": 4968,
+    "resumen": "Mateo Ocanto cargó 141 en Ingresos del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:46:59.962166+00:00"
+  },
+  {
+    "id": 4972,
+    "resumen": "Mateo Ocanto cargó 53 en Ingresos del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:47:23.630588+00:00"
   },
   {
     "id": 3822,
@@ -22972,6 +23830,156 @@
     "resumen": "Mateo Ocanto cargó 21 en Ingresos del día (día 9)",
     "updated_by": "Mateo Ocanto",
     "created_at": "2026-11-10T16:49:22.716846+00:00"
+  },
+  {
+    "id": 4650,
+    "resumen": "Andrea Ortiz cargó 27 para Culcuy, Yenit en Línea 7075 (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:39:33.578795+00:00"
+  },
+  {
+    "id": 4665,
+    "resumen": "Andrea Ortiz cargó 8 para Beltramo, Giuliana en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:58:41.317075+00:00"
+  },
+  {
+    "id": 4681,
+    "resumen": "Andrea Ortiz cargó 6 para Elias, Nair en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:21:38.029127+00:00"
+  },
+  {
+    "id": 4698,
+    "resumen": "Andrea Ortiz cargó 10 para Elias, Nair en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T19:03:32.761334+00:00"
+  },
+  {
+    "id": 4699,
+    "resumen": "Andrea Ortiz cargó 19 para Faccioli, Sofia en Equipo de Apoyo (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T19:04:17.006734+00:00"
+  },
+  {
+    "id": 4715,
+    "resumen": "florencia cargó 8 para Eguiazu, Agustina en Equipo de Apoyo (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:20:42.242279+00:00"
+  },
+  {
+    "id": 4733,
+    "resumen": "florencia cargó 167 en Ingresos del día (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:58:34.048049+00:00"
+  },
+  {
+    "id": 4749,
+    "resumen": "jesica cargó 36 para Monzón, Andrea en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:42:24.121526+00:00"
+  },
+  {
+    "id": 4752,
+    "resumen": "jesica cargó 38 para Prieto, Bruno Rene en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:43:21.427921+00:00"
+  },
+  {
+    "id": 4788,
+    "resumen": "florencia cargó 6 para Venturino, Milagros en Redes Respondidos (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T16:15:38.11926+00:00"
+  },
+  {
+    "id": 4816,
+    "resumen": "Andrea Ortiz cargó 12 en Ingresos del día (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:30:19.756735+00:00"
+  },
+  {
+    "id": 4832,
+    "resumen": "Andrea Ortiz cargó 38 para Murolo, Jonatan en Carga de Solicitudes (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:27:22.352303+00:00"
+  },
+  {
+    "id": 4848,
+    "resumen": "Andrea Ortiz cargó 24 para Zappacosta, Antonela en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:53:48.610528+00:00"
+  },
+  {
+    "id": 4864,
+    "resumen": "florencia cargó 27 para Lanteri, Santiago en Línea 7075 (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:00:24.006282+00:00"
+  },
+  {
+    "id": 4880,
+    "resumen": "florencia cargó 51 para Pierini, Clementina en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:52:03.234566+00:00"
+  },
+  {
+    "id": 4881,
+    "resumen": "florencia cargó 7 para Pierini, Clementina en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:52:05.854406+00:00"
+  },
+  {
+    "id": 4902,
+    "resumen": "Andrea Ortiz cargó 5 en Ingresos del día (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T12:20:12.510005+00:00"
+  },
+  {
+    "id": 4929,
+    "resumen": "Marcos cargó 1 para Antonini, Tatiana en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T13:03:13.368019+00:00"
+  },
+  {
+    "id": 4949,
+    "resumen": "Andrea Ortiz cargó 24 para Capaldi, Camila en Soporte Eventual (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T15:04:50.235936+00:00"
+  },
+  {
+    "id": 4964,
+    "resumen": "Mateo Ocanto cargó 28 en Derivaciones del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:46:34.022549+00:00"
+  },
+  {
+    "id": 4967,
+    "resumen": "Mateo Ocanto cargó 1 en Derivaciones del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:46:49.624758+00:00"
+  },
+  {
+    "id": 4971,
+    "resumen": "Mateo Ocanto cargó 181 en Derivaciones del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:47:16.826062+00:00"
+  },
+  {
+    "id": 4973,
+    "resumen": "Mateo Ocanto cargó 8 en Derivaciones del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:47:28.103184+00:00"
+  },
+  {
+    "id": 4976,
+    "resumen": "Mateo Ocanto cargó 43 en Ingresos del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:47:45.753782+00:00"
+  },
+  {
+    "id": 4977,
+    "resumen": "Mateo Ocanto cargó 11 en Ingresos del día (día 19)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:47:50.479956+00:00"
   },
   {
     "id": 3897,
@@ -24238,5 +25246,4211 @@
     "resumen": "Mateo Ocanto cargó 0 en Derivaciones del día (día 11)",
     "updated_by": "Mateo Ocanto",
     "created_at": "2026-11-12T14:19:58.540755+00:00"
+  },
+  {
+    "id": 4111,
+    "resumen": "Mateo Ocanto cargó 140 en Ingresos del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:44:24.589819+00:00"
+  },
+  {
+    "id": 4112,
+    "resumen": "Mateo Ocanto cargó 48 en Derivaciones del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:44:34.987309+00:00"
+  },
+  {
+    "id": 4113,
+    "resumen": "Mateo Ocanto cargó 53 en Ingresos del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:44:39.658788+00:00"
+  },
+  {
+    "id": 4114,
+    "resumen": "Mateo Ocanto cargó 1 en Derivaciones del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:44:43.007705+00:00"
+  },
+  {
+    "id": 4115,
+    "resumen": "Mateo Ocanto cargó 20 en Ingresos del día (día 9)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:44:50.722242+00:00"
+  },
+  {
+    "id": 4116,
+    "resumen": "Mateo Ocanto cargó 787 en Derivaciones del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:44:56.142832+00:00"
+  },
+  {
+    "id": 4117,
+    "resumen": "Mateo Ocanto cargó 77 en Ingresos del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:45:07.427864+00:00"
+  },
+  {
+    "id": 4118,
+    "resumen": "Mateo Ocanto cargó 5 en Ingresos del día (día 12)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:45:25.848246+00:00"
+  },
+  {
+    "id": 4119,
+    "resumen": "Mateo Ocanto cargó 5 en Derivaciones del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:45:28.900213+00:00"
+  },
+  {
+    "id": 4120,
+    "resumen": "Mateo Ocanto cargó 34 en Ingresos del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:45:43.999182+00:00"
+  },
+  {
+    "id": 4121,
+    "resumen": "Mateo Ocanto cargó 1 en Ingresos del día (día 12)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:45:47.574878+00:00"
+  },
+  {
+    "id": 4122,
+    "resumen": "Mateo Ocanto cargó 1 en Ingresos del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:46:24.176505+00:00"
+  },
+  {
+    "id": 4123,
+    "resumen": "Mateo Ocanto cargó 120 en Ingresos del día (día 11)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:46:30.781233+00:00"
+  },
+  {
+    "id": 4124,
+    "resumen": "Mateo Ocanto cargó 126 en Ingresos del día (día 10)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:46:33.899313+00:00"
+  },
+  {
+    "id": 4125,
+    "resumen": "Mateo Ocanto cargó 42 en Ingresos del día (día 12)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-12T16:46:52.656929+00:00"
+  },
+  {
+    "id": 4126,
+    "resumen": "florencia cargó 15 para Regazzoni, Bruno en Equipo de Apoyo (día 11)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-12T17:01:00.889472+00:00"
+  },
+  {
+    "id": 4127,
+    "resumen": "Andrea Ortiz cargó 83 para Laperchia, Solana en Carga de Solicitudes (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T17:06:44.307057+00:00"
+  },
+  {
+    "id": 4128,
+    "resumen": "Andrea Ortiz cargó 21 para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T17:16:01.19584+00:00"
+  },
+  {
+    "id": 4129,
+    "resumen": "Andrea Ortiz cargó 34 para Murolo, Jonatan en Carga de Solicitudes (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T17:21:19.494396+00:00"
+  },
+  {
+    "id": 4130,
+    "resumen": "Andrea Ortiz cargó 29 para Pascuale, Paula en Mails Gestionados (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T17:22:16.21825+00:00"
+  },
+  {
+    "id": 4131,
+    "resumen": "David cargó 611 en General (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:23:16.915036+00:00"
+  },
+  {
+    "id": 4132,
+    "resumen": "David cargó 225 en Autorizaciones (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:23:18.74017+00:00"
+  },
+  {
+    "id": 4133,
+    "resumen": "Andrea Ortiz cargó 15 para Redigonda, Macarena en Mails Gestionados (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T17:24:26.896559+00:00"
+  },
+  {
+    "id": 4134,
+    "resumen": "Andrea Ortiz cargó 33 para Menotti, Aranda Giuliana en Línea 7075 (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T17:25:28.279246+00:00"
+  },
+  {
+    "id": 4135,
+    "resumen": "David cargó 28 para Monzón, Andrea en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:27:55.551621+00:00"
+  },
+  {
+    "id": 4136,
+    "resumen": "David cargó 45 para Zini, Ayelen en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:28:01.691408+00:00"
+  },
+  {
+    "id": 4137,
+    "resumen": "David cargó 85 para Schiavetti, Alejandro en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:28:08.387237+00:00"
+  },
+  {
+    "id": 4138,
+    "resumen": "David cargó 21 para Romagnoli, Brisa en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:28:20.876931+00:00"
+  },
+  {
+    "id": 4139,
+    "resumen": "David cargó 38 para Prieto, Bruno Rene en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:28:25.568308+00:00"
+  },
+  {
+    "id": 4140,
+    "resumen": "David cargó 54 para Ayala, Carolina en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:28:29.556623+00:00"
+  },
+  {
+    "id": 4141,
+    "resumen": "David cargó 6 para Capaldi, Camila en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:28:42.985309+00:00"
+  },
+  {
+    "id": 4142,
+    "resumen": "David cargó 37 para Pierini, Clementina en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:28:47.838017+00:00"
+  },
+  {
+    "id": 4143,
+    "resumen": "David cargó 9 para Unno, Catalina en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:28:54.110741+00:00"
+  },
+  {
+    "id": 4144,
+    "resumen": "David cargó 53 para Dayer, Federico en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:28:59.192469+00:00"
+  },
+  {
+    "id": 4145,
+    "resumen": "David cargó 3 para Barduca, Flavia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:29:03.80428+00:00"
+  },
+  {
+    "id": 4146,
+    "resumen": "David cargó 23 para Jaure, Florencia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:29:09.899538+00:00"
+  },
+  {
+    "id": 4147,
+    "resumen": "Andrea Ortiz cargó 33 para Culcuy, Yenit en Línea 7075 (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T17:29:16.577305+00:00"
+  },
+  {
+    "id": 4148,
+    "resumen": "David cargó 8 para Giudice, Franco en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:29:19.978049+00:00"
+  },
+  {
+    "id": 4149,
+    "resumen": "David cargó 35 para Ravelo, Facundo en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:29:24.577011+00:00"
+  },
+  {
+    "id": 4150,
+    "resumen": "David cargó 44 para Mazzolari, Fiorella en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:29:28.485193+00:00"
+  },
+  {
+    "id": 4151,
+    "resumen": "David cargó 59 para Schdmit, Flavia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:29:34.85988+00:00"
+  },
+  {
+    "id": 4152,
+    "resumen": "David cargó 11 para Armua, Gonzalo en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:29:39.614484+00:00"
+  },
+  {
+    "id": 4153,
+    "resumen": "David cargó 45 para Sovrano, Gerónimo en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:29:43.049622+00:00"
+  },
+  {
+    "id": 4154,
+    "resumen": "David cargó 37 para Viñas, Julieta Sofia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:29:56.983271+00:00"
+  },
+  {
+    "id": 4155,
+    "resumen": "David cargó 35 para Khoury, Maximiliano en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:30:12.056166+00:00"
+  },
+  {
+    "id": 4156,
+    "resumen": "David cargó 51 para Muga, Florencia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:30:17.003982+00:00"
+  },
+  {
+    "id": 4157,
+    "resumen": "David cargó 40 para Fazzino, Melisa en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:30:22.710891+00:00"
+  },
+  {
+    "id": 4158,
+    "resumen": "David cargó 4 para Scattolini, Melisa en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:30:26.387316+00:00"
+  },
+  {
+    "id": 4903,
+    "resumen": "Marcos cargó 319 en Autorizaciones (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:44:32.943829+00:00"
+  },
+  {
+    "id": 4159,
+    "resumen": "David cargó 7 para Acosta, Maria Sol en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:30:29.676189+00:00"
+  },
+  {
+    "id": 4165,
+    "resumen": "David cargó 11 para Barroso, Valeria en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:31:17.743517+00:00"
+  },
+  {
+    "id": 4651,
+    "resumen": "Andrea Ortiz cargó 17 para Zappacosta, Antonela en Línea 7075 (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:40:40.119953+00:00"
+  },
+  {
+    "id": 4666,
+    "resumen": "Andrea Ortiz cargó 10 para García, Lorenzo en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:59:27.416032+00:00"
+  },
+  {
+    "id": 4682,
+    "resumen": "Andrea Ortiz cargó 14 para Faccioli, Sofia en Equipo de Apoyo (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:22:36.751948+00:00"
+  },
+  {
+    "id": 4700,
+    "resumen": "Andrea Ortiz cargó 43 para Sozio, Marco en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T19:05:45.874665+00:00"
+  },
+  {
+    "id": 4716,
+    "resumen": "florencia cargó 8 para Zini, Ayelen en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:26:46.112745+00:00"
+  },
+  {
+    "id": 4734,
+    "resumen": "florencia cargó 13 para Zini, Ayelen en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T22:00:57.689237+00:00"
+  },
+  {
+    "id": 4750,
+    "resumen": "jesica cargó 6 para Tallafer, Abril en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:42:50.740604+00:00"
+  },
+  {
+    "id": 4751,
+    "resumen": "jesica cargó 30 para Regazzoni, Bruno en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:43:07.138325+00:00"
+  },
+  {
+    "id": 4789,
+    "resumen": "Mateo Ocanto cargó 204 en Ingresos del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:33:08.952582+00:00"
+  },
+  {
+    "id": 4792,
+    "resumen": "Mateo Ocanto cargó 2 en Derivaciones del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:33:21.076403+00:00"
+  },
+  {
+    "id": 4795,
+    "resumen": "Mateo Ocanto cargó 24 en Ingresos del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:34:00.232616+00:00"
+  },
+  {
+    "id": 4796,
+    "resumen": "Mateo Ocanto cargó 84 en Ingresos del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:34:03.242722+00:00"
+  },
+  {
+    "id": 4798,
+    "resumen": "Mateo Ocanto cargó 44 en Ingresos del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:34:25.564069+00:00"
+  },
+  {
+    "id": 4801,
+    "resumen": "Mateo Ocanto cargó 17 en Ingresos del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:34:50.167113+00:00"
+  },
+  {
+    "id": 4802,
+    "resumen": "Mateo Ocanto cargó 1 para Courault, Bautista en Soporte Eventual (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:35:08.865075+00:00"
+  },
+  {
+    "id": 4817,
+    "resumen": "Andrea Ortiz cargó 42 para Rodriguez, Florencia en Mails Gestionados (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:32:09.773593+00:00"
+  },
+  {
+    "id": 4833,
+    "resumen": "Andrea Ortiz cargó 47 para Rodriguez, Florencia en Mails Gestionados (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:28:38.985433+00:00"
+  },
+  {
+    "id": 4849,
+    "resumen": "Andrea Ortiz cargó 9 para Clausen, Valeria en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T19:00:13.185345+00:00"
+  },
+  {
+    "id": 4865,
+    "resumen": "florencia cargó 33 para Alvado, Gisela en Línea 7075 (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:01:22.357493+00:00"
+  },
+  {
+    "id": 4882,
+    "resumen": "florencia cargó 46 para Pierini, Clementina en Carga de Solicitudes (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:52:12.754747+00:00"
+  },
+  {
+    "id": 4904,
+    "resumen": "Marcos cargó 527 en General (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:45:18.346038+00:00"
+  },
+  {
+    "id": 4934,
+    "resumen": "Andrea Ortiz cargó 4 en Ingresos del día (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:12:42.215394+00:00"
+  },
+  {
+    "id": 4950,
+    "resumen": "florencia cargó 22 para Rodriguez, Valentina en Soporte Eventual (día 19)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-19T15:13:48.098281+00:00"
+  },
+  {
+    "id": 4966,
+    "resumen": "Mateo Ocanto cargó 8 en Ingresos del día (día 19)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:46:47.239196+00:00"
+  },
+  {
+    "id": 4969,
+    "resumen": "Mateo Ocanto cargó 201 en Ingresos del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:47:06.844121+00:00"
+  },
+  {
+    "id": 4970,
+    "resumen": "Mateo Ocanto cargó 37 en Ingresos del día (día 19)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:47:11.43638+00:00"
+  },
+  {
+    "id": 4974,
+    "resumen": "Mateo Ocanto cargó 13 en Ingresos del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:47:36.725907+00:00"
+  },
+  {
+    "id": 4975,
+    "resumen": "Mateo Ocanto cargó 1 en Ingresos del día (día 19)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:47:39.170395+00:00"
+  },
+  {
+    "id": 4978,
+    "resumen": "Mateo Ocanto cargó 51 para Scattolini, Melisa en Soporte Eventual (día 19)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:48:24.050188+00:00"
+  },
+  {
+    "id": 4160,
+    "resumen": "David cargó 4 para Carpenzano, Micaela en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:30:44.074342+00:00"
+  },
+  {
+    "id": 4161,
+    "resumen": "David cargó 47 para Carpensano, Paula en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:30:57.375552+00:00"
+  },
+  {
+    "id": 4164,
+    "resumen": "David cargó 15 para Antonini, Tatiana en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:31:13.308473+00:00"
+  },
+  {
+    "id": 4166,
+    "resumen": "David cargó 45 para Rubiolo, Valentina en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:31:23.346308+00:00"
+  },
+  {
+    "id": 4167,
+    "resumen": "David cargó 42 para Rubiolo, Valentina en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:31:28.021924+00:00"
+  },
+  {
+    "id": 4652,
+    "resumen": "Andrea Ortiz cargó 18 para Lanteri, Santiago en Línea 7075 (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:42:20.040643+00:00"
+  },
+  {
+    "id": 4667,
+    "resumen": "Andrea Ortiz cargó 28 para Redigonda, Macarena en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:00:04.435659+00:00"
+  },
+  {
+    "id": 4668,
+    "resumen": "Andrea Ortiz cargó 0 para Redigonda, Macarena en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:00:12.910082+00:00"
+  },
+  {
+    "id": 4683,
+    "resumen": "Andrea Ortiz cargó 7 para Antonini, Tatiana en Equipo de Apoyo (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:25:54.342767+00:00"
+  },
+  {
+    "id": 4701,
+    "resumen": "Andrea Ortiz cargó 37 para Fazzino, Melisa en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T19:06:24.835027+00:00"
+  },
+  {
+    "id": 4717,
+    "resumen": "florencia cargó 9 para Eguiazu, Agustina en Equipo de Apoyo (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:31:27.544709+00:00"
+  },
+  {
+    "id": 4735,
+    "resumen": "florencia cargó 49 para Machado, Natalia en Mails Gestionados (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T22:02:08.781123+00:00"
+  },
+  {
+    "id": 4753,
+    "resumen": "jesica cargó 29 para Aguilar, Cecilia en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:43:55.142067+00:00"
+  },
+  {
+    "id": 4755,
+    "resumen": "jesica cargó 22 para Capaldi, Camila en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:44:15.300502+00:00"
+  },
+  {
+    "id": 4790,
+    "resumen": "Mateo Ocanto cargó 74 en Derivaciones del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:33:12.409055+00:00"
+  },
+  {
+    "id": 4793,
+    "resumen": "Mateo Ocanto cargó 312 en Ingresos del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:33:39.640153+00:00"
+  },
+  {
+    "id": 4794,
+    "resumen": "Mateo Ocanto cargó 208 en Derivaciones del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:33:46.363606+00:00"
+  },
+  {
+    "id": 4797,
+    "resumen": "Mateo Ocanto cargó 6 en Derivaciones del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:34:07.21247+00:00"
+  },
+  {
+    "id": 4818,
+    "resumen": "Andrea Ortiz cargó 12 para Perri, German en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:33:41.466401+00:00"
+  },
+  {
+    "id": 4834,
+    "resumen": "Andrea Ortiz cargó 40 para Sozio, Marco en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:29:16.9901+00:00"
+  },
+  {
+    "id": 4850,
+    "resumen": "Andrea Ortiz cargó 12 para Antonini, Tatiana en Equipo de Apoyo (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T19:01:16.916098+00:00"
+  },
+  {
+    "id": 4866,
+    "resumen": "florencia cargó 28 para Machado, Natalia en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:02:50.184598+00:00"
+  },
+  {
+    "id": 4883,
+    "resumen": "florencia cargó 47 para Pierini, Clementina en Carga de Solicitudes (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:54:03.987173+00:00"
+  },
+  {
+    "id": 4905,
+    "resumen": "Marcos cargó 61 para Schiavetti, Alejandro en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:53:59.094075+00:00"
+  },
+  {
+    "id": 4907,
+    "resumen": "Marcos cargó 21 para Romagnoli, Brisa en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:54:15.29292+00:00"
+  },
+  {
+    "id": 4935,
+    "resumen": "Andrea Ortiz cargó 14 en Ingresos del día (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:16:46.576995+00:00"
+  },
+  {
+    "id": 4951,
+    "resumen": "florencia cargó 20 para Scattolini, Melisa en Soporte Eventual (día 19)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-19T15:19:51.674178+00:00"
+  },
+  {
+    "id": 4979,
+    "resumen": "Mateo Ocanto cargó 33 para Andreu, Maira en Soporte Eventual (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-19T16:51:46.780823+00:00"
+  },
+  {
+    "id": 4162,
+    "resumen": "David cargó 1 para Macaudiere, Rocio en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:31:01.017275+00:00"
+  },
+  {
+    "id": 4163,
+    "resumen": "David cargó 11 para Riquelme, Sebastian en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:31:05.983271+00:00"
+  },
+  {
+    "id": 4168,
+    "resumen": "David cargó 0 para Acosta, Maria Sol en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:32:04.414353+00:00"
+  },
+  {
+    "id": 4169,
+    "resumen": "David cargó 7 para Acosta, Maria Sol en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:32:05.704573+00:00"
+  },
+  {
+    "id": 4170,
+    "resumen": "David cargó 0 para Antonini, Tatiana en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:32:09.996174+00:00"
+  },
+  {
+    "id": 4171,
+    "resumen": "David cargó 15 para Antonini, Tatiana en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:32:13.327484+00:00"
+  },
+  {
+    "id": 4172,
+    "resumen": "David cargó 0 para Armua, Gonzalo en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:32:16.139699+00:00"
+  },
+  {
+    "id": 4173,
+    "resumen": "David cargó 11 para Armua, Gonzalo en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:32:23.734469+00:00"
+  },
+  {
+    "id": 4174,
+    "resumen": "David cargó 0 para Ayala, Carolina en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:32:36.935792+00:00"
+  },
+  {
+    "id": 4175,
+    "resumen": "David cargó 54 para Ayala, Carolina en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:33:48.552992+00:00"
+  },
+  {
+    "id": 4176,
+    "resumen": "David cargó 0 para Barduca, Flavia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:33:50.49292+00:00"
+  },
+  {
+    "id": 4177,
+    "resumen": "David cargó 3 para Barduca, Flavia en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:33:55.440469+00:00"
+  },
+  {
+    "id": 4178,
+    "resumen": "David cargó 0 para Barroso, Valeria en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:33:58.069998+00:00"
+  },
+  {
+    "id": 4179,
+    "resumen": "David cargó 11 para Barroso, Valeria en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:33:59.952458+00:00"
+  },
+  {
+    "id": 4180,
+    "resumen": "David cargó 0 para Capaldi, Camila en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:05.488037+00:00"
+  },
+  {
+    "id": 4181,
+    "resumen": "David cargó 6 para Bolivar, Martin en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:38.296714+00:00"
+  },
+  {
+    "id": 4182,
+    "resumen": "David cargó 6 para Capaldi, Camila en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:39.421388+00:00"
+  },
+  {
+    "id": 4183,
+    "resumen": "David cargó 0 para Bolivar, Martin en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:42.313786+00:00"
+  },
+  {
+    "id": 4184,
+    "resumen": "David cargó 0 para Carpensano, Paula en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:46.196453+00:00"
+  },
+  {
+    "id": 4185,
+    "resumen": "David cargó 47 para Carpensano, Paula en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:48.333374+00:00"
+  },
+  {
+    "id": 4186,
+    "resumen": "David cargó 0 para Carpenzano, Micaela en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:50.814353+00:00"
+  },
+  {
+    "id": 4187,
+    "resumen": "David cargó 4 para Carpenzano, Micaela en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:53.374231+00:00"
+  },
+  {
+    "id": 4188,
+    "resumen": "David cargó 0 para Dayer, Federico en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:57.199909+00:00"
+  },
+  {
+    "id": 4189,
+    "resumen": "David cargó 53 para Dayer, Federico en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:34:59.230924+00:00"
+  },
+  {
+    "id": 4190,
+    "resumen": "David cargó 0 para Fazzino, Melisa en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:06.825935+00:00"
+  },
+  {
+    "id": 4191,
+    "resumen": "David cargó 40 para Fazzino, Melisa en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:09.333098+00:00"
+  },
+  {
+    "id": 4192,
+    "resumen": "David cargó 0 para Giudice, Franco en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:14.071586+00:00"
+  },
+  {
+    "id": 4193,
+    "resumen": "David cargó 8 para Giudice, Franco en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:16.346652+00:00"
+  },
+  {
+    "id": 4194,
+    "resumen": "David cargó 0 para Jaure, Florencia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:19.133677+00:00"
+  },
+  {
+    "id": 4195,
+    "resumen": "David cargó 23 para Jaure, Florencia en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:21.480388+00:00"
+  },
+  {
+    "id": 4196,
+    "resumen": "David cargó 0 para Khoury, Maximiliano en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:23.972167+00:00"
+  },
+  {
+    "id": 4197,
+    "resumen": "David cargó 35 para Khoury, Maximiliano en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:26.310487+00:00"
+  },
+  {
+    "id": 4198,
+    "resumen": "David cargó 0 para Macaudiere, Rocio en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:29.57944+00:00"
+  },
+  {
+    "id": 4199,
+    "resumen": "David cargó 1 para Macaudiere, Rocio en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:32.25862+00:00"
+  },
+  {
+    "id": 4200,
+    "resumen": "David cargó 0 para Mazzolari, Fiorella en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:35.321014+00:00"
+  },
+  {
+    "id": 4201,
+    "resumen": "David cargó 44 para Mazzolari, Fiorella en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:38.334881+00:00"
+  },
+  {
+    "id": 4202,
+    "resumen": "David cargó 0 para Monzón, Andrea en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:47.581802+00:00"
+  },
+  {
+    "id": 4203,
+    "resumen": "David cargó 28 para Monzón, Andrea en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:50.167872+00:00"
+  },
+  {
+    "id": 4204,
+    "resumen": "David cargó 0 para Muga, Florencia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:52.357779+00:00"
+  },
+  {
+    "id": 4205,
+    "resumen": "David cargó 51 para Muga, Florencia en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:54.62963+00:00"
+  },
+  {
+    "id": 4206,
+    "resumen": "David cargó 0 para Pierini, Clementina en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:35:58.902821+00:00"
+  },
+  {
+    "id": 4207,
+    "resumen": "David cargó 37 para Pierini, Clementina en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:01.41269+00:00"
+  },
+  {
+    "id": 4208,
+    "resumen": "David cargó 0 para Prieto, Bruno Rene en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:04.259183+00:00"
+  },
+  {
+    "id": 4209,
+    "resumen": "David cargó 38 para Prieto, Bruno Rene en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:05.889943+00:00"
+  },
+  {
+    "id": 4210,
+    "resumen": "David cargó 0 para Ravelo, Facundo en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:09.222302+00:00"
+  },
+  {
+    "id": 4211,
+    "resumen": "David cargó 35 para Ravelo, Facundo en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:12.399696+00:00"
+  },
+  {
+    "id": 4212,
+    "resumen": "David cargó 0 para Riquelme, Sebastian en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:15.031462+00:00"
+  },
+  {
+    "id": 4213,
+    "resumen": "David cargó 11 para Riquelme, Sebastian en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:17.071213+00:00"
+  },
+  {
+    "id": 4214,
+    "resumen": "David cargó 0 para Romagnoli, Brisa en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:19.413+00:00"
+  },
+  {
+    "id": 4215,
+    "resumen": "David cargó 21 para Romagnoli, Brisa en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:21.700357+00:00"
+  },
+  {
+    "id": 4216,
+    "resumen": "David cargó 0 para Rubiolo, Valentina en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:24.373219+00:00"
+  },
+  {
+    "id": 4217,
+    "resumen": "David cargó 42 para Rubiolo, Valentina en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:26.392025+00:00"
+  },
+  {
+    "id": 4218,
+    "resumen": "David cargó 0 para Scattolini, Melisa en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:29.896904+00:00"
+  },
+  {
+    "id": 4219,
+    "resumen": "David cargó 4 para Scattolini, Melisa en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:32.285533+00:00"
+  },
+  {
+    "id": 4220,
+    "resumen": "David cargó 0 para Schdmit, Flavia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:34.187294+00:00"
+  },
+  {
+    "id": 4221,
+    "resumen": "David cargó 59 para Schdmit, Flavia en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:41.532689+00:00"
+  },
+  {
+    "id": 4222,
+    "resumen": "David cargó 0 para Schiavetti, Alejandro en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:43.882666+00:00"
+  },
+  {
+    "id": 4223,
+    "resumen": "David cargó 85 para Schiavetti, Alejandro en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:46.020943+00:00"
+  },
+  {
+    "id": 4224,
+    "resumen": "David cargó 0 para Sovrano, Gerónimo en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:49.994773+00:00"
+  },
+  {
+    "id": 4225,
+    "resumen": "David cargó 45 para Sovrano, Gerónimo en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:52.430363+00:00"
+  },
+  {
+    "id": 4226,
+    "resumen": "David cargó 0 para Unno, Catalina en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:55.690299+00:00"
+  },
+  {
+    "id": 4227,
+    "resumen": "David cargó 9 para Unno, Catalina en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:36:58.508146+00:00"
+  },
+  {
+    "id": 4228,
+    "resumen": "David cargó 0 para Viñas, Julieta Sofia en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:37:01.466164+00:00"
+  },
+  {
+    "id": 4229,
+    "resumen": "David cargó 37 para Viñas, Julieta Sofia en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:37:04.029932+00:00"
+  },
+  {
+    "id": 4230,
+    "resumen": "David cargó 0 para Zini, Ayelen en Atención WhatsApp (día 12)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:37:07.623057+00:00"
+  },
+  {
+    "id": 4231,
+    "resumen": "David cargó 45 para Zini, Ayelen en Atención WhatsApp (día 11)",
+    "updated_by": "David",
+    "created_at": "2026-11-12T17:37:11.150094+00:00"
+  },
+  {
+    "id": 4232,
+    "resumen": "Andrea Ortiz cargó 1 para Tallafer, Abril en Soporte Eventual (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T17:47:07.408207+00:00"
+  },
+  {
+    "id": 4233,
+    "resumen": "Andrea Ortiz cargó 2 para Muga, Florencia en Soporte Eventual (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T17:49:23.458068+00:00"
+  },
+  {
+    "id": 4234,
+    "resumen": "florencia cargó 8 para Fernandez, Juan Pablo en Mails Gestionados (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-12T17:50:03.154466+00:00"
+  },
+  {
+    "id": 4235,
+    "resumen": "Andrea Ortiz cargó 22 en Ingresos del día (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T18:30:14.794679+00:00"
+  },
+  {
+    "id": 4236,
+    "resumen": "Andrea Ortiz cargó 88 en Ingresos del día (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T18:30:39.396942+00:00"
+  },
+  {
+    "id": 4237,
+    "resumen": "Andrea Ortiz cargó 9 en Ingresos del día (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-12T18:31:01.277699+00:00"
+  },
+  {
+    "id": 4238,
+    "resumen": "florencia cargó 18 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-12T21:58:36.650332+00:00"
+  },
+  {
+    "id": 4239,
+    "resumen": "florencia cargó 15 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-12T21:58:44.588571+00:00"
+  },
+  {
+    "id": 4240,
+    "resumen": "florencia cargó 14 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-12T21:59:04.268764+00:00"
+  },
+  {
+    "id": 4241,
+    "resumen": "florencia cargó 100 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-12T21:59:18.856316+00:00"
+  },
+  {
+    "id": 4242,
+    "resumen": "florencia cargó 26 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-12T21:59:37.828148+00:00"
+  },
+  {
+    "id": 4243,
+    "resumen": "Fabricio cargó 666 en General (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:32:52.147646+00:00"
+  },
+  {
+    "id": 4244,
+    "resumen": "Fabricio cargó 237 en Autorizaciones (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:32:57.134632+00:00"
+  },
+  {
+    "id": 4245,
+    "resumen": "Fabricio cargó 64 para Schdmit, Flavia en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:33:59.7684+00:00"
+  },
+  {
+    "id": 4246,
+    "resumen": "Fabricio cargó 56 para Fazzino, Melisa en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:34:06.9433+00:00"
+  },
+  {
+    "id": 4247,
+    "resumen": "Fabricio cargó 55 para Pierini, Clementina en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:34:59.858355+00:00"
+  },
+  {
+    "id": 4248,
+    "resumen": "Fabricio cargó 55 para Dayer, Federico en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:35:14.719498+00:00"
+  },
+  {
+    "id": 4249,
+    "resumen": "Fabricio cargó 47 para Ayala, Carolina en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:35:24.203978+00:00"
+  },
+  {
+    "id": 4250,
+    "resumen": "Fabricio cargó 45 para Prieto, Bruno Rene en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:35:31.702011+00:00"
+  },
+  {
+    "id": 4251,
+    "resumen": "Fabricio cargó 45 para Carpensano, Paula en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:35:41.178325+00:00"
+  },
+  {
+    "id": 4252,
+    "resumen": "Fabricio cargó 41 para Monzón, Andrea en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:35:50.994023+00:00"
+  },
+  {
+    "id": 4253,
+    "resumen": "Fabricio cargó 40 para Jaure, Florencia en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:35:57.080345+00:00"
+  },
+  {
+    "id": 4254,
+    "resumen": "Fabricio cargó 37 para Sovrano, Gerónimo en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:36:08.741314+00:00"
+  },
+  {
+    "id": 4255,
+    "resumen": "Fabricio cargó 35 para Mazzolari, Fiorella en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:36:15.808955+00:00"
+  },
+  {
+    "id": 4256,
+    "resumen": "Fabricio cargó 34 para Viñas, Julieta Sofia en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:36:25.105536+00:00"
+  },
+  {
+    "id": 4257,
+    "resumen": "Fabricio cargó 34 para Venturino, Milagros en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:36:36.227292+00:00"
+  },
+  {
+    "id": 4258,
+    "resumen": "Fabricio cargó 33 para Khoury, Maximiliano en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:36:44.0764+00:00"
+  },
+  {
+    "id": 4259,
+    "resumen": "Fabricio cargó 32 para Beltramo, Giuliana en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:36:52.488136+00:00"
+  },
+  {
+    "id": 4260,
+    "resumen": "Fabricio cargó 31 para Rubiolo, Valentina en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:37:00.954234+00:00"
+  },
+  {
+    "id": 4261,
+    "resumen": "Fabricio cargó 29 para Rodriguez, Valentina en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:37:12.002036+00:00"
+  },
+  {
+    "id": 4262,
+    "resumen": "Fabricio cargó 26 para Redigonda, Macarena en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:37:26.683687+00:00"
+  },
+  {
+    "id": 4263,
+    "resumen": "Fabricio cargó 22 para Muga, Florencia en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:37:34.391752+00:00"
+  },
+  {
+    "id": 4264,
+    "resumen": "Fabricio cargó 20 para Unno, Catalina en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:37:40.96343+00:00"
+  },
+  {
+    "id": 4265,
+    "resumen": "Fabricio cargó 19 para Zini, Ayelen en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:37:47.210682+00:00"
+  },
+  {
+    "id": 4266,
+    "resumen": "Fabricio cargó 17 para Giavelli, Ma. Florencia en Atención WhatsApp (día 17)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:38:05.820346+00:00"
+  },
+  {
+    "id": 4267,
+    "resumen": "Fabricio cargó 16 para Aguilar, Cecilia en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:38:21.171938+00:00"
+  },
+  {
+    "id": 4268,
+    "resumen": "Fabricio cargó 16 para Machado, Natalia en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:44:55.668841+00:00"
+  },
+  {
+    "id": 4269,
+    "resumen": "Fabricio cargó 15 para Riquelme, Sebastian en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:45:01.273012+00:00"
+  },
+  {
+    "id": 4270,
+    "resumen": "Fabricio cargó 12 para Barroso, Valeria en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:45:08.96162+00:00"
+  },
+  {
+    "id": 4271,
+    "resumen": "Fabricio cargó 11 para Regazzoni, Bruno en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:45:17.082554+00:00"
+  },
+  {
+    "id": 4272,
+    "resumen": "Fabricio cargó 8 para Jovellano, Nicolas en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:45:22.874946+00:00"
+  },
+  {
+    "id": 4273,
+    "resumen": "Fabricio cargó 7 para Acosta, Maria Sol en Atención WhatsApp (día 12)",
+    "updated_by": "Fabricio",
+    "created_at": "2026-11-13T12:45:31.797215+00:00"
+  },
+  {
+    "id": 4274,
+    "resumen": "Andrea Ortiz cargó 36 para Murolo, Jonatan en Carga de Solicitudes (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T13:42:19.211708+00:00"
+  },
+  {
+    "id": 4275,
+    "resumen": "Andrea Ortiz cargó 35 en Ingresos del día (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:05:13.047099+00:00"
+  },
+  {
+    "id": 4276,
+    "resumen": "Andrea Ortiz cargó 102 en Ingresos del día (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:05:42.081613+00:00"
+  },
+  {
+    "id": 4277,
+    "resumen": "Andrea Ortiz cargó 2 para Redigonda, Macarena en Carga de Solicitudes (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:27:38.499844+00:00"
+  },
+  {
+    "id": 4278,
+    "resumen": "Andrea Ortiz cargó 31 para Pascuale, Paula en Mails Gestionados (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:28:39.374647+00:00"
+  },
+  {
+    "id": 4279,
+    "resumen": "Andrea Ortiz cargó 12 para Unno, Catalina en Mails Gestionados (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:36:36.228217+00:00"
+  },
+  {
+    "id": 4280,
+    "resumen": "Andrea Ortiz cargó 13 para Rodriguez, Florencia en Equipo de Apoyo (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:39:05.1213+00:00"
+  },
+  {
+    "id": 4281,
+    "resumen": "Andrea Ortiz cargó 8 para Lanteri, Santiago en Línea 7075 (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:47:18.383306+00:00"
+  },
+  {
+    "id": 4282,
+    "resumen": "Andrea Ortiz cargó 9 para Alvado, Gisela en Línea 7075 (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:47:53.760622+00:00"
+  },
+  {
+    "id": 4283,
+    "resumen": "Andrea Ortiz cargó 3 para Eguiazu, Agustina en Equipo de Apoyo (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:53:13.02404+00:00"
+  },
+  {
+    "id": 4284,
+    "resumen": "Andrea Ortiz cargó 5 para Faccioli, Sofia en Equipo de Apoyo (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:53:42.181665+00:00"
+  },
+  {
+    "id": 4285,
+    "resumen": "Andrea Ortiz cargó 3 para Ludueña, Rocio del Valle en Soporte Eventual (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:57:28.442044+00:00"
+  },
+  {
+    "id": 4286,
+    "resumen": "Andrea Ortiz cargó 4 para Schneider, Astrid en Línea 7075 (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T14:59:53.585403+00:00"
+  },
+  {
+    "id": 4287,
+    "resumen": "Andrea Ortiz cargó 7 para Venturino, Milagros en Mails Gestionados (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T15:02:42.456003+00:00"
+  },
+  {
+    "id": 4288,
+    "resumen": "Andrea Ortiz cargó 4 para Ludueña, Rocio del Valle en Soporte Eventual (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T15:36:36.241364+00:00"
+  },
+  {
+    "id": 4289,
+    "resumen": "Andrea Ortiz cargó 4 para Venturino, Milagros en Redes Respondidos (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T16:03:44.489161+00:00"
+  },
+  {
+    "id": 4290,
+    "resumen": "Andrea Ortiz cargó 7 para Venturino, Milagros en Mails Gestionados (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T16:04:49.404945+00:00"
+  },
+  {
+    "id": 4291,
+    "resumen": "Andrea Ortiz cargó 0 para Venturino, Milagros en Mails Gestionados (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T16:04:57.604513+00:00"
+  },
+  {
+    "id": 4292,
+    "resumen": "Andrea Ortiz cargó 15 para Venturino, Milagros en Mails Gestionados (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T16:05:48.497151+00:00"
+  },
+  {
+    "id": 4293,
+    "resumen": "Andrea Ortiz cargó 43 para Laperchia, Solana en Carga de Solicitudes (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T17:57:28.286412+00:00"
+  },
+  {
+    "id": 4294,
+    "resumen": "Andrea Ortiz cargó 13 para Gonzalez, Ma. De los Angeles en Carga de Solicitudes (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:05:03.446076+00:00"
+  },
+  {
+    "id": 4295,
+    "resumen": "Andrea Ortiz cargó 22 para Murolo, Jonatan en Carga de Solicitudes (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:06:54.983346+00:00"
+  },
+  {
+    "id": 4296,
+    "resumen": "Andrea Ortiz cargó 24 para Redigonda, Macarena en Carga de Solicitudes (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:14:30.308416+00:00"
+  },
+  {
+    "id": 4297,
+    "resumen": "Andrea Ortiz cargó 10 para Pascuale, Paula en Mails Gestionados (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:18:27.328082+00:00"
+  },
+  {
+    "id": 4298,
+    "resumen": "Andrea Ortiz cargó 10 para Perez, Melina en Mails Gestionados (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:19:34.348059+00:00"
+  },
+  {
+    "id": 4299,
+    "resumen": "Andrea Ortiz cargó 14 para Jaure, Florencia en Mails Gestionados (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:21:35.418262+00:00"
+  },
+  {
+    "id": 4300,
+    "resumen": "Andrea Ortiz cargó 10 para Menotti, Aranda Giuliana en Línea 7075 (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:23:58.615955+00:00"
+  },
+  {
+    "id": 4301,
+    "resumen": "Andrea Ortiz cargó 14 para Culcuy, Yenit en Línea 7075 (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:25:33.482026+00:00"
+  },
+  {
+    "id": 4302,
+    "resumen": "Andrea Ortiz cargó 18 para Alvado, Gisela en Línea 7075 (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:26:50.613416+00:00"
+  },
+  {
+    "id": 4303,
+    "resumen": "Andrea Ortiz cargó 9 para Lanteri, Santiago en Línea 7075 (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:27:17.161505+00:00"
+  },
+  {
+    "id": 4304,
+    "resumen": "Andrea Ortiz cargó 10 para Eguiazu, Agustina en Equipo de Apoyo (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:31:01.823735+00:00"
+  },
+  {
+    "id": 4305,
+    "resumen": "Andrea Ortiz cargó 14 para Faccioli, Sofia en Equipo de Apoyo (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:32:10.300879+00:00"
+  },
+  {
+    "id": 4306,
+    "resumen": "Andrea Ortiz cargó 15 para Cosimano, Ivana en Soporte Eventual (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:33:41.922551+00:00"
+  },
+  {
+    "id": 4307,
+    "resumen": "Andrea Ortiz cargó 11 para Carello, Belen en Soporte Eventual (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:34:24.16691+00:00"
+  },
+  {
+    "id": 4308,
+    "resumen": "Andrea Ortiz cargó 2 para Di Napoli, Evelina en Soporte Eventual (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:35:04.687744+00:00"
+  },
+  {
+    "id": 4309,
+    "resumen": "Andrea Ortiz cargó 9 para Macaudiere, Rocio en Soporte Eventual (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:37:19.841695+00:00"
+  },
+  {
+    "id": 4310,
+    "resumen": "Andrea Ortiz cargó 11 para Regazzoni, Bruno en Equipo de Apoyo (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:38:05.097807+00:00"
+  },
+  {
+    "id": 4311,
+    "resumen": "Andrea Ortiz cargó 14 para Beltramo, Giuliana en Soporte Eventual (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:38:59.080778+00:00"
+  },
+  {
+    "id": 4312,
+    "resumen": "Andrea Ortiz cargó 12 para Machado, Natalia en Mails Gestionados (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:40:31.995337+00:00"
+  },
+  {
+    "id": 4313,
+    "resumen": "Andrea Ortiz cargó 35 en Ingresos del día (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:41:36.739232+00:00"
+  },
+  {
+    "id": 4314,
+    "resumen": "Andrea Ortiz cargó 36 en Ingresos del día (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:41:45.241029+00:00"
+  },
+  {
+    "id": 4315,
+    "resumen": "Andrea Ortiz cargó 17 para Faccioli, Sofia en Equipo de Apoyo (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:43:38.065798+00:00"
+  },
+  {
+    "id": 4316,
+    "resumen": "Andrea Ortiz cargó 18 para Jaure, Florencia en Mails Gestionados (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:46:00.085297+00:00"
+  },
+  {
+    "id": 4317,
+    "resumen": "Andrea Ortiz cargó 28 para Murolo, Jonatan en Carga de Solicitudes (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:47:03.91568+00:00"
+  },
+  {
+    "id": 4318,
+    "resumen": "Andrea Ortiz cargó 29 para Murolo, Jonatan en Carga de Solicitudes (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:48:46.575677+00:00"
+  },
+  {
+    "id": 4319,
+    "resumen": "Andrea Ortiz cargó 30 para Murolo, Jonatan en Carga de Solicitudes (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:49:33.766274+00:00"
+  },
+  {
+    "id": 4320,
+    "resumen": "Andrea Ortiz cargó 15 para Beltramo, Giuliana en Soporte Eventual (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:55:13.381436+00:00"
+  },
+  {
+    "id": 4321,
+    "resumen": "Andrea Ortiz cargó 19 para Jaure, Florencia en Mails Gestionados (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-13T18:56:21.088652+00:00"
+  },
+  {
+    "id": 4322,
+    "resumen": "florencia cargó 52 para Redigonda, Macarena en Carga de Solicitudes (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T20:52:26.024783+00:00"
+  },
+  {
+    "id": 4323,
+    "resumen": "florencia cargó 53 para Redigonda, Macarena en Carga de Solicitudes (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T20:52:35.194361+00:00"
+  },
+  {
+    "id": 4324,
+    "resumen": "florencia cargó 22 para Pierini, Clementina en Carga de Solicitudes (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T20:54:04.210715+00:00"
+  },
+  {
+    "id": 4325,
+    "resumen": "florencia cargó 9 para Perez, Melina en Carga de Solicitudes (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T20:58:09.484496+00:00"
+  },
+  {
+    "id": 4326,
+    "resumen": "florencia cargó 19 para Perez, Melina en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T20:59:26.788794+00:00"
+  },
+  {
+    "id": 4327,
+    "resumen": "florencia cargó 0 para Perez, Melina en Carga de Solicitudes (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T20:59:34.024843+00:00"
+  },
+  {
+    "id": 4328,
+    "resumen": "florencia cargó 38 para Machado, Natalia en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:02:08.025721+00:00"
+  },
+  {
+    "id": 4329,
+    "resumen": "florencia cargó 39 para Machado, Natalia en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:02:23.363251+00:00"
+  },
+  {
+    "id": 4330,
+    "resumen": "florencia cargó 51 para Machado, Natalia en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:03:42.240416+00:00"
+  },
+  {
+    "id": 4331,
+    "resumen": "florencia cargó 13 para Machado, Natalia en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:03:57.014014+00:00"
+  },
+  {
+    "id": 4332,
+    "resumen": "florencia cargó 27 para Unno, Catalina en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:04:10.787675+00:00"
+  },
+  {
+    "id": 4333,
+    "resumen": "florencia cargó 26 para Alvado, Gisela en Línea 7075 (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:10:20.048176+00:00"
+  },
+  {
+    "id": 4334,
+    "resumen": "florencia cargó 14 para Lanteri, Santiago en Línea 7075 (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:11:29.812294+00:00"
+  },
+  {
+    "id": 4335,
+    "resumen": "florencia cargó 14 para Eguiazu, Agustina en Equipo de Apoyo (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:12:38.302457+00:00"
+  },
+  {
+    "id": 4336,
+    "resumen": "florencia cargó 10 para Capaldi, Camila en Soporte Eventual (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:16:30.259032+00:00"
+  },
+  {
+    "id": 4337,
+    "resumen": "florencia cargó 24 para Machado, Natalia en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:19:22.618029+00:00"
+  },
+  {
+    "id": 4338,
+    "resumen": "florencia cargó 6 para Muga, Florencia en Soporte Eventual (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:20:58.077446+00:00"
+  },
+  {
+    "id": 4339,
+    "resumen": "florencia cargó 15 para Eguiazu, Agustina en Equipo de Apoyo (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:23:04.520447+00:00"
+  },
+  {
+    "id": 4340,
+    "resumen": "florencia cargó 109 en Ingresos del día (día 5)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:30:01.911904+00:00"
+  },
+  {
+    "id": 4341,
+    "resumen": "florencia cargó 58 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:30:23.279031+00:00"
+  },
+  {
+    "id": 4342,
+    "resumen": "florencia cargó 9 en Ingresos del día (día 6)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:30:54.510253+00:00"
+  },
+  {
+    "id": 4343,
+    "resumen": "florencia cargó 31 en Ingresos del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:31:19.681034+00:00"
+  },
+  {
+    "id": 4344,
+    "resumen": "florencia cargó 32 en Ingresos del día (día 7)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:31:52.301079+00:00"
+  },
+  {
+    "id": 4345,
+    "resumen": "florencia cargó 126 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:32:20.815552+00:00"
+  },
+  {
+    "id": 4346,
+    "resumen": "florencia cargó 30 en Derivaciones del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:32:35.847312+00:00"
+  },
+  {
+    "id": 4347,
+    "resumen": "florencia cargó 20 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:32:53.648017+00:00"
+  },
+  {
+    "id": 4348,
+    "resumen": "florencia cargó 389 en Derivaciones del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:33:07.277078+00:00"
+  },
+  {
+    "id": 4349,
+    "resumen": "florencia cargó 61 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:33:26.497281+00:00"
+  },
+  {
+    "id": 4350,
+    "resumen": "florencia cargó 2 en Derivaciones del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:33:36.126794+00:00"
+  },
+  {
+    "id": 4351,
+    "resumen": "florencia cargó 112 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:33:50.8969+00:00"
+  },
+  {
+    "id": 4352,
+    "resumen": "florencia cargó 43 en Ingresos del día (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:34:09.107722+00:00"
+  },
+  {
+    "id": 4353,
+    "resumen": "florencia cargó 3 para Venturino, Milagros en Mails Gestionados (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:34:57.840843+00:00"
+  },
+  {
+    "id": 4354,
+    "resumen": "florencia cargó 8 para Machado, Natalia en Mails Gestionados (día 12)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:35:17.09229+00:00"
+  },
+  {
+    "id": 4355,
+    "resumen": "florencia cargó 2 en Ingresos del día (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:35:39.50298+00:00"
+  },
+  {
+    "id": 4356,
+    "resumen": "florencia cargó 37 en Ingresos del día (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:35:50.143351+00:00"
+  },
+  {
+    "id": 4357,
+    "resumen": "florencia cargó 1 en Ingresos del día (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:35:58.503559+00:00"
+  },
+  {
+    "id": 4358,
+    "resumen": "florencia cargó 2 en Ingresos del día (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:36:06.459364+00:00"
+  },
+  {
+    "id": 4653,
+    "resumen": "Andrea Ortiz cargó 11 para Grassi, Jesica en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:44:17.463886+00:00"
+  },
+  {
+    "id": 4669,
+    "resumen": "Andrea Ortiz cargó 28 para Redigonda, Macarena en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:00:16.596796+00:00"
+  },
+  {
+    "id": 4684,
+    "resumen": "Andrea Ortiz cargó 14 para García, Lorenzo en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:29:33.929125+00:00"
+  },
+  {
+    "id": 4702,
+    "resumen": "Andrea Ortiz cargó 16 para García, Lorenzo en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T19:08:22.404009+00:00"
+  },
+  {
+    "id": 4718,
+    "resumen": "florencia cargó 23 para Alvado, Gisela en Línea 7075 (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:33:16.337997+00:00"
+  },
+  {
+    "id": 4736,
+    "resumen": "florencia cargó 15 para Beltramo, Giuliana en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T22:04:16.379344+00:00"
+  },
+  {
+    "id": 4754,
+    "resumen": "jesica cargó 42 para Ayala, Carolina en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:44:03.972275+00:00"
+  },
+  {
+    "id": 4791,
+    "resumen": "Mateo Ocanto cargó 83 en Ingresos del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:33:17.940412+00:00"
+  },
+  {
+    "id": 4799,
+    "resumen": "Mateo Ocanto cargó 4 en Ingresos del día (día 18)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:34:29.163505+00:00"
+  },
+  {
+    "id": 4800,
+    "resumen": "Mateo Ocanto cargó 135 en Ingresos del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-18T16:34:39.523036+00:00"
+  },
+  {
+    "id": 4819,
+    "resumen": "Andrea Ortiz cargó 40 para Macaudiere, Rocio en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:35:18.870692+00:00"
+  },
+  {
+    "id": 4835,
+    "resumen": "Andrea Ortiz cargó 28 para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:29:37.73833+00:00"
+  },
+  {
+    "id": 4851,
+    "resumen": "Andrea Ortiz cargó 43 para Murolo, Jonatan en Carga de Solicitudes (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T19:02:37.937251+00:00"
+  },
+  {
+    "id": 4867,
+    "resumen": "florencia cargó 12 para Acosta, Maria Sol en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:05:32.259089+00:00"
+  },
+  {
+    "id": 4884,
+    "resumen": "florencia cargó 21 para Perez, Melina en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:54:50.35594+00:00"
+  },
+  {
+    "id": 4885,
+    "resumen": "florencia cargó 31 para Perez, Melina en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:54:59.601691+00:00"
+  },
+  {
+    "id": 4906,
+    "resumen": "Marcos cargó 1 para Tallafer, Abril en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:54:05.526503+00:00"
+  },
+  {
+    "id": 4908,
+    "resumen": "Marcos cargó 39 para Prieto, Bruno Rene en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:54:23.844788+00:00"
+  },
+  {
+    "id": 4909,
+    "resumen": "Marcos cargó 37 para Aguilar, Cecilia en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:54:32.345879+00:00"
+  },
+  {
+    "id": 4936,
+    "resumen": "Andrea Ortiz cargó 5 en Ingresos del día (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:21:48.517485+00:00"
+  },
+  {
+    "id": 4952,
+    "resumen": "florencia cargó 13 para Andreu, Maira en Soporte Eventual (día 19)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-19T15:21:05.361982+00:00"
+  },
+  {
+    "id": 4359,
+    "resumen": "florencia cargó 114 en Ingresos del día (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:36:17.224717+00:00"
+  },
+  {
+    "id": 4654,
+    "resumen": "Andrea Ortiz cargó 21 para Sozio, Marco en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:46:27.728138+00:00"
+  },
+  {
+    "id": 4670,
+    "resumen": "Andrea Ortiz cargó 10 para Fernandez, Juan Pablo en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:00:51.240385+00:00"
+  },
+  {
+    "id": 4685,
+    "resumen": "Andrea Ortiz cargó 14 para Fernandez, Juan Pablo en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:30:22.92557+00:00"
+  },
+  {
+    "id": 4703,
+    "resumen": "Andrea Ortiz cargó 35 para Redigonda, Macarena en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T19:10:01.504732+00:00"
+  },
+  {
+    "id": 4719,
+    "resumen": "florencia cargó 27 para Lanteri, Santiago en Línea 7075 (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:36:16.715782+00:00"
+  },
+  {
+    "id": 4737,
+    "resumen": "florencia cargó 21 para Fernandez, Juan Pablo en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T22:05:48.151042+00:00"
+  },
+  {
+    "id": 4756,
+    "resumen": "jesica cargó 40 para Pierini, Clementina en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:44:47.633104+00:00"
+  },
+  {
+    "id": 4759,
+    "resumen": "jesica cargó 46 para Jaure, Florencia en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:45:22.657118+00:00"
+  },
+  {
+    "id": 4761,
+    "resumen": "jesica cargó 44 para Mazzolari, Fiorella en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:46:02.115026+00:00"
+  },
+  {
+    "id": 4763,
+    "resumen": "jesica cargó 16 para Sarina, Gaston en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:46:23.287899+00:00"
+  },
+  {
+    "id": 4765,
+    "resumen": "jesica cargó 12 para Basabe, Julieta en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:46:42.83331+00:00"
+  },
+  {
+    "id": 4766,
+    "resumen": "jesica cargó 48 para Viñas, Julieta Sofia en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:46:53.237753+00:00"
+  },
+  {
+    "id": 4769,
+    "resumen": "jesica cargó 7 para Scattolini, Melisa en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:47:50.057545+00:00"
+  },
+  {
+    "id": 4771,
+    "resumen": "jesica cargó 5 para Carpenzano, Micaela en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:48:10.43992+00:00"
+  },
+  {
+    "id": 4773,
+    "resumen": "jesica cargó 17 para Galvez, Maria en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:48:33.643804+00:00"
+  },
+  {
+    "id": 4803,
+    "resumen": "Andrea Ortiz cargó 45 para Rubiolo, Valentina en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:01:35.579271+00:00"
+  },
+  {
+    "id": 4820,
+    "resumen": "Andrea Ortiz cargó 36 para Fazzino, Melisa en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:36:18.454772+00:00"
+  },
+  {
+    "id": 4836,
+    "resumen": "Andrea Ortiz cargó 14 para Tallafer, Abril en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:30:22.925481+00:00"
+  },
+  {
+    "id": 4852,
+    "resumen": "Andrea Ortiz cargó 25 para Zappacosta, Antonela en Línea 7075 (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T19:03:06.647935+00:00"
+  },
+  {
+    "id": 4868,
+    "resumen": "florencia cargó 9 para Beltramo, Giuliana en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:13:30.603114+00:00"
+  },
+  {
+    "id": 4886,
+    "resumen": "florencia cargó 32 para Lanteri, Santiago en Línea 7075 (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:57:15.152018+00:00"
+  },
+  {
+    "id": 4887,
+    "resumen": "florencia cargó 36 para Alvado, Gisela en Línea 7075 (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:57:44.675703+00:00"
+  },
+  {
+    "id": 4910,
+    "resumen": "Marcos cargó 7 para Ayala, Carolina en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:55:38.576803+00:00"
+  },
+  {
+    "id": 4912,
+    "resumen": "Marcos cargó 3 para Barduca, Flavia en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:55:53.769499+00:00"
+  },
+  {
+    "id": 4937,
+    "resumen": "Andrea Ortiz cargó 11 para Laperchia, Solana en Carga de Solicitudes (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:29:59.437282+00:00"
+  },
+  {
+    "id": 4953,
+    "resumen": "florencia cargó 21 para Scattolini, Melisa en Soporte Eventual (día 19)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-19T15:23:10.848003+00:00"
+  },
+  {
+    "id": 4360,
+    "resumen": "florencia cargó 43 en Ingresos del día (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:36:31.053248+00:00"
+  },
+  {
+    "id": 4361,
+    "resumen": "florencia cargó 21 para Perez, Melina en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:39:06.913725+00:00"
+  },
+  {
+    "id": 4362,
+    "resumen": "florencia cargó 9 en Ingresos del día (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:42:30.319826+00:00"
+  },
+  {
+    "id": 4363,
+    "resumen": "florencia cargó 35 para Pierini, Clementina en Carga de Solicitudes (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:44:28.486178+00:00"
+  },
+  {
+    "id": 4364,
+    "resumen": "florencia cargó 65 para Redigonda, Macarena en Carga de Solicitudes (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:46:18.481351+00:00"
+  },
+  {
+    "id": 4365,
+    "resumen": "florencia cargó 23 para Perez, Melina en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:46:56.700141+00:00"
+  },
+  {
+    "id": 4366,
+    "resumen": "florencia cargó 17 para Eguiazu, Agustina en Equipo de Apoyo (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:52:12.862469+00:00"
+  },
+  {
+    "id": 4367,
+    "resumen": "florencia cargó 31 para Unno, Catalina en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:54:18.030742+00:00"
+  },
+  {
+    "id": 4368,
+    "resumen": "florencia cargó 34 para Alvado, Gisela en Línea 7075 (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:55:19.161863+00:00"
+  },
+  {
+    "id": 4369,
+    "resumen": "florencia cargó 16 para Lanteri, Santiago en Línea 7075 (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:56:07.957087+00:00"
+  },
+  {
+    "id": 4370,
+    "resumen": "florencia cargó 28 para Machado, Natalia en Mails Gestionados (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T21:57:41.266051+00:00"
+  },
+  {
+    "id": 4371,
+    "resumen": "florencia cargó 36 para Pierini, Clementina en Carga de Solicitudes (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-13T22:00:03.611882+00:00"
+  },
+  {
+    "id": 4372,
+    "resumen": "Xime Romero cargó 433 en Derivaciones del día (día 12)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T11:25:17.765041+00:00"
+  },
+  {
+    "id": 4373,
+    "resumen": "Xime Romero cargó 145 en Ingresos del día (día 13)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T11:26:27.273266+00:00"
+  },
+  {
+    "id": 4374,
+    "resumen": "Xime Romero cargó 36 en Derivaciones del día (día 13)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T11:26:32.87776+00:00"
+  },
+  {
+    "id": 4375,
+    "resumen": "Xime Romero cargó 43 en Ingresos del día (día 13)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T11:27:07.106995+00:00"
+  },
+  {
+    "id": 4376,
+    "resumen": "Xime Romero cargó 2 en Derivaciones del día (día 13)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T11:27:12.373423+00:00"
+  },
+  {
+    "id": 4377,
+    "resumen": "Xime Romero cargó 11 en Ingresos del día (día 13)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T11:28:25.838872+00:00"
+  },
+  {
+    "id": 4378,
+    "resumen": "Xime Romero cargó 122 en Ingresos del día (día 13)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T11:29:21.49785+00:00"
+  },
+  {
+    "id": 4379,
+    "resumen": "Xime Romero cargó 379 en Derivaciones del día (día 13)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T11:29:45.284011+00:00"
+  },
+  {
+    "id": 4380,
+    "resumen": "Xime Romero cargó 187 en Ingresos del día (día 10)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T11:41:49.787986+00:00"
+  },
+  {
+    "id": 4381,
+    "resumen": "Xime Romero cargó 35 para Alvado, Gisela en Línea 7075 (día 13)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T12:57:51.957267+00:00"
+  },
+  {
+    "id": 4382,
+    "resumen": "Xime Romero cargó 3 en Ingresos del día (día 12)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T13:24:13.812976+00:00"
+  },
+  {
+    "id": 4383,
+    "resumen": "Xime Romero cargó 80 en Ingresos del día (día 11)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:04:38.502896+00:00"
+  },
+  {
+    "id": 4384,
+    "resumen": "Xime Romero cargó 5 en Ingresos del día (día 13)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:05:35.807371+00:00"
+  },
+  {
+    "id": 4385,
+    "resumen": "Xime Romero cargó 28 para Capaldi, Camila en Soporte Eventual (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:56:01.100756+00:00"
+  },
+  {
+    "id": 4386,
+    "resumen": "Xime Romero cargó 22 para Machado, Natalia en Soporte Eventual (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:56:23.76818+00:00"
+  },
+  {
+    "id": 4387,
+    "resumen": "Xime Romero cargó 23 para Carpensano, Paula en Soporte Eventual (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:56:43.350344+00:00"
+  },
+  {
+    "id": 4388,
+    "resumen": "Xime Romero cargó 24 para Eguiazu, Agustina en Soporte Eventual (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:57:04.996521+00:00"
+  },
+  {
+    "id": 4389,
+    "resumen": "Xime Romero cargó 12 para Villareal, Agostina en Soporte Eventual (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:57:22.009536+00:00"
+  },
+  {
+    "id": 4390,
+    "resumen": "Xime Romero cargó 24 para Faccioli, Sofia en Soporte Eventual (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:57:34.866+00:00"
+  },
+  {
+    "id": 4391,
+    "resumen": "Xime Romero cargó 20 para Viñas, Julieta Sofia en Línea 7075 (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:57:50.693203+00:00"
+  },
+  {
+    "id": 4392,
+    "resumen": "Xime Romero cargó 35 para Venturino, Milagros en Carga de Solicitudes (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:58:11.010933+00:00"
+  },
+  {
+    "id": 4393,
+    "resumen": "Xime Romero cargó 10 para Barroso, Valeria en Carga de Solicitudes (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:58:24.975762+00:00"
+  },
+  {
+    "id": 4394,
+    "resumen": "Xime Romero cargó 11 para Barroso, Valeria en Carga de Solicitudes (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T14:59:43.146717+00:00"
+  },
+  {
+    "id": 4395,
+    "resumen": "Xime Romero cargó 1 en Ingresos del día (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T15:00:23.629227+00:00"
+  },
+  {
+    "id": 4396,
+    "resumen": "Xime Romero cargó 4 en Ingresos del día (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T15:00:44.035729+00:00"
+  },
+  {
+    "id": 4397,
+    "resumen": "Xime Romero cargó 20 en Ingresos del día (día 14)",
+    "updated_by": "Xime Romero",
+    "created_at": "2026-11-14T15:00:58.601148+00:00"
+  },
+  {
+    "id": 4398,
+    "resumen": "Valentina cargó 1 en Ingresos del día (día 16)",
+    "updated_by": "Valentina",
+    "created_at": "2026-11-16T11:43:24.175629+00:00"
+  },
+  {
+    "id": 4399,
+    "resumen": "Valentina cargó 13 en Ingresos del día (día 14)",
+    "updated_by": "Valentina",
+    "created_at": "2026-11-16T11:52:50.724599+00:00"
+  },
+  {
+    "id": 4400,
+    "resumen": "Valentina cargó 8 en Ingresos del día (día 15)",
+    "updated_by": "Valentina",
+    "created_at": "2026-11-16T11:53:10.087453+00:00"
+  },
+  {
+    "id": 4401,
+    "resumen": "Andrea Ortiz cargó 38 en Ingresos del día (día 14)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T14:27:34.657468+00:00"
+  },
+  {
+    "id": 4402,
+    "resumen": "Andrea Ortiz cargó 1 para Venturino, Milagros en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T14:30:27.966612+00:00"
+  },
+  {
+    "id": 4403,
+    "resumen": "Andrea Ortiz cargó 8 en Derivaciones del día (día 14)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T14:39:06.481204+00:00"
+  },
+  {
+    "id": 4404,
+    "resumen": "Andrea Ortiz cargó 4 en Derivaciones del día (día 15)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T14:39:32.245106+00:00"
+  },
+  {
+    "id": 4405,
+    "resumen": "Andrea Ortiz cargó 12 en Ingresos del día (día 15)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T14:41:29.539286+00:00"
+  },
+  {
+    "id": 4406,
+    "resumen": "Andrea Ortiz cargó 25 en Ingresos del día (día 14)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T14:44:05.974254+00:00"
+  },
+  {
+    "id": 4407,
+    "resumen": "Andrea Ortiz cargó 6 en Derivaciones del día (día 14)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T14:44:42.178053+00:00"
+  },
+  {
+    "id": 4408,
+    "resumen": "Andrea Ortiz cargó 1 en Derivaciones del día (día 15)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T14:44:45.573893+00:00"
+  },
+  {
+    "id": 4409,
+    "resumen": "Andrea Ortiz cargó 0 en Derivaciones del día (día 14)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T14:44:59.847988+00:00"
+  },
+  {
+    "id": 4410,
+    "resumen": "Andrea Ortiz cargó 59 para Laperchia, Solana en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:11:53.527372+00:00"
+  },
+  {
+    "id": 4411,
+    "resumen": "Andrea Ortiz cargó 266 en Ingresos del día (día 12)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:13:46.803412+00:00"
+  },
+  {
+    "id": 4412,
+    "resumen": "Andrea Ortiz cargó 60 para Laperchia, Solana en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:17:13.97627+00:00"
+  },
+  {
+    "id": 4413,
+    "resumen": "Andrea Ortiz cargó 29 en Ingresos del día (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:53:34.646413+00:00"
+  },
+  {
+    "id": 4414,
+    "resumen": "Andrea Ortiz cargó 11 en Ingresos del día (día 14)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:53:45.439011+00:00"
+  },
+  {
+    "id": 4415,
+    "resumen": "Andrea Ortiz cargó 4 en Ingresos del día (día 15)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:53:53.074516+00:00"
+  },
+  {
+    "id": 4416,
+    "resumen": "Andrea Ortiz cargó 2 en Derivaciones del día (día 13)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:54:11.937378+00:00"
+  },
+  {
+    "id": 4417,
+    "resumen": "Andrea Ortiz cargó 0 en Derivaciones del día (día 14)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:54:14.951138+00:00"
+  },
+  {
+    "id": 4418,
+    "resumen": "Andrea Ortiz cargó 0 en Derivaciones del día (día 15)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:54:18.201741+00:00"
+  },
+  {
+    "id": 4419,
+    "resumen": "Andrea Ortiz cargó 21 en Ingresos del día (día 14)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:58:25.199726+00:00"
+  },
+  {
+    "id": 4420,
+    "resumen": "Andrea Ortiz cargó 20 en Ingresos del día (día 15)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:58:37.18864+00:00"
+  },
+  {
+    "id": 4421,
+    "resumen": "Andrea Ortiz cargó 10 en Ingresos del día (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:59:10.032498+00:00"
+  },
+  {
+    "id": 4422,
+    "resumen": "Andrea Ortiz cargó 0 en Ingresos del día (día 15)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T15:59:38.398991+00:00"
+  },
+  {
+    "id": 4423,
+    "resumen": "Andrea Ortiz cargó 76 para Laperchia, Solana en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T16:57:19.802994+00:00"
+  },
+  {
+    "id": 4424,
+    "resumen": "Andrea Ortiz cargó 8 para Almiron, Agostina en Soporte Eventual (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T17:11:48.784493+00:00"
+  },
+  {
+    "id": 4425,
+    "resumen": "Andrea Ortiz cargó 6 para Bode ,Natalia en Soporte Eventual (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T17:17:15.97919+00:00"
+  },
+  {
+    "id": 4426,
+    "resumen": "Andrea Ortiz cargó 27 para Murolo, Jonatan en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T17:33:09.714808+00:00"
+  },
+  {
+    "id": 4427,
+    "resumen": "Andrea Ortiz cargó 11 para Rodriguez, Florencia en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T17:37:19.724952+00:00"
+  },
+  {
+    "id": 4428,
+    "resumen": "Andrea Ortiz cargó 32 para Gonzalez, Ma. De los Angeles en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T17:43:49.711498+00:00"
+  },
+  {
+    "id": 4429,
+    "resumen": "Andrea Ortiz cargó 28 para Murolo, Jonatan en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T17:45:19.137844+00:00"
+  },
+  {
+    "id": 4430,
+    "resumen": "Andrea Ortiz cargó 13 para Menotti, Aranda Giuliana en Línea 7075 (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T17:58:45.036337+00:00"
+  },
+  {
+    "id": 4431,
+    "resumen": "Andrea Ortiz cargó 33 para Culcuy, Yenit en Línea 7075 (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T17:59:27.122228+00:00"
+  },
+  {
+    "id": 4432,
+    "resumen": "Andrea Ortiz cargó 14 para Perri, German en Línea 7075 (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:00:03.768574+00:00"
+  },
+  {
+    "id": 4433,
+    "resumen": "Andrea Ortiz cargó 21 para Zappacosta, Antonela en Línea 7075 (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:01:23.727929+00:00"
+  },
+  {
+    "id": 4434,
+    "resumen": "Andrea Ortiz cargó 19 para Alvado, Gisela en Línea 7075 (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:02:35.169412+00:00"
+  },
+  {
+    "id": 4435,
+    "resumen": "Andrea Ortiz cargó 20 para Lanteri, Santiago en Línea 7075 (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:03:26.964287+00:00"
+  },
+  {
+    "id": 4436,
+    "resumen": "Andrea Ortiz cargó 15 para Sozio, Marco en Soporte Eventual (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:14:58.253255+00:00"
+  },
+  {
+    "id": 4437,
+    "resumen": "Andrea Ortiz cargó 37 para Gonzalez, Ma. De los Angeles en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:19:09.504668+00:00"
+  },
+  {
+    "id": 4438,
+    "resumen": "Andrea Ortiz cargó 31 para Murolo, Jonatan en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:21:29.162101+00:00"
+  },
+  {
+    "id": 4439,
+    "resumen": "Andrea Ortiz cargó 38 para Redigonda, Macarena en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:22:44.915737+00:00"
+  },
+  {
+    "id": 4440,
+    "resumen": "Andrea Ortiz cargó 40 para Redigonda, Macarena en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:29:03.356909+00:00"
+  },
+  {
+    "id": 4441,
+    "resumen": "Andrea Ortiz cargó 20 para Pascuale, Paula en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:29:52.950837+00:00"
+  },
+  {
+    "id": 4442,
+    "resumen": "florencia cargó 6 para Venturino, Milagros en Redes Respondidos (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T18:35:05.799171+00:00"
+  },
+  {
+    "id": 4443,
+    "resumen": "florencia cargó 5 para Faccioli, Sofia en Redes Respondidos (día 14)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T18:35:51.615723+00:00"
+  },
+  {
+    "id": 4444,
+    "resumen": "Andrea Ortiz cargó 10 para Perez, Melina en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:38:38.106864+00:00"
+  },
+  {
+    "id": 4445,
+    "resumen": "Andrea Ortiz cargó 18 para Rodriguez, Florencia en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:39:53.45695+00:00"
+  },
+  {
+    "id": 4446,
+    "resumen": "Andrea Ortiz cargó 20 para Jaure, Florencia en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:40:24.679606+00:00"
+  },
+  {
+    "id": 4447,
+    "resumen": "Andrea Ortiz cargó 26 para Zappacosta, Antonela en Línea 7075 (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:41:52.487102+00:00"
+  },
+  {
+    "id": 4448,
+    "resumen": "Andrea Ortiz cargó 8 para Eguiazu, Agustina en Equipo de Apoyo (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:43:09.967665+00:00"
+  },
+  {
+    "id": 4449,
+    "resumen": "Andrea Ortiz cargó 19 para Faccioli, Sofia en Equipo de Apoyo (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:43:49.338112+00:00"
+  },
+  {
+    "id": 4450,
+    "resumen": "Andrea Ortiz cargó 15 para Fernandez, Juan Pablo en Soporte Eventual (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:44:46.963989+00:00"
+  },
+  {
+    "id": 4451,
+    "resumen": "Andrea Ortiz cargó 20 para Fazzino, Melisa en Soporte Eventual (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:45:47.832861+00:00"
+  },
+  {
+    "id": 4452,
+    "resumen": "Andrea Ortiz cargó 11 para Machado, Natalia en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:49:28.348825+00:00"
+  },
+  {
+    "id": 4453,
+    "resumen": "Andrea Ortiz cargó 19 para Macaudiere, Rocio en Soporte Eventual (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:50:38.091724+00:00"
+  },
+  {
+    "id": 4454,
+    "resumen": "Andrea Ortiz cargó 12 para Unno, Catalina en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:53:04.548251+00:00"
+  },
+  {
+    "id": 4455,
+    "resumen": "Andrea Ortiz cargó 21 para Rodriguez, Florencia en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:53:43.23551+00:00"
+  },
+  {
+    "id": 4456,
+    "resumen": "Andrea Ortiz cargó 21 para Jaure, Florencia en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:54:10.844663+00:00"
+  },
+  {
+    "id": 4457,
+    "resumen": "Andrea Ortiz cargó 34 para Murolo, Jonatan en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:55:01.549859+00:00"
+  },
+  {
+    "id": 4458,
+    "resumen": "Andrea Ortiz cargó 30 en Ingresos del día (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:57:35.268651+00:00"
+  },
+  {
+    "id": 4459,
+    "resumen": "Andrea Ortiz cargó 2 en Ingresos del día (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:57:53.232923+00:00"
+  },
+  {
+    "id": 4460,
+    "resumen": "Andrea Ortiz cargó 100 en Ingresos del día (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:58:37.588625+00:00"
+  },
+  {
+    "id": 4461,
+    "resumen": "Andrea Ortiz cargó 5 en Ingresos del día (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:58:47.766166+00:00"
+  },
+  {
+    "id": 4462,
+    "resumen": "Andrea Ortiz cargó 36 para Murolo, Jonatan en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T18:59:30.809286+00:00"
+  },
+  {
+    "id": 4463,
+    "resumen": "Andrea Ortiz cargó 48 para Redigonda, Macarena en Carga de Solicitudes (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:00:28.513697+00:00"
+  },
+  {
+    "id": 4464,
+    "resumen": "Andrea Ortiz cargó 7 para Sarina, Gaston en Equipo de Apoyo (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:01:56.313884+00:00"
+  },
+  {
+    "id": 4465,
+    "resumen": "Andrea Ortiz cargó 8 para Sarina, Gaston en Equipo de Apoyo (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:02:09.853796+00:00"
+  },
+  {
+    "id": 4466,
+    "resumen": "Andrea Ortiz cargó 11 para Perez, Melina en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:03:59.505289+00:00"
+  },
+  {
+    "id": 4467,
+    "resumen": "Andrea Ortiz cargó 23 para Rodriguez, Florencia en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:04:30.910501+00:00"
+  },
+  {
+    "id": 4468,
+    "resumen": "Andrea Ortiz cargó 22 para Jaure, Florencia en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:05:12.942276+00:00"
+  },
+  {
+    "id": 4469,
+    "resumen": "Andrea Ortiz cargó 27 para Zappacosta, Antonela en Línea 7075 (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:05:50.620275+00:00"
+  },
+  {
+    "id": 4470,
+    "resumen": "Andrea Ortiz cargó 9 para Eguiazu, Agustina en Equipo de Apoyo (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:06:47.965276+00:00"
+  },
+  {
+    "id": 4471,
+    "resumen": "Andrea Ortiz cargó 22 para Sozio, Marco en Soporte Eventual (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:07:34.519635+00:00"
+  },
+  {
+    "id": 4472,
+    "resumen": "Andrea Ortiz cargó 13 para Machado, Natalia en Mails Gestionados (día 16)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-16T19:09:07.245017+00:00"
+  },
+  {
+    "id": 4473,
+    "resumen": "florencia cargó 4 para Fernandez, Juan Pablo en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T19:39:48.77606+00:00"
+  },
+  {
+    "id": 4474,
+    "resumen": "florencia cargó 17 para Ludueña, Rocio del Valle en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T19:48:33.0541+00:00"
+  },
+  {
+    "id": 4475,
+    "resumen": "florencia cargó 16 para Ludueña, Rocio del Valle en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T19:48:51.270901+00:00"
+  },
+  {
+    "id": 4476,
+    "resumen": "florencia cargó 19 para Romero, Priscila en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T19:50:37.835253+00:00"
+  },
+  {
+    "id": 4477,
+    "resumen": "florencia cargó 19 para Beltramo, Giuliana en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T19:52:19.608149+00:00"
+  },
+  {
+    "id": 4478,
+    "resumen": "florencia cargó 28 para Lanteri, Santiago en Línea 7075 (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T20:30:09.17477+00:00"
+  },
+  {
+    "id": 4479,
+    "resumen": "florencia cargó 63 para Redigonda, Macarena en Carga de Solicitudes (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T20:31:17.283601+00:00"
+  },
+  {
+    "id": 4480,
+    "resumen": "florencia cargó 75 para Redigonda, Macarena en Carga de Solicitudes (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:02:56.469539+00:00"
+  },
+  {
+    "id": 4481,
+    "resumen": "florencia cargó 22 para Perez, Melina en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:12:31.965162+00:00"
+  },
+  {
+    "id": 4482,
+    "resumen": "florencia cargó 27 para Unno, Catalina en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:15:07.143843+00:00"
+  },
+  {
+    "id": 4483,
+    "resumen": "florencia cargó 24 para Alvado, Gisela en Línea 7075 (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:16:54.968027+00:00"
+  },
+  {
+    "id": 4484,
+    "resumen": "florencia cargó 30 para Lanteri, Santiago en Línea 7075 (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:17:30.356937+00:00"
+  },
+  {
+    "id": 4485,
+    "resumen": "florencia cargó 24 para Machado, Natalia en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:27:11.278591+00:00"
+  },
+  {
+    "id": 4486,
+    "resumen": "florencia cargó 18 para Eguiazu, Agustina en Equipo de Apoyo (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:30:06.160314+00:00"
+  },
+  {
+    "id": 4487,
+    "resumen": "florencia cargó 8 para Fernandez, Juan Pablo en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:35:24.993702+00:00"
+  },
+  {
+    "id": 4488,
+    "resumen": "florencia cargó 84 para Redigonda, Macarena en Carga de Solicitudes (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:40:24.419615+00:00"
+  },
+  {
+    "id": 4489,
+    "resumen": "florencia cargó 10 en Ingresos del día (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:41:32.171585+00:00"
+  },
+  {
+    "id": 4490,
+    "resumen": "florencia cargó 1 en Ingresos del día (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:41:46.164396+00:00"
+  },
+  {
+    "id": 4491,
+    "resumen": "florencia cargó 444 en Derivaciones del día (día 13)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:42:08.846319+00:00"
+  },
+  {
+    "id": 4492,
+    "resumen": "florencia cargó 20 en Ingresos del día (día 14)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:42:40.510459+00:00"
+  },
+  {
+    "id": 4493,
+    "resumen": "florencia cargó 150 en Ingresos del día (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:43:00.922173+00:00"
+  },
+  {
+    "id": 4494,
+    "resumen": "florencia cargó 8 en Ingresos del día (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:43:12.716073+00:00"
+  },
+  {
+    "id": 4495,
+    "resumen": "florencia cargó 52 en Ingresos del día (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:43:20.50993+00:00"
+  },
+  {
+    "id": 4496,
+    "resumen": "florencia cargó 22 para Fernandez, Juan Pablo en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:44:07.11057+00:00"
+  },
+  {
+    "id": 4497,
+    "resumen": "florencia cargó 26 para Machado, Natalia en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:45:09.861953+00:00"
+  },
+  {
+    "id": 4498,
+    "resumen": "florencia cargó 9 en Ingresos del día (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:46:45.988408+00:00"
+  },
+  {
+    "id": 4499,
+    "resumen": "florencia cargó 36 para Unno, Catalina en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:53:58.329472+00:00"
+  },
+  {
+    "id": 4500,
+    "resumen": "florencia cargó 29 para Alvado, Gisela en Línea 7075 (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:58:15.514906+00:00"
+  },
+  {
+    "id": 4501,
+    "resumen": "florencia cargó 33 para Lanteri, Santiago en Línea 7075 (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T21:59:24.12832+00:00"
+  },
+  {
+    "id": 4502,
+    "resumen": "florencia cargó 34 para Lanteri, Santiago en Línea 7075 (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T22:00:00.822588+00:00"
+  },
+  {
+    "id": 4503,
+    "resumen": "florencia cargó 27 para Perez, Melina en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T22:01:58.460129+00:00"
+  },
+  {
+    "id": 4504,
+    "resumen": "florencia cargó 27 para Machado, Natalia en Mails Gestionados (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T22:02:58.128355+00:00"
+  },
+  {
+    "id": 4505,
+    "resumen": "florencia cargó 20 para Eguiazu, Agustina en Equipo de Apoyo (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T22:04:14.752755+00:00"
+  },
+  {
+    "id": 4506,
+    "resumen": "florencia cargó 25 para Faccioli, Sofia en Equipo de Apoyo (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T22:05:10.559952+00:00"
+  },
+  {
+    "id": 4507,
+    "resumen": "florencia cargó 23 para Fernandez, Juan Pablo en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T22:07:21.547303+00:00"
+  },
+  {
+    "id": 4508,
+    "resumen": "florencia cargó 24 para Fernandez, Juan Pablo en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T22:07:25.442062+00:00"
+  },
+  {
+    "id": 4509,
+    "resumen": "florencia cargó 24 para Ludueña, Rocio del Valle en Soporte Eventual (día 16)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-16T22:08:23.227936+00:00"
+  },
+  {
+    "id": 4510,
+    "resumen": "victoria cargó 629 en General (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:19:53.526212+00:00"
+  },
+  {
+    "id": 4511,
+    "resumen": "victoria cargó 310 en Autorizaciones (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:19:57.492749+00:00"
+  },
+  {
+    "id": 4512,
+    "resumen": "victoria cargó 1 para Ortiz, Andrea en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:20:36.595763+00:00"
+  },
+  {
+    "id": 4513,
+    "resumen": "victoria cargó 49 para Monzón, Andrea en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:20:47.99707+00:00"
+  },
+  {
+    "id": 4514,
+    "resumen": "victoria cargó 19 para Zini, Ayelen en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:20:54.592772+00:00"
+  },
+  {
+    "id": 4515,
+    "resumen": "victoria cargó 31 para Schiavetti, Alejandro en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:21:03.73836+00:00"
+  },
+  {
+    "id": 4516,
+    "resumen": "victoria cargó 19 para Villareal, Agostina en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:21:11.823712+00:00"
+  },
+  {
+    "id": 4517,
+    "resumen": "victoria cargó 55 para Romagnoli, Brisa en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:21:19.736099+00:00"
+  },
+  {
+    "id": 4518,
+    "resumen": "victoria cargó 30 para Prieto, Bruno Rene en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:21:26.849212+00:00"
+  },
+  {
+    "id": 4519,
+    "resumen": "victoria cargó 10 para Aguilar, Cecilia en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:21:38.126928+00:00"
+  },
+  {
+    "id": 4520,
+    "resumen": "victoria cargó 47 para Ayala, Carolina en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:21:47.2472+00:00"
+  },
+  {
+    "id": 4521,
+    "resumen": "victoria cargó 31 para Capaldi, Camila en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:21:53.376095+00:00"
+  },
+  {
+    "id": 4522,
+    "resumen": "victoria cargó 44 para Pierini, Clementina en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:22:06.518949+00:00"
+  },
+  {
+    "id": 4523,
+    "resumen": "victoria cargó 58 para Dayer, Federico en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:22:16.453003+00:00"
+  },
+  {
+    "id": 4524,
+    "resumen": "victoria cargó 1 para Barduca, Flavia en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:22:22.906926+00:00"
+  },
+  {
+    "id": 4525,
+    "resumen": "victoria cargó 49 para Mazzolari, Fiorella en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:22:32.854908+00:00"
+  },
+  {
+    "id": 4526,
+    "resumen": "victoria cargó 58 para Schdmit, Flavia en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:22:40.32021+00:00"
+  },
+  {
+    "id": 4527,
+    "resumen": "victoria cargó 16 para Armua, Gonzalo en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:22:48.660597+00:00"
+  },
+  {
+    "id": 4528,
+    "resumen": "victoria cargó 47 para Sovrano, Gerónimo en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:23:00.692591+00:00"
+  },
+  {
+    "id": 4529,
+    "resumen": "victoria cargó 37 para Viñas, Julieta Sofia en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:23:08.647012+00:00"
+  },
+  {
+    "id": 4530,
+    "resumen": "victoria cargó 14 para Khoury, Maximiliano en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:23:21.194052+00:00"
+  },
+  {
+    "id": 4531,
+    "resumen": "victoria cargó 27 para Muga, Florencia en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:23:29.966154+00:00"
+  },
+  {
+    "id": 4532,
+    "resumen": "victoria cargó 1 para Scattolini, Melisa en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:23:40.35067+00:00"
+  },
+  {
+    "id": 4533,
+    "resumen": "victoria cargó 28 para Acosta, Maria Sol en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:23:54.852148+00:00"
+  },
+  {
+    "id": 4534,
+    "resumen": "victoria cargó 1 para Carpenzano, Micaela en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:23:59.828682+00:00"
+  },
+  {
+    "id": 4535,
+    "resumen": "victoria cargó 50 para Venturino, Milagros en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:24:11.804127+00:00"
+  },
+  {
+    "id": 4536,
+    "resumen": "victoria cargó 68 para Martinez, Nahuel en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:24:21.835287+00:00"
+  },
+  {
+    "id": 4537,
+    "resumen": "victoria cargó 55 para Carpensano, Paula en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:24:28.18127+00:00"
+  },
+  {
+    "id": 4538,
+    "resumen": "victoria cargó 1 para Macaudiere, Rocio en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:24:39.96781+00:00"
+  },
+  {
+    "id": 4539,
+    "resumen": "victoria cargó 44 para Benitez, Sebastian en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:24:48.555121+00:00"
+  },
+  {
+    "id": 4540,
+    "resumen": "victoria cargó 34 para Antonini, Tatiana en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:24:57.199447+00:00"
+  },
+  {
+    "id": 4541,
+    "resumen": "victoria cargó 44 para Rubiolo, Valentina en Atención WhatsApp (día 16)",
+    "updated_by": "victoria",
+    "created_at": "2026-11-17T12:25:09.162177+00:00"
+  },
+  {
+    "id": 4542,
+    "resumen": "David cargó 502 en General (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:40:23.133462+00:00"
+  },
+  {
+    "id": 4543,
+    "resumen": "David cargó 233 en Autorizaciones (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:40:25.245646+00:00"
+  },
+  {
+    "id": 4544,
+    "resumen": "Marcos cargó 233 en Autorizaciones (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:40:46.323394+00:00"
+  },
+  {
+    "id": 4545,
+    "resumen": "Marcos cargó 502 en General (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:41:22.893084+00:00"
+  },
+  {
+    "id": 4546,
+    "resumen": "Marcos cargó 11 para Ortiz, Andrea en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:43:27.316994+00:00"
+  },
+  {
+    "id": 4547,
+    "resumen": "David cargó 11 para Ortiz, Andrea en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:43:33.895469+00:00"
+  },
+  {
+    "id": 4548,
+    "resumen": "Marcos cargó 43 para Monzón, Andrea en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:43:36.383699+00:00"
+  },
+  {
+    "id": 4549,
+    "resumen": "David cargó 43 para Monzón, Andrea en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:43:42.388572+00:00"
+  },
+  {
+    "id": 4550,
+    "resumen": "Marcos cargó 44 para Zini, Ayelen en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:43:44.321007+00:00"
+  },
+  {
+    "id": 4551,
+    "resumen": "David cargó 44 para Zini, Ayelen en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:43:48.446714+00:00"
+  },
+  {
+    "id": 4552,
+    "resumen": "David cargó 37 para Schiavetti, Alejandro en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:43:54.589314+00:00"
+  },
+  {
+    "id": 4553,
+    "resumen": "David cargó 1 para Regazzoni, Bruno en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:00.771853+00:00"
+  },
+  {
+    "id": 4555,
+    "resumen": "David cargó 27 para Romagnoli, Brisa en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:07.458952+00:00"
+  },
+  {
+    "id": 4556,
+    "resumen": "David cargó 46 para Ayala, Carolina en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:16.654289+00:00"
+  },
+  {
+    "id": 4557,
+    "resumen": "David cargó 28 para Pierini, Clementina en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:21.744961+00:00"
+  },
+  {
+    "id": 4559,
+    "resumen": "David cargó 48 para Dayer, Federico en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:26.12948+00:00"
+  },
+  {
+    "id": 4566,
+    "resumen": "David cargó 2 para Gallini, Gianfranco en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:45:06.296444+00:00"
+  },
+  {
+    "id": 4572,
+    "resumen": "David cargó 40 para Viñas, Julieta Sofia en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:45:37.170633+00:00"
+  },
+  {
+    "id": 4574,
+    "resumen": "Marcos cargó 28 para Pierini, Clementina en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:45:43.283767+00:00"
+  },
+  {
+    "id": 4575,
+    "resumen": "David cargó 14 para Gonzalez, Ma. De los Angeles en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:45:51.597953+00:00"
+  },
+  {
+    "id": 4576,
+    "resumen": "Marcos cargó 48 para Dayer, Federico en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:45:52.270914+00:00"
+  },
+  {
+    "id": 4579,
+    "resumen": "David cargó 7 para Ocanto, Mateo en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:46:03.821275+00:00"
+  },
+  {
+    "id": 4583,
+    "resumen": "David cargó 24 para Andreu, Maira en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:46:33.164089+00:00"
+  },
+  {
+    "id": 4585,
+    "resumen": "David cargó 25 para Fazzino, Melisa en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:46:38.091729+00:00"
+  },
+  {
+    "id": 4589,
+    "resumen": "Marcos cargó 26 para Armua, Gonzalo en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:46:50.498941+00:00"
+  },
+  {
+    "id": 4655,
+    "resumen": "Andrea Ortiz cargó 12 para Andreu, Maira en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:47:05.598151+00:00"
+  },
+  {
+    "id": 4671,
+    "resumen": "Andrea Ortiz cargó 12 para Romero, Priscila en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:02:28.089262+00:00"
+  },
+  {
+    "id": 4686,
+    "resumen": "Andrea Ortiz cargó 35 en Ingresos del día (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:44:08.466798+00:00"
+  },
+  {
+    "id": 4704,
+    "resumen": "florencia cargó 2 para Faccioli, Sofia en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T20:14:38.611521+00:00"
+  },
+  {
+    "id": 4706,
+    "resumen": "florencia cargó 21 para Faccioli, Sofia en Equipo de Apoyo (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T20:14:47.371799+00:00"
+  },
+  {
+    "id": 4720,
+    "resumen": "florencia cargó 18 para Menotti, Aranda Giuliana en Línea 7075 (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:36:57.327106+00:00"
+  },
+  {
+    "id": 4738,
+    "resumen": "florencia cargó 19 para Romero, Priscila en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T22:07:34.276894+00:00"
+  },
+  {
+    "id": 4757,
+    "resumen": "jesica cargó 54 para Dayer, Federico en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:44:59.414869+00:00"
+  },
+  {
+    "id": 4758,
+    "resumen": "jesica cargó 4 para Barduca, Flavia en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:45:10.412803+00:00"
+  },
+  {
+    "id": 4760,
+    "resumen": "jesica cargó 16 para Giudice, Franco en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:45:35.169886+00:00"
+  },
+  {
+    "id": 4762,
+    "resumen": "jesica cargó 55 para Schmidt, Flavia en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:46:14.447587+00:00"
+  },
+  {
+    "id": 4764,
+    "resumen": "jesica cargó 57 para Sovrano, Gerónimo en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:46:33.668917+00:00"
+  },
+  {
+    "id": 4767,
+    "resumen": "jesica cargó 17 para Khoury, Maximiliano en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:47:14.856448+00:00"
+  },
+  {
+    "id": 4768,
+    "resumen": "jesica cargó 52 para Muga, Florencia en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:47:32.296264+00:00"
+  },
+  {
+    "id": 4770,
+    "resumen": "jesica cargó 35 para Acosta, Maria Sol en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:48:00.93982+00:00"
+  },
+  {
+    "id": 4772,
+    "resumen": "jesica cargó 19 para Venturino, Milagros en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:48:20.911287+00:00"
+  },
+  {
+    "id": 4774,
+    "resumen": "jesica cargó 60 para Martinez, Nahuel en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:48:41.200555+00:00"
+  },
+  {
+    "id": 4775,
+    "resumen": "jesica cargó 72 para Carpensano, Paula en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:48:53.382089+00:00"
+  },
+  {
+    "id": 4776,
+    "resumen": "jesica cargó 31 para Ludueña, Rocio del Valle en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:49:11.675454+00:00"
+  },
+  {
+    "id": 4777,
+    "resumen": "jesica cargó 9 para Antonini, Tatiana en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:49:26.652856+00:00"
+  },
+  {
+    "id": 4778,
+    "resumen": "jesica cargó 9 para Barroso, Valeria en Atención WhatsApp (día 17)",
+    "updated_by": "jesica",
+    "created_at": "2026-11-18T13:49:38.982021+00:00"
+  },
+  {
+    "id": 4804,
+    "resumen": "florencia cargó 10 para Machado, Natalia en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T17:02:04.614573+00:00"
+  },
+  {
+    "id": 4821,
+    "resumen": "Andrea Ortiz cargó 7 para Pierini, Clementina en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:39:12.682023+00:00"
+  },
+  {
+    "id": 4837,
+    "resumen": "Andrea Ortiz cargó 10 para Benitez, Sebastian en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:33:02.914895+00:00"
+  },
+  {
+    "id": 4853,
+    "resumen": "florencia cargó 19 para Ravelo, Facundo en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T19:40:32.718344+00:00"
+  },
+  {
+    "id": 4869,
+    "resumen": "florencia cargó 23 para Beltramo, Giuliana en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:14:53.356898+00:00"
+  },
+  {
+    "id": 4870,
+    "resumen": "florencia cargó 24 para Beltramo, Giuliana en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:15:11.240385+00:00"
+  },
+  {
+    "id": 4888,
+    "resumen": "florencia cargó 23 para Eguiazu, Agustina en Equipo de Apoyo (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:59:23.980058+00:00"
+  },
+  {
+    "id": 4911,
+    "resumen": "Marcos cargó 5 para Pierini, Clementina en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:55:45.633388+00:00"
+  },
+  {
+    "id": 4914,
+    "resumen": "Marcos cargó 48 para Mazzolari, Fiorella en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:56:08.826293+00:00"
+  },
+  {
+    "id": 4938,
+    "resumen": "Andrea Ortiz cargó 8 para Murolo, Jonatan en Carga de Solicitudes (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:31:11.825135+00:00"
+  },
+  {
+    "id": 4954,
+    "resumen": "Andrea Ortiz cargó 2 para Macaudiere, Rocio en Soporte Eventual (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T15:25:02.352646+00:00"
+  },
+  {
+    "id": 4554,
+    "resumen": "Marcos cargó 41 para Schiavetti, Alejandro en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:44:03.047863+00:00"
+  },
+  {
+    "id": 4558,
+    "resumen": "Marcos cargó 2 para Regazzoni, Bruno en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:44:22.643633+00:00"
+  },
+  {
+    "id": 4560,
+    "resumen": "David cargó 2 para Barduca, Flavia en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:30.339598+00:00"
+  },
+  {
+    "id": 4561,
+    "resumen": "Marcos cargó 27 para Romagnoli, Brisa en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:44:33.053645+00:00"
+  },
+  {
+    "id": 4562,
+    "resumen": "David cargó 27 para Jaure, Florencia en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:34.823011+00:00"
+  },
+  {
+    "id": 4563,
+    "resumen": "David cargó 6 para Ravelo, Facundo en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:38.981003+00:00"
+  },
+  {
+    "id": 4564,
+    "resumen": "David cargó 38 para Mazzolari, Fiorella en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:50.842847+00:00"
+  },
+  {
+    "id": 4565,
+    "resumen": "David cargó 49 para Schdmit, Flavia en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:44:56.932522+00:00"
+  },
+  {
+    "id": 4567,
+    "resumen": "Marcos cargó 46 para Ayala, Carolina en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:45:07.031265+00:00"
+  },
+  {
+    "id": 4568,
+    "resumen": "David cargó 26 para Armua, Gonzalo en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:45:12.310381+00:00"
+  },
+  {
+    "id": 4569,
+    "resumen": "David cargó 16 para Beltramo, Giuliana en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:45:22.120857+00:00"
+  },
+  {
+    "id": 4570,
+    "resumen": "Marcos cargó 1 para Capaldi, Camila en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:45:23.172374+00:00"
+  },
+  {
+    "id": 4571,
+    "resumen": "David cargó 40 para Sovrano, Gerónimo en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:45:31.992349+00:00"
+  },
+  {
+    "id": 4573,
+    "resumen": "David cargó 19 para Khoury, Maximiliano en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:45:42.600516+00:00"
+  },
+  {
+    "id": 4577,
+    "resumen": "David cargó 10 para Muga, Florencia en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:45:58.416851+00:00"
+  },
+  {
+    "id": 4578,
+    "resumen": "Marcos cargó 8 para Barduca, Flavia en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:45:59.356994+00:00"
+  },
+  {
+    "id": 4580,
+    "resumen": "Marcos cargó 27 para Jaure, Florencia en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:46:07.019764+00:00"
+  },
+  {
+    "id": 4581,
+    "resumen": "Marcos cargó 7 para Ravelo, Facundo en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:46:18.733883+00:00"
+  },
+  {
+    "id": 4582,
+    "resumen": "Marcos cargó 38 para Mazzolari, Fiorella en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:46:26.286398+00:00"
+  },
+  {
+    "id": 4584,
+    "resumen": "Marcos cargó 49 para Schmidt, Flavia en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:46:35.435369+00:00"
+  },
+  {
+    "id": 4586,
+    "resumen": "Marcos cargó 4 para Gallini, Gianfranco en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:46:43.202854+00:00"
+  },
+  {
+    "id": 4587,
+    "resumen": "David cargó 4 para Scattolini, Melisa en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:46:46.513046+00:00"
+  },
+  {
+    "id": 4588,
+    "resumen": "David cargó 1 para Redigonda, Macarena en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:46:49.973253+00:00"
+  },
+  {
+    "id": 4590,
+    "resumen": "Marcos cargó 1 para Sarina, Gaston en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:46:56.744201+00:00"
+  },
+  {
+    "id": 4591,
+    "resumen": "David cargó 2 para Carpenzano, Micaela en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:47:02.688998+00:00"
+  },
+  {
+    "id": 4592,
+    "resumen": "David cargó 25 para Venturino, Milagros en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:47:19.353738+00:00"
+  },
+  {
+    "id": 4593,
+    "resumen": "David cargó 50 para Martinez, Nahuel en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:47:34.82533+00:00"
+  },
+  {
+    "id": 4594,
+    "resumen": "David cargó 50 para Carpensano, Paula en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:47:40.272893+00:00"
+  },
+  {
+    "id": 4595,
+    "resumen": "David cargó 16 para Antonini, Tatiana en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:47:47.17458+00:00"
+  },
+  {
+    "id": 4596,
+    "resumen": "David cargó 1 para Barroso, Valeria en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:48:05.279803+00:00"
+  },
+  {
+    "id": 4597,
+    "resumen": "David cargó 38 para Rubiolo, Valentina en Atención WhatsApp (día 13)",
+    "updated_by": "David",
+    "created_at": "2026-11-17T12:48:14.366614+00:00"
+  },
+  {
+    "id": 4598,
+    "resumen": "Marcos cargó 16 para Beltramo, Giuliana en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:52:08.495028+00:00"
+  },
+  {
+    "id": 4599,
+    "resumen": "Marcos cargó 40 para Sovrano, Gerónimo en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:52:16.062508+00:00"
+  },
+  {
+    "id": 4600,
+    "resumen": "Marcos cargó 41 para Viñas, Julieta Sofia en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:52:23.790135+00:00"
+  },
+  {
+    "id": 4601,
+    "resumen": "Marcos cargó 20 para Khoury, Maximiliano en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:52:35.631296+00:00"
+  },
+  {
+    "id": 4602,
+    "resumen": "Marcos cargó 14 para Gonzalez, Ma. De los Angeles en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:52:47.248987+00:00"
+  },
+  {
+    "id": 4603,
+    "resumen": "Marcos cargó 13 para Muga, Florencia en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:52:55.187087+00:00"
+  },
+  {
+    "id": 4604,
+    "resumen": "Marcos cargó 7 para Ocanto, Mateo en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:53:06.647014+00:00"
+  },
+  {
+    "id": 4605,
+    "resumen": "Marcos cargó 24 para Andreu, Maira en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:53:15.694735+00:00"
+  },
+  {
+    "id": 4606,
+    "resumen": "Marcos cargó 25 para Fazzino, Melisa en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:53:23.088478+00:00"
+  },
+  {
+    "id": 4607,
+    "resumen": "Marcos cargó 13 para Scattolini, Melisa en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:53:30.022471+00:00"
+  },
+  {
+    "id": 4608,
+    "resumen": "Marcos cargó 1 para Redigonda, Macarena en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:53:38.199681+00:00"
+  },
+  {
+    "id": 4609,
+    "resumen": "Marcos cargó 5 para Carpenzano, Micaela en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:53:45.247135+00:00"
+  },
+  {
+    "id": 4610,
+    "resumen": "Marcos cargó 25 para Venturino, Milagros en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:53:51.089869+00:00"
+  },
+  {
+    "id": 4611,
+    "resumen": "Marcos cargó 50 para Martinez, Nahuel en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:54:10.315341+00:00"
+  },
+  {
+    "id": 4612,
+    "resumen": "Marcos cargó 50 para Carpensano, Paula en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:54:40.762962+00:00"
+  },
+  {
+    "id": 4613,
+    "resumen": "Marcos cargó 1 para Macaudiere, Rocio en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:54:50.037756+00:00"
+  },
+  {
+    "id": 4614,
+    "resumen": "Marcos cargó 16 para Antonini, Tatiana en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:54:57.797694+00:00"
+  },
+  {
+    "id": 4615,
+    "resumen": "Marcos cargó 3 para Barroso, Valeria en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:55:05.492361+00:00"
+  },
+  {
+    "id": 4616,
+    "resumen": "Marcos cargó 1 para Rodriguez, Valentina en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:55:11.214241+00:00"
+  },
+  {
+    "id": 4617,
+    "resumen": "Marcos cargó 38 para Rubiolo, Valentina en Atención WhatsApp (día 13)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-17T12:55:18.132508+00:00"
+  },
+  {
+    "id": 4618,
+    "resumen": "Andrea Ortiz cargó 4 para Perri, German en Línea 7075 (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T14:32:30.675258+00:00"
+  },
+  {
+    "id": 4619,
+    "resumen": "Andrea Ortiz cargó 2 para Romero, Priscila en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T16:28:42.389262+00:00"
+  },
+  {
+    "id": 4620,
+    "resumen": "Andrea Ortiz cargó 3 para Romero, Priscila en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T16:31:33.561986+00:00"
+  },
+  {
+    "id": 4621,
+    "resumen": "Andrea Ortiz cargó 25 para Gonzalez, Ma. De los Angeles en Carga de Solicitudes (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T16:37:09.91539+00:00"
+  },
+  {
+    "id": 4622,
+    "resumen": "Mateo Ocanto cargó 175 en Ingresos del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:46:12.596796+00:00"
+  },
+  {
+    "id": 4623,
+    "resumen": "Mateo Ocanto cargó 45 en Ingresos del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:46:16.943914+00:00"
+  },
+  {
+    "id": 4624,
+    "resumen": "Mateo Ocanto cargó 16 en Derivaciones del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:46:31.655822+00:00"
+  },
+  {
+    "id": 4625,
+    "resumen": "Mateo Ocanto cargó 2 en Derivaciones del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:46:38.87289+00:00"
+  },
+  {
+    "id": 4626,
+    "resumen": "Mateo Ocanto cargó 146 en Ingresos del día (día 13)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:47:29.644836+00:00"
+  },
+  {
+    "id": 4627,
+    "resumen": "Mateo Ocanto cargó 38 en Ingresos del día (día 14)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:47:36.161887+00:00"
+  },
+  {
+    "id": 4628,
+    "resumen": "Mateo Ocanto cargó 6 en Ingresos del día (día 15)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:47:40.895582+00:00"
+  },
+  {
+    "id": 4629,
+    "resumen": "Mateo Ocanto cargó 314 en Derivaciones del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:47:47.704943+00:00"
+  },
+  {
+    "id": 4630,
+    "resumen": "Mateo Ocanto cargó 16 en Ingresos del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:48:00.34681+00:00"
+  },
+  {
+    "id": 4631,
+    "resumen": "Mateo Ocanto cargó 65 en Ingresos del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:48:03.128143+00:00"
+  },
+  {
+    "id": 4632,
+    "resumen": "Mateo Ocanto cargó 4 en Derivaciones del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:48:06.939003+00:00"
+  },
+  {
+    "id": 4634,
+    "resumen": "Mateo Ocanto cargó 44 en Ingresos del día (día 13)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:48:31.450912+00:00"
+  },
+  {
+    "id": 4656,
+    "resumen": "Andrea Ortiz cargó 14 para Ravelo, Facundo en Soporte Eventual (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:48:15.803647+00:00"
+  },
+  {
+    "id": 4672,
+    "resumen": "Andrea Ortiz cargó 17 para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:03:41.845549+00:00"
+  },
+  {
+    "id": 4687,
+    "resumen": "Andrea Ortiz cargó 90 en Ingresos del día (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:44:17.037844+00:00"
+  },
+  {
+    "id": 4688,
+    "resumen": "Andrea Ortiz cargó 2 en Ingresos del día (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:44:24.447917+00:00"
+  },
+  {
+    "id": 4705,
+    "resumen": "florencia cargó 0 para Faccioli, Sofia en Soporte Eventual (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T20:14:42.254546+00:00"
+  },
+  {
+    "id": 4721,
+    "resumen": "florencia cargó 42 para Perez, Melina en Mails Gestionados (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:41:48.254928+00:00"
+  },
+  {
+    "id": 4739,
+    "resumen": "Andrea Ortiz cargó 8 para Antonini, Tatiana en Equipo de Apoyo (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T12:19:38.158762+00:00"
+  },
+  {
+    "id": 4779,
+    "resumen": "Andrea Ortiz cargó 130 en Ingresos del día (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T14:33:02.213435+00:00"
+  },
+  {
+    "id": 4805,
+    "resumen": "Andrea Ortiz cargó 20 para Andreu, Maira en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:02:59.564905+00:00"
+  },
+  {
+    "id": 4822,
+    "resumen": "Andrea Ortiz cargó 34 para Sozio, Marco en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:40:08.127958+00:00"
+  },
+  {
+    "id": 4838,
+    "resumen": "Andrea Ortiz cargó 39 para Franco, Sybela Maria en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:34:51.179679+00:00"
+  },
+  {
+    "id": 4840,
+    "resumen": "Andrea Ortiz cargó 30 para Giudice, Franco en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:35:19.841224+00:00"
+  },
+  {
+    "id": 4854,
+    "resumen": "florencia cargó 17 para Romero, Priscila en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T19:43:51.247206+00:00"
+  },
+  {
+    "id": 4871,
+    "resumen": "florencia cargó 14 para Acosta, Maria Sol en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:34:39.205077+00:00"
+  },
+  {
+    "id": 4889,
+    "resumen": "florencia cargó 35 para Fernandez, Juan Pablo en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:00:14.263795+00:00"
+  },
+  {
+    "id": 4913,
+    "resumen": "Marcos cargó 40 para Jaure, Florencia en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:56:00.584368+00:00"
+  },
+  {
+    "id": 4939,
+    "resumen": "Andrea Ortiz cargó 17 para Gonzalez, Ma. De los Angeles en Carga de Solicitudes (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:32:24.495231+00:00"
+  },
+  {
+    "id": 4955,
+    "resumen": "Andrea Ortiz cargó 10 para Fazzino, Melisa en Soporte Eventual (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T15:31:59.333817+00:00"
+  },
+  {
+    "id": 4633,
+    "resumen": "Mateo Ocanto cargó 56 en Ingresos del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:48:21.955931+00:00"
+  },
+  {
+    "id": 4635,
+    "resumen": "Mateo Ocanto cargó 15 en Ingresos del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:48:41.166658+00:00"
+  },
+  {
+    "id": 4636,
+    "resumen": "Mateo Ocanto cargó 165 en Ingresos del día (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:48:52.110231+00:00"
+  },
+  {
+    "id": 4637,
+    "resumen": "Mateo Ocanto cargó 51 en Ingresos del día (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:49:08.391032+00:00"
+  },
+  {
+    "id": 4638,
+    "resumen": "Mateo Ocanto cargó 2 para Pierini, Clementina en Redes Respondidos (día 16)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:50:06.060663+00:00"
+  },
+  {
+    "id": 4639,
+    "resumen": "Mateo Ocanto cargó 4 para Cosimano, Ivana en Soporte Eventual (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:50:45.775495+00:00"
+  },
+  {
+    "id": 4640,
+    "resumen": "Mateo Ocanto cargó 8 para Tallafer, Abril en Soporte Eventual (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:50:53.570548+00:00"
+  },
+  {
+    "id": 4641,
+    "resumen": "Mateo Ocanto cargó 10 para Armua, Gonzalo en Soporte Eventual (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:51:00.390793+00:00"
+  },
+  {
+    "id": 4642,
+    "resumen": "Mateo Ocanto cargó 12 para Rodriguez, Valentina en Soporte Eventual (día 17)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-17T16:51:10.319231+00:00"
+  },
+  {
+    "id": 4657,
+    "resumen": "Andrea Ortiz cargó 16 para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T17:48:48.412581+00:00"
+  },
+  {
+    "id": 4673,
+    "resumen": "Andrea Ortiz cargó 38 para Murolo, Jonatan en Carga de Solicitudes (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:07:01.948341+00:00"
+  },
+  {
+    "id": 4689,
+    "resumen": "Andrea Ortiz cargó 40 para Murolo, Jonatan en Carga de Solicitudes (día 17)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-17T18:47:02.840541+00:00"
+  },
+  {
+    "id": 4707,
+    "resumen": "florencia cargó 42 para Schiavetti, Alejandro en Carga de Solicitudes (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T20:33:23.874234+00:00"
+  },
+  {
+    "id": 4722,
+    "resumen": "florencia cargó 0 para Perez, Melina en Mails Gestionados (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:48:32.096127+00:00"
+  },
+  {
+    "id": 4724,
+    "resumen": "florencia cargó 42 para Perez, Melina en Mails Gestionados (día 17)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-17T21:48:58.708811+00:00"
+  },
+  {
+    "id": 4740,
+    "resumen": "Andrea Ortiz cargó 11 para Laperchia, Solana en Mails Gestionados (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T12:39:55.149294+00:00"
+  },
+  {
+    "id": 4741,
+    "resumen": "Andrea Ortiz cargó 15 para Laperchia, Solana en Carga de Solicitudes (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T12:40:39.012221+00:00"
+  },
+  {
+    "id": 4780,
+    "resumen": "Andrea Ortiz cargó 23 para Rodriguez, Valentina en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T14:49:06.329657+00:00"
+  },
+  {
+    "id": 4806,
+    "resumen": "Andrea Ortiz cargó 28 para Dayer, Federico en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:04:54.281009+00:00"
+  },
+  {
+    "id": 4823,
+    "resumen": "Andrea Ortiz cargó 25 para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T17:40:50.813362+00:00"
+  },
+  {
+    "id": 4839,
+    "resumen": "Andrea Ortiz cargó 9 para Franco, Sybela Maria en Soporte Eventual (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-18T18:35:09.704029+00:00"
+  },
+  {
+    "id": 4855,
+    "resumen": "florencia cargó 18 para Romero, Priscila en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T19:46:26.791497+00:00"
+  },
+  {
+    "id": 4872,
+    "resumen": "florencia cargó 43 para Machado, Natalia en Mails Gestionados (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T21:35:01.98708+00:00"
+  },
+  {
+    "id": 4890,
+    "resumen": "florencia cargó 30 para Ravelo, Facundo en Soporte Eventual (día 18)",
+    "updated_by": "florencia",
+    "created_at": "2026-11-18T22:02:02.871798+00:00"
+  },
+  {
+    "id": 4915,
+    "resumen": "Marcos cargó 67 para Schmidt, Flavia en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:58:51.829297+00:00"
+  },
+  {
+    "id": 4917,
+    "resumen": "Marcos cargó 48 para Sovrano, Gerónimo en Atención WhatsApp (día 18)",
+    "updated_by": "Marcos",
+    "created_at": "2026-11-19T12:59:20.186998+00:00"
+  },
+  {
+    "id": 4940,
+    "resumen": "Andrea Ortiz cargó 10 para Pascuale, Paula en Mails Gestionados (día 19)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T13:37:17.035582+00:00"
+  },
+  {
+    "id": 4956,
+    "resumen": "Andrea Ortiz cargó 3 para Pierini, Clementina en Redes Respondidos (día 18)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-19T15:49:23.929793+00:00"
   }
 ]

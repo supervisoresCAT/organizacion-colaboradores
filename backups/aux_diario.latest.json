@@ -135042,6 +135042,16 @@
   {
     "year": 2026,
     "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Armua, Gonzalo",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:32:16.018+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
     "categoria": "apoyo",
     "auxiliar": "Riquelme, Sebastian",
     "day": 11,
@@ -135058,6 +135068,26 @@
     "valor": 20,
     "updated_by": "Andrea Ortiz",
     "updated_at": "2026-11-11T18:27:31.756+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Prieto, Bruno Rene",
+    "day": 12,
+    "valor": 45,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:35:31.591+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barduca, Flavia",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:33:50.379+00:00"
   },
   {
     "year": 2026,
@@ -135102,6 +135132,16 @@
   {
     "year": 2026,
     "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Capaldi, Camila",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:34:05.392+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
     "categoria": "brigadas",
     "auxiliar": "Fernandez, Juan Pablo",
     "day": 11,
@@ -135122,12 +135162,12 @@
   {
     "year": 2026,
     "month": 10,
-    "categoria": "apoyo",
-    "auxiliar": "Regazzoni, Bruno",
-    "day": 11,
-    "valor": 12,
-    "updated_by": "florencia",
-    "updated_at": "2026-11-11T21:33:35.118+00:00"
+    "categoria": "whatsapp",
+    "auxiliar": "Monzón, Andrea",
+    "day": 12,
+    "valor": 41,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:35:50.878+00:00"
   },
   {
     "year": 2026,
@@ -135218,5 +135258,3925 @@
     "valor": 25,
     "updated_by": "florencia",
     "updated_at": "2026-11-11T22:02:36.748+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Regazzoni, Bruno",
+    "day": 11,
+    "valor": 15,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-12T17:00:59.425+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Laperchia, Solana",
+    "day": 12,
+    "valor": 83,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-12T17:06:44.13+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Gonzalez, Ma. De los Angeles",
+    "day": 12,
+    "valor": 21,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-12T17:16:00.101+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 12,
+    "valor": 15,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-12T17:24:26.336+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Menotti, Aranda Giuliana",
+    "day": 12,
+    "valor": 33,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-12T17:25:27.559+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Culcuy, Yenit",
+    "day": 12,
+    "valor": 33,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-12T17:29:06.388+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Jaure, Florencia",
+    "day": 12,
+    "valor": 40,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:35:56.966+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Giudice, Franco",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:13.982+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Sovrano, Gerónimo",
+    "day": 12,
+    "valor": 37,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:36:08.622+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ravelo, Facundo",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:09.131+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Romagnoli, Brisa",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:19.319+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Scattolini, Melisa",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:29.794+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Mazzolari, Fiorella",
+    "day": 12,
+    "valor": 35,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:36:15.694+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schiavetti, Alejandro",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:43.78+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schdmit, Flavia",
+    "day": 12,
+    "valor": 64,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:33:59.623+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Fazzino, Melisa",
+    "day": 12,
+    "valor": 56,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:34:06.791+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Pierini, Clementina",
+    "day": 12,
+    "valor": 55,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:34:59.288+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Dayer, Federico",
+    "day": 12,
+    "valor": 55,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:35:14.255+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ayala, Carolina",
+    "day": 12,
+    "valor": 47,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:35:23.742+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Viñas, Julieta Sofia",
+    "day": 12,
+    "valor": 34,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:36:24.991+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Khoury, Maximiliano",
+    "day": 12,
+    "valor": 33,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:36:43.958+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Muga, Florencia",
+    "day": 12,
+    "valor": 22,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:37:34.278+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Unno, Catalina",
+    "day": 12,
+    "valor": 20,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:37:40.855+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Zini, Ayelen",
+    "day": 12,
+    "valor": 19,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:37:47.095+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Acosta, Maria Sol",
+    "day": 12,
+    "valor": 7,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:45:31.685+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Murolo, Jonatan",
+    "day": 12,
+    "valor": 36,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T13:42:18.714+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Pascuale, Paula",
+    "day": 12,
+    "valor": 31,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T14:28:38.92+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpenzano, Micaela",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:34:50.726+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Rubiolo, Valentina",
+    "day": 12,
+    "valor": 31,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:37:00.839+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barroso, Valeria",
+    "day": 12,
+    "valor": 12,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:45:08.781+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Antonini, Tatiana",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:32:09.902+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Macaudiere, Rocio",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:29.488+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpensano, Paula",
+    "day": 12,
+    "valor": 45,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:35:40.719+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Acosta, Maria Sol",
+    "day": 11,
+    "valor": 7,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:32:05.609+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Antonini, Tatiana",
+    "day": 11,
+    "valor": 15,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:32:13.164+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Armua, Gonzalo",
+    "day": 11,
+    "valor": 11,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:32:23.64+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ayala, Carolina",
+    "day": 11,
+    "valor": 54,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:33:48.095+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barduca, Flavia",
+    "day": 11,
+    "valor": 3,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:33:55.352+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barroso, Valeria",
+    "day": 11,
+    "valor": 11,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:33:59.834+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Capaldi, Camila",
+    "day": 11,
+    "valor": 6,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:34:39.272+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Bolivar, Martin",
+    "day": 11,
+    "valor": 0,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:34:42.214+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpensano, Paula",
+    "day": 11,
+    "valor": 47,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:34:48.245+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpenzano, Micaela",
+    "day": 11,
+    "valor": 4,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:34:52.692+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Dayer, Federico",
+    "day": 11,
+    "valor": 53,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:34:59.132+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Fazzino, Melisa",
+    "day": 11,
+    "valor": 40,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:09.235+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Giudice, Franco",
+    "day": 11,
+    "valor": 8,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:16.233+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Jaure, Florencia",
+    "day": 11,
+    "valor": 23,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:21.383+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Khoury, Maximiliano",
+    "day": 11,
+    "valor": 35,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:26.22+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Macaudiere, Rocio",
+    "day": 11,
+    "valor": 1,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:32.166+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Mazzolari, Fiorella",
+    "day": 11,
+    "valor": 44,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:38.241+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Monzón, Andrea",
+    "day": 11,
+    "valor": 28,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:50.069+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Muga, Florencia",
+    "day": 11,
+    "valor": 51,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:35:54.519+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Pierini, Clementina",
+    "day": 11,
+    "valor": 37,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:01.316+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Prieto, Bruno Rene",
+    "day": 11,
+    "valor": 38,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:05.801+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ravelo, Facundo",
+    "day": 11,
+    "valor": 35,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:12.26+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 13,
+    "valor": 17,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:43:37.108+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Riquelme, Sebastian",
+    "day": 11,
+    "valor": 11,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:16.978+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Romagnoli, Brisa",
+    "day": 11,
+    "valor": 21,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:21.61+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Rubiolo, Valentina",
+    "day": 11,
+    "valor": 42,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:26.3+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Scattolini, Melisa",
+    "day": 11,
+    "valor": 4,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:32.184+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schdmit, Flavia",
+    "day": 11,
+    "valor": 59,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:41.417+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schiavetti, Alejandro",
+    "day": 11,
+    "valor": 85,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:45.924+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Sovrano, Gerónimo",
+    "day": 11,
+    "valor": 45,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:52.319+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Unno, Catalina",
+    "day": 11,
+    "valor": 9,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:36:58.401+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Viñas, Julieta Sofia",
+    "day": 11,
+    "valor": 37,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:37:03.938+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Zini, Ayelen",
+    "day": 11,
+    "valor": 45,
+    "updated_by": "David",
+    "updated_at": "2026-11-12T17:37:11.06+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Tallafer, Abril",
+    "day": 12,
+    "valor": 1,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-12T17:47:06.398+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Muga, Florencia",
+    "day": 12,
+    "valor": 2,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-12T17:49:22.858+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Fernandez, Juan Pablo",
+    "day": 12,
+    "valor": 8,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-12T17:50:02.836+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Venturino, Milagros",
+    "day": 12,
+    "valor": 34,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:36:36.055+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Beltramo, Giuliana",
+    "day": 12,
+    "valor": 32,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:36:52.366+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Rodriguez, Valentina",
+    "day": 12,
+    "valor": 29,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:37:11.878+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 12,
+    "valor": 26,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:37:26.559+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Giavelli, Ma. Florencia",
+    "day": 17,
+    "valor": 17,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:38:05.702+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Aguilar, Cecilia",
+    "day": 12,
+    "valor": 16,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:38:21.039+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Machado, Natalia",
+    "day": 12,
+    "valor": 16,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:44:54.622+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Riquelme, Sebastian",
+    "day": 12,
+    "valor": 15,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:45:01.157+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Regazzoni, Bruno",
+    "day": 12,
+    "valor": 11,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:45:16.957+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Jovellano, Nicolas",
+    "day": 12,
+    "valor": 8,
+    "updated_by": "Fabricio",
+    "updated_at": "2026-11-13T12:45:22.764+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 12,
+    "valor": 2,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T14:27:37.018+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Unno, Catalina",
+    "day": 12,
+    "valor": 12,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T14:36:34.646+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Lanteri, Santiago",
+    "day": 12,
+    "valor": 8,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T14:47:16.776+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Alvado, Gisela",
+    "day": 12,
+    "valor": 9,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T14:47:53.32+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Eguiazu, Agustina",
+    "day": 12,
+    "valor": 3,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T14:53:11.323+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 12,
+    "valor": 5,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T14:53:41.251+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Schneider, Astrid",
+    "day": 12,
+    "valor": 4,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T14:59:52.565+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Ludueña, Rocio del Valle",
+    "day": 12,
+    "valor": 4,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T15:36:35.093+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "redes",
+    "auxiliar": "Venturino, Milagros",
+    "day": 13,
+    "valor": 4,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T16:03:42.631+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Eguiazu, Agustina",
+    "day": 13,
+    "valor": 17,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:52:11.325+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Venturino, Milagros",
+    "day": 13,
+    "valor": 15,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T16:05:47.738+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Laperchia, Solana",
+    "day": 13,
+    "valor": 43,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T17:57:27.139+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Gonzalez, Ma. De los Angeles",
+    "day": 13,
+    "valor": 13,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:05:02.145+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Pascuale, Paula",
+    "day": 13,
+    "valor": 10,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:18:26.067+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Menotti, Aranda Giuliana",
+    "day": 13,
+    "valor": 10,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:23:57.675+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Culcuy, Yenit",
+    "day": 13,
+    "valor": 14,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:25:32.861+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Cosimano, Ivana",
+    "day": 13,
+    "valor": 15,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:33:41.007+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Carello, Belen",
+    "day": 13,
+    "valor": 11,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:34:23.658+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Di Napoli, Evelina",
+    "day": 13,
+    "valor": 2,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:35:04.219+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Macaudiere, Rocio",
+    "day": 13,
+    "valor": 9,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:37:19.053+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Regazzoni, Bruno",
+    "day": 13,
+    "valor": 11,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:38:04.621+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Alvado, Gisela",
+    "day": 13,
+    "valor": 35,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T12:57:50.452+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Murolo, Jonatan",
+    "day": 13,
+    "valor": 30,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:49:33.147+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Beltramo, Giuliana",
+    "day": 13,
+    "valor": 15,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:55:11.576+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Jaure, Florencia",
+    "day": 13,
+    "valor": 19,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-13T18:56:20.579+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Perez, Melina",
+    "day": 13,
+    "valor": 23,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:46:56.421+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Perez, Melina",
+    "day": 13,
+    "valor": 0,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T20:59:33.864+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Lanteri, Santiago",
+    "day": 13,
+    "valor": 16,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:56:07.806+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Unno, Catalina",
+    "day": 13,
+    "valor": 31,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:54:17.032+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Machado, Natalia",
+    "day": 13,
+    "valor": 28,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:57:40.807+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Venturino, Milagros",
+    "day": 12,
+    "valor": 3,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:34:57.615+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Capaldi, Camila",
+    "day": 13,
+    "valor": 10,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:16:29.491+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Pierini, Clementina",
+    "day": 13,
+    "valor": 36,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T22:00:03.127+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Muga, Florencia",
+    "day": 13,
+    "valor": 6,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:20:57.73+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Machado, Natalia",
+    "day": 12,
+    "valor": 8,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:35:16.931+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 13,
+    "valor": 65,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-13T21:46:18.235+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Rodriguez, Florencia",
+    "day": 12,
+    "valor": 0,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T20:01:50.231+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Capaldi, Camila",
+    "day": 14,
+    "valor": 28,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T14:55:59.785+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Machado, Natalia",
+    "day": 14,
+    "valor": 22,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T14:56:23.635+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Carpensano, Paula",
+    "day": 14,
+    "valor": 23,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T14:56:42.897+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Eguiazu, Agustina",
+    "day": 14,
+    "valor": 24,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T14:57:04.581+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Villareal, Agostina",
+    "day": 14,
+    "valor": 12,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T14:57:21.876+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 14,
+    "valor": 24,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T14:57:34.737+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Viñas, Julieta Sofia",
+    "day": 14,
+    "valor": 20,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T14:57:50.561+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Venturino, Milagros",
+    "day": 14,
+    "valor": 35,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T14:58:10.892+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Barroso, Valeria",
+    "day": 14,
+    "valor": 11,
+    "updated_by": "Xime Romero",
+    "updated_at": "2026-11-14T14:59:42.881+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Venturino, Milagros",
+    "day": 16,
+    "valor": 1,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T14:30:27.605+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Lanteri, Santiago",
+    "day": 16,
+    "valor": 34,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T22:00:00.494+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Laperchia, Solana",
+    "day": 16,
+    "valor": 76,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T16:57:18.547+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Almiron, Agostina",
+    "day": 16,
+    "valor": 8,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T17:11:47.297+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Bode ,Natalia",
+    "day": 16,
+    "valor": 6,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T17:17:15.846+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Menotti, Aranda Giuliana",
+    "day": 16,
+    "valor": 13,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T17:58:43.849+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Culcuy, Yenit",
+    "day": 16,
+    "valor": 33,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T17:59:26.693+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Perri, German",
+    "day": 16,
+    "valor": 14,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T18:00:03.57+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Gonzalez, Ma. De los Angeles",
+    "day": 16,
+    "valor": 37,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T18:19:09.017+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Machado, Natalia",
+    "day": 16,
+    "valor": 27,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T22:02:57.463+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Eguiazu, Agustina",
+    "day": 16,
+    "valor": 20,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T22:04:14.151+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Pascuale, Paula",
+    "day": 16,
+    "valor": 20,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T18:29:52.831+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "redes",
+    "auxiliar": "Venturino, Milagros",
+    "day": 16,
+    "valor": 6,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T18:35:05.37+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "redes",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 14,
+    "valor": 5,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T18:35:51.322+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 16,
+    "valor": 25,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T22:05:09.992+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Monzón, Andrea",
+    "day": 13,
+    "valor": 43,
+    "updated_by": "David",
+    "updated_at": "2026-11-17T12:43:42.196+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Fazzino, Melisa",
+    "day": 16,
+    "valor": 20,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T18:45:47.529+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Macaudiere, Rocio",
+    "day": 16,
+    "valor": 19,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T18:50:37.966+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Fernandez, Juan Pablo",
+    "day": 16,
+    "valor": 24,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T22:07:25.113+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Ludueña, Rocio del Valle",
+    "day": 16,
+    "valor": 24,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T22:08:22.876+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ortiz, Andrea",
+    "day": 16,
+    "valor": 1,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:20:36.244+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Murolo, Jonatan",
+    "day": 16,
+    "valor": 36,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T18:59:30.69+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Monzón, Andrea",
+    "day": 16,
+    "valor": 49,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:20:48.029+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Sarina, Gaston",
+    "day": 16,
+    "valor": 8,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T19:02:09.768+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Zini, Ayelen",
+    "day": 16,
+    "valor": 19,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:20:54.636+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Rodriguez, Florencia",
+    "day": 16,
+    "valor": 23,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T19:04:30.803+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Jaure, Florencia",
+    "day": 16,
+    "valor": 22,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T19:05:12.692+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Zappacosta, Antonela",
+    "day": 16,
+    "valor": 27,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T19:05:50.516+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schiavetti, Alejandro",
+    "day": 16,
+    "valor": 31,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:21:03.756+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Sozio, Marco",
+    "day": 16,
+    "valor": 22,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-16T19:07:34.417+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Villareal, Agostina",
+    "day": 16,
+    "valor": 19,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:21:11.868+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Romagnoli, Brisa",
+    "day": 16,
+    "valor": 55,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:21:19.78+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Romero, Priscila",
+    "day": 16,
+    "valor": 19,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T19:50:37.208+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Beltramo, Giuliana",
+    "day": 16,
+    "valor": 19,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T19:52:19.17+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Prieto, Bruno Rene",
+    "day": 16,
+    "valor": 30,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:21:26.892+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Aguilar, Cecilia",
+    "day": 16,
+    "valor": 10,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:21:38.164+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ayala, Carolina",
+    "day": 16,
+    "valor": 47,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:21:47.277+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Zini, Ayelen",
+    "day": 13,
+    "valor": 44,
+    "updated_by": "David",
+    "updated_at": "2026-11-17T12:43:48.245+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Capaldi, Camila",
+    "day": 16,
+    "valor": 31,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:21:53.419+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Pierini, Clementina",
+    "day": 16,
+    "valor": 44,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:22:06.556+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Dayer, Federico",
+    "day": 16,
+    "valor": 58,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:22:16.428+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barduca, Flavia",
+    "day": 16,
+    "valor": 1,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:22:22.94+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Mazzolari, Fiorella",
+    "day": 16,
+    "valor": 49,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:22:32.884+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 16,
+    "valor": 84,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T21:40:23.777+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schiavetti, Alejandro",
+    "day": 13,
+    "valor": 41,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:44:02.915+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Unno, Catalina",
+    "day": 16,
+    "valor": 36,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T21:53:56.685+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Alvado, Gisela",
+    "day": 16,
+    "valor": 29,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-16T21:58:14.5+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schdmit, Flavia",
+    "day": 16,
+    "valor": 58,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:22:40.363+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Armua, Gonzalo",
+    "day": 16,
+    "valor": 16,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:22:48.7+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Sovrano, Gerónimo",
+    "day": 16,
+    "valor": 47,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:23:00.732+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Viñas, Julieta Sofia",
+    "day": 16,
+    "valor": 37,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:23:08.683+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Khoury, Maximiliano",
+    "day": 16,
+    "valor": 14,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:23:21.172+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Muga, Florencia",
+    "day": 16,
+    "valor": 27,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:23:29.964+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Scattolini, Melisa",
+    "day": 16,
+    "valor": 1,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:23:40.388+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Acosta, Maria Sol",
+    "day": 16,
+    "valor": 28,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:23:54.883+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpenzano, Micaela",
+    "day": 16,
+    "valor": 1,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:23:59.827+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Venturino, Milagros",
+    "day": 16,
+    "valor": 50,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:24:11.843+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Martinez, Nahuel",
+    "day": 16,
+    "valor": 68,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:24:21.852+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpensano, Paula",
+    "day": 16,
+    "valor": 55,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:24:28.22+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Macaudiere, Rocio",
+    "day": 16,
+    "valor": 1,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:24:40.011+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Benitez, Sebastian",
+    "day": 16,
+    "valor": 44,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:24:48.595+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Antonini, Tatiana",
+    "day": 16,
+    "valor": 34,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:24:57.235+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Rubiolo, Valentina",
+    "day": 16,
+    "valor": 44,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-17T12:25:09.163+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ortiz, Andrea",
+    "day": 13,
+    "valor": 11,
+    "updated_by": "David",
+    "updated_at": "2026-11-17T12:43:33.347+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Regazzoni, Bruno",
+    "day": 13,
+    "valor": 2,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:44:22.503+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Romagnoli, Brisa",
+    "day": 13,
+    "valor": 27,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:44:32.915+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schdmit, Flavia",
+    "day": 13,
+    "valor": 49,
+    "updated_by": "David",
+    "updated_at": "2026-11-17T12:44:56.709+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ayala, Carolina",
+    "day": 13,
+    "valor": 46,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:45:06.883+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Pierini, Clementina",
+    "day": 13,
+    "valor": 28,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:45:42.73+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Dayer, Federico",
+    "day": 13,
+    "valor": 48,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:45:52.13+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barduca, Flavia",
+    "day": 13,
+    "valor": 8,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:45:59.145+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ravelo, Facundo",
+    "day": 13,
+    "valor": 7,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:46:18.507+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Mazzolari, Fiorella",
+    "day": 13,
+    "valor": 38,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:46:26.147+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Gallini, Gianfranco",
+    "day": 13,
+    "valor": 4,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:46:43.063+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Armua, Gonzalo",
+    "day": 13,
+    "valor": 26,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:46:50.355+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Beltramo, Giuliana",
+    "day": 13,
+    "valor": 16,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:52:07.796+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Perez, Melina",
+    "day": 16,
+    "valor": 38,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T21:15:43.877+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Capaldi, Camila",
+    "day": 13,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:45:23.035+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Jaure, Florencia",
+    "day": 13,
+    "valor": 27,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:46:06.882+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schmidt, Flavia",
+    "day": 13,
+    "valor": 49,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:46:35.283+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Viñas, Julieta Sofia",
+    "day": 13,
+    "valor": 41,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:52:23.626+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Khoury, Maximiliano",
+    "day": 13,
+    "valor": 20,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:52:35.465+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Gonzalez, Ma. De los Angeles",
+    "day": 13,
+    "valor": 14,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:52:47.086+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Fazzino, Melisa",
+    "day": 13,
+    "valor": 25,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:53:22.938+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Scattolini, Melisa",
+    "day": 13,
+    "valor": 13,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:53:29.832+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Martinez, Nahuel",
+    "day": 13,
+    "valor": 50,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:54:10.153+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Rubiolo, Valentina",
+    "day": 13,
+    "valor": 38,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:55:17.978+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Sovrano, Gerónimo",
+    "day": 13,
+    "valor": 40,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:52:14.907+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 13,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:53:38.018+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpenzano, Micaela",
+    "day": 13,
+    "valor": 5,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:53:45.081+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Sarina, Gaston",
+    "day": 13,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:46:56.607+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Muga, Florencia",
+    "day": 13,
+    "valor": 13,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:52:55.026+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ocanto, Mateo",
+    "day": 13,
+    "valor": 7,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:53:06.497+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Andreu, Maira",
+    "day": 13,
+    "valor": 24,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:53:15.535+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Venturino, Milagros",
+    "day": 13,
+    "valor": 25,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:53:50.922+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpensano, Paula",
+    "day": 13,
+    "valor": 50,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:54:40.345+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Macaudiere, Rocio",
+    "day": 13,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:54:49.865+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Antonini, Tatiana",
+    "day": 13,
+    "valor": 16,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:54:57.61+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barroso, Valeria",
+    "day": 13,
+    "valor": 3,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:55:05.137+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Rodriguez, Valentina",
+    "day": 13,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-17T12:55:11.065+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Perri, German",
+    "day": 17,
+    "valor": 4,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T14:32:30.591+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Sozio, Marco",
+    "day": 17,
+    "valor": 43,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T19:05:45.552+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Gonzalez, Ma. De los Angeles",
+    "day": 17,
+    "valor": 25,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T16:37:09.185+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "redes",
+    "auxiliar": "Pierini, Clementina",
+    "day": 16,
+    "valor": 2,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-17T16:50:05.693+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Cosimano, Ivana",
+    "day": 17,
+    "valor": 4,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-17T16:50:45.627+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Tallafer, Abril",
+    "day": 17,
+    "valor": 8,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-17T16:50:53.435+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Armua, Gonzalo",
+    "day": 17,
+    "valor": 10,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-17T16:51:00.251+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Rodriguez, Valentina",
+    "day": 17,
+    "valor": 12,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-17T16:51:10.17+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Gaitan, Joaquin",
+    "day": 17,
+    "valor": 12,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-17T16:51:19.098+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Barroso, Valeria",
+    "day": 17,
+    "valor": 5,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-17T16:51:27.131+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Laperchia, Solana",
+    "day": 17,
+    "valor": 88,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T17:21:40.213+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Pascuale, Paula",
+    "day": 17,
+    "valor": 37,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T17:33:50.853+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "redes",
+    "auxiliar": "Venturino, Milagros",
+    "day": 17,
+    "valor": 5,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T17:37:54.99+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Culcuy, Yenit",
+    "day": 17,
+    "valor": 27,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T17:39:33.463+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Rubiolo, Valentina",
+    "day": 17,
+    "valor": 20,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T17:49:55.809+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Venturino, Milagros",
+    "day": 17,
+    "valor": 32,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T17:51:29.681+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Regazzoni, Bruno",
+    "day": 17,
+    "valor": 3,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T17:56:47.238+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Fazzino, Melisa",
+    "day": 17,
+    "valor": 37,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T19:06:24.706+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 17,
+    "valor": 0,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T18:00:12.772+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Gonzalez, Ma. De los Angeles",
+    "day": 17,
+    "valor": 17,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T18:03:41.584+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "García, Lorenzo",
+    "day": 17,
+    "valor": 16,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T19:08:21.93+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Romero, Priscila",
+    "day": 17,
+    "valor": 19,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T22:07:33.609+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Andreu, Maira",
+    "day": 17,
+    "valor": 13,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T18:10:42.142+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Antonini, Tatiana",
+    "day": 17,
+    "valor": 8,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T12:19:38.051+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Ravelo, Facundo",
+    "day": 17,
+    "valor": 15,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T18:15:32.572+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Grassi, Jesica",
+    "day": 17,
+    "valor": 13,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T18:18:10.971+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Rodriguez, Valentina",
+    "day": 18,
+    "valor": 26,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T14:59:51.511+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Laperchia, Solana",
+    "day": 18,
+    "valor": 11,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T12:39:54.859+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Laperchia, Solana",
+    "day": 18,
+    "valor": 15,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T12:40:38.579+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 17,
+    "valor": 35,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T19:10:01.346+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Gonzalez, Ma. De los Angeles",
+    "day": 18,
+    "valor": 13,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T12:43:29.236+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Murolo, Jonatan",
+    "day": 17,
+    "valor": 42,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T18:54:53.176+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Rodriguez, Florencia",
+    "day": 17,
+    "valor": 30,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T18:59:45.26+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Zappacosta, Antonela",
+    "day": 17,
+    "valor": 19,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-17T19:01:51.68+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Monzón, Andrea",
+    "day": 17,
+    "valor": 36,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:42:23.343+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 17,
+    "valor": 0,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T20:14:42.116+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 17,
+    "valor": 21,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T20:14:47.24+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Tallafer, Abril",
+    "day": 17,
+    "valor": 6,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:42:50.588+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Elias, Nair",
+    "day": 17,
+    "valor": 11,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T20:57:29.749+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Regazzoni, Bruno",
+    "day": 17,
+    "valor": 30,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:43:07.004+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Prieto, Bruno Rene",
+    "day": 17,
+    "valor": 38,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:43:21.285+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Franco, Sybela Maria",
+    "day": 17,
+    "valor": 10,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T21:19:18.993+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Eguiazu, Agustina",
+    "day": 17,
+    "valor": 9,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T21:31:26.887+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Alvado, Gisela",
+    "day": 17,
+    "valor": 23,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T21:33:15.745+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Lanteri, Santiago",
+    "day": 17,
+    "valor": 27,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T21:36:16.14+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Menotti, Aranda Giuliana",
+    "day": 17,
+    "valor": 18,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T21:36:56.841+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Aguilar, Cecilia",
+    "day": 17,
+    "valor": 29,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:43:54.725+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Unno, Catalina",
+    "day": 17,
+    "valor": 34,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T21:48:47.029+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Perez, Melina",
+    "day": 17,
+    "valor": 42,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T21:48:58.574+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Schiavetti, Alejandro",
+    "day": 17,
+    "valor": 50,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T21:53:01.141+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ayala, Carolina",
+    "day": 17,
+    "valor": 42,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:44:03.743+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Capaldi, Camila",
+    "day": 17,
+    "valor": 22,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:44:15.101+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Zini, Ayelen",
+    "day": 17,
+    "valor": 13,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T22:00:57.174+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Machado, Natalia",
+    "day": 17,
+    "valor": 49,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T22:02:08.282+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Beltramo, Giuliana",
+    "day": 17,
+    "valor": 15,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T22:04:15.8+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Fernandez, Juan Pablo",
+    "day": 17,
+    "valor": 21,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-17T22:05:47.893+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Pierini, Clementina",
+    "day": 17,
+    "valor": 40,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:44:47.326+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Dayer, Federico",
+    "day": 17,
+    "valor": 54,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:44:59.26+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barduca, Flavia",
+    "day": 17,
+    "valor": 4,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:45:10.251+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Jaure, Florencia",
+    "day": 17,
+    "valor": 46,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:45:22.516+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Giudice, Franco",
+    "day": 17,
+    "valor": 16,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:45:35.038+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Mazzolari, Fiorella",
+    "day": 17,
+    "valor": 44,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:46:01.788+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schmidt, Flavia",
+    "day": 17,
+    "valor": 55,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:46:14.214+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Sarina, Gaston",
+    "day": 17,
+    "valor": 16,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:46:23.141+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Sovrano, Gerónimo",
+    "day": 17,
+    "valor": 57,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:46:33.534+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Basabe, Julieta",
+    "day": 17,
+    "valor": 12,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:46:42.692+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Viñas, Julieta Sofia",
+    "day": 17,
+    "valor": 48,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:46:53.086+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Khoury, Maximiliano",
+    "day": 17,
+    "valor": 17,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:47:14.716+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Muga, Florencia",
+    "day": 17,
+    "valor": 52,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:47:32.158+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Scattolini, Melisa",
+    "day": 17,
+    "valor": 7,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:47:49.886+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Acosta, Maria Sol",
+    "day": 17,
+    "valor": 35,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:48:00.791+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpenzano, Micaela",
+    "day": 17,
+    "valor": 5,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:48:10.293+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Murolo, Jonatan",
+    "day": 18,
+    "valor": 43,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T19:02:37.176+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Venturino, Milagros",
+    "day": 17,
+    "valor": 19,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:48:20.75+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Martinez, Nahuel",
+    "day": 17,
+    "valor": 60,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:48:41.054+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpensano, Paula",
+    "day": 17,
+    "valor": 72,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:48:53.245+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ludueña, Rocio del Valle",
+    "day": 17,
+    "valor": 31,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:49:11.541+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Antonini, Tatiana",
+    "day": 17,
+    "valor": 9,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:49:26.509+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barroso, Valeria",
+    "day": 17,
+    "valor": 9,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:49:38.843+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Galvez, Maria",
+    "day": 17,
+    "valor": 17,
+    "updated_by": "jesica",
+    "updated_at": "2026-11-18T13:48:33.501+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Capaldi, Camila",
+    "day": 18,
+    "valor": 23,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T15:02:27.777+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Armua, Gonzalo",
+    "day": 18,
+    "valor": 10,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T15:06:33.733+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "redes",
+    "auxiliar": "Venturino, Milagros",
+    "day": 18,
+    "valor": 6,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T16:15:37.88+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Courault, Bautista",
+    "day": 17,
+    "valor": 1,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-18T16:35:08.741+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Rubiolo, Valentina",
+    "day": 18,
+    "valor": 45,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T17:01:34.763+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Dayer, Federico",
+    "day": 18,
+    "valor": 28,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T17:04:53.804+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Menotti, Aranda Giuliana",
+    "day": 18,
+    "valor": 31,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T17:09:56.854+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Culcuy, Yenit",
+    "day": 18,
+    "valor": 31,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T17:10:24.523+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Pascuale, Paula",
+    "day": 18,
+    "valor": 25,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T17:24:54.898+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Ayala, Carolina",
+    "day": 18,
+    "valor": 26,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:43:12.792+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Unno, Catalina",
+    "day": 18,
+    "valor": 31,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:45:10.834+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Venturino, Milagros",
+    "day": 18,
+    "valor": 42,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T17:41:15.462+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Perri, German",
+    "day": 18,
+    "valor": 13,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T17:41:30.472+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 18,
+    "valor": 63,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-19T16:00:03.314+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Regazzoni, Bruno",
+    "day": 18,
+    "valor": 23,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T17:42:52.845+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Pierini, Clementina",
+    "day": 18,
+    "valor": 7,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:52:05.285+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Khoury, Maximiliano",
+    "day": 18,
+    "valor": 8,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T17:50:13.116+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Ludueña, Rocio del Valle",
+    "day": 18,
+    "valor": 43,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-19T16:00:16.591+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Pierini, Clementina",
+    "day": 18,
+    "valor": 47,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:54:03.213+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Andreu, Maira",
+    "day": 18,
+    "valor": 33,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-19T16:51:46.637+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Gonzalez, Ma. De los Angeles",
+    "day": 18,
+    "valor": 28,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T18:29:37.655+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Tallafer, Abril",
+    "day": 18,
+    "valor": 14,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T18:30:22.689+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Benitez, Sebastian",
+    "day": 18,
+    "valor": 10,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T18:33:01.954+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Perez, Melina",
+    "day": 18,
+    "valor": 31,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:54:59.418+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Franco, Sybela Maria",
+    "day": 18,
+    "valor": 9,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T18:35:09.586+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Giudice, Franco",
+    "day": 18,
+    "valor": 30,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T18:35:19.779+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Macaudiere, Rocio",
+    "day": 18,
+    "valor": 31,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T18:44:40.788+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Fazzino, Melisa",
+    "day": 18,
+    "valor": 48,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T18:45:31.371+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Galvez, Maria",
+    "day": 18,
+    "valor": 22,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T18:46:33.74+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Lanteri, Santiago",
+    "day": 18,
+    "valor": 32,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:57:14.61+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Alvado, Gisela",
+    "day": 18,
+    "valor": 36,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:57:44.474+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Clausen, Valeria",
+    "day": 18,
+    "valor": 9,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T19:00:12.144+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Zappacosta, Antonela",
+    "day": 18,
+    "valor": 25,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-18T19:03:06.571+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Rodriguez, Florencia",
+    "day": 18,
+    "valor": 51,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T20:01:23.313+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Rodriguez, Florencia",
+    "day": 12,
+    "valor": 13,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T20:01:35.442+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Eguiazu, Agustina",
+    "day": 18,
+    "valor": 23,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:59:23.217+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Fernandez, Juan Pablo",
+    "day": 18,
+    "valor": 35,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T22:00:13.722+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Machado, Natalia",
+    "day": 18,
+    "valor": 43,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:35:01.808+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Sozio, Marco",
+    "day": 18,
+    "valor": 42,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T21:42:33.357+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Ravelo, Facundo",
+    "day": 18,
+    "valor": 30,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T22:02:02.366+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Romero, Priscila",
+    "day": 18,
+    "valor": 21,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T22:03:32.281+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Antonini, Tatiana",
+    "day": 18,
+    "valor": 25,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T22:06:15.586+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Acosta, Maria Sol",
+    "day": 18,
+    "valor": 16,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T22:08:11.348+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Beltramo, Giuliana",
+    "day": 18,
+    "valor": 28,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-18T22:08:49.019+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schiavetti, Alejandro",
+    "day": 18,
+    "valor": 61,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:53:58.049+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Tallafer, Abril",
+    "day": 18,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:54:05.377+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Romagnoli, Brisa",
+    "day": 18,
+    "valor": 21,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:54:14.793+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Prieto, Bruno Rene",
+    "day": 18,
+    "valor": 39,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:54:23.721+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Aguilar, Cecilia",
+    "day": 18,
+    "valor": 37,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:54:31.872+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ayala, Carolina",
+    "day": 18,
+    "valor": 7,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:55:38.321+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Pierini, Clementina",
+    "day": 18,
+    "valor": 5,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:55:45.49+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barduca, Flavia",
+    "day": 18,
+    "valor": 3,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:55:53.634+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Jaure, Florencia",
+    "day": 18,
+    "valor": 40,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:56:00.457+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Mazzolari, Fiorella",
+    "day": 18,
+    "valor": 48,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:56:08.682+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Schmidt, Flavia",
+    "day": 18,
+    "valor": 67,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:58:51.298+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Armua, Gonzalo",
+    "day": 18,
+    "valor": 21,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:59:11.002+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Sovrano, Gerónimo",
+    "day": 18,
+    "valor": 48,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:59:20.058+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Viñas, Julieta Sofia",
+    "day": 18,
+    "valor": 48,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T12:59:32.194+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Muga, Florencia",
+    "day": 18,
+    "valor": 55,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:01:22.571+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Scattolini, Melisa",
+    "day": 18,
+    "valor": 14,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:01:33.443+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 18,
+    "valor": 60,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:01:42.06+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Acosta, Maria Sol",
+    "day": 18,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:01:50.723+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpenzano, Micaela",
+    "day": 18,
+    "valor": 11,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:01:58.171+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Galvez, Maria",
+    "day": 18,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:02:06.235+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Jovellano, Nicolas",
+    "day": 18,
+    "valor": 33,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:02:14.899+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Martinez, Nahuel",
+    "day": 18,
+    "valor": 66,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:02:21.531+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Carpensano, Paula",
+    "day": 18,
+    "valor": 55,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:02:56.243+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Ludueña, Rocio del Valle",
+    "day": 18,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:03:05.268+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Antonini, Tatiana",
+    "day": 18,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:03:13.251+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Rodriguez, Valentina",
+    "day": 18,
+    "valor": 14,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:03:27.323+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Barroso, Valeria",
+    "day": 18,
+    "valor": 18,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:03:19.667+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Rubiolo, Valentina",
+    "day": 18,
+    "valor": 1,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:03:32.899+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "whatsapp",
+    "auxiliar": "Clausen, Valeria",
+    "day": 18,
+    "valor": 29,
+    "updated_by": "Marcos",
+    "updated_at": "2026-11-19T13:03:39.395+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Laperchia, Solana",
+    "day": 19,
+    "valor": 11,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T13:29:58.987+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Zappacosta, Antonela",
+    "day": 19,
+    "valor": 7,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T13:39:06.619+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Gonzalez, Ma. De los Angeles",
+    "day": 19,
+    "valor": 26,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T14:58:29.253+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Pascuale, Paula",
+    "day": 19,
+    "valor": 18,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T14:59:10.685+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Capaldi, Camila",
+    "day": 19,
+    "valor": 24,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T15:04:50.069+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Rodriguez, Valentina",
+    "day": 19,
+    "valor": 22,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-19T15:13:47.136+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Andreu, Maira",
+    "day": 19,
+    "valor": 13,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-19T15:21:05.099+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Macaudiere, Rocio",
+    "day": 19,
+    "valor": 2,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T15:25:01.745+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Fazzino, Melisa",
+    "day": 19,
+    "valor": 10,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T15:31:58.068+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "redes",
+    "auxiliar": "Pierini, Clementina",
+    "day": 18,
+    "valor": 3,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T15:49:22.544+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Murolo, Jonatan",
+    "day": 19,
+    "valor": 24,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T16:03:33.194+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 19,
+    "valor": 15,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-19T16:27:04.689+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Redigonda, Macarena",
+    "day": 19,
+    "valor": 15,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-19T16:32:46.335+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Scattolini, Melisa",
+    "day": 19,
+    "valor": 51,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-19T16:48:23.867+00:00"
   }
 ]
