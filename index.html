@@ -251,6 +251,7 @@ tbody tr.drag-over td{box-shadow:inset 0 2px 0 var(--impulsa),inset 0 -2px 0 var
 .hist-filtro-wrap select{height:34px;border:1px solid var(--border);border-radius:8px;font-family:inherit;font-size:12.5px;padding:0 8px;font-weight:700;}
 .hist-filtro-wrap input{flex:1;min-width:0;height:34px;padding:0 10px;border:1px solid var(--border);border-radius:8px;font-family:inherit;font-size:12.5px;}
 .hist-dia{position:sticky;top:0;background:#f5f7fb;padding:6px 18px;font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:var(--impulsa-md);border-bottom:1px solid var(--border);}
+.hist-alerta{background:#fdeceb;}
 .hist-vacio{padding:24px 18px;text-align:center;color:var(--muted);font-size:12.5px;}
 
 /* ── Columnas fijas: campaña/auxiliar a la izquierda, total a la derecha — solo los días scrollean ── */
@@ -767,7 +768,7 @@ async function pushAuxRow(year, month, categoria, auxiliar, dayIdx, valor) {
 
 async function pushMeta(key, value) {
   if (!sb) return;
-  encolar('meta', { key, value }, 'key');
+  encolar('meta', { key, value, updated_by: QUIEN_SOS }, 'key');
 }
 
 // Las listas (auxiliares, categorías, filas, años) se guardan como un bloque entero.
@@ -1927,23 +1928,91 @@ function cerrarHistorial() {
   document.getElementById('hist-overlay').classList.remove('show');
 }
 let histDatos = [];
+// El historial sale de la tabla "auditoria", que la escribe la BASE DE DATOS sola con cada cambio
+// (no depende del navegador de nadie y no se puede borrar ni modificar desde la app).
+// Lo anterior a que existiera la auditoría se sigue mostrando desde el historial viejo.
+async function traerTodo(tabla, columnas, desdeISO, hastaISO) {
+  let todas = [], i = 0;
+  while (true) {
+    let q = sb.from(tabla).select(columnas).gte('created_at', desdeISO);
+    if (hastaISO) q = q.lt('created_at', hastaISO);
+    const { data, error } = await q.order('created_at', { ascending: false }).order('id', { ascending: false }).range(i, i + 999);
+    if (error) throw error;
+    todas = todas.concat(data || []);
+    if (!data || data.length < 1000) break;
+    i += 1000;
+  }
+  return todas;
+}
+function etiquetaCat(id) { const c = CATEGORIAS.find(x => x.id === id); return c ? c.label : id; }
+function etiquetaFila(key) {
+  const f = FILAS_CAMPANAS.find(x => x.key === key);
+  if (!f) return key;
+  const g = f.indent ? grupoDeFila(f) : '';
+  return g ? `${g} › ${f.label}` : f.label;
+}
+function textoAuditoria(r) {
+  const a = r.antes, d = r.despues;
+  let quien = r.hecho_por || 'Alguien';
+  if (r.tabla === 'aux_diario' || r.tabla === 'campanas_diario') {
+    const x = d || a;
+    const esAux = r.tabla === 'aux_diario';
+    const donde = esAux ? etiquetaCat(x.categoria) : etiquetaFila(x.row_key);
+    const cuando = `(día ${x.day} de ${MESES[x.month] || x.month}${x.year !== new Date().getFullYear() ? ' ' + x.year : ''})`;
+    if (esAux && a && d && a.auxiliar !== d.auxiliar) return `${quien} pasó el número ${d.valor} de ${a.auxiliar} a ${d.auxiliar} en ${donde} ${cuando}`;
+    const para = esAux && x.auxiliar !== quien ? ` para ${x.auxiliar}` : '';
+    const va = a ? (parseInt(a.valor) || 0) : 0, vd = d ? (parseInt(d.valor) || 0) : 0;
+    if (r.operacion === 'DELETE') return `⚠ Se borró de la base el ${va}${para} en ${donde} ${cuando} (lo había cargado ${a.updated_by || '—'})`;
+    let accion;
+    if (!va) accion = `cargó ${vd}`;
+    else if (!vd) accion = `borró ${va}`;
+    else accion = `cambió de ${va} a ${vd} (${vd > va ? '+' + (vd - va) : '−' + (va - vd)})`;
+    const previo = va && a && a.updated_by && a.updated_by !== quien ? ` — antes lo había cargado ${a.updated_by}` : '';
+    return `${quien} ${accion}${para} en ${donde} ${cuando}${previo}`;
+  }
+  if (r.tabla === 'meta') {
+    const key = (d || a).key, va = a ? a.value : null, vd = d ? d.value : null;
+    if (key === 'roster' && Array.isArray(vd)) {
+      const antes = Array.isArray(va) ? va : [];
+      const altas = vd.filter(n => !antes.includes(n)), bajas = antes.filter(n => !vd.includes(n));
+      const partes = [];
+      if (altas.length && bajas.length === altas.length && altas.length === 1) partes.push(`renombró a ${bajas[0]} como ${altas[0]}`);
+      else {
+        if (altas.length) partes.push(`agregó a ${altas.join(', ')}`);
+        if (bajas.length) partes.push(`quitó a ${bajas.join(', ')}`);
+      }
+      if (!partes.length) partes.push('cambió el orden de la lista');
+      return `${quien} ${partes.join(' y ')} (lista de auxiliares)`;
+    }
+    if ((key === 'categorias' || key === 'filas_campanas') && Array.isArray(vd)) {
+      const id = key === 'categorias' ? 'id' : 'key', nom = key === 'categorias' ? 'categoría' : 'fila de campañas';
+      const antes = Array.isArray(va) ? va : [];
+      const partes = [];
+      vd.forEach(n => { const o = antes.find(z => z[id] === n[id]); if (!o) partes.push(`agregó la ${nom} "${n.label}"`); else if (o.label !== n.label) partes.push(`renombró la ${nom} "${o.label}" como "${n.label}"`); });
+      antes.forEach(o => { if (!vd.some(n => n[id] === o[id])) partes.push(`sacó la ${nom} "${o.label}"`); });
+      return `${quien} ${partes.length ? partes.join(', ') : 'reordenó las ' + (key === 'categorias' ? 'categorías' : 'filas de campañas')}`;
+    }
+    if (key === 'years') return `${quien} actualizó los años disponibles: ${(vd || []).join(', ')}`;
+    return `${quien} cambió la configuración "${key}"`;
+  }
+  return `${quien}: ${r.operacion} en ${r.tabla}`;
+}
 async function cargarHistorial() {
   const box = document.getElementById('hist-list');
   box.innerHTML = '<div class="hist-vacio">Cargando...</div>';
   if (!sb) { box.innerHTML = '<div class="hist-vacio">Sin conexión a Supabase.</div>'; return; }
   const desde = new Date(); desde.setHours(0, 0, 0, 0); desde.setDate(desde.getDate() - (HIST_DIAS - 1));
   try {
-    let todas = [], i = 0;
-    while (true) { // de a 1000 hasta traer todo el período
-      const { data, error } = await sb.from('historial_cambios').select('id,resumen,updated_by,created_at')
-        .gte('created_at', desde.toISOString()).order('created_at', { ascending: false }).order('id', { ascending: false })
-        .range(i, i + 999);
-      if (error) throw error;
-      todas = todas.concat(data || []);
-      if (!data || data.length < 1000) break;
-      i += 1000;
-    }
-    histDatos = todas;
+    const audit = await traerTodo('auditoria', 'id,created_at,tabla,operacion,antes,despues,hecho_por', desde.toISOString());
+    // desde cuándo existe la auditoría: lo anterior se completa con el historial viejo
+    const { data: primera } = await sb.from('auditoria').select('created_at').order('created_at', { ascending: true }).limit(1);
+    const inicioAudit = primera && primera[0] ? primera[0].created_at : new Date().toISOString();
+    const viejo = inicioAudit > desde.toISOString()
+      ? await traerTodo('historial_cambios', 'id,resumen,updated_by,created_at', desde.toISOString(), inicioAudit)
+      : [];
+    histDatos = audit.map(r => ({ created_at: r.created_at, texto: textoAuditoria(r), alerta: r.operacion === 'DELETE' }))
+      .concat(viejo.map(r => ({ created_at: r.created_at, texto: r.resumen, viejo: true })))
+      .sort((x, y) => (x.created_at < y.created_at ? 1 : -1));
     pintarHistorial();
   } catch (e) {
     console.error(e);
@@ -1953,9 +2022,9 @@ async function cargarHistorial() {
 function pintarHistorial() {
   const box = document.getElementById('hist-list');
   const q = (document.getElementById('hist-filtro').value || '').trim().toLowerCase();
-  const filas = q ? histDatos.filter(r => (r.resumen || '').toLowerCase().includes(q)) : histDatos;
+  const filas = q ? histDatos.filter(r => (r.texto || '').toLowerCase().includes(q)) : histDatos;
   document.getElementById('hist-cuenta').textContent = `${filas.length.toLocaleString('es-AR')} movimiento${filas.length === 1 ? '' : 's'} · ${HIST_DIAS === 7 ? 'última semana' : 'últimos ' + HIST_DIAS + ' días'}`;
-  if (!filas.length) { box.innerHTML = `<div class="hist-vacio">${q ? 'No hay movimientos que coincidan.' : 'No hubo movimientos en los últimos ' + HIST_DIAS + ' días.'}</div>`; return; }
+  if (!filas.length) { box.innerHTML = `<div class="hist-vacio">${q ? 'No hay movimientos que coincidan.' : 'No hubo movimientos en este período.'}</div>`; return; }
   const hoy = new Date(); hoy.setHours(0, 0, 0, 0);
   let html = '', diaActual = '';
   filas.forEach(r => {
@@ -1964,8 +2033,8 @@ function pintarHistorial() {
     const dif = Math.round((hoy - d0) / 86400000);
     const dia = dif === 0 ? 'Hoy' : dif === 1 ? 'Ayer' : f.toLocaleDateString('es-AR', { weekday: 'long', day: 'numeric', month: 'long' });
     if (dia !== diaActual) { diaActual = dia; html += `<div class="hist-dia">${escHtml(dia)}</div>`; }
-    html += `<div class="hist-item"><div class="hist-resumen">${escHtml(r.resumen)}</div>`
-      + `<div class="hist-meta">${f.toLocaleTimeString('es-AR', { hour: '2-digit', minute: '2-digit' })} · ${formatoRelativo(r.created_at)}</div></div>`;
+    html += `<div class="hist-item${r.alerta ? ' hist-alerta' : ''}"><div class="hist-resumen">${escHtml(r.texto)}</div>`
+      + `<div class="hist-meta">${f.toLocaleTimeString('es-AR', { hour: '2-digit', minute: '2-digit' })} · ${formatoRelativo(r.created_at)}${r.viejo ? ' · registro anterior' : ''}</div></div>`;
   });
   box.innerHTML = html;
 }

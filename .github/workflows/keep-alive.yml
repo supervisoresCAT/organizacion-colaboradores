@@ -2,11 +2,16 @@ name: Keep Supabase alive + Respaldo
 
 on:
   schedule:
-    - cron: '0 8 * * 4'   # todos los jueves a las 08:00 UTC (los lunes ya los cubre Organización de tareas)
+    - cron: '30 18 * * *'   # todos los días 15:30 hora argentina
+    - cron: '30 2 * * *'    # todos los días 23:30 hora argentina
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: respaldo
+  cancel-in-progress: false
 
 jobs:
   keepalive-backup:
@@ -21,10 +26,14 @@ jobs:
           node-version: '20'
 
       - name: Respaldo de Supabase (esto ya cuenta como actividad y evita el auto-pausado)
+        id: respaldo
+        continue-on-error: true
         run: node scripts/backup-supabase.mjs
 
-      - name: Commitear cambios si hay
+      - name: Commitear lo respaldado
+        if: always()
         run: |
+          mkdir -p keepalive
           date -u +"Último ping: %Y-%m-%d %H:%M UTC" > keepalive/last-ping.txt
           git config user.name "keepalive-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -32,6 +41,12 @@ jobs:
           if git diff --cached --quiet; then
             echo "Sin cambios, no hace falta commitear."
           else
-            git commit -m "keep-alive + respaldo: $(date -u +'%Y-%m-%d')"
-            git push
+            git commit -m "keep-alive + respaldo: $(date -u +'%Y-%m-%d %H:%M')"
+            for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
           fi
+
+      - name: Avisar si el respaldo detectó un problema
+        if: steps.respaldo.outcome == 'failure'
+        run: |
+          echo "::error::El respaldo detectó un problema (posible pérdida de datos o Supabase sin responder). Revisar el log del paso 'Respaldo de Supabase'."
+          exit 1

@@ -1,25 +1,46 @@
 // scripts/backup-supabase.mjs
 //
-// Descarga TODO el contenido de las tablas de Supabase y lo guarda en /backups como JSON.
-// Esto es un respaldo INDEPENDIENTE de Supabase: si el proyecto se pierde, se borra o se
-// corrompe, los datos siguen existiendo acá, versionados en el historial de git.
-// Corre una vez por día.
+// Descarga TODO el contenido de las tablas de Supabase y lo guarda en /backups.
+// Es un respaldo INDEPENDIENTE de Supabase: si el proyecto se pierde, se borra o se corrompe,
+// los datos siguen existiendo acá, versionados en el historial de git.
 //
-// campanas_diario / aux_diario: las tablas activas (una fila por día editado).
-// campanas_mensual / aux_mensual: las tablas viejas (una fila por mes completo), ya no las
-// usa la app, pero se siguen respaldando por las dudas mientras nadie las borre a mano.
+// Qué guarda:
+//   backups/<tabla>.latest.json                 → la última foto (se reemplaza en cada corrida)
+//   backups/diarios/<AAAA-MM-DD>/<tabla>.json.gz → una foto por día (se conservan 45 días en la carpeta;
+//                                                  las anteriores siguen en el historial de git)
+//   backups/mensuales/<AAAA-MM-01>-<tabla>.json → una foto el día 1 de cada mes (para siempre)
+//
+// Protección: si una tabla trae muchas menos filas que el respaldo anterior (por ejemplo,
+// alguien vació datos), NO se pisa el respaldo bueno: se guarda aparte como "sospechoso"
+// y la corrida termina con error para que GitHub mande el aviso por mail.
 
-import { writeFile, mkdir } from 'node:fs/promises';
+import { writeFile, readFile, mkdir, readdir, rm } from 'node:fs/promises';
+import { gzipSync } from 'node:zlib';
 
 const SUPABASE_URL = 'https://vadqwxrbonrbohvbeqdo.supabase.co';
 const SUPABASE_ANON_KEY = 'sb_publishable_8oUx8EJHl67PKy2gIJYvWA_wjX9AhDe';
 
-async function fetchTodo(tabla) {
+// tabla → columnas de la clave (para paginar con orden fijo y no saltear ni repetir filas)
+const TABLAS = {
+  campanas_diario: 'year,month,row_key,day',
+  aux_diario: 'year,month,categoria,auxiliar,day',
+  meta: 'key',
+  historial_cambios: 'id',
+  auditoria: 'id',
+  campanas_mensual: null, // tablas viejas, ya no las usa la app
+  aux_mensual: null,
+};
+// Tablas que solo crecen o casi: si de golpe traen menos de este % del respaldo anterior, se frena.
+const MINIMO_PORCENTAJE = 0.9;
+const DIAS_A_CONSERVAR = 45;
+
+async function fetchTodo(tabla, orden) {
   const filas = [];
   let desde = 0;
   const tamanoPagina = 1000;
   while (true) {
-    const res = await fetch(`${SUPABASE_URL}/rest/v1/${tabla}?select=*`, {
+    const ord = orden ? '&order=' + orden.split(',').map(c => `${c}.asc`).join(',') : '';
+    const res = await fetch(`${SUPABASE_URL}/rest/v1/${tabla}?select=*${ord}`, {
       headers: {
         apikey: SUPABASE_ANON_KEY,
         Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
@@ -28,8 +49,8 @@ async function fetchTodo(tabla) {
     });
     if (!res.ok) {
       if (res.status === 404 || res.status === 400) {
-        console.warn(`Aviso: la tabla "${tabla}" no existe o no respondió, se omite.`);
-        return [];
+        console.warn(`Aviso: la tabla "${tabla}" no existe o no respondió (${res.status}), se omite.`);
+        return null;
       }
       throw new Error(`Error consultando ${tabla}: ${res.status} ${await res.text()}`);
     }
@@ -41,34 +62,59 @@ async function fetchTodo(tabla) {
   return filas;
 }
 
-async function respaldarTabla(tabla) {
-  const filas = await fetchTodo(tabla);
-  await writeFile(`backups/${tabla}.latest.json`, JSON.stringify(filas, null, 2));
-  return filas.length;
+async function cantidadAnterior(tabla) {
+  try { return JSON.parse(await readFile(`backups/${tabla}.latest.json`, 'utf8')).length; }
+  catch { return null; }
 }
 
 async function main() {
-  console.log('Descargando tablas de Supabase para el respaldo diario...');
+  const ahora = new Date();
+  // fecha en hora argentina para nombrar las carpetas
+  const fecha = new Date(ahora.getTime() - 3 * 3600 * 1000).toISOString().slice(0, 10);
+  console.log(`Respaldo ${ahora.toISOString()} (carpeta ${fecha})`);
   await mkdir('backups', { recursive: true });
+  await mkdir(`backups/diarios/${fecha}`, { recursive: true });
 
-  const tablas = ['campanas_diario', 'aux_diario', 'meta', 'historial_cambios', 'campanas_mensual', 'aux_mensual'];
   const conteos = {};
-  for (const tabla of tablas) {
-    conteos[tabla] = await respaldarTabla(tabla);
-  }
-  console.log('Filas respaldadas:', conteos);
+  const problemas = [];
+  for (const [tabla, orden] of Object.entries(TABLAS)) {
+    const filas = await fetchTodo(tabla, orden);
+    if (filas === null) continue;
+    const antes = await cantidadAnterior(tabla);
+    conteos[tabla] = antes == null ? `${filas.length}` : `${antes} → ${filas.length}`;
 
-  // Además del "latest" (que siempre se pisa), una foto fechada el día 1 de cada mes
-  // como punto de restauración a más largo plazo, sin acumular un archivo por día.
-  if (new Date().getUTCDate() === 1) {
-    const fecha = new Date().toISOString().slice(0, 10);
+    if (antes && filas.length < antes * MINIMO_PORCENTAJE) {
+      const archivo = `backups/sospechoso-${fecha}-${tabla}.json`;
+      await writeFile(archivo, JSON.stringify(filas));
+      problemas.push(`${tabla}: el respaldo anterior tenía ${antes} filas y ahora vienen ${filas.length}. NO se pisó el respaldo bueno (lo nuevo quedó en ${archivo}).`);
+      continue;
+    }
+    await writeFile(`backups/${tabla}.latest.json`, JSON.stringify(filas, null, 2));
+    await writeFile(`backups/diarios/${fecha}/${tabla}.json.gz`, gzipSync(JSON.stringify(filas)));
+  }
+  console.log('Filas (anterior → ahora):', conteos);
+
+  // Foto mensual permanente el día 1
+  if (fecha.endsWith('-01')) {
     await mkdir('backups/mensuales', { recursive: true });
-    for (const tabla of ['campanas_diario', 'aux_diario', 'meta']) {
-      const filas = await fetchTodo(tabla);
-      await writeFile(`backups/mensuales/${fecha}-${tabla}.json`, JSON.stringify(filas, null, 2));
+    for (const tabla of ['campanas_diario', 'aux_diario', 'meta', 'historial_cambios', 'auditoria']) {
+      try {
+        const contenido = await readFile(`backups/${tabla}.latest.json`, 'utf8');
+        await writeFile(`backups/mensuales/${fecha}-${tabla}.json`, contenido);
+      } catch {}
     }
   }
 
+  // Limpieza de la carpeta de diarios (lo viejo sigue en el historial de git)
+  const limite = new Date(ahora.getTime() - DIAS_A_CONSERVAR * 86400000).toISOString().slice(0, 10);
+  for (const dir of await readdir('backups/diarios')) {
+    if (/^\d{4}-\d{2}-\d{2}$/.test(dir) && dir < limite) await rm(`backups/diarios/${dir}`, { recursive: true, force: true });
+  }
+
+  if (problemas.length) {
+    console.error('\n⚠️  ATENCIÓN — posible pérdida de datos:\n' + problemas.join('\n'));
+    process.exitCode = 1; // se commitea igual lo que sí está bien, y la corrida queda marcada con error
+  }
   console.log('Respaldo guardado en /backups.');
 }
 
