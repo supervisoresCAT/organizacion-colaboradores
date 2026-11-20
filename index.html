@@ -245,6 +245,12 @@ tbody tr.drag-over td{box-shadow:inset 0 2px 0 var(--impulsa),inset 0 -2px 0 var
 .hist-item{padding:10px 18px;border-bottom:1px solid #f0f2f7;}
 .hist-resumen{font-size:12.5px;color:var(--text);}
 .hist-meta{font-size:10.5px;color:var(--muted);margin-top:2px;}
+.hist-box-grande{max-width:620px;max-height:82vh;}
+.hist-cuenta{display:block;font-size:10.5px;font-weight:600;color:var(--muted);margin-top:2px;}
+.hist-filtro-wrap{padding:10px 18px;border-bottom:1px solid var(--border);}
+.hist-filtro-wrap input{width:100%;height:34px;padding:0 10px;border:1px solid var(--border);border-radius:8px;font-family:inherit;font-size:12.5px;}
+.hist-dia{position:sticky;top:0;background:#f5f7fb;padding:6px 18px;font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:var(--impulsa-md);border-bottom:1px solid var(--border);}
+.hist-vacio{padding:24px 18px;text-align:center;color:var(--muted);font-size:12.5px;}
 
 /* ── Columnas fijas: campaña/auxiliar a la izquierda, total a la derecha — solo los días scrollean ── */
 td.td-name,thead th.th-name{box-shadow:3px 0 6px rgba(0,0,0,.10)!important;border-right:1.5px solid #c9d0dd!important;}
@@ -714,7 +720,7 @@ async function procesarCola() {
     colaEnCurso = false;
     actualizarBadge();
     clearTimeout(timerReintento);
-    if (pendientes.length) timerReintento = setTimeout(procesarCola, sinConexion ? 8000 : 500);
+    if (pendientes.length) timerReintento = setTimeout(procesarCola, sinConexion ? 8000 : 0);
   }
 }
 window.addEventListener('online', () => { procesarCola(); refrescarCambios(); });
@@ -1180,7 +1186,7 @@ function onYearChange() {
     const y = parseInt(prompt('¿Qué año querés agregar?', Math.max(...years)+1));
     if (y && !years.includes(y)) {
       modificarMeta('years', years, ys => { ys = normalizarYears(ys); if (!ys.includes(y)) ys.push(y); return ys.sort(); })
-        .then(nv => { if (nv) years = normalizarYears(nv); saveAllToStorage(); renderYearSelect(); render(); });
+        .then(nv => { if (nv) years = normalizarYears(nv); registrarAccion(`agregó el año ${y}`); saveAllToStorage(); renderYearSelect(); render(); });
     }
     renderYearSelect();
     render();
@@ -1423,7 +1429,7 @@ function setCampanaValor(rowKey, dayIdx, val, y = currentYear, m = currentMonth)
   rowData[rowKey][dayIdx] = nuevoVal;
   saveAllToStorage();
   pushCampanaRow(y, m, rowKey, dayIdx, nuevoVal);
-  registrarHistorial(nuevoVal, rowKey, null, dayIdx);
+  if (valorAnterior !== nuevoVal) registrarHistorial(nuevoVal, rowKey, null, dayIdx, valorAnterior, y, m);
   render();
 }
 
@@ -1501,7 +1507,7 @@ function setAuxValor(nombre, dayIdx, val, y = currentYear, m = currentMonth, cat
   catData[nombre][dayIdx] = nuevoVal;
   saveAllToStorage();
   pushAuxRow(y, m, cat, nombre, dayIdx, nuevoVal);
-  registrarHistorial(nuevoVal, cat, nombre, dayIdx);
+  if (valorAnterior !== nuevoVal) registrarHistorial(nuevoVal, cat, nombre, dayIdx, valorAnterior, y, m);
   render();
 }
 
@@ -1764,6 +1770,7 @@ function procesarArchivoRestaurar(e) {
     e.target.value = '';
     pushMeta('categorias', CATEGORIAS);
     pushMeta('filas_campanas', FILAS_CAMPANAS);
+    registrarAccion(`restauró un respaldo del ${fecha}${quien}`);
     sembrarSupabase(ceros);
   };
   reader.readAsText(file);
@@ -1791,9 +1798,11 @@ function renderFilasAdmin() {
 async function renombrarFila(i, nuevoLabel) {
   nuevoLabel = (nuevoLabel || '').trim();
   const f = FILAS_CAMPANAS[i];
-  if (!nuevoLabel || !f) return;
+  if (!nuevoLabel || !f || nuevoLabel === f.label) return;
+  const etiquetaVieja = f.label;
   const nv = await modificarMeta('filas_campanas', FILAS_CAMPANAS, fs => { const x = fs.find(z => z.key === f.key); if (x) x.label = nuevoLabel; return fs; });
   if (nv) FILAS_CAMPANAS = nv; else f.label = nuevoLabel;
+  registrarAccion(`renombró la fila de campañas "${etiquetaVieja}" como "${nuevoLabel}"`);
   render();
 }
 async function eliminarFila(i) {
@@ -1802,6 +1811,7 @@ async function eliminarFila(i) {
   if (!confirm(`¿Eliminar la fila "${f.label}" de la vista? Los datos ya cargados ahí quedan guardados en Supabase, solo deja de verse en la app.`)) return;
   const nv = await modificarMeta('filas_campanas', FILAS_CAMPANAS, fs => fs.filter(z => z.key !== f.key));
   FILAS_CAMPANAS = nv || FILAS_CAMPANAS.filter(z => z.key !== f.key);
+  registrarAccion(`eliminó la fila de campañas "${f.label}" de la vista`);
   renderFilasAdmin();
   render();
 }
@@ -1814,7 +1824,7 @@ function agregarFila() {
   const fila = { key, label, indent: 0, bold: false };
   input.value = '';
   modificarMeta('filas_campanas', FILAS_CAMPANAS, fs => { if (!fs.some(z => z.key === key)) fs.push(fila); return fs; })
-    .then(nv => { FILAS_CAMPANAS = nv || FILAS_CAMPANAS.concat(fila); renderFilasAdmin(); render(); });
+    .then(nv => { FILAS_CAMPANAS = nv || FILAS_CAMPANAS.concat(fila); registrarAccion(`agregó la fila de campañas "${label}"`); renderFilasAdmin(); render(); });
 }
 
 // ── Panel de categorías (agregar, renombrar, eliminar) ──
@@ -1839,9 +1849,11 @@ function renderCatAdmin() {
 async function renombrarCategoria(i, nuevoLabel) {
   nuevoLabel = (nuevoLabel || '').trim();
   const c = CATEGORIAS[i];
-  if (!nuevoLabel || !c) return;
+  if (!nuevoLabel || !c || nuevoLabel === c.label) return;
   const nv = await modificarMeta('categorias', CATEGORIAS, cs => { const x = cs.find(z => z.id === c.id); if (x) x.label = nuevoLabel; return cs; });
+  const etiquetaVieja = c.label;
   if (nv) CATEGORIAS = nv; else c.label = nuevoLabel;
+  registrarAccion(`renombró la categoría "${etiquetaVieja}" como "${nuevoLabel}"`);
   render();
 }
 async function eliminarCategoria(i) {
@@ -1850,6 +1862,7 @@ async function eliminarCategoria(i) {
   if (!confirm(`¿Eliminar la categoría "${c.label}" de la vista? Los datos ya cargados ahí quedan guardados en Supabase, solo deja de verse en la app.`)) return;
   const nv = await modificarMeta('categorias', CATEGORIAS, cs => cs.filter(z => z.id !== c.id));
   CATEGORIAS = nv || CATEGORIAS.filter(z => z.id !== c.id);
+  registrarAccion(`eliminó la categoría "${c.label}" de la vista`);
   if (currentCat === c.id) currentCat = CATEGORIAS[0] ? CATEGORIAS[0].id : '__total';
   renderCatAdmin();
   render();
@@ -1863,47 +1876,96 @@ function agregarCategoria() {
   const cat = { id, label, icon: '🏷️' };
   input.value = '';
   modificarMeta('categorias', CATEGORIAS, cs => { if (!cs.some(z => z.id === id)) cs.push(cat); return cs; })
-    .then(nv => { CATEGORIAS = nv || CATEGORIAS.concat(cat); renderCatAdmin(); render(); });
+    .then(nv => { CATEGORIAS = nv || CATEGORIAS.concat(cat); registrarAccion(`agregó la categoría "${label}"`); renderCatAdmin(); render(); });
 }
 
 // ── Registro de historial (visible solo para supervisores) ──
-function registrarHistorial(valor, claveOCat, nombreAux, dayIdx) {
+// Queda registrado TODO: cargas, correcciones (valor anterior → nuevo), borrados, deshacer,
+// y cambios en auxiliares, categorías, filas y años. El panel muestra los últimos 3 días completos.
+const HIST_DIAS = 3;
+function registrarHistorial(valor, claveOCat, nombreAux, dayIdx, anterior = 0, y = currentYear, m = currentMonth) {
   if (!sb) return;
-  let etiqueta, resumen;
+  let etiqueta;
   if (nombreAux) {
     const cat = CATEGORIAS.find(c => c.id === claveOCat);
     etiqueta = cat ? cat.label : claveOCat;
-    resumen = (QUIEN_SOS === nombreAux)
-      ? `${QUIEN_SOS} cargó ${valor} en ${etiqueta} (día ${dayIdx+1})`
-      : `${QUIEN_SOS} cargó ${valor} para ${nombreAux} en ${etiqueta} (día ${dayIdx+1})`;
   } else {
     const fila = FILAS_CAMPANAS.find(f => f.key === claveOCat);
-    etiqueta = fila ? fila.label : claveOCat;
-    resumen = `${QUIEN_SOS} cargó ${valor} en ${etiqueta} (día ${dayIdx+1})`;
+    etiqueta = fila ? (fila.indent ? `${grupoDeFila(fila)} › ${fila.label}` : fila.label) : claveOCat;
   }
+  const para = nombreAux && nombreAux !== QUIEN_SOS ? ` para ${nombreAux}` : '';
+  const cuando = `(día ${dayIdx + 1} de ${MESES[m]}${y !== new Date().getFullYear() ? ' ' + y : ''})`;
+  anterior = parseInt(anterior) || 0;
+  let accion;
+  if (deshaciendoAhora) accion = `deshizo un cambio: volvió a ${valor} (estaba en ${anterior})`;
+  else if (!anterior) accion = `cargó ${valor}`;
+  else if (!valor) accion = `borró ${anterior}`;
+  else if (valor > anterior) accion = `cambió de ${anterior} a ${valor} (+${valor - anterior})`;
+  else accion = `cambió de ${anterior} a ${valor} (−${anterior - valor})`;
+  const resumen = `${QUIEN_SOS} ${accion}${para} en ${etiqueta} ${cuando}`;
   encolar('historial_cambios', { resumen, updated_by: QUIEN_SOS });
+}
+function grupoDeFila(fila) {
+  const i = FILAS_CAMPANAS.indexOf(fila);
+  for (let j = i - 1; j >= 0; j--) if (FILAS_CAMPANAS[j].indent < fila.indent) return FILAS_CAMPANAS[j].label;
+  return '';
+}
+// Para todo lo que no es un número de una celda (listas, categorías, etc.)
+function registrarAccion(texto) {
+  if (!sb) return;
+  encolar('historial_cambios', { resumen: `${QUIEN_SOS} ${texto}`, updated_by: QUIEN_SOS });
 }
 function abrirHistorial() {
   if (!esSupervisor) return;
   document.getElementById('hist-overlay').classList.add('show');
+  document.getElementById('hist-filtro').value = '';
   cargarHistorial();
 }
 function cerrarHistorial() {
   document.getElementById('hist-overlay').classList.remove('show');
 }
+let histDatos = [];
 async function cargarHistorial() {
   const box = document.getElementById('hist-list');
-  box.innerHTML = 'Cargando...';
-  if (!sb) { box.innerHTML = 'Sin conexión a Supabase.'; return; }
-  const { data, error } = await sb.from('historial_cambios').select('resumen,updated_by,created_at').order('created_at', { ascending: false }).limit(30);
-  if (error) { box.innerHTML = 'No se pudo cargar el historial.'; console.error(error); return; }
-  if (!data || !data.length) { box.innerHTML = 'Todavía no hay cambios registrados.'; return; }
-  box.innerHTML = data.map(r => `
-    <div class="hist-item">
-      <div class="hist-resumen">${escHtml(r.resumen)}</div>
-      <div class="hist-meta">${formatoRelativo(r.created_at)}</div>
-    </div>
-  `).join('');
+  box.innerHTML = '<div class="hist-vacio">Cargando...</div>';
+  if (!sb) { box.innerHTML = '<div class="hist-vacio">Sin conexión a Supabase.</div>'; return; }
+  const desde = new Date(); desde.setHours(0, 0, 0, 0); desde.setDate(desde.getDate() - (HIST_DIAS - 1));
+  try {
+    let todas = [], i = 0;
+    while (true) { // de a 1000 hasta traer todo el período
+      const { data, error } = await sb.from('historial_cambios').select('id,resumen,updated_by,created_at')
+        .gte('created_at', desde.toISOString()).order('created_at', { ascending: false }).order('id', { ascending: false })
+        .range(i, i + 999);
+      if (error) throw error;
+      todas = todas.concat(data || []);
+      if (!data || data.length < 1000) break;
+      i += 1000;
+    }
+    histDatos = todas;
+    pintarHistorial();
+  } catch (e) {
+    console.error(e);
+    box.innerHTML = '<div class="hist-vacio">No se pudo cargar el historial.</div>';
+  }
+}
+function pintarHistorial() {
+  const box = document.getElementById('hist-list');
+  const q = (document.getElementById('hist-filtro').value || '').trim().toLowerCase();
+  const filas = q ? histDatos.filter(r => (r.resumen || '').toLowerCase().includes(q)) : histDatos;
+  document.getElementById('hist-cuenta').textContent = `${filas.length} movimiento${filas.length === 1 ? '' : 's'} · últimos ${HIST_DIAS} días`;
+  if (!filas.length) { box.innerHTML = `<div class="hist-vacio">${q ? 'No hay movimientos que coincidan.' : 'No hubo movimientos en los últimos ' + HIST_DIAS + ' días.'}</div>`; return; }
+  const hoy = new Date(); hoy.setHours(0, 0, 0, 0);
+  let html = '', diaActual = '';
+  filas.forEach(r => {
+    const f = new Date(r.created_at);
+    const d0 = new Date(f); d0.setHours(0, 0, 0, 0);
+    const dif = Math.round((hoy - d0) / 86400000);
+    const dia = dif === 0 ? 'Hoy' : dif === 1 ? 'Ayer' : f.toLocaleDateString('es-AR', { weekday: 'long', day: 'numeric', month: 'long' });
+    if (dia !== diaActual) { diaActual = dia; html += `<div class="hist-dia">${escHtml(dia)}</div>`; }
+    html += `<div class="hist-item"><div class="hist-resumen">${escHtml(r.resumen)}</div>`
+      + `<div class="hist-meta">${f.toLocaleTimeString('es-AR', { hour: '2-digit', minute: '2-digit' })} · ${formatoRelativo(r.created_at)}</div></div>`;
+  });
+  box.innerHTML = html;
 }
 
 // ── Buscador Ctrl+K ──
@@ -1983,6 +2045,7 @@ async function ordenarRosterAlfabetico() {
   if (!confirm('Esto va a reordenar todos los auxiliares alfabéticamente (por apellido). ¿Continuar?')) return;
   const nv = await modificarMeta('roster', roster, r => r.sort((a, b) => a.localeCompare(b, 'es', { sensitivity: 'base' })));
   if (nv) roster = nv;
+  registrarAccion('ordenó la lista de auxiliares de la A a la Z');
   saveAllToStorage();
   render();
 }
@@ -2021,6 +2084,7 @@ function auxDrop(e, nombreDestino) {
   const local = aplicar(roster.slice());
   if (!local) return;
   roster = local; render(); // se ve al instante
+  registrarAccion(`movió a ${mover} en la lista (ahora va antes de ${nombreDestino})`);
   modificarMeta('roster', roster, aplicar).then(nv => { if (nv) roster = nv; saveAllToStorage(); render(); });
 }
 
@@ -2123,6 +2187,7 @@ async function renombrarAuxiliar(viejo, nuevo) {
     if (auxData[y][m][c][viejo]) { auxData[y][m][c][nuevo] = auxData[y][m][c][viejo]; delete auxData[y][m][c][viejo]; }
   })));
   saveAllToStorage();
+  registrarAccion(`renombró al auxiliar "${viejo}" como "${nuevo}"`);
   await renameAuxInSupabase(viejo, nuevo);
   render();
 }
@@ -2130,6 +2195,7 @@ async function quitarAuxiliar(nombre) {
   if (!confirm(`¿Quitar a "${nombre}" de la lista? (no se borran sus números guardados, solo deja de aparecer)`)) return;
   const nv = await modificarMeta('roster', roster, r => r.filter(n => n !== nombre));
   roster = nv || roster.filter(n => n !== nombre);
+  registrarAccion(`quitó a ${nombre} de la lista de auxiliares`);
   saveAllToStorage();
   render();
 }
@@ -2139,6 +2205,7 @@ async function addAuxiliar() {
   if (roster.includes(nombre)) { alert('Ya está en la lista.'); return; }
   const nv = await modificarMeta('roster', roster, r => { if (!r.includes(nombre)) r.push(nombre); return r.sort((a,b)=>a.localeCompare(b,'es')); });
   roster = nv || roster.concat(nombre).sort((a,b)=>a.localeCompare(b,'es'));
+  registrarAccion(`agregó a ${nombre} a la lista de auxiliares`);
   saveAllToStorage();
   render();
 }
@@ -2343,8 +2410,9 @@ arrancar();
   </div>
 </div>
 <div class="hist-overlay" id="hist-overlay" onclick="if(event.target===this) cerrarHistorial()">
-  <div class="hist-box">
-    <div class="hist-head">📜 Historial de cambios <button class="hist-close" onclick="cerrarHistorial()">×</button></div>
+  <div class="hist-box hist-box-grande">
+    <div class="hist-head"><span>📜 Historial de cambios <small id="hist-cuenta" class="hist-cuenta"></small></span><span style="display:flex;gap:10px;"><button class="hist-close" onclick="cargarHistorial()" title="Actualizar">⟳</button><button class="hist-close" onclick="cerrarHistorial()">×</button></span></div>
+    <div class="hist-filtro-wrap"><input type="text" id="hist-filtro" placeholder="🔍 Filtrar por persona, auxiliar, categoría, día..." oninput="pintarHistorial()"></div>
     <div class="hist-list" id="hist-list"></div>
   </div>
 </div>
