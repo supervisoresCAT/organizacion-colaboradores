@@ -294,92 +294,14 @@ td.td-name,thead th.th-name{box-shadow:3px 0 6px rgba(0,0,0,.10)!important;borde
 .portada-tips kbd{background:rgba(255,255,255,.15);border-radius:4px;padding:1px 5px;font-family:inherit;}
 @media(max-width:600px){ .portada-secciones{grid-template-columns:1fr;} }
 
-/* ══════════ MODO COMPACTO (ventana angosta al lado de Outlook) ══════════ */
-#compacto{display:none;}
-body.compacto #compacto{display:block;}
-body.compacto .hdr,body.compacto .hero,body.compacto .wrap,body.compacto #portada-overlay{display:none!important;}
-body.compacto{background:var(--bg);}
-#compacto{max-width:560px;margin:0 auto;min-height:100vh;}
-.cmp-top{position:sticky;top:0;z-index:50;background:linear-gradient(135deg,#3a2e6e 0%,#4b3b8f 22%,#2f6b8f 55%,#1f8f7a 100%);padding:12px 12px 14px;color:#fff;box-shadow:0 6px 18px rgba(26,35,64,.22);display:flex;flex-direction:column;gap:10px;}
-.cmp-bar{display:flex;align-items:center;gap:8px;}
-.cmp-title{flex:1;min-width:0;font-family:'Poppins',sans-serif;font-size:15px;font-weight:700;line-height:1.15;}
-.cmp-title small{display:block;font-family:'Inter',sans-serif;font-size:10.5px;font-weight:600;color:rgba(255,255,255,.6);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-.cmp-sync{font-size:10px;font-weight:700;padding:5px 9px;border-radius:20px;background:rgba(255,255,255,.14);color:#fff;display:flex;align-items:center;gap:5px;white-space:nowrap;transition:background .25s,color .25s;}
-.cmp-sync.saving .sync-dot{animation:cmp-latido .9s ease-in-out infinite;}
-.cmp-sync.err{background:#fdeceb;color:var(--danger);}
-@keyframes cmp-latido{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.35;transform:scale(1.6);}}
-.cmp-icon-btn{min-width:34px;height:34px;padding:0 8px;border-radius:9px;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.1);color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;font-family:inherit;font-size:15px;font-weight:800;flex-shrink:0;transition:background .15s,transform .1s;}
-.cmp-icon-btn:hover{background:rgba(255,255,255,.22);}
-.cmp-icon-btn:active{transform:scale(.93);}
-.cmp-icon-btn:disabled{opacity:.35;cursor:default;transform:none;}
-.cmp-icon-btn svg{width:16px;height:16px;}
-.cmp-hoy{font-size:11.5px;}
-.cmp-seg{position:relative;display:grid;grid-template-columns:1fr 1fr;background:rgba(0,0,0,.22);border-radius:11px;padding:3px;}
-.cmp-seg-pill{position:absolute;top:3px;bottom:3px;left:3px;width:calc(50% - 3px);background:#fff;border-radius:9px;box-shadow:0 2px 8px rgba(0,0,0,.18);transition:transform .3s cubic-bezier(.2,.8,.2,1);}
-.cmp-seg[data-v="auxiliar"] .cmp-seg-pill{transform:translateX(100%);}
-.cmp-seg button{position:relative;z-index:1;border:none;background:transparent;color:rgba(255,255,255,.78);font-family:inherit;font-size:12px;font-weight:800;padding:8px 6px;border-radius:9px;cursor:pointer;transition:color .25s;}
-.cmp-seg button.active{color:#1a2340;}
-.cmp-date{display:flex;align-items:center;gap:6px;}
-.cmp-date-lbl{flex:1;text-align:center;font-size:13.5px;font-weight:800;text-transform:capitalize;}
-.cmp-filtros{display:flex;gap:6px;}
-.cmp-filtros select,.cmp-filtros input{flex:1;min-width:0;height:36px;padding:0 10px;border:none;border-radius:9px;font-family:inherit;font-size:12.5px;background:#fff;color:var(--text);}
-.cmp-filtros select{font-weight:700;}
-.cmp-filtros input:focus,.cmp-filtros select:focus{outline:3px solid rgba(255,255,255,.45);}
-.cmp-total{display:flex;align-items:center;justify-content:space-between;gap:10px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);border-radius:12px;padding:10px 14px;}
-.cmp-total-lbl{font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:rgba(255,255,255,.75);}
-.cmp-total-sub{font-size:11px;color:rgba(255,255,255,.55);margin-top:2px;}
-.cmp-total-num{font-family:'Poppins',sans-serif;font-size:26px;font-weight:700;line-height:1;font-variant-numeric:tabular-nums;}
 .num-bump{animation:cmp-num-bump .45s ease;}
 @keyframes cmp-num-bump{0%{transform:scale(1);}35%{transform:scale(1.12);}100%{transform:scale(1);}}
-.cmp-list{padding:10px 10px 12px;display:flex;flex-direction:column;gap:5px;}
-.cmp-row{position:relative;display:flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--border);border-radius:10px;padding:4px 4px 4px 12px;min-height:46px;transition:border-color .2s,box-shadow .2s,background .2s;}
-.cmp-row:focus-within{border-color:var(--impulsa);box-shadow:0 0 0 3px rgba(91,155,213,.2);}
-.cmp-row.ind-1{margin-left:14px;}
-.cmp-row.ind-2{margin-left:28px;}
-.cmp-row.grupo{background:var(--impulsa-lt);border-color:#cfe2f3;margin-top:8px;}
-.cmp-row.calc{min-height:38px;}
-.cmp-lbl{flex:1;min-width:0;font-size:12.5px;font-weight:600;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-.cmp-row.grupo .cmp-lbl,.cmp-row.calc .cmp-lbl{font-weight:800;color:var(--impulsa-md);}
-.cmp-row.ind-1 .cmp-lbl,.cmp-row.ind-2 .cmp-lbl{font-size:12px;}
-.cmp-val{min-width:70px;text-align:right;padding-right:10px;font-weight:800;font-size:13.5px;color:var(--impulsa-md);font-variant-numeric:tabular-nums;display:inline-block;}
-.cmp-in{width:78px;height:38px;flex-shrink:0;border:1.5px solid var(--border);border-radius:8px;text-align:center;font-family:inherit;font-size:15px;font-weight:700;color:var(--text);background:#fafbfd;scroll-margin-top:var(--cmp-top,300px);scroll-margin-bottom:16px;transition:border-color .2s,background .2s;}
-.cmp-in.tiene{background:#fff;border-color:#c3d4ea;}
-.cmp-in:focus{outline:none;border-color:var(--impulsa);background:#fff;}
-.cmp-ok,.cmp-errico{width:18px;height:18px;flex-shrink:0;}
-.cmp-ok{color:#0a9d5c;opacity:0;}
-.cmp-ok path{stroke-dasharray:24;stroke-dashoffset:24;}
-.cmp-ok.show{opacity:1;animation:cmp-ok-vida 1.6s ease forwards;}
-.cmp-ok.show path{animation:cmp-ok-trazo .35s ease .05s forwards;}
-@keyframes cmp-ok-vida{0%{opacity:0;transform:scale(.5);}14%{opacity:1;transform:scale(1.2);}24%{transform:scale(1);}75%{opacity:1;}100%{opacity:0;}}
-@keyframes cmp-ok-trazo{to{stroke-dashoffset:0;}}
-.cmp-row.guardado .cmp-in{animation:cmp-in-ok .9s ease;}
-@keyframes cmp-in-ok{0%{border-color:#0a9d5c;box-shadow:0 0 0 4px rgba(10,157,92,.22);}100%{box-shadow:0 0 0 0 rgba(10,157,92,0);}}
-.cmp-errico{display:none;color:var(--danger);}
-.cmp-row.err{border-color:var(--danger);background:#fff7f6;}
-.cmp-row.err .cmp-in{border-color:var(--danger);color:var(--danger);}
-.cmp-row.err .cmp-errico{display:block;}
-.cmp-row.err .cmp-ok{display:none;}
-.cmp-row.shake{animation:cmp-shake .42s cubic-bezier(.36,.07,.19,.97);}
-@keyframes cmp-shake{10%,90%{transform:translateX(-1px);}20%,80%{transform:translateX(3px);}30%,50%,70%{transform:translateX(-5px);}40%,60%{transform:translateX(5px);}}
-.cmp-row.remoto{animation:cmp-remoto 1.6s ease;}
-@keyframes cmp-remoto{0%{background:#fff3c4;border-color:#e6b422;box-shadow:0 0 0 4px rgba(230,180,34,.25);}100%{}}
-.cmp-quien{position:absolute;right:92px;top:-9px;background:#e6b422;color:#3a2a00;font-size:9.5px;font-weight:800;padding:2px 7px;border-radius:10px;opacity:0;pointer-events:none;white-space:nowrap;max-width:60%;overflow:hidden;text-overflow:ellipsis;}
-.cmp-quien.show{animation:cmp-quien 2.4s ease forwards;}
-@keyframes cmp-quien{0%{opacity:0;transform:translateY(4px);}12%{opacity:1;transform:none;}80%{opacity:1;}100%{opacity:0;}}
-.cmp-cascada .cmp-row{animation:cmp-sube .38s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(min(var(--i),16) * 24ms);}
-@keyframes cmp-sube{from{opacity:0;transform:translateY(12px);}to{opacity:1;transform:none;}}
-.cmp-desde-der{animation:cmp-der .3s cubic-bezier(.2,.8,.2,1);}
-.cmp-desde-izq{animation:cmp-izq .3s cubic-bezier(.2,.8,.2,1);}
 @keyframes cmp-der{from{opacity:0;transform:translateX(30px);}to{opacity:1;transform:none;}}
 @keyframes cmp-izq{from{opacity:0;transform:translateX(-30px);}to{opacity:1;transform:none;}}
 .card.anim-der{animation:cmp-der .3s cubic-bezier(.2,.8,.2,1);}
 .card.anim-izq{animation:cmp-izq .3s cubic-bezier(.2,.8,.2,1);}
-.cmp-vacio{text-align:center;color:var(--muted);font-size:12.5px;padding:30px 10px;}
-.cmp-foot{text-align:center;font-size:10.5px;color:var(--muted);padding:4px 10px 24px;}
-.cmp-foot kbd{background:#fff;border:1px solid var(--border);border-radius:4px;padding:0 4px;font-family:inherit;}
 @media (prefers-reduced-motion: reduce){
-  #compacto *,.card,.kpi-value{animation:none!important;transition:none!important;}
-  .cmp-ok.show path{stroke-dashoffset:0;}
+  .card,.kpi-value{animation:none!important;transition:none!important;}
 }
 
 /* ── Filas destacadas (Total de ingresos diarios, Whatsapp, Redes Gestionadas, Carga de solicitudes) ── */
@@ -389,43 +311,6 @@ tr.fila-destacada td.td-rowtotal input{font-size:15px!important;font-weight:900!
 </style>
 </head>
 <body>
-
-<!-- ══════════ MODO COMPACTO ══════════ -->
-<div id="compacto">
-  <div class="cmp-top" id="cmp-top">
-    <div class="cmp-bar">
-      <div class="hdr-logo" style="width:30px;height:30px;font-size:11px;">JS</div>
-      <div class="cmp-title">Carga rápida<small id="cmp-usuario"></small></div>
-      <span class="cmp-sync ok" id="cmp-sync"><span class="sync-dot"></span><span class="cmp-sync-txt">Sincronizado</span></span>
-      <button type="button" class="cmp-icon-btn" onclick="openCmdk()" title="Buscar auxiliar (Ctrl+K)" aria-label="Buscar auxiliar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></button>
-      <button type="button" class="cmp-icon-btn" onclick="salirModoCompacto()" title="Volver a la vista completa" aria-label="Volver a la vista completa"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg></button>
-    </div>
-    <div class="cmp-seg" id="cmp-seg" data-v="auxiliar">
-      <span class="cmp-seg-pill"></span>
-      <button type="button" data-v="campanas" onclick="cmpSetView('campanas')">Campañas</button>
-      <button type="button" data-v="auxiliar" onclick="cmpSetView('auxiliar')">Por auxiliar</button>
-    </div>
-    <div class="cmp-date">
-      <button type="button" class="cmp-icon-btn" onclick="cmpMoverDia(-1)" aria-label="Día anterior">‹</button>
-      <div class="cmp-date-lbl" id="cmp-fecha"></div>
-      <button type="button" class="cmp-icon-btn" onclick="cmpMoverDia(1)" aria-label="Día siguiente">›</button>
-      <button type="button" class="cmp-icon-btn cmp-hoy" id="cmp-hoy" onclick="cmpHoy()">Hoy</button>
-    </div>
-    <div class="cmp-filtros">
-      <select id="cmp-cat" onchange="cmpSetCat(this.value)" aria-label="Categoría"></select>
-      <input type="text" id="cmp-search" placeholder="🔍 Buscar..." oninput="renderCompacto('none')" aria-label="Buscar">
-    </div>
-    <div class="cmp-total">
-      <div>
-        <div class="cmp-total-lbl" id="cmp-total-lbl">Total del día</div>
-        <div class="cmp-total-sub" id="cmp-total-sub"></div>
-      </div>
-      <div class="cmp-total-num" id="cmp-total-num" data-v="0" data-cero="0">0</div>
-    </div>
-  </div>
-  <div class="cmp-list" id="cmp-list"></div>
-  <div class="cmp-foot"><kbd>Enter</kbd> o <kbd>↓</kbd> pasa al siguiente · <kbd>Ctrl</kbd>+<kbd>Z</kbd> deshace · <kbd>Ctrl</kbd>+<kbd>K</kbd> busca</div>
-</div>
 
 
 <div class="portada-overlay" id="portada-overlay">
@@ -464,7 +349,6 @@ tr.fila-destacada td.td-rowtotal input{font-size:15px!important;font-weight:900!
       <span>⠿ Arrastrá las filas para reordenarlas</span>
       <span>🔤 A-Z ordena todo alfabéticamente</span>
       <span>↩️ <kbd>Ctrl</kbd>+<kbd>Z</kbd> deshace el último cambio</span>
-      <span>🗔 Modo compacto para cargar al lado de Outlook</span>
     </div>
   </div>
 </div>
@@ -508,7 +392,6 @@ tr.fila-destacada td.td-rowtotal input{font-size:15px!important;font-weight:900!
     </div>
     <div class="toolbar-right">
       <span class="sync-badge ok" id="sync-badge"><span class="sync-dot"></span><span id="sync-badge-text">Sincronizado</span></span>
-      <button class="btn btn-ghost" onclick="abrirModoCompacto()" title="Abre una ventana angosta para cargar al lado de Outlook">🗔 Modo compacto</button>
       <button class="btn btn-ghost" onclick="cambiarQuienSos()" title="Cambiar quién sos">👤 <span id="quien-sos-label"></span></button>
       <button class="btn btn-ghost" id="btn-sup" onclick="toggleLoginSupervisor()" title="Acceso supervisor">🔒 Supervisor</button>
       <button class="btn btn-ghost" id="btn-historial" onclick="abrirHistorial()" title="Ver historial de cambios" style="display:none;">📜 Historial</button>
@@ -753,75 +636,177 @@ function formatoRelativo(iso) {
   return `hace ${Math.floor(seg/86400)} d`;
 }
 
-function setSyncBadge(state) {
+// ══════════ GUARDADO SEGURO ══════════
+// Cada número que se carga entra primero a una "cola de pendientes" que se guarda en esta compu
+// (localStorage). Desde ahí se manda a Supabase. Si falla (sin internet, Supabase lento, se cerró
+// la pestaña, etc.) NO se pierde: queda en la cola y se reintenta solo hasta que entra.
+// El cartelito de arriba muestra si hay algo sin guardar.
+const K_PEND = 'emailstats_pendientes_v1';
+const K_FALLIDOS = 'emailstats_fallidos_v1';
+let pendientes = (() => { try { const v = JSON.parse(localStorage.getItem(K_PEND)); return Array.isArray(v) ? v : []; } catch (e) { return []; } })();
+let colaEnCurso = false, timerReintento = null, ultimoErrorGuardado = '', sinConexion = false;
+let realtimeActivo = false, realtimeOk = false, cargaInicialOk = false;
+
+function guardarPendientes() {
+  try { localStorage.setItem(K_PEND, JSON.stringify(pendientes)); }
+  catch (e) { console.error('No se pudo guardar la cola local:', e); }
+}
+function claveCelda(tabla, row) {
+  if (tabla === 'campanas_diario') return `c|${row.year}|${row.month}|${row.row_key}|${row.day}`;
+  if (tabla === 'aux_diario') return `a|${row.year}|${row.month}|${row.categoria}|${row.auxiliar}|${row.day}`;
+  if (tabla === 'meta') return `m|${row.key}`;
+  return null;
+}
+function hayPendiente(k) { return pendientes.some(p => p.k === k); }
+function encolar(tabla, row, onConflict) {
+  const k = claveCelda(tabla, row);
+  if (k) pendientes = pendientes.filter(p => p.k !== k); // de una misma celda vale la última carga
+  pendientes.push({ id: Date.now() + '-' + Math.random().toString(36).slice(2, 8), tabla, row, onConflict: onConflict || null, k, intentos: 0, creado: new Date().toISOString() });
+  guardarPendientes();
+  actualizarBadge();
+  procesarCola();
+}
+function esErrorDeDatos(err) {
+  // Errores de Postgres (datos inválidos / tabla) no se arreglan reintentando; los de red sí.
+  const c = err && err.code ? String(err.code) : '';
+  return /^(22|23|42)/.test(c);
+}
+async function procesarCola() {
+  if (!sb || colaEnCurso) return;
+  if (!pendientes.length) { actualizarBadge(); return; }
+  colaEnCurso = true;
+  actualizarBadge();
+  try {
+    for (const op of pendientes.slice()) {
+      if (!pendientes.some(p => p.id === op.id)) continue; // la reemplazó una carga más nueva
+      let error = null;
+      try {
+        const res = op.onConflict
+          ? await sb.from(op.tabla).upsert(op.row, { onConflict: op.onConflict })
+          : await sb.from(op.tabla).insert(op.row);
+        error = res.error;
+      } catch (ex) { error = ex; }
+      if (error) {
+        op.intentos = (op.intentos || 0) + 1;
+        ultimoErrorGuardado = error.message || String(error);
+        console.error('No se pudo guardar (queda en cola):', op, error);
+        if (esErrorDeDatos(error)) {
+          // Lo sacamos de la cola para que no trabe al resto, pero lo guardamos aparte para no perderlo.
+          pendientes = pendientes.filter(p => p.id !== op.id);
+          try {
+            const f = JSON.parse(localStorage.getItem(K_FALLIDOS) || '[]');
+            f.push({ ...op, error: ultimoErrorGuardado });
+            localStorage.setItem(K_FALLIDOS, JSON.stringify(f));
+          } catch (e) {}
+          guardarPendientes();
+          alert('No se pudo guardar un dato por un error de la base:\n' + ultimoErrorGuardado + '\n\nAvisale a un supervisor.');
+          continue;
+        }
+        sinConexion = true;
+        guardarPendientes();
+        break; // casi seguro es la conexión: frenamos y reintentamos en un rato
+      }
+      sinConexion = false;
+      pendientes = pendientes.filter(p => p.id !== op.id);
+      guardarPendientes();
+    }
+  } finally {
+    colaEnCurso = false;
+    actualizarBadge();
+    clearTimeout(timerReintento);
+    if (pendientes.length) timerReintento = setTimeout(procesarCola, sinConexion ? 8000 : 500);
+  }
+}
+window.addEventListener('online', () => { procesarCola(); refrescarCambios(); });
+window.addEventListener('beforeunload', e => {
+  if (pendientes.length) { procesarCola(); e.preventDefault(); e.returnValue = ''; }
+});
+
+function actualizarBadge() {
   const el = document.getElementById('sync-badge');
   const txt = document.getElementById('sync-badge-text');
-  const cmpS = document.getElementById('cmp-sync');
-  if (cmpS) {
-    cmpS.className = 'cmp-sync ' + state;
-    cmpS.querySelector('.cmp-sync-txt').textContent = state === 'ok' ? 'Sincronizado' : state === 'saving' ? 'Guardando…' : 'Sin conexión';
-  }
   if (!el || !txt) return;
+  const n = pendientes.length;
+  let state, t;
+  if (!sb) { state = 'err'; t = 'Sin conexión (local)'; }
+  else if (n && (colaEnCurso && !sinConexion)) { state = 'saving'; t = 'Guardando...'; }
+  else if (n) { state = 'err'; t = `⚠ ${n} sin guardar · reintentando`; }
+  else { state = 'ok'; t = 'Sincronizado'; }
   el.className = 'sync-badge ' + state;
-  if (state === 'ok') txt.textContent = 'Sincronizado';
-  else if (state === 'saving') txt.textContent = 'Guardando...';
-  else txt.textContent = 'Sin conexión (local)';
+  txt.textContent = t;
+  el.title = n
+    ? `Hay ${n} dato(s) cargados en esta compu que todavía no llegaron a la nube. Se reintenta solo; no cierres la pestaña hasta que diga "Sincronizado".${ultimoErrorGuardado ? '\nÚltimo error: ' + ultimoErrorGuardado : ''}`
+    : 'Todo lo cargado está guardado en la nube.';
 }
+function setSyncBadge() { actualizarBadge(); } // compatibilidad con llamadas viejas
 
 async function pushCampanaRow(year, month, rowKey, dayIdx, valor) {
   if (!sb) return false;
-  setSyncBadge('saving');
-  const ahora = new Date().toISOString();
-  metaCampanas[`${year}-${month}-${rowKey}`] = { updated_by: QUIEN_SOS, updated_at: ahora };
-  const { error } = await sb.from('campanas_diario').upsert(
-    { year: parseInt(year), month, row_key: rowKey, day: dayIdx + 1, valor, updated_at: ahora, updated_by: QUIEN_SOS },
-    { onConflict: 'year,month,row_key,day' }
-  );
-  setSyncBadge(error ? 'err' : 'ok');
-  if (error) console.error('Supabase (campana):', error);
-  return !error;
+  metaCampanas[`${year}-${month}-${rowKey}`] = { updated_by: QUIEN_SOS, updated_at: new Date().toISOString() };
+  encolar('campanas_diario',
+    { year: parseInt(year), month: parseInt(month), row_key: rowKey, day: dayIdx + 1, valor, updated_by: QUIEN_SOS },
+    'year,month,row_key,day');
+  return true;
 }
 
 async function pushAuxRow(year, month, categoria, auxiliar, dayIdx, valor) {
   if (!sb) return false;
-  setSyncBadge('saving');
-  const ahora = new Date().toISOString();
-  metaAux[`${year}-${month}-${categoria}-${auxiliar}`] = { updated_by: QUIEN_SOS, updated_at: ahora };
-  const { error } = await sb.from('aux_diario').upsert(
-    { year: parseInt(year), month, categoria, auxiliar, day: dayIdx + 1, valor, updated_at: ahora, updated_by: QUIEN_SOS },
-    { onConflict: 'year,month,categoria,auxiliar,day' }
-  );
-  setSyncBadge(error ? 'err' : 'ok');
-  if (error) console.error('Supabase (aux):', error);
-  return !error;
+  metaAux[`${year}-${month}-${categoria}-${auxiliar}`] = { updated_by: QUIEN_SOS, updated_at: new Date().toISOString() };
+  encolar('aux_diario',
+    { year: parseInt(year), month: parseInt(month), categoria, auxiliar, day: dayIdx + 1, valor, updated_by: QUIEN_SOS },
+    'year,month,categoria,auxiliar,day');
+  return true;
 }
 
 async function pushMeta(key, value) {
   if (!sb) return;
-  setSyncBadge('saving');
-  const { error } = await sb.from('meta').upsert({ key, value, updated_at: new Date().toISOString() });
-  setSyncBadge(error ? 'err' : 'ok');
-  if (error) console.error('Supabase (meta):', error);
+  encolar('meta', { key, value }, 'key');
+}
+
+// Las listas (auxiliares, categorías, filas, años) se guardan como un bloque entero.
+// Para no pisar lo que cambió otra persona, antes de modificar leemos la versión de la nube
+// y aplicamos el cambio sobre esa.
+async function leerMetaNube(key) {
+  if (!sb || hayPendiente('m|' + key)) return null;
+  try {
+    const { data, error } = await sb.from('meta').select('value').eq('key', key).maybeSingle();
+    if (error) throw error;
+    return data ? data.value : null;
+  } catch (e) { console.warn('No pude leer ' + key + ' de la nube, uso la copia local:', e); return null; }
+}
+async function modificarMeta(key, actual, fn) {
+  const nube = await leerMetaNube(key);
+  const base = JSON.parse(JSON.stringify(Array.isArray(nube) ? nube : actual));
+  const nuevo = fn(base);
+  if (!nuevo) return null;
+  pushMeta(key, nuevo);
+  return nuevo;
 }
 
 async function renameAuxInSupabase(viejo, nuevo) {
   if (!sb) return;
-  setSyncBadge('saving');
-  const { error } = await sb.from('aux_diario').update({ auxiliar: nuevo }).eq('auxiliar', viejo);
-  setSyncBadge(error ? 'err' : 'ok');
-  if (error) console.error('Supabase (rename):', error);
+  const { error } = await sb.from('aux_diario').update({ auxiliar: nuevo, updated_by: QUIEN_SOS }).eq('auxiliar', viejo);
+  if (error) {
+    console.error('Supabase (rename):', error);
+    alert(`No se pudieron pasar los números de "${viejo}" a "${nuevo}" en la nube (${error.message}).\n` +
+      'Puede ser que "' + nuevo + '" ya tenga números cargados los mismos días. Avisale a un supervisor antes de seguir.');
+  }
+  // lo que todavía esté en la cola con el nombre viejo, que viaje con el nombre nuevo
+  let cambio = false;
+  pendientes.forEach(p => {
+    if (p.tabla === 'aux_diario' && p.row.auxiliar === viejo) { p.row.auxiliar = nuevo; p.k = claveCelda(p.tabla, p.row); cambio = true; }
+  });
+  if (cambio) { guardarPendientes(); procesarCola(); }
 }
 
 // Corré esta función UNA SOLA VEZ (desde la consola del navegador: sembrarSupabase())
-// después de crear las tablas, para subir todo lo que ya tenés cargado en este navegador
-// (seed + lo que hayas tocado localmente) a Supabase. Después de eso, la app ya sincroniza sola.
-// Sube todo en tandas grandes (no fila por fila) para que sea rápido incluso con miles de registros.
-async function sembrarSupabase() {
+// para subir todo lo que está cargado en este navegador a Supabase.
+// `extras` permite mandar además celdas en 0 (lo usa "Restaurar respaldo" para limpiar lo que ya no va).
+async function sembrarSupabase(extras) {
   if (!sb) { alert('Falta configurar SUPABASE_URL y SUPABASE_ANON_KEY arriba en el código.'); return; }
-  if (!confirm('Esto va a subir TODOS los datos actuales (campañas + auxiliares + roster + años) a Supabase, sobrescribiendo lo que haya ahí. ¿Continuar?')) return;
+  if (!extras && !confirm('Esto va a subir TODOS los datos actuales (campañas + auxiliares + roster + años) a Supabase, sobrescribiendo lo que haya ahí. ¿Continuar?')) return;
   setSyncBadge('saving');
 
-  const ahora = new Date().toISOString();
   const camp = [];
   for (const year of Object.keys(campanasData)) {
     for (const month of Object.keys(campanasData[year])) {
@@ -829,7 +814,7 @@ async function sembrarSupabase() {
         const arr = campanasData[year][month][rowKey] || [];
         arr.forEach((v, i) => {
           const valor = parseInt(v) || 0;
-          if (valor > 0) camp.push({ year: parseInt(year), month: parseInt(month), row_key: rowKey, day: i + 1, valor, updated_at: ahora, updated_by: QUIEN_SOS });
+          if (valor > 0) camp.push({ year: parseInt(year), month: parseInt(month), row_key: rowKey, day: i + 1, valor, updated_by: QUIEN_SOS });
         });
       }
     }
@@ -842,11 +827,15 @@ async function sembrarSupabase() {
           const arr = auxData[year][month][cat][nombre] || [];
           arr.forEach((v, i) => {
             const valor = parseInt(v) || 0;
-            if (valor > 0) aux.push({ year: parseInt(year), month: parseInt(month), categoria: cat, auxiliar: nombre, day: i + 1, valor, updated_at: ahora, updated_by: QUIEN_SOS });
+            if (valor > 0) aux.push({ year: parseInt(year), month: parseInt(month), categoria: cat, auxiliar: nombre, day: i + 1, valor, updated_by: QUIEN_SOS });
           });
         }
       }
     }
+  }
+  if (extras) {
+    (extras.camp || []).forEach(r => camp.push({ ...r, updated_by: QUIEN_SOS }));
+    (extras.aux || []).forEach(r => aux.push({ ...r, updated_by: QUIEN_SOS }));
   }
 
   let fail = 0;
@@ -866,7 +855,6 @@ async function sembrarSupabase() {
           okCount += tanda.length;
         }
       } catch (ex) {
-        // Aunque explote esta tanda puntual, seguimos con las demás — no se corta todo el proceso.
         fail++;
         const detalle = `${tabla} filas ${i}-${i + tanda.length}: excepción — ${ex && ex.message ? ex.message : ex}`;
         erroresDetalle.push(detalle);
@@ -877,22 +865,25 @@ async function sembrarSupabase() {
   }
   await subirEnTandas('campanas_diario', camp, 'year,month,row_key,day');
   await subirEnTandas('aux_diario', aux, 'year,month,categoria,auxiliar,day');
-  try { await pushMeta('roster', roster); } catch(ex) { console.error('meta roster:', ex); }
-  try { await pushMeta('years', years); } catch(ex) { console.error('meta years:', ex); }
+  pushMeta('roster', roster);
+  pushMeta('years', years);
 
-  setSyncBadge(fail ? 'err' : 'ok');
+  actualizarBadge();
   console.log('Detalle de errores:', erroresDetalle);
   alert(`Listo. ${okCount} filas subidas de ${camp.length + aux.length} totales${fail ? ` (${fail} tandas con error — mirá la consola, arranca con "Detalle de errores:")` : ''}.`);
 }
 
 // Supabase corta las consultas en 1000 filas por defecto. Esta función trae TODO,
 // pidiendo de a 1000 hasta que no queden más.
-async function selectTodo(tabla) {
+async function selectTodo(tabla, orden) {
   let todas = [];
   let desde = 0;
   const tamanoPagina = 1000;
   while (true) {
-    const { data, error } = await sb.from(tabla).select('*').range(desde, desde + tamanoPagina - 1);
+    let q = sb.from(tabla).select('*');
+    // Orden fijo por la clave: sin esto, al paginar de a 1000 Postgres puede repetir o saltear filas.
+    (orden || []).forEach(c => { q = q.order(c); });
+    const { data, error } = await q.range(desde, desde + tamanoPagina - 1);
     if (error) throw error;
     todas = todas.concat(data || []);
     if (!data || data.length < tamanoPagina) break;
@@ -901,110 +892,228 @@ async function selectTodo(tabla) {
   return todas;
 }
 
+// Ajusta el largo de un arreglo de días SIN borrar lo que ya tiene (antes se reseteaba a ceros).
+function ajustarLargo(arr, nd) {
+  if (!Array.isArray(arr)) return new Array(nd).fill(0);
+  if (arr.length !== nd) { arr.length = nd; for (let i = 0; i < nd; i++) if (arr[i] == null) arr[i] = 0; }
+  return arr;
+}
+function normalizarYears(ys) {
+  const out = [...new Set((Array.isArray(ys) ? ys : []).map(y => parseInt(y)).filter(y => y > 2000))].sort();
+  if (!out.includes(currentYear)) { out.push(currentYear); out.sort(); }
+  return out;
+}
+
+let ultimaSync = null;       // updated_at más nuevo que vimos en la nube
+function anotarSync(iso) { if (iso && (!ultimaSync || iso > ultimaSync)) ultimaSync = iso; }
+
+// Pone en pantalla un registro que vino de la nube (carga inicial, tiempo real o refresco).
+// Si en esta compu hay una carga más nueva todavía sin subir para esa celda, gana la local.
+function aplicarFilaRemota(tipo, r) {
+  if (!r) return false;
+  const y = parseInt(r.year), m = parseInt(r.month), nd = diasEnMes(y, m);
+  anotarSync(r.updated_at);
+  if (!(r.day >= 1 && r.day <= nd)) return false;
+  if (tipo === 'campana') {
+    if (hayPendiente(`c|${y}|${m}|${r.row_key}|${r.day}`)) return false;
+    campanasData[y] ??= {}; campanasData[y][m] ??= {};
+    const arr = campanasData[y][m][r.row_key] = ajustarLargo(campanasData[y][m][r.row_key], nd);
+    const cambio = (parseInt(arr[r.day - 1]) || 0) !== (parseInt(r.valor) || 0);
+    arr[r.day - 1] = r.valor;
+    const k = `${y}-${m}-${r.row_key}`;
+    if (!metaCampanas[k] || new Date(r.updated_at) >= new Date(metaCampanas[k].updated_at)) metaCampanas[k] = { updated_by: r.updated_by, updated_at: r.updated_at };
+    return cambio;
+  } else {
+    if (hayPendiente(`a|${y}|${m}|${r.categoria}|${r.auxiliar}|${r.day}`)) return false;
+    auxData[y] ??= {}; auxData[y][m] ??= {}; auxData[y][m][r.categoria] ??= {};
+    const arr = auxData[y][m][r.categoria][r.auxiliar] = ajustarLargo(auxData[y][m][r.categoria][r.auxiliar], nd);
+    const cambio = (parseInt(arr[r.day - 1]) || 0) !== (parseInt(r.valor) || 0);
+    arr[r.day - 1] = r.valor;
+    const k = `${y}-${m}-${r.categoria}-${r.auxiliar}`;
+    if (!metaAux[k] || new Date(r.updated_at) >= new Date(metaAux[k].updated_at)) metaAux[k] = { updated_by: r.updated_by, updated_at: r.updated_at };
+    return cambio;
+  }
+}
+// Vuelve a poner en pantalla lo que está en la cola (todavía no subido), para que no "desaparezca".
+function aplicarPendientesEnPantalla() {
+  pendientes.forEach(p => {
+    const r = p.row;
+    if (p.tabla === 'campanas_diario') {
+      const nd = diasEnMes(r.year, r.month);
+      campanasData[r.year] ??= {}; campanasData[r.year][r.month] ??= {};
+      campanasData[r.year][r.month][r.row_key] = ajustarLargo(campanasData[r.year][r.month][r.row_key], nd);
+      campanasData[r.year][r.month][r.row_key][r.day - 1] = r.valor;
+    } else if (p.tabla === 'aux_diario') {
+      const nd = diasEnMes(r.year, r.month);
+      auxData[r.year] ??= {}; auxData[r.year][r.month] ??= {}; auxData[r.year][r.month][r.categoria] ??= {};
+      auxData[r.year][r.month][r.categoria][r.auxiliar] = ajustarLargo(auxData[r.year][r.month][r.categoria][r.auxiliar], nd);
+      auxData[r.year][r.month][r.categoria][r.auxiliar][r.day - 1] = r.valor;
+    }
+  });
+}
+function aplicarMetaRemota(metaRows) {
+  const get = k => (metaRows || []).find(m => m.key === k);
+  const mR = get('roster'), mY = get('years'), mC = get('categorias'), mF = get('filas_campanas');
+  if (mR && Array.isArray(mR.value) && !hayPendiente('m|roster')) roster = mR.value;
+  if (mY && !hayPendiente('m|years')) years = mY.value;
+  if (mC && Array.isArray(mC.value) && mC.value.length && !hayPendiente('m|categorias')) CATEGORIAS = mC.value;
+  if (mF && Array.isArray(mF.value) && mF.value.length && !hayPendiente('m|filas_campanas')) FILAS_CAMPANAS = mF.value;
+  years = normalizarYears(years);
+  (metaRows || []).forEach(m => anotarSync(m.updated_at));
+}
+
 async function loadAllFromSupabase() {
-  if (!sb) { setSyncBadge('err'); return false; }
+  if (!sb) { actualizarBadge(); return false; }
   try {
     const [campRows, auxRows, metaRows] = await Promise.all([
-      selectTodo('campanas_diario'),
-      selectTodo('aux_diario'),
-      selectTodo('meta')
+      selectTodo('campanas_diario', ['year', 'month', 'row_key', 'day']),
+      selectTodo('aux_diario', ['year', 'month', 'categoria', 'auxiliar', 'day']),
+      sb.from('meta').select('*').then(({ data, error }) => { if (error) throw error; return data || []; })
     ]);
+    aplicarMetaRemota(metaRows);
 
-    // IMPORTANTE: esto se FUSIONA arriba de lo que ya está local/seed, nunca reemplaza todo.
-    // Si algún registro no llegó a subirse a Supabase por la razón que sea, el valor local
-    // (el que ya tenías cargado en este archivo) se mantiene intacto en pantalla en vez de
-    // quedar en blanco. Cada fila de Supabase ahora es UN SOLO DÍA (no el mes completo),
-    // así que las vamos acomodando una por una en el arreglo del mes correspondiente.
-    let filasTraidas = 0;
-    (campRows || []).forEach(r => {
-      campanasData[r.year] ??= {};
-      campanasData[r.year][r.month] ??= {};
-      const nd = diasEnMes(r.year, r.month);
-      if (!Array.isArray(campanasData[r.year][r.month][r.row_key]) || campanasData[r.year][r.month][r.row_key].length !== nd) {
-        campanasData[r.year][r.month][r.row_key] = new Array(nd).fill(0);
-      }
-      if (r.day >= 1 && r.day <= nd) campanasData[r.year][r.month][r.row_key][r.day - 1] = r.valor;
-      const k = `${r.year}-${r.month}-${r.row_key}`;
-      if (!metaCampanas[k] || new Date(r.updated_at) > new Date(metaCampanas[k].updated_at)) {
-        metaCampanas[k] = { updated_by: r.updated_by, updated_at: r.updated_at };
-      }
-      filasTraidas++;
-    });
-    (auxRows || []).forEach(r => {
-      auxData[r.year] ??= {};
-      auxData[r.year][r.month] ??= {};
-      auxData[r.year][r.month][r.categoria] ??= {};
-      const nd = diasEnMes(r.year, r.month);
-      if (!Array.isArray(auxData[r.year][r.month][r.categoria][r.auxiliar]) || auxData[r.year][r.month][r.categoria][r.auxiliar].length !== nd) {
-        auxData[r.year][r.month][r.categoria][r.auxiliar] = new Array(nd).fill(0);
-      }
-      if (r.day >= 1 && r.day <= nd) auxData[r.year][r.month][r.categoria][r.auxiliar][r.day - 1] = r.valor;
-      const k = `${r.year}-${r.month}-${r.categoria}-${r.auxiliar}`;
-      if (!metaAux[k] || new Date(r.updated_at) > new Date(metaAux[k].updated_at)) {
-        metaAux[k] = { updated_by: r.updated_by, updated_at: r.updated_at };
-      }
-      filasTraidas++;
-    });
-    const metaRoster = (metaRows || []).find(m => m.key === 'roster');
-    const metaYears = (metaRows || []).find(m => m.key === 'years');
-    const metaCategorias = (metaRows || []).find(m => m.key === 'categorias');
-    const metaFilas = (metaRows || []).find(m => m.key === 'filas_campanas');
-    if (metaRoster) roster = metaRoster.value;
-    if (metaYears) years = metaYears.value;
-    if (metaCategorias && Array.isArray(metaCategorias.value) && metaCategorias.value.length) CATEGORIAS = metaCategorias.value;
-    if (metaFilas && Array.isArray(metaFilas.value) && metaFilas.value.length) FILAS_CAMPANAS = metaFilas.value;
+    // Supabase es la fuente de verdad: armamos los datos de cero con lo que hay en la nube.
+    // (Antes se mezclaba con la copia vieja de esta compu y podían quedar números "fantasma"
+    // que solo se veían acá y nunca habían llegado a la nube.)
+    const localCamp = campanasData, localAux = auxData;
+    campanasData = {}; auxData = {};
+    const enNube = new Set();
+    campRows.forEach(r => { aplicarFilaRemota('campana', r); enNube.add(`c|${r.year}|${r.month}|${r.row_key}|${r.day}`); });
+    auxRows.forEach(r => { aplicarFilaRemota('aux', r); enNube.add(`a|${r.year}|${r.month}|${r.categoria}|${r.auxiliar}|${r.day}`); });
 
-    saveAllToStorage(); // deja una copia local como caché/respaldo offline
-    setSyncBadge('ok');
-    console.log(`Supabase: se fusionaron ${filasTraidas} filas (${(campRows||[]).length} de campañas, ${(auxRows||[]).length} de auxiliares) sobre los datos locales.`);
-    return filasTraidas > 0;
+    // Rescate: números que esta compu cargó en el mes actual o el anterior y que nunca llegaron a la nube
+    // (por un corte, una pestaña cerrada, etc.). Se vuelven a mandar solos.
+    if (cargaInicialOk === false) rescatarHuerfanos(localCamp, localAux, enNube);
+
+    aplicarPendientesEnPantalla();
+    cargaInicialOk = true;
+    saveAllToStorage(); // copia local para abrir rápido / sin conexión
+    actualizarBadge();
+    console.log(`Supabase: ${campRows.length} filas de campañas y ${auxRows.length} de auxiliares cargadas.`);
+    procesarCola();
+    return true;
   } catch (err) {
     console.error('Error cargando desde Supabase, uso caché local:', err);
-    setSyncBadge('err');
+    aplicarPendientesEnPantalla();
+    actualizarBadge();
     return false;
   }
 }
 
+function rescatarHuerfanos(localCamp, localAux, enNube) {
+  const hoy = new Date();
+  const meses = [[hoy.getFullYear(), hoy.getMonth()]];
+  const ant = new Date(hoy.getFullYear(), hoy.getMonth() - 1, 1);
+  meses.push([ant.getFullYear(), ant.getMonth()]);
+  const filasEditables = new Set(FILAS_CAMPANAS.filter(f => !f.computed && !f.sumaDe).map(f => f.key));
+  const cats = new Set(CATEGORIAS.map(c => c.id));
+  const nombres = new Set(roster);
+  let n = 0;
+  meses.forEach(([y, m]) => {
+    const c = localCamp && localCamp[y] && localCamp[y][m];
+    if (c) Object.keys(c).forEach(key => {
+      if (!filasEditables.has(key)) return;
+      (c[key] || []).forEach((v, i) => {
+        const valor = parseInt(v) || 0;
+        if (valor > 0 && !enNube.has(`c|${y}|${m}|${key}|${i + 1}`) && !hayPendiente(`c|${y}|${m}|${key}|${i + 1}`)) {
+          encolar('campanas_diario', { year: y, month: m, row_key: key, day: i + 1, valor, updated_by: QUIEN_SOS }, 'year,month,row_key,day'); n++;
+        }
+      });
+    });
+    const a = localAux && localAux[y] && localAux[y][m];
+    if (a) Object.keys(a).forEach(cat => {
+      if (!cats.has(cat)) return;
+      Object.keys(a[cat] || {}).forEach(nombre => {
+        if (!nombres.has(nombre)) return;
+        (a[cat][nombre] || []).forEach((v, i) => {
+          const valor = parseInt(v) || 0;
+          if (valor > 0 && !enNube.has(`a|${y}|${m}|${cat}|${nombre}|${i + 1}`) && !hayPendiente(`a|${y}|${m}|${cat}|${nombre}|${i + 1}`)) {
+            encolar('aux_diario', { year: y, month: m, categoria: cat, auxiliar: nombre, day: i + 1, valor, updated_by: QUIEN_SOS }, 'year,month,categoria,auxiliar,day'); n++;
+          }
+        });
+      });
+    });
+  });
+  if (n) {
+    console.warn(`Rescate: ${n} número(s) cargados en esta compu que no estaban en la nube se vuelven a subir.`);
+    encolar('historial_cambios', { resumen: `${QUIEN_SOS}: se recuperaron ${n} número(s) que habían quedado sin subir en su compu`, updated_by: QUIEN_SOS });
+  }
+}
+
+// ── Refresco: trae lo que cargaron otros desde la última vez (respaldo del tiempo real) ──
+let refrescando = false;
+async function refrescarCambios() {
+  if (!sb || !cargaInicialOk || refrescando) return;
+  refrescando = true;
+  try {
+    const desde = ultimaSync ? new Date(new Date(ultimaSync).getTime() - 120000).toISOString() : new Date(Date.now() - 3600000).toISOString();
+    const [c, a, mt] = await Promise.all([
+      sb.from('campanas_diario').select('*').gte('updated_at', desde).limit(5000),
+      sb.from('aux_diario').select('*').gte('updated_at', desde).limit(5000),
+      sb.from('meta').select('*'),
+    ]);
+    if (c.error || a.error || mt.error) throw (c.error || a.error || mt.error);
+    let cambio = false;
+    (c.data || []).forEach(r => { if (aplicarFilaRemota('campana', r)) cambio = true; });
+    (a.data || []).forEach(r => { if (aplicarFilaRemota('aux', r)) cambio = true; });
+    const antes = JSON.stringify([roster, CATEGORIAS, FILAS_CAMPANAS, years]);
+    aplicarMetaRemota(mt.data);
+    if (antes !== JSON.stringify([roster, CATEGORIAS, FILAS_CAMPANAS, years])) cambio = true;
+    if (cambio) { saveAllToStorage(); programarRender(); }
+  } catch (e) {
+    console.warn('No se pudo refrescar desde Supabase:', e);
+  } finally { refrescando = false; }
+}
+setInterval(refrescarCambios, 45000);
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') { refrescarCambios(); procesarCola(); }
+});
+
+let renderPendiente = null;
+function programarRender() {
+  clearTimeout(renderPendiente);
+  renderPendiente = setTimeout(() => { if (typeof render === 'function') render(); }, 150);
+}
+
 // ── Realtime: si otro usuario carga algo, se actualiza solo en tu pantalla ──
-let realtimeActivo = false;
 function setupRealtime() {
   if (!sb || realtimeActivo) return;
   realtimeActivo = true;
-  sb.channel('rt-campanas')
+  const alCambiarEstado = status => {
+    if (status === 'SUBSCRIBED') {
+      if (!realtimeOk) refrescarCambios(); // al (re)conectar, ponemos al día lo que se haya perdido
+      realtimeOk = true;
+    } else if (status === 'CHANNEL_ERROR' || status === 'TIMED_OUT' || status === 'CLOSED') {
+      realtimeOk = false;
+    }
+    actualizarBadge();
+  };
+  sb.channel('rt-colaboradores')
     .on('postgres_changes', { event: '*', schema: 'public', table: 'campanas_diario' }, payload => {
       const r = payload.new;
-      if (!r || r.updated_by === QUIEN_SOS) return; // no te avises a vos mismo
-      campanasData[r.year] ??= {};
-      campanasData[r.year][r.month] ??= {};
-      const nd = diasEnMes(r.year, r.month);
-      if (!Array.isArray(campanasData[r.year][r.month][r.row_key]) || campanasData[r.year][r.month][r.row_key].length !== nd) {
-        campanasData[r.year][r.month][r.row_key] = new Array(nd).fill(0);
+      if (!r || !r.row_key) return;
+      if (aplicarFilaRemota('campana', r)) {
+        saveAllToStorage();
+        avisarCeldaAbierta('campana', r);
+        if (r.year === currentYear && r.month === currentMonth) programarRender(); else renderHero();
       }
-      if (r.day >= 1 && r.day <= nd) campanasData[r.year][r.month][r.row_key][r.day - 1] = r.valor;
-      metaCampanas[`${r.year}-${r.month}-${r.row_key}`] = { updated_by: r.updated_by, updated_at: r.updated_at };
-      saveAllToStorage();
-      if (MODO_COMPACTO) { cmpRemoto('campana', r); return; }
-      if (view === 'campanas' && r.year === currentYear && r.month === currentMonth) render();
     })
-    .subscribe();
-  sb.channel('rt-aux')
     .on('postgres_changes', { event: '*', schema: 'public', table: 'aux_diario' }, payload => {
       const r = payload.new;
-      if (!r || r.updated_by === QUIEN_SOS) return;
-      auxData[r.year] ??= {};
-      auxData[r.year][r.month] ??= {};
-      auxData[r.year][r.month][r.categoria] ??= {};
-      const nd = diasEnMes(r.year, r.month);
-      if (!Array.isArray(auxData[r.year][r.month][r.categoria][r.auxiliar]) || auxData[r.year][r.month][r.categoria][r.auxiliar].length !== nd) {
-        auxData[r.year][r.month][r.categoria][r.auxiliar] = new Array(nd).fill(0);
+      if (!r || !r.auxiliar) return;
+      if (aplicarFilaRemota('aux', r)) {
+        saveAllToStorage();
+        avisarCeldaAbierta('aux', r);
+        if (r.year === currentYear && (r.month === currentMonth || view === 'anual')) programarRender();
       }
-      if (r.day >= 1 && r.day <= nd) auxData[r.year][r.month][r.categoria][r.auxiliar][r.day - 1] = r.valor;
-      metaAux[`${r.year}-${r.month}-${r.categoria}-${r.auxiliar}`] = { updated_by: r.updated_by, updated_at: r.updated_at };
-      saveAllToStorage();
-      if (MODO_COMPACTO) { cmpRemoto('aux', r); return; }
-      if (view === 'auxiliar' && r.year === currentYear && r.month === currentMonth && (r.categoria === currentCat || currentCat === '__total')) render();
     })
-    .subscribe();
+    .on('postgres_changes', { event: '*', schema: 'public', table: 'meta' }, payload => {
+      if (!payload.new || !payload.new.key) return;
+      aplicarMetaRemota([payload.new]);
+      saveAllToStorage();
+      programarRender();
+    })
+    .subscribe(alCambiarEstado);
 }
 
 let view = 'campanas';
@@ -1012,7 +1121,7 @@ let currentYear = new Date().getFullYear();
 let currentMonth = new Date().getMonth();
 let currentCat = CATEGORIAS[0].id;
 
-function diasEnMes(year, monthIdx) { return new Date(year, monthIdx+1, 0).getDate(); }
+function diasEnMes(year, monthIdx) { return new Date(Number(year), Number(monthIdx) + 1, 0).getDate(); }
 
 function loadJSON(key, fallback) {
   try { const v = JSON.parse(localStorage.getItem(key)); return v || fallback; } catch(e) { return fallback; }
@@ -1020,15 +1129,18 @@ function loadJSON(key, fallback) {
 let campanasData = loadJSON(K_CAMPANAS, null) || JSON.parse(JSON.stringify(SEED_CAMPANAS));
 let auxData      = loadJSON(K_AUX, null) || JSON.parse(JSON.stringify(SEED_AUX));
 let roster       = loadJSON(K_ROSTER, null) || ROSTER_INICIAL.slice();
-let years        = loadJSON(K_YEARS, null) || [currentYear];
+let years        = normalizarYears(loadJSON(K_YEARS, null) || [currentYear]);
 if (!loadJSON(K_ROSTER, null)) localStorage.setItem(K_ROSTER, JSON.stringify(roster));
 if (!loadJSON(K_YEARS, null)) localStorage.setItem(K_YEARS, JSON.stringify(years));
 
 function saveAllToStorage() {
-  localStorage.setItem(K_CAMPANAS, JSON.stringify(campanasData));
-  localStorage.setItem(K_AUX, JSON.stringify(auxData));
-  localStorage.setItem(K_ROSTER, JSON.stringify(roster));
-  localStorage.setItem(K_YEARS, JSON.stringify(years));
+  // Es solo una copia local para abrir rápido; si el navegador no tiene lugar, no frenamos el guardado en la nube.
+  try {
+    localStorage.setItem(K_CAMPANAS, JSON.stringify(campanasData));
+    localStorage.setItem(K_AUX, JSON.stringify(auxData));
+    localStorage.setItem(K_ROSTER, JSON.stringify(roster));
+    localStorage.setItem(K_YEARS, JSON.stringify(years));
+  } catch (e) { console.warn('No se pudo guardar la copia local (no afecta a la nube):', e); }
 }
 
 function ensureCampanasMonth(year, month) {
@@ -1066,7 +1178,10 @@ function onYearChange() {
   const sel = document.getElementById('year');
   if (sel.value === '__nuevo') {
     const y = parseInt(prompt('¿Qué año querés agregar?', Math.max(...years)+1));
-    if (y && !years.includes(y)) { years.push(y); years.sort(); saveAllToStorage(); pushMeta('years', years); }
+    if (y && !years.includes(y)) {
+      modificarMeta('years', years, ys => { ys = normalizarYears(ys); if (!ys.includes(y)) ys.push(y); return ys.sort(); })
+        .then(nv => { if (nv) years = normalizarYears(nv); saveAllToStorage(); renderYearSelect(); render(); });
+    }
     renderYearSelect();
     render();
     return;
@@ -1181,7 +1296,6 @@ function render() {
   else renderResumenAnual();
 
   setupScrollNav();
-  if (MODO_COMPACTO) renderCompacto(cmpYaPintado ? 'none' : 'cascade');
 }
 
 // ── Barra de navegación horizontal (flechitas + pastilla de posición) ──
@@ -1298,17 +1412,17 @@ function renderCampanas() {
 
   tfoot.innerHTML = `<td class="td-name">—</td>` + Array.from({length:nd}).map(()=>'<td></td>').join('') + `<td></td>`;
 }
-function setCampanaValor(rowKey, dayIdx, val) {
-  const rowData = ensureCampanasMonth(currentYear, currentMonth);
+function setCampanaValor(rowKey, dayIdx, val, y = currentYear, m = currentMonth) {
+  const rowData = ensureCampanasMonth(y, m);
   const nuevoVal = Math.max(0, parseInt(val)||0);
   const valorAnterior = rowData[rowKey][dayIdx] || 0;
   if (!deshaciendoAhora && valorAnterior !== nuevoVal) {
-    deshacerStack.push({ tipo: 'campana', year: currentYear, month: currentMonth, rowKey, dayIdx, valorAnterior });
+    deshacerStack.push({ tipo: 'campana', year: y, month: m, rowKey, dayIdx, valorAnterior });
     if (deshacerStack.length > 20) deshacerStack.shift();
   }
   rowData[rowKey][dayIdx] = nuevoVal;
   saveAllToStorage();
-  pushCampanaRow(currentYear, currentMonth, rowKey, dayIdx, nuevoVal);
+  pushCampanaRow(y, m, rowKey, dayIdx, nuevoVal);
   registrarHistorial(nuevoVal, rowKey, null, dayIdx);
   render();
 }
@@ -1375,19 +1489,19 @@ function renderAuxiliarDiario() {
 
   tfoot.innerHTML = `<td class="td-name">Total</td>` + dayTotals.map(v=>`<td>${v||'—'}</td>`).join('') + `<td class="td-grandtotal">${grandTotal||'—'}</td><td></td>`;
 }
-function setAuxValor(nombre, dayIdx, val) {
-  const catData = ensureAuxMonth(currentYear, currentMonth, currentCat);
-  if (!catData[nombre]) catData[nombre] = new Array(diasEnMes(currentYear,currentMonth)).fill(0);
+function setAuxValor(nombre, dayIdx, val, y = currentYear, m = currentMonth, cat = currentCat) {
+  const catData = ensureAuxMonth(y, m, cat);
+  if (!catData[nombre]) catData[nombre] = new Array(diasEnMes(y, m)).fill(0);
   const nuevoVal = Math.max(0, parseInt(val)||0);
   const valorAnterior = catData[nombre][dayIdx] || 0;
   if (!deshaciendoAhora && valorAnterior !== nuevoVal) {
-    deshacerStack.push({ tipo: 'aux', year: currentYear, month: currentMonth, categoria: currentCat, nombre, dayIdx, valorAnterior });
+    deshacerStack.push({ tipo: 'aux', year: y, month: m, categoria: cat, nombre, dayIdx, valorAnterior });
     if (deshacerStack.length > 20) deshacerStack.shift();
   }
   catData[nombre][dayIdx] = nuevoVal;
   saveAllToStorage();
-  pushAuxRow(currentYear, currentMonth, currentCat, nombre, dayIdx, nuevoVal);
-  registrarHistorial(nuevoVal, currentCat, nombre, dayIdx);
+  pushAuxRow(y, m, cat, nombre, dayIdx, nuevoVal);
+  registrarHistorial(nuevoVal, cat, nombre, dayIdx);
   render();
 }
 
@@ -1397,19 +1511,15 @@ let deshaciendoAhora = false;
 function deshacerUltimoCambio() {
   const entry = deshacerStack.pop();
   if (!entry) return;
-  if (MODO_COMPACTO) {
-    cmpFecha = new Date(entry.year, entry.month, entry.dayIdx + 1, 12);
-    cmpView = entry.tipo === 'campana' ? 'campanas' : 'auxiliar';
-  }
   deshaciendoAhora = true;
   if (entry.tipo === 'campana') {
     currentYear = entry.year; currentMonth = entry.month; view = 'campanas';
-    setCampanaValor(entry.rowKey, entry.dayIdx, entry.valorAnterior);
+    setCampanaValor(entry.rowKey, entry.dayIdx, entry.valorAnterior, entry.year, entry.month);
     const fila = FILAS_CAMPANAS.find(f => f.key === entry.rowKey);
     mostrarTostaDeshacer(`↩️ Deshecho: ${fila ? fila.label : entry.rowKey}, día ${entry.dayIdx+1} volvió a ${entry.valorAnterior || 0}`);
   } else {
     currentYear = entry.year; currentMonth = entry.month; currentCat = entry.categoria; view = 'auxiliar';
-    setAuxValor(entry.nombre, entry.dayIdx, entry.valorAnterior);
+    setAuxValor(entry.nombre, entry.dayIdx, entry.valorAnterior, entry.year, entry.month, entry.categoria);
     mostrarTostaDeshacer(`↩️ Deshecho: ${entry.nombre}, día ${entry.dayIdx+1} volvió a ${entry.valorAnterior || 0}`);
   }
   deshaciendoAhora = false;
@@ -1460,45 +1570,131 @@ function abrirCeldaCampana(rowKey, dayIdx) {
   const fila = FILAS_CAMPANAS.find(f => f.key === rowKey);
   const rowData = ensureCampanasMonth(currentYear, currentMonth);
   const valorActual = (rowData[rowKey] || [])[dayIdx] || 0;
-  celdaCtx = { tipo: 'campana', key: rowKey, dayIdx };
+  celdaCtx = { tipo: 'campana', key: rowKey, dayIdx, year: currentYear, month: currentMonth };
   document.getElementById('celda-icon').textContent = '📊';
   document.getElementById('celda-titulo').textContent = fila ? fila.label : rowKey;
   document.getElementById('celda-sub').textContent = `${MESES[currentMonth]} · día ${dayIdx+1}`;
   document.getElementById('celda-input').value = valorActual || '';
   const meta = metaCampanas[`${currentYear}-${currentMonth}-${rowKey}`];
-  document.getElementById('celda-meta').textContent = meta ? `Última edición: ${meta.updated_by||'—'} · ${formatoRelativo(meta.updated_at)}` : 'Todavía nadie cargó nada acá.';
+  document.getElementById('celda-meta').textContent = meta ? `Última edición de la fila: ${meta.updated_by||'—'} · ${formatoRelativo(meta.updated_at)}` : 'Todavía nadie cargó nada acá.';
   document.getElementById('celda-overlay').classList.add('show');
   prepararModoCelda(valorActual);
+  verificarCeldaConNube(celdaCtx);
 }
 function abrirCeldaAux(nombre, dayIdx) {
   const cat = CATEGORIAS.find(c => c.id === currentCat);
   const catData = ensureAuxMonth(currentYear, currentMonth, currentCat);
   const valorActual = (catData[nombre] || [])[dayIdx] || 0;
-  celdaCtx = { tipo: 'aux', nombre, dayIdx };
+  celdaCtx = { tipo: 'aux', nombre, dayIdx, year: currentYear, month: currentMonth, cat: currentCat };
   document.getElementById('celda-icon').textContent = cat ? (cat.icon || '👤') : '👤';
   document.getElementById('celda-titulo').textContent = nombre;
   document.getElementById('celda-sub').textContent = `${cat ? cat.label : currentCat} · ${MESES[currentMonth]} día ${dayIdx+1}`;
   document.getElementById('celda-input').value = valorActual || '';
   const meta = metaAux[`${currentYear}-${currentMonth}-${currentCat}-${nombre}`];
-  document.getElementById('celda-meta').textContent = meta ? `Última edición: ${meta.updated_by||'—'} · ${formatoRelativo(meta.updated_at)}` : 'Todavía nadie cargó nada acá.';
+  document.getElementById('celda-meta').textContent = meta ? `Última edición de la fila: ${meta.updated_by||'—'} · ${formatoRelativo(meta.updated_at)}` : 'Todavía nadie cargó nada acá.';
   document.getElementById('celda-overlay').classList.add('show');
   prepararModoCelda(valorActual);
+  verificarCeldaConNube(celdaCtx);
+}
+function claveDeCtx(ctx) {
+  return ctx.tipo === 'campana'
+    ? `c|${ctx.year}|${ctx.month}|${ctx.key}|${ctx.dayIdx + 1}`
+    : `a|${ctx.year}|${ctx.month}|${ctx.cat}|${ctx.nombre}|${ctx.dayIdx + 1}`;
+}
+// Lee el valor que hay HOY en la nube para esa celda (null si no se pudo leer).
+async function leerCeldaNube(ctx) {
+  if (!sb) return null;
+  try {
+    const q = ctx.tipo === 'campana'
+      ? sb.from('campanas_diario').select('*').eq('year', ctx.year).eq('month', ctx.month).eq('row_key', ctx.key).eq('day', ctx.dayIdx + 1)
+      : sb.from('aux_diario').select('*').eq('year', ctx.year).eq('month', ctx.month).eq('categoria', ctx.cat).eq('auxiliar', ctx.nombre).eq('day', ctx.dayIdx + 1);
+    const { data, error } = await q.maybeSingle();
+    if (error) throw error;
+    return data || { valor: 0 };
+  } catch (e) { console.warn('No se pudo leer la celda de la nube:', e); return null; }
+}
+function valorLocalDeCtx(ctx) {
+  const arr = ctx.tipo === 'campana'
+    ? (ensureCampanasMonth(ctx.year, ctx.month)[ctx.key] || [])
+    : (ensureAuxMonth(ctx.year, ctx.month, ctx.cat)[ctx.nombre] || []);
+  return parseInt(arr[ctx.dayIdx]) || 0;
+}
+// Al abrir: si alguien cargó algo que esta pantalla todavía no tenía, lo mostramos antes de que escribas.
+async function verificarCeldaConNube(ctx) {
+  if (hayPendiente(claveDeCtx(ctx))) return;
+  const srv = await leerCeldaNube(ctx);
+  if (!srv || celdaCtx !== ctx) return;
+  const v = parseInt(srv.valor) || 0;
+  if (v === (ctx.valorOriginal || 0)) return;
+  if (srv.year != null) { aplicarFilaRemota(ctx.tipo, srv); saveAllToStorage(); programarRender(); }
+  const tocado = document.getElementById('celda-sumar').value !== '' ||
+    (parseInt(document.getElementById('celda-input').value) || 0) !== (ctx.valorOriginal || 0);
+  if (!tocado) {
+    document.getElementById('celda-input').value = v || '';
+    prepararModoCelda(v);
+  }
+  document.getElementById('celda-meta').textContent = `⚠ Actualizado: ${srv.updated_by || 'otra persona'} había cargado ${v} acá.`;
+}
+// Si mientras la ventanita está abierta llega un cambio de otra persona para esa misma celda, avisamos.
+function avisarCeldaAbierta(tipo, r) {
+  const ctx = celdaCtx;
+  if (!ctx || ctx.tipo !== tipo || r.year !== ctx.year || r.month !== ctx.month || r.day !== ctx.dayIdx + 1) return;
+  if (tipo === 'campana' ? r.row_key !== ctx.key : (r.categoria !== ctx.cat || r.auxiliar !== ctx.nombre)) return;
+  document.getElementById('celda-meta').textContent = `⚠ Ojo: ${r.updated_by || 'otra persona'} acaba de cargar ${r.valor} en esta celda.`;
 }
 function cerrarCelda() {
   document.getElementById('celda-overlay').classList.remove('show');
   celdaCtx = null;
 }
-function guardarCelda() {
-  if (!celdaCtx) return;
+let guardandoCelda = false;
+async function guardarCelda() {
+  if (!celdaCtx || guardandoCelda) return;
+  const ctx = celdaCtx;
   const sinValorPrevio = document.getElementById('celda-fila').classList.contains('sin-valor');
-  const val = sinValorPrevio ? document.getElementById('celda-input').value : String(calcularValorCelda());
+  const base = Math.max(0, parseInt(document.getElementById('celda-input').value) || 0);
+  const suma = Math.max(0, parseInt(document.getElementById('celda-sumar').value) || 0);
+  let nuevo = sinValorPrevio ? base : base + suma;
   // Si no cambió nada, no reescribimos (no ensucia el historial ni el deshacer)
-  if (!sinValorPrevio && (parseInt(val) || 0) === (celdaCtx.valorOriginal || 0)) { cerrarCelda(); return; }
-  if (celdaCtx.tipo === 'campana') {
-    setCampanaValor(celdaCtx.key, celdaCtx.dayIdx, val);
-  } else {
-    setAuxValor(celdaCtx.nombre, celdaCtx.dayIdx, val);
+  if (!sinValorPrevio && nuevo === (ctx.valorOriginal || 0)) { cerrarCelda(); return; }
+
+  // Antes de escribir, miramos qué hay en la nube AHORA: si otra persona cargó en el medio, no la pisamos sin avisar.
+  const btn = document.getElementById('celda-guardar');
+  let srv = null;
+  if (!hayPendiente(claveDeCtx(ctx))) {
+    guardandoCelda = true;
+    if (btn) { btn.disabled = true; btn.textContent = 'Guardando…'; }
+    srv = await leerCeldaNube(ctx);
+    guardandoCelda = false;
+    if (btn) { btn.disabled = false; btn.textContent = 'Guardar'; }
+    if (celdaCtx !== ctx) return;
   }
+  if (srv) {
+    const enNube = parseInt(srv.valor) || 0;
+    if (enNube !== (ctx.valorOriginal || 0)) {
+      const quien = srv.updated_by || 'otra persona';
+      if (srv.year != null) { aplicarFilaRemota(ctx.tipo, srv); saveAllToStorage(); }
+      const corrigioBase = !sinValorPrevio && base !== (ctx.valorOriginal || 0);
+      if (!corrigioBase) {
+        const aporte = sinValorPrevio ? base : suma;
+        const sumado = enNube + aporte;
+        if (!confirm(`Ojo: mientras cargabas, ${quien} dejó ${enNube} en esta celda.\n\n¿Sumo tu ${aporte} a eso? Quedaría en ${sumado}.\n\nAceptar = sumar · Cancelar = no guardar todavía y revisar`)) {
+          document.getElementById('celda-input').value = enNube || '';
+          prepararModoCelda(enNube);
+          document.getElementById('celda-meta').textContent = `⚠ Valor actualizado: ${quien} había cargado ${enNube}.`;
+          render();
+          return;
+        }
+        nuevo = sumado;
+      } else if (!confirm(`Ojo: mientras corregías, ${quien} cambió esta celda a ${enNube}.\n\n¿La reemplazo igual por ${nuevo}?`)) {
+        document.getElementById('celda-input').value = enNube || '';
+        prepararModoCelda(enNube);
+        render();
+        return;
+      }
+    }
+  }
+  if (ctx.tipo === 'campana') setCampanaValor(ctx.key, ctx.dayIdx, nuevo, ctx.year, ctx.month);
+  else setAuxValor(ctx.nombre, ctx.dayIdx, nuevo, ctx.year, ctx.month, ctx.cat);
   cerrarCelda();
 }
 
@@ -1542,16 +1738,33 @@ function procesarArchivoRestaurar(e) {
       e.target.value = '';
       return;
     }
+    // Celdas que hoy tienen número y en el respaldo no: se mandan en 0 para que de verdad quede igual al respaldo.
+    const ceros = { camp: [], aux: [] };
+    Object.keys(campanasData).forEach(y => Object.keys(campanasData[y] || {}).forEach(m => Object.keys(campanasData[y][m] || {}).forEach(k => {
+      (campanasData[y][m][k] || []).forEach((v, i) => {
+        const b = (((data.campanasData[y] || {})[m] || {})[k] || [])[i];
+        if ((parseInt(v) || 0) > 0 && !(parseInt(b) > 0)) ceros.camp.push({ year: +y, month: +m, row_key: k, day: i + 1, valor: 0 });
+      });
+    })));
+    Object.keys(auxData).forEach(y => Object.keys(auxData[y] || {}).forEach(m => Object.keys(auxData[y][m] || {}).forEach(c => Object.keys(auxData[y][m][c] || {}).forEach(n => {
+      (auxData[y][m][c][n] || []).forEach((v, i) => {
+        const b = ((((data.auxData[y] || {})[m] || {})[c] || {})[n] || [])[i];
+        if ((parseInt(v) || 0) > 0 && !(parseInt(b) > 0)) ceros.aux.push({ year: +y, month: +m, categoria: c, auxiliar: n, day: i + 1, valor: 0 });
+      });
+    }))));
     campanasData = data.campanasData;
     auxData = data.auxData;
     roster = data.roster;
     if (Array.isArray(data.years) && data.years.length) years = data.years;
     if (Array.isArray(data.CATEGORIAS) && data.CATEGORIAS.length) CATEGORIAS = data.CATEGORIAS;
     if (Array.isArray(data.FILAS_CAMPANAS) && data.FILAS_CAMPANAS.length) FILAS_CAMPANAS = data.FILAS_CAMPANAS;
+    years = normalizarYears(years);
     saveAllToStorage();
     render();
     e.target.value = '';
-    sembrarSupabase();
+    pushMeta('categorias', CATEGORIAS);
+    pushMeta('filas_campanas', FILAS_CAMPANAS);
+    sembrarSupabase(ceros);
   };
   reader.readAsText(file);
 }
@@ -1575,19 +1788,20 @@ function renderFilasAdmin() {
     </div>
   `).join('');
 }
-function renombrarFila(i, nuevoLabel) {
+async function renombrarFila(i, nuevoLabel) {
   nuevoLabel = (nuevoLabel || '').trim();
-  if (!nuevoLabel || !FILAS_CAMPANAS[i]) return;
-  FILAS_CAMPANAS[i].label = nuevoLabel;
-  pushMeta('filas_campanas', FILAS_CAMPANAS);
+  const f = FILAS_CAMPANAS[i];
+  if (!nuevoLabel || !f) return;
+  const nv = await modificarMeta('filas_campanas', FILAS_CAMPANAS, fs => { const x = fs.find(z => z.key === f.key); if (x) x.label = nuevoLabel; return fs; });
+  if (nv) FILAS_CAMPANAS = nv; else f.label = nuevoLabel;
   render();
 }
-function eliminarFila(i) {
+async function eliminarFila(i) {
   const f = FILAS_CAMPANAS[i];
   if (!f) return;
   if (!confirm(`¿Eliminar la fila "${f.label}" de la vista? Los datos ya cargados ahí quedan guardados en Supabase, solo deja de verse en la app.`)) return;
-  FILAS_CAMPANAS.splice(i, 1);
-  pushMeta('filas_campanas', FILAS_CAMPANAS);
+  const nv = await modificarMeta('filas_campanas', FILAS_CAMPANAS, fs => fs.filter(z => z.key !== f.key));
+  FILAS_CAMPANAS = nv || FILAS_CAMPANAS.filter(z => z.key !== f.key);
   renderFilasAdmin();
   render();
 }
@@ -1597,11 +1811,10 @@ function agregarFila() {
   if (!label) return;
   let key = label.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '');
   if (!key || FILAS_CAMPANAS.some(f => f.key === key)) key = 'fila_' + Date.now();
-  FILAS_CAMPANAS.push({ key, label, indent: 0, bold: false });
+  const fila = { key, label, indent: 0, bold: false };
   input.value = '';
-  pushMeta('filas_campanas', FILAS_CAMPANAS);
-  renderFilasAdmin();
-  render();
+  modificarMeta('filas_campanas', FILAS_CAMPANAS, fs => { if (!fs.some(z => z.key === key)) fs.push(fila); return fs; })
+    .then(nv => { FILAS_CAMPANAS = nv || FILAS_CAMPANAS.concat(fila); renderFilasAdmin(); render(); });
 }
 
 // ── Panel de categorías (agregar, renombrar, eliminar) ──
@@ -1623,20 +1836,21 @@ function renderCatAdmin() {
     </div>
   `).join('');
 }
-function renombrarCategoria(i, nuevoLabel) {
+async function renombrarCategoria(i, nuevoLabel) {
   nuevoLabel = (nuevoLabel || '').trim();
-  if (!nuevoLabel || !CATEGORIAS[i]) return;
-  CATEGORIAS[i].label = nuevoLabel;
-  pushMeta('categorias', CATEGORIAS);
+  const c = CATEGORIAS[i];
+  if (!nuevoLabel || !c) return;
+  const nv = await modificarMeta('categorias', CATEGORIAS, cs => { const x = cs.find(z => z.id === c.id); if (x) x.label = nuevoLabel; return cs; });
+  if (nv) CATEGORIAS = nv; else c.label = nuevoLabel;
   render();
 }
-function eliminarCategoria(i) {
+async function eliminarCategoria(i) {
   const c = CATEGORIAS[i];
   if (!c) return;
   if (!confirm(`¿Eliminar la categoría "${c.label}" de la vista? Los datos ya cargados ahí quedan guardados en Supabase, solo deja de verse en la app.`)) return;
-  CATEGORIAS.splice(i, 1);
+  const nv = await modificarMeta('categorias', CATEGORIAS, cs => cs.filter(z => z.id !== c.id));
+  CATEGORIAS = nv || CATEGORIAS.filter(z => z.id !== c.id);
   if (currentCat === c.id) currentCat = CATEGORIAS[0] ? CATEGORIAS[0].id : '__total';
-  pushMeta('categorias', CATEGORIAS);
   renderCatAdmin();
   render();
 }
@@ -1646,11 +1860,10 @@ function agregarCategoria() {
   if (!label) return;
   let id = label.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '');
   if (!id || CATEGORIAS.some(c => c.id === id)) id = 'cat_' + Date.now();
-  CATEGORIAS.push({ id, label, icon: '🏷️' });
+  const cat = { id, label, icon: '🏷️' };
   input.value = '';
-  pushMeta('categorias', CATEGORIAS);
-  renderCatAdmin();
-  render();
+  modificarMeta('categorias', CATEGORIAS, cs => { if (!cs.some(z => z.id === id)) cs.push(cat); return cs; })
+    .then(nv => { CATEGORIAS = nv || CATEGORIAS.concat(cat); renderCatAdmin(); render(); });
 }
 
 // ── Registro de historial (visible solo para supervisores) ──
@@ -1668,9 +1881,7 @@ function registrarHistorial(valor, claveOCat, nombreAux, dayIdx) {
     etiqueta = fila ? fila.label : claveOCat;
     resumen = `${QUIEN_SOS} cargó ${valor} en ${etiqueta} (día ${dayIdx+1})`;
   }
-  sb.from('historial_cambios').insert({ resumen, updated_by: QUIEN_SOS }).then(({ error }) => {
-    if (error) console.error('Historial:', error);
-  });
+  encolar('historial_cambios', { resumen, updated_by: QUIEN_SOS });
 }
 function abrirHistorial() {
   if (!esSupervisor) return;
@@ -1731,13 +1942,6 @@ function cmdkGo(i) {
   const nombre = cmdkMatches[i];
   if (!nombre) return;
   closeCmdk();
-  if (MODO_COMPACTO) {
-    cmpView = 'auxiliar';
-    document.getElementById('cmp-search').value = nombre;
-    renderCompacto('der');
-    setTimeout(() => { const i = document.querySelector('#cmp-list .cmp-in'); if (i) i.focus(); }, 80);
-    return;
-  }
   view = 'auxiliar';
   document.getElementById('search').value = nombre;
   render();
@@ -1761,10 +1965,10 @@ function renderHero() {
   const hoy = new Date();
   const dateP = document.getElementById('hero-date');
   dateP.textContent = hoy.toLocaleDateString('es-AR', { weekday: 'long', day: 'numeric', month: 'long' });
-  const anioHoy = String(hoy.getFullYear());
-  const mesHoy = String(hoy.getMonth());
+  const anioHoy = hoy.getFullYear();
+  const mesHoy = hoy.getMonth();
   const diaHoy = hoy.getDate() - 1;
-  const arr = calcularFilaCampana(parseInt(anioHoy), mesHoy, 'total_ingresos', ensureCampanasMonth(parseInt(anioHoy), mesHoy), {});
+  const arr = calcularFilaCampana(anioHoy, mesHoy, 'total_ingresos', ensureCampanasMonth(anioHoy, mesHoy), {});
   const valHoy = parseInt(arr[diaHoy]) || 0;
   const totalMes = arr.reduce((a, b) => a + (parseInt(b) || 0), 0);
   const stats = document.getElementById('hero-stats');
@@ -1775,11 +1979,11 @@ function renderHero() {
 }
 
 // ── Orden alfabético del roster ──
-function ordenarRosterAlfabetico() {
+async function ordenarRosterAlfabetico() {
   if (!confirm('Esto va a reordenar todos los auxiliares alfabéticamente (por apellido). ¿Continuar?')) return;
-  roster.sort((a, b) => a.localeCompare(b, 'es', { sensitivity: 'base' }));
+  const nv = await modificarMeta('roster', roster, r => r.sort((a, b) => a.localeCompare(b, 'es', { sensitivity: 'base' })));
+  if (nv) roster = nv;
   saveAllToStorage();
-  pushMeta('roster', roster);
   render();
 }
 
@@ -1805,15 +2009,19 @@ function auxDrop(e, nombreDestino) {
   e.preventDefault();
   e.currentTarget.classList.remove('drag-over');
   if (!dragNombre || dragNombre === nombreDestino) return;
-  const from = roster.indexOf(dragNombre);
-  const to = roster.indexOf(nombreDestino);
-  if (from === -1 || to === -1) return;
-  roster.splice(from, 1);
-  roster.splice(to, 0, dragNombre);
-  saveAllToStorage();
-  pushMeta('roster', roster);
+  const mover = dragNombre;
   dragNombre = null;
-  render();
+  const aplicar = r => {
+    const from = r.indexOf(mover), to = r.indexOf(nombreDestino);
+    if (from === -1 || to === -1) return null;
+    r.splice(from, 1);
+    r.splice(to, 0, mover);
+    return r;
+  };
+  const local = aplicar(roster.slice());
+  if (!local) return;
+  roster = local; render(); // se ve al instante
+  modificarMeta('roster', roster, aplicar).then(nv => { if (nv) roster = nv; saveAllToStorage(); render(); });
 }
 
 // ── Resaltado de fila/columna activa al cargar datos ──
@@ -1904,35 +2112,34 @@ function renderResumenAnual() {
   tfoot.innerHTML = `<td class="td-name">Total</td>` + monthTotals.map(v=>`<td>${v||'—'}</td>`).join('') + `<td class="td-grandtotal">${grandTotal||'—'}</td><td></td>`;
 }
 
-function renombrarAuxiliar(viejo, nuevo) {
+async function renombrarAuxiliar(viejo, nuevo) {
   nuevo = nuevo.trim();
   if (!nuevo || nuevo === viejo) { render(); return; }
-  const idx = roster.indexOf(viejo);
-  if (idx === -1) return;
-  roster[idx] = nuevo;
+  if (roster.indexOf(viejo) === -1) return;
+  if (roster.includes(nuevo)) { alert(`"${nuevo}" ya está en la lista. Para no mezclar números, no se renombra.`); render(); return; }
+  const nv = await modificarMeta('roster', roster, r => { const i = r.indexOf(viejo); if (i === -1) r.push(nuevo); else r[i] = nuevo; return r; });
+  if (nv) roster = nv; else roster[roster.indexOf(viejo)] = nuevo;
   Object.keys(auxData).forEach(y => Object.keys(auxData[y]).forEach(m => Object.keys(auxData[y][m]).forEach(c => {
     if (auxData[y][m][c][viejo]) { auxData[y][m][c][nuevo] = auxData[y][m][c][viejo]; delete auxData[y][m][c][viejo]; }
   })));
   saveAllToStorage();
-  pushMeta('roster', roster);
-  renameAuxInSupabase(viejo, nuevo);
+  await renameAuxInSupabase(viejo, nuevo);
   render();
 }
-function quitarAuxiliar(nombre) {
+async function quitarAuxiliar(nombre) {
   if (!confirm(`¿Quitar a "${nombre}" de la lista? (no se borran sus números guardados, solo deja de aparecer)`)) return;
-  roster = roster.filter(n => n !== nombre);
+  const nv = await modificarMeta('roster', roster, r => r.filter(n => n !== nombre));
+  roster = nv || roster.filter(n => n !== nombre);
   saveAllToStorage();
-  pushMeta('roster', roster);
   render();
 }
-function addAuxiliar() {
+async function addAuxiliar() {
   const nombre = (prompt('Nombre del auxiliar (ej: "Apellido, Nombre"):') || '').trim();
   if (!nombre) return;
   if (roster.includes(nombre)) { alert('Ya está en la lista.'); return; }
-  roster.push(nombre);
-  roster.sort((a,b)=>a.localeCompare(b,'es'));
+  const nv = await modificarMeta('roster', roster, r => { if (!r.includes(nombre)) r.push(nombre); return r.sort((a,b)=>a.localeCompare(b,'es')); });
+  roster = nv || roster.concat(nombre).sort((a,b)=>a.localeCompare(b,'es'));
   saveAllToStorage();
-  pushMeta('roster', roster);
   render();
 }
 
@@ -2053,30 +2260,9 @@ function mostrarEsqueleto() {
   ).join('');
 }
 
-// ══════════ MODO COMPACTO: ventana angosta para cargar al lado de Outlook ══════════
-const MODO_COMPACTO = new URLSearchParams(location.search).get('compacto') === '1';
+// ── Animaciones chicas (números de los KPIs y cambio de pestaña) ──
 const cmpReduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-const K_CMP_VIEW = 'emailstats_cmp_view_v1', K_CMP_CAT = 'emailstats_cmp_cat_v1';
-let cmpView = localStorage.getItem(K_CMP_VIEW) === 'campanas' ? 'campanas' : 'auxiliar';
-let cmpFecha = new Date(); cmpFecha.setHours(12, 0, 0, 0);
-let cmpInputs = new Map(), cmpCalcs = new Map(), cmpRows = new Map();
-let cmpYaPintado = false;
 let kpiPrev = {};
-const CMP_OK_SVG = '<svg class="cmp-ok" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
-const CMP_ERR_SVG = '<svg class="cmp-errico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5.5M12 16.5v.01"/></svg>';
-
-function abrirModoCompacto() {
-  const url = location.pathname + '?compacto=1';
-  const alto = Math.min(screen.availHeight || 900, 1100);
-  const izq = Math.max(0, (screen.availWidth || 1400) - 460);
-  const w = window.open(url, 'colab-compacto', `width=440,height=${alto},left=${izq},top=0`);
-  if (!w) location.href = url; // si el navegador bloquea la ventana, se abre en esta misma pestaña
-  else w.focus();
-}
-function salirModoCompacto() {
-  if (window.opener && !window.opener.closed) { window.opener.focus(); window.close(); }
-  else location.href = location.pathname;
-}
 // Reinicia una animación CSS (sacar la clase, forzar repintado, volver a ponerla) y la limpia al terminar
 function pulso(el, clase, ms) {
   if (!el) return;
@@ -2114,239 +2300,6 @@ function animarCard(dir) {
   c.classList.remove('anim-der', 'anim-izq');
   pulso(c, dir > 0 ? 'anim-der' : 'anim-izq', 400);
 }
-function cmpDia() { return cmpFecha.getDate() - 1; }
-function cmpSetView(v) {
-  if (v === cmpView) return;
-  cmpView = v;
-  localStorage.setItem(K_CMP_VIEW, v);
-  renderCompacto(v === 'auxiliar' ? 'der' : 'izq');
-}
-function cmpMoverDia(delta) {
-  cmpFecha = new Date(cmpFecha.getFullYear(), cmpFecha.getMonth(), cmpFecha.getDate() + delta, 12);
-  renderCompacto(delta > 0 ? 'der' : 'izq');
-}
-function cmpHoy() {
-  const h = new Date(); h.setHours(12, 0, 0, 0);
-  const dir = h > cmpFecha ? 'der' : (h < cmpFecha ? 'izq' : 'none');
-  cmpFecha = h;
-  renderCompacto(dir);
-}
-function cmpSetCat(id) {
-  currentCat = id;
-  localStorage.setItem(K_CMP_CAT, id);
-  renderCompacto('der');
-}
-function cmpFiltrarFilas(q) {
-  if (!q) return FILAS_CAMPANAS;
-  const incluidos = new Set();
-  FILAS_CAMPANAS.forEach((f, idx) => {
-    if (f.label.toLowerCase().includes(q)) {
-      incluidos.add(idx);
-      if (!f.computed) {
-        for (let j = idx + 1; j < FILAS_CAMPANAS.length; j++) {
-          if (FILAS_CAMPANAS[j].indent > f.indent) incluidos.add(j); else break;
-        }
-      }
-    }
-  });
-  return FILAS_CAMPANAS.filter((f, idx) => incluidos.has(idx));
-}
-function cmpValorCalculado(f, d, rowData, cache) {
-  if (f && f.computedFrom) {
-    const catData = (auxData[currentYear] && auxData[currentYear][currentMonth] && auxData[currentYear][currentMonth][f.computedFrom]) || {};
-    return Object.values(catData).reduce((s, vals) => s + (parseInt((vals || [])[d]) || 0), 0);
-  }
-  return parseInt(calcularFilaCampana(currentYear, currentMonth, f.key, rowData, cache)[d]) || 0;
-}
-function renderCompacto(anim) {
-  currentYear = cmpFecha.getFullYear();
-  currentMonth = cmpFecha.getMonth();
-  if (currentCat === '__total' || !CATEGORIAS.some(c => c.id === currentCat)) currentCat = (CATEGORIAS[0] || {}).id;
-  const d = cmpDia();
-
-  // Encabezado
-  const seg = document.getElementById('cmp-seg');
-  seg.dataset.v = cmpView;
-  seg.querySelectorAll('button').forEach(b => b.classList.toggle('active', b.dataset.v === cmpView));
-  document.getElementById('cmp-fecha').textContent = cmpFecha.toLocaleDateString('es-AR', { weekday: 'long', day: 'numeric', month: 'short' });
-  const hoy = new Date();
-  document.getElementById('cmp-hoy').disabled = cmpFecha.toDateString() === hoy.toDateString();
-  document.getElementById('cmp-usuario').textContent = `Cargando como ${QUIEN_SOS}`;
-  const catSel = document.getElementById('cmp-cat');
-  catSel.style.display = cmpView === 'auxiliar' ? '' : 'none';
-  catSel.innerHTML = CATEGORIAS.map(c => `<option value="${escHtml(c.id)}" ${c.id === currentCat ? 'selected' : ''}>${c.icon || ''} ${escHtml(c.label)}</option>`).join('');
-
-  // Lista
-  const list = document.getElementById('cmp-list');
-  const q = document.getElementById('cmp-search').value.trim().toLowerCase();
-  let html = '', i = 0;
-  if (cmpView === 'campanas') {
-    const rowData = ensureCampanasMonth(currentYear, currentMonth);
-    cmpFiltrarFilas(q).forEach(f => {
-      const calc = f.computed || !!f.sumaDe;
-      const grupo = f.bold && f.indent === 0;
-      const k = 'c:' + f.key;
-      html += `<div class="cmp-row ind-${f.indent}${grupo ? ' grupo' : ''}${calc ? ' calc' : ''}" style="--i:${i++}" data-k="${escHtml(k)}">`
-        + `<span class="cmp-lbl" title="${escHtml(f.label)}">${escHtml(f.label)}</span><span class="cmp-quien"></span>`
-        + (calc
-          ? `<span class="cmp-val" data-v="0">—</span>`
-          : `${CMP_OK_SVG}${CMP_ERR_SVG}<input class="cmp-in" type="text" inputmode="numeric" autocomplete="off" aria-label="${escHtml(f.label)}" data-tipo="campana" data-key="${escHtml(f.key)}" value="${parseInt((rowData[f.key] || [])[d]) || ''}">`)
-        + `</div>`;
-    });
-  } else {
-    const catData = ensureAuxMonth(currentYear, currentMonth, currentCat);
-    roster.filter(n => !q || n.toLowerCase().includes(q)).forEach(nombre => {
-      const k = 'a:' + nombre;
-      const meta = metaAux[`${currentYear}-${currentMonth}-${currentCat}-${nombre}`];
-      const tit = meta ? `Última edición: ${meta.updated_by || '—'} · ${formatoRelativo(meta.updated_at)}` : nombre;
-      html += `<div class="cmp-row" style="--i:${i++}" data-k="${escHtml(k)}">`
-        + `<span class="cmp-lbl" title="${escHtml(tit)}">${escHtml(nombre)}</span><span class="cmp-quien"></span>`
-        + `${CMP_OK_SVG}${CMP_ERR_SVG}<input class="cmp-in" type="text" inputmode="numeric" autocomplete="off" aria-label="${escHtml(nombre)}" data-tipo="aux" data-key="${escHtml(nombre)}" value="${parseInt((catData[nombre] || [])[d]) || ''}">`
-        + `</div>`;
-    });
-  }
-  list.innerHTML = html || `<div class="cmp-vacio">No encontramos nada con "${escHtml(q)}".</div>`;
-  cmpInputs = new Map(); cmpCalcs = new Map(); cmpRows = new Map();
-  list.querySelectorAll('.cmp-row').forEach(r => {
-    const k = r.dataset.k;
-    cmpRows.set(k, r);
-    const inp = r.querySelector('.cmp-in');
-    if (inp) { cmpInputs.set(k, inp); inp.classList.toggle('tiene', !!parseInt(inp.value)); }
-    const v = r.querySelector('.cmp-val');
-    if (v) cmpCalcs.set(k, v);
-  });
-  cmpActualizarTotales();
-
-  // Animación de entrada: cascada al abrir, deslizamiento al cambiar de vista/día
-  list.classList.remove('cmp-cascada', 'cmp-desde-der', 'cmp-desde-izq');
-  if (!cmpReduce && anim && anim !== 'none') {
-    const clase = anim === 'cascade' ? 'cmp-cascada' : (anim === 'der' ? 'cmp-desde-der' : 'cmp-desde-izq');
-    pulso(list, clase, anim === 'cascade' ? 1100 : 400);
-  }
-  document.documentElement.style.setProperty('--cmp-top', (document.getElementById('cmp-top').offsetHeight + 12) + 'px');
-  cmpYaPintado = true;
-}
-function cmpActualizarTotales() {
-  const d = cmpDia();
-  let total = 0, lbl = '', sub = '';
-  if (cmpView === 'campanas') {
-    const rowData = ensureCampanasMonth(currentYear, currentMonth);
-    const cache = {};
-    cmpCalcs.forEach((el, k) => {
-      const f = FILAS_CAMPANAS.find(x => x.key === k.slice(2));
-      if (f) animarNumero(el, cmpValorCalculado(f, d, rowData, cache));
-    });
-    const fTotal = FILAS_CAMPANAS.find(f => f.key === 'total_ingresos');
-    total = fTotal ? cmpValorCalculado(fTotal, d, rowData, cache) : 0;
-    lbl = 'Total de ingresos del día';
-    sub = 'Todas las campañas';
-  } else {
-    const catData = ensureAuxMonth(currentYear, currentMonth, currentCat);
-    let conCarga = 0;
-    roster.forEach(n => { const v = parseInt((catData[n] || [])[d]) || 0; total += v; if (v) conCarga++; });
-    const cat = CATEGORIAS.find(c => c.id === currentCat);
-    lbl = `${cat ? cat.label : 'Categoría'} · del día`;
-    sub = `${conCarga} auxiliar${conCarga === 1 ? '' : 'es'} con carga`;
-  }
-  document.getElementById('cmp-total-lbl').textContent = lbl;
-  document.getElementById('cmp-total-sub').textContent = sub;
-  animarNumero(document.getElementById('cmp-total-num'), total);
-}
-async function cmpGuardar(inp) {
-  const tipo = inp.dataset.tipo, key = inp.dataset.key;
-  const d = cmpDia(), y = currentYear, m = currentMonth, cat = currentCat;
-  const nuevo = Math.max(0, parseInt(inp.value) || 0);
-  let arr;
-  if (tipo === 'campana') {
-    arr = ensureCampanasMonth(y, m)[key];
-  } else {
-    const cd = ensureAuxMonth(y, m, cat);
-    if (!cd[key]) cd[key] = new Array(diasEnMes(y, m)).fill(0);
-    arr = cd[key];
-  }
-  const anterior = parseInt(arr[d]) || 0;
-  inp.value = nuevo || '';
-  inp.classList.toggle('tiene', nuevo > 0);
-  if (anterior === nuevo) return;
-  deshacerStack.push(tipo === 'campana'
-    ? { tipo: 'campana', year: y, month: m, rowKey: key, dayIdx: d, valorAnterior: anterior }
-    : { tipo: 'aux', year: y, month: m, categoria: cat, nombre: key, dayIdx: d, valorAnterior: anterior });
-  if (deshacerStack.length > 20) deshacerStack.shift();
-  arr[d] = nuevo;
-  saveAllToStorage();
-  registrarHistorial(nuevo, tipo === 'campana' ? key : cat, tipo === 'campana' ? null : key, d);
-  cmpActualizarTotales();
-  const row = inp.closest('.cmp-row');
-  let ok = false;
-  try {
-    ok = tipo === 'campana' ? await pushCampanaRow(y, m, key, d, nuevo) : await pushAuxRow(y, m, cat, key, d, nuevo);
-  } catch (err) { console.error('Guardado compacto:', err); ok = false; }
-  cmpFeedback(row, ok);
-}
-function cmpFeedback(row, ok) {
-  if (!row || !row.isConnected) return;
-  if (ok) {
-    row.classList.remove('err');
-    row.removeAttribute('title');
-    pulso(row.querySelector('.cmp-ok'), 'show', 1700);
-    pulso(row, 'guardado', 1000);
-  } else {
-    row.classList.add('err');
-    row.title = 'No se pudo guardar en la nube. Quedó guardado en esta compu: volvé a cargarlo cuando vuelva la conexión.';
-    pulso(row, 'shake', 500);
-  }
-}
-function cmpRemoto(tipo, r) {
-  if (!cmpYaPintado) return;
-  cmpActualizarTotales();
-  if (r.year !== cmpFecha.getFullYear() || r.month !== cmpFecha.getMonth() || r.day - 1 !== cmpDia()) return;
-  let k = null;
-  if (tipo === 'campana' && cmpView === 'campanas') k = 'c:' + r.row_key;
-  if (tipo === 'aux' && cmpView === 'auxiliar' && r.categoria === currentCat) k = 'a:' + r.auxiliar;
-  const row = k && cmpRows.get(k);
-  if (!row) return;
-  const inp = cmpInputs.get(k);
-  if (inp && document.activeElement !== inp) {
-    inp.value = r.valor || '';
-    inp.classList.toggle('tiene', r.valor > 0);
-  }
-  const quien = row.querySelector('.cmp-quien');
-  if (quien) { quien.textContent = `✎ ${r.updated_by || 'Otra persona'}`; pulso(quien, 'show', 2500); }
-  pulso(row, 'remoto', 1700);
-}
-function cmpMoverFoco(inp, dir) {
-  const todos = Array.from(document.querySelectorAll('#cmp-list .cmp-in'));
-  const sig = todos[todos.indexOf(inp) + dir];
-  if (sig) sig.focus(); else inp.blur();
-}
-function cmpInit() {
-  if (!MODO_COMPACTO) return;
-  document.body.classList.add('compacto');
-  document.title = 'Carga rápida · Colaboradores';
-  const catGuardada = localStorage.getItem(K_CMP_CAT);
-  if (catGuardada && CATEGORIAS.some(c => c.id === catGuardada)) currentCat = catGuardada;
-  const list = document.getElementById('cmp-list');
-  list.innerHTML = Array.from({ length: 9 }).map(() =>
-    `<div class="cmp-row"><div class="skel skel-name" style="width:55%;"></div><div class="skel" style="width:78px;height:30px;margin-left:auto;"></div></div>`
-  ).join('');
-  list.addEventListener('change', e => { if (e.target.classList.contains('cmp-in')) cmpGuardar(e.target); });
-  list.addEventListener('focusin', e => { if (e.target.classList.contains('cmp-in')) setTimeout(() => e.target.select(), 0); });
-  list.addEventListener('input', e => {
-    if (!e.target.classList.contains('cmp-in')) return;
-    const limpio = e.target.value.replace(/\D/g, '').slice(0, 6);
-    if (limpio !== e.target.value) e.target.value = limpio;
-  });
-  list.addEventListener('keydown', e => {
-    if (!e.target.classList.contains('cmp-in')) return;
-    if (e.key === 'Enter' || e.key === 'ArrowDown') { e.preventDefault(); cmpMoverFoco(e.target, 1); }
-    else if (e.key === 'ArrowUp') { e.preventDefault(); cmpMoverFoco(e.target, -1); }
-  });
-  window.addEventListener('resize', () => {
-    const top = document.getElementById('cmp-top');
-    if (top) document.documentElement.style.setProperty('--cmp-top', (top.offsetHeight + 12) + 'px');
-  });
-}
-cmpInit();
 
 mostrarEsqueleto();
 document.getElementById('quien-sos-label').textContent = QUIEN_SOS;
@@ -2358,9 +2311,17 @@ if (sessionStorage.getItem(K_PORTADA_VISTA) === '1') {
 } else {
   document.getElementById('portada-nombre').value = QUIEN_SOS;
 }
-loadAllFromSupabase()
-  .then(() => { render(); setupRealtime(); })
-  .catch(() => { render(); }); // si Supabase falla, igual pintamos con lo local/seed
+actualizarBadge();
+function arrancar() {
+  loadAllFromSupabase()
+    .then(ok => {
+      render();
+      setupRealtime();
+      if (!ok) setTimeout(arrancar, 15000); // si Supabase no respondió, se vuelve a intentar solo
+    })
+    .catch(() => { render(); setTimeout(arrancar, 15000); });
+}
+arrancar();
 </script>
 
 <div class="sup-overlay" id="sup-overlay" onclick="if(event.target===this) cerrarLoginSupervisor()">
@@ -2424,7 +2385,7 @@ loadAllFromSupabase()
       </div>
     </div>
     <div class="celda-total" id="celda-total"></div>
-    <button onclick="guardarCelda()">Guardar</button>
+    <button id="celda-guardar" onclick="guardarCelda()">Guardar</button>
     <button class="sup-cancel" onclick="cerrarCelda()">Cancelar</button>
     <p class="sup-err" id="celda-meta" style="color:var(--muted);"></p>
   </div>
