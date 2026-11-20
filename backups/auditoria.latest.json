@@ -1,0 +1,29 @@
+[
+  {
+    "id": 3,
+    "created_at": "2026-11-20T20:51:41.407694+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 9,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-20T19:46:10.151089+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 12,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-20T20:51:41.407694+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  }
+]

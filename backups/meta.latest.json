@@ -1,12 +1,5 @@
 [
   {
-    "key": "years",
-    "value": [
-      "2026"
-    ],
-    "updated_at": "2026-09-22T17:12:56.573+00:00"
-  },
-  {
     "key": "categorias",
     "value": [
       {
@@ -55,7 +48,8 @@
         "label": "Soporte Eventual"
       }
     ],
-    "updated_at": "2026-09-23T15:56:05.248+00:00"
+    "updated_at": "2026-09-23T15:56:05.248+00:00",
+    "updated_by": null
   },
   {
     "key": "roster",
@@ -181,6 +175,15 @@
       "Zigarnosky, Andrea",
       "Zini, Ayelen"
     ],
-    "updated_at": "2026-10-19T21:43:43.094+00:00"
+    "updated_at": "2026-10-19T21:43:43.094+00:00",
+    "updated_by": null
+  },
+  {
+    "key": "years",
+    "value": [
+      "2026"
+    ],
+    "updated_at": "2026-09-22T17:12:56.573+00:00",
+    "updated_by": null
   }
 ]
