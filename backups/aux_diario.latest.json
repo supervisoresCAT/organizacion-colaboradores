@@ -131845,9 +131845,9 @@
     "categoria": "apoyo",
     "auxiliar": "Eguiazu, Agustina",
     "day": 20,
-    "valor": 17,
-    "updated_by": "florencia",
-    "updated_at": "2026-11-20T21:57:40.589951+00:00"
+    "valor": 18,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T14:16:13.44372+00:00"
   },
   {
     "year": 2026,
@@ -132578,6 +132578,16 @@
     "valor": 23,
     "updated_by": "Xime Romero",
     "updated_at": "2026-11-14T14:56:42.897+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
+    "auxiliar": "Carpenzano, Micaela",
+    "day": 21,
+    "valor": 3,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T12:48:02.386028+00:00"
   },
   {
     "year": 2026,
@@ -134115,9 +134125,9 @@
     "categoria": "carga",
     "auxiliar": "Murolo, Jonatan",
     "day": 20,
-    "valor": 35,
-    "updated_by": "florencia",
-    "updated_at": "2026-11-20T18:01:12.416+00:00"
+    "valor": 40,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T13:03:11.727717+00:00"
   },
   {
     "year": 2026,
@@ -134188,6 +134198,16 @@
     "valor": 34,
     "updated_by": "florencia",
     "updated_at": "2026-11-19T21:55:23.232+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Pierini, Clementina",
+    "day": 21,
+    "valor": 47,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T14:59:50.144217+00:00"
   },
   {
     "year": 2026,
@@ -134288,6 +134308,16 @@
     "valor": 17,
     "updated_by": "Mateo Ocanto",
     "updated_at": "2026-11-07T15:08:20.843+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "carga",
+    "auxiliar": "Rodriguez, Valentina",
+    "day": 21,
+    "valor": 23,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T12:47:48.027933+00:00"
   },
   {
     "year": 2026,
@@ -134633,6 +134663,16 @@
     "year": 2026,
     "month": 10,
     "categoria": "linea7075",
+    "auxiliar": "Culcuy, Yenit",
+    "day": 21,
+    "valor": 16,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T14:59:13.532766+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
     "auxiliar": "Lanteri, Santiago",
     "day": 2,
     "valor": 20,
@@ -134903,6 +134943,16 @@
     "year": 2026,
     "month": 10,
     "categoria": "linea7075",
+    "auxiliar": "Menotti, Aranda Giuliana",
+    "day": 21,
+    "valor": 16,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T15:07:11.170714+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
     "auxiliar": "Perri, German",
     "day": 2,
     "valor": 11,
@@ -135038,6 +135088,16 @@
     "valor": 17,
     "updated_by": "Andrea Ortiz",
     "updated_at": "2026-11-19T17:31:41.58+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "linea7075",
+    "auxiliar": "Romero, Ximena",
+    "day": 20,
+    "valor": 2,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T14:15:22.272801+00:00"
   },
   {
     "year": 2026,
@@ -135193,6 +135253,46 @@
     "year": 2026,
     "month": 10,
     "categoria": "mails",
+    "auxiliar": "Aguilar, Cecilia",
+    "day": 21,
+    "valor": 19,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T14:59:40.163562+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Ayala, Carolina",
+    "day": 21,
+    "valor": 22,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T14:59:22.640951+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Barduca, Flavia",
+    "day": 21,
+    "valor": 10,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T15:04:11.257181+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Beltramo, Giuliana",
+    "day": 21,
+    "valor": 19,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T15:00:16.494136+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
     "auxiliar": "Cosimano, Ivana",
     "day": 2,
     "valor": 0,
@@ -135238,6 +135338,36 @@
     "valor": 8,
     "updated_by": "florencia",
     "updated_at": "2026-11-12T17:50:02.836+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Gaitan, Joaquin",
+    "day": 21,
+    "valor": 16,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T15:04:17.216279+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Galvez, Maria",
+    "day": 21,
+    "valor": 3,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T14:58:45.822827+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Giudice, Franco",
+    "day": 21,
+    "valor": 25,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T15:00:01.273676+00:00"
   },
   {
     "year": 2026,
@@ -135793,6 +135923,16 @@
     "year": 2026,
     "month": 10,
     "categoria": "mails",
+    "auxiliar": "Perez, Melina",
+    "day": 21,
+    "valor": 19,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T15:07:03.280595+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
     "auxiliar": "Redigonda, Macarena",
     "day": 4,
     "valor": 25,
@@ -135943,6 +136083,16 @@
     "year": 2026,
     "month": 10,
     "categoria": "mails",
+    "auxiliar": "Rodriguez, Valentina",
+    "day": 21,
+    "valor": 7,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T15:00:24.679797+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
     "auxiliar": "Rubiolo, Valentina",
     "day": 4,
     "valor": 0,
@@ -135958,6 +136108,16 @@
     "valor": 0,
     "updated_by": "Andrea Ortiz",
     "updated_at": "2026-11-05T18:35:49.451+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "mails",
+    "auxiliar": "Schiavetti, Alejandro",
+    "day": 21,
+    "valor": 8,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T15:04:22.283803+00:00"
   },
   {
     "year": 2026,
@@ -136238,6 +136398,16 @@
     "valor": 8,
     "updated_by": "Andrea Ortiz",
     "updated_at": "2026-11-05T15:18:57.622+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "redes",
+    "auxiliar": "Ayala, Carolina",
+    "day": 21,
+    "valor": 1,
+    "updated_by": "German",
+    "updated_at": "2026-11-21T15:00:51.579143+00:00"
   },
   {
     "year": 2026,

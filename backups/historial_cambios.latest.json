@@ -30772,5 +30772,203 @@
     "resumen": "florencia cambió de 10 a 15 (+5) para Antonini, Tatiana en Equipo de Apoyo (día 20 de Noviembre)",
     "updated_by": "florencia",
     "created_at": "2026-11-20T22:07:20.940982+00:00"
+  },
+  {
+    "id": 5201,
+    "resumen": "German cargó 37 en General › Derivaciones del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:09:21.31192+00:00"
+  },
+  {
+    "id": 5202,
+    "resumen": "German cambió de 27 a 29 (+2) en Farmacia › Derivaciones del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:09:51.951262+00:00"
+  },
+  {
+    "id": 5203,
+    "resumen": "German cargó 145 en Prestadores › Derivaciones del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:09:58.202723+00:00"
+  },
+  {
+    "id": 5204,
+    "resumen": "German cargó 9 en Reintegros › Derivaciones del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:10:09.587261+00:00"
+  },
+  {
+    "id": 5205,
+    "resumen": "German cambió de 20 a 65 (+45) en General › Ingresos del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:55:08.225897+00:00"
+  },
+  {
+    "id": 5206,
+    "resumen": "German cambió de 1 a 9 (+8) en Farmacia › Ingresos del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:55:16.393805+00:00"
+  },
+  {
+    "id": 5207,
+    "resumen": "German cargó 129 en Prestadores › Ingresos del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:55:31.084953+00:00"
+  },
+  {
+    "id": 5208,
+    "resumen": "German cambió de 14 a 15 (+1) en Reintegros › Ingresos del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:55:52.291104+00:00"
+  },
+  {
+    "id": 5209,
+    "resumen": "German cambió de 38 a 40 (+2) en Ambulatorio › Ingresos del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:56:17.734557+00:00"
+  },
+  {
+    "id": 5210,
+    "resumen": "German cambió de 89 a 101 (+12) en Internaciones › Ingresos del día (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T11:56:25.73742+00:00"
+  },
+  {
+    "id": 5211,
+    "resumen": "German cargó 23 para Rodriguez, Valentina en Carga de Solicitudes (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T12:47:48.312179+00:00"
+  },
+  {
+    "id": 5212,
+    "resumen": "German cargó 3 para Carpenzano, Micaela en Soporte Eventual (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T12:48:02.60745+00:00"
+  },
+  {
+    "id": 5213,
+    "resumen": "German cambió de 35 a 75 (+40) para Murolo, Jonatan en Carga de Solicitudes (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T13:03:03.81626+00:00"
+  },
+  {
+    "id": 5214,
+    "resumen": "German cambió de 75 a 40 (−35) para Murolo, Jonatan en Carga de Solicitudes (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T13:03:11.950461+00:00"
+  },
+  {
+    "id": 5215,
+    "resumen": "German cargó 2 para Romero, Ximena en Línea 7075 (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T14:15:22.576246+00:00"
+  },
+  {
+    "id": 5216,
+    "resumen": "German cambió de 17 a 18 (+1) para Eguiazu, Agustina en Equipo de Apoyo (día 20 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T14:16:13.635691+00:00"
+  },
+  {
+    "id": 5217,
+    "resumen": "German cargó 3 para Galvez, Maria en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T14:58:46.063032+00:00"
+  },
+  {
+    "id": 5218,
+    "resumen": "German cargó 14 para Menotti, Aranda Giuliana en Línea 7075 (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T14:58:57.039438+00:00"
+  },
+  {
+    "id": 5219,
+    "resumen": "German cargó 16 para Culcuy, Yenit en Línea 7075 (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T14:59:13.74571+00:00"
+  },
+  {
+    "id": 5220,
+    "resumen": "German cargó 22 para Ayala, Carolina en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T14:59:22.857766+00:00"
+  },
+  {
+    "id": 5221,
+    "resumen": "German cargó 19 para Aguilar, Cecilia en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T14:59:40.368438+00:00"
+  },
+  {
+    "id": 5222,
+    "resumen": "German cargó 47 para Pierini, Clementina en Carga de Solicitudes (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T14:59:50.350557+00:00"
+  },
+  {
+    "id": 5223,
+    "resumen": "German cargó 25 para Giudice, Franco en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:00:01.482209+00:00"
+  },
+  {
+    "id": 5224,
+    "resumen": "German cargó 18 para Perez, Melina en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:00:09.507984+00:00"
+  },
+  {
+    "id": 5225,
+    "resumen": "German cargó 19 para Beltramo, Giuliana en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:00:16.707173+00:00"
+  },
+  {
+    "id": 5226,
+    "resumen": "German cargó 7 para Rodriguez, Valentina en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:00:24.93109+00:00"
+  },
+  {
+    "id": 5227,
+    "resumen": "German cargó 1 para Ayala, Carolina en Redes Respondidos (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:00:51.786282+00:00"
+  },
+  {
+    "id": 5228,
+    "resumen": "German cargó 10 para Barduca, Flavia en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:04:11.517535+00:00"
+  },
+  {
+    "id": 5229,
+    "resumen": "German cargó 16 para Gaitan, Joaquin en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:04:17.428837+00:00"
+  },
+  {
+    "id": 5230,
+    "resumen": "German cargó 8 para Schiavetti, Alejandro en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:04:22.520152+00:00"
+  },
+  {
+    "id": 5231,
+    "resumen": "German cambió de 14 a 15 (+1) para Menotti, Aranda Giuliana en Línea 7075 (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:05:11.35339+00:00"
+  },
+  {
+    "id": 5232,
+    "resumen": "German cambió de 18 a 19 (+1) para Perez, Melina en Mails Gestionados (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:07:03.511065+00:00"
+  },
+  {
+    "id": 5233,
+    "resumen": "German cambió de 15 a 16 (+1) para Menotti, Aranda Giuliana en Línea 7075 (día 21 de Noviembre)",
+    "updated_by": "German",
+    "created_at": "2026-11-21T15:07:11.720178+00:00"
   }
 ]
