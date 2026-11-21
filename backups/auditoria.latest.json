@@ -25,5 +25,596 @@
       "updated_by": "florencia"
     },
     "hecho_por": "florencia"
+  },
+  {
+    "id": 4,
+    "created_at": "2026-11-20T21:01:55.390663+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 8,
+      "auxiliar": "Giudice, Franco",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T13:28:18.035+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 13,
+      "auxiliar": "Giudice, Franco",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T21:01:55.390663+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 5,
+    "created_at": "2026-11-20T21:20:58.98693+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 59,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-20T20:49:35.080571+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 64,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-20T21:20:58.98693+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 6,
+    "created_at": "2026-11-20T21:25:31.638357+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 60,
+      "auxiliar": "Faccioli, Sofia",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-20T21:25:31.638357+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 7,
+    "created_at": "2026-11-20T21:26:06.923668+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 30,
+      "auxiliar": "Scattolini, Melisa",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T21:26:06.923668+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 8,
+    "created_at": "2026-11-20T21:26:36.534294+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 9,
+      "auxiliar": "Sozio, Marco",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T18:22:22.994+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 30,
+      "auxiliar": "Sozio, Marco",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T21:26:36.534294+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 9,
+    "created_at": "2026-11-20T21:28:48.513298+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 22,
+      "auxiliar": "Alvado, Gisela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-20T20:34:23.595378+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 25,
+      "auxiliar": "Alvado, Gisela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-20T21:28:48.513298+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 10,
+    "created_at": "2026-11-20T21:29:27.770417+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 11,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-20T19:12:58.248+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 16,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-20T21:29:27.770417+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 11,
+    "created_at": "2026-11-20T21:33:12.799638+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 13,
+      "auxiliar": "Eguiazu, Agustina",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-20T21:33:12.799638+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 12,
+    "created_at": "2026-11-20T21:35:25.226319+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 19,
+      "auxiliar": "Ludueña, Rocio del Valle",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T20:40:10.438068+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 22,
+      "auxiliar": "Ludueña, Rocio del Valle",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T21:35:25.226319+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 13,
+    "created_at": "2026-11-20T21:44:41.224678+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 22,
+      "auxiliar": "Ludueña, Rocio del Valle",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T21:35:25.226319+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 23,
+      "auxiliar": "Ludueña, Rocio del Valle",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T21:44:41.224678+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 14,
+    "created_at": "2026-11-20T21:48:01.97807+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 20,
+      "row_key": "general_ing",
+      "updated_at": "2026-11-20T21:48:01.97807+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 15,
+    "created_at": "2026-11-20T21:48:11.969795+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 27,
+      "row_key": "farmacia_der",
+      "updated_at": "2026-11-20T21:48:11.969795+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 16,
+    "created_at": "2026-11-20T21:48:24.088319+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 14,
+      "row_key": "reintegros_ing",
+      "updated_at": "2026-11-20T21:48:24.088319+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 17,
+    "created_at": "2026-11-20T21:48:41.498004+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 47,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-20T16:49:01.617+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 89,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-20T21:48:41.498004+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 18,
+    "created_at": "2026-11-20T21:48:53.710682+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 17,
+      "row_key": "wa_ambulatorio_ing",
+      "updated_at": "2026-11-20T16:48:44.303+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 38,
+      "row_key": "wa_ambulatorio_ing",
+      "updated_at": "2026-11-20T21:48:53.710682+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 19,
+    "created_at": "2026-11-20T21:49:04.889249+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 1,
+      "row_key": "wa_auditoria_farmacia_ing",
+      "updated_at": "2026-11-20T15:23:59.434+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 2,
+      "row_key": "wa_auditoria_farmacia_ing",
+      "updated_at": "2026-11-20T21:49:04.889249+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 20,
+    "created_at": "2026-11-20T21:49:14.636002+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 2,
+      "row_key": "wa_programas_especiales_ing",
+      "updated_at": "2026-11-20T21:49:14.636002+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 21,
+    "created_at": "2026-11-20T21:50:00.993811+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 17,
+      "year": 2026,
+      "month": 10,
+      "valor": 141,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-19T16:46:59.817+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 17,
+      "year": 2026,
+      "month": 10,
+      "valor": 222,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-20T21:50:00.993811+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 22,
+    "created_at": "2026-11-20T21:53:36.921691+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 64,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-20T21:20:58.98693+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 70,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-20T21:53:36.921691+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 23,
+    "created_at": "2026-11-20T21:54:15.355091+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 12,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-20T20:51:41.407694+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 20,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-20T21:54:15.355091+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 24,
+    "created_at": "2026-11-20T21:56:46.012988+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 25,
+      "auxiliar": "Alvado, Gisela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-20T21:28:48.513298+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 27,
+      "auxiliar": "Alvado, Gisela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-20T21:56:46.012988+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 25,
+    "created_at": "2026-11-20T21:57:40.589951+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 13,
+      "auxiliar": "Eguiazu, Agustina",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-20T21:33:12.799638+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 17,
+      "auxiliar": "Eguiazu, Agustina",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-20T21:57:40.589951+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 26,
+    "created_at": "2026-11-20T21:59:45.917054+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 18,
+      "auxiliar": "Beltramo, Giuliana",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T20:08:04.479811+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 28,
+      "auxiliar": "Beltramo, Giuliana",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T21:59:45.917054+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 27,
+    "created_at": "2026-11-20T22:01:27.535435+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 1,
+      "auxiliar": "Pierini, Clementina",
+      "categoria": "redes",
+      "updated_at": "2026-11-20T22:01:27.535435+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 28,
+    "created_at": "2026-11-20T22:07:20.702864+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 10,
+      "auxiliar": "Antonini, Tatiana",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-20T19:31:30.791+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "auxiliar": "Antonini, Tatiana",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-20T22:07:20.702864+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
   }
 ]

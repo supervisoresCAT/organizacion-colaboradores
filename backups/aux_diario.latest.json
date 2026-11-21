@@ -131705,9 +131705,9 @@
     "categoria": "apoyo",
     "auxiliar": "Antonini, Tatiana",
     "day": 20,
-    "valor": 10,
+    "valor": 15,
     "updated_by": "florencia",
-    "updated_at": "2026-11-20T19:31:30.791+00:00"
+    "updated_at": "2026-11-20T22:07:20.702864+00:00"
   },
   {
     "year": 2026,
@@ -131843,6 +131843,16 @@
     "year": 2026,
     "month": 10,
     "categoria": "apoyo",
+    "auxiliar": "Eguiazu, Agustina",
+    "day": 20,
+    "valor": 17,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-20T21:57:40.589951+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
     "auxiliar": "Faccioli, Sofia",
     "day": 2,
     "valor": 18,
@@ -131968,6 +131978,16 @@
     "valor": 48,
     "updated_by": "florencia",
     "updated_at": "2026-11-19T22:00:42.283+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "apoyo",
+    "auxiliar": "Faccioli, Sofia",
+    "day": 20,
+    "valor": 60,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-20T21:25:31.638357+00:00"
   },
   {
     "year": 2026,
@@ -132445,9 +132465,9 @@
     "categoria": "brigadas",
     "auxiliar": "Beltramo, Giuliana",
     "day": 20,
-    "valor": 18,
+    "valor": 28,
     "updated_by": "florencia",
-    "updated_at": "2026-11-20T20:08:04.479811+00:00"
+    "updated_at": "2026-11-20T21:59:45.917054+00:00"
   },
   {
     "year": 2026,
@@ -133005,9 +133025,9 @@
     "categoria": "brigadas",
     "auxiliar": "Giudice, Franco",
     "day": 20,
-    "valor": 8,
-    "updated_by": "Andrea Ortiz",
-    "updated_at": "2026-11-20T13:28:18.035+00:00"
+    "valor": 13,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-20T21:01:55.390663+00:00"
   },
   {
     "year": 2026,
@@ -133115,9 +133135,9 @@
     "categoria": "brigadas",
     "auxiliar": "Ludueña, Rocio del Valle",
     "day": 20,
-    "valor": 19,
+    "valor": 23,
     "updated_by": "florencia",
-    "updated_at": "2026-11-20T20:40:10.438068+00:00"
+    "updated_at": "2026-11-20T21:44:41.224678+00:00"
   },
   {
     "year": 2026,
@@ -133533,6 +133553,16 @@
     "year": 2026,
     "month": 10,
     "categoria": "brigadas",
+    "auxiliar": "Scattolini, Melisa",
+    "day": 20,
+    "valor": 30,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-20T21:26:06.923668+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "brigadas",
     "auxiliar": "Schiavetti, Alejandro",
     "day": 3,
     "valor": 24,
@@ -133595,9 +133625,9 @@
     "categoria": "brigadas",
     "auxiliar": "Sozio, Marco",
     "day": 20,
-    "valor": 9,
+    "valor": 30,
     "updated_by": "florencia",
-    "updated_at": "2026-11-20T18:22:22.994+00:00"
+    "updated_at": "2026-11-20T21:26:36.534294+00:00"
   },
   {
     "year": 2026,
@@ -134245,9 +134275,9 @@
     "categoria": "carga",
     "auxiliar": "Redigonda, Macarena",
     "day": 20,
-    "valor": 59,
+    "valor": 70,
     "updated_by": "florencia",
-    "updated_at": "2026-11-20T20:49:35.080571+00:00"
+    "updated_at": "2026-11-20T21:53:36.921691+00:00"
   },
   {
     "year": 2026,
@@ -134455,9 +134485,9 @@
     "categoria": "linea7075",
     "auxiliar": "Alvado, Gisela",
     "day": 20,
-    "valor": 22,
+    "valor": 27,
     "updated_by": "florencia",
-    "updated_at": "2026-11-20T20:34:23.595378+00:00"
+    "updated_at": "2026-11-20T21:56:46.012988+00:00"
   },
   {
     "year": 2026,
@@ -134735,9 +134765,9 @@
     "categoria": "linea7075",
     "auxiliar": "Lanteri, Santiago",
     "day": 20,
-    "valor": 11,
+    "valor": 16,
     "updated_by": "florencia",
-    "updated_at": "2026-11-20T19:12:58.248+00:00"
+    "updated_at": "2026-11-20T21:29:27.770417+00:00"
   },
   {
     "year": 2026,
@@ -135755,9 +135785,9 @@
     "categoria": "mails",
     "auxiliar": "Perez, Melina",
     "day": 20,
-    "valor": 12,
+    "valor": 20,
     "updated_by": "florencia",
-    "updated_at": "2026-11-20T20:51:41.407694+00:00"
+    "updated_at": "2026-11-20T21:54:15.355091+00:00"
   },
   {
     "year": 2026,
@@ -136328,6 +136358,16 @@
     "valor": 5,
     "updated_by": "florencia",
     "updated_at": "2026-11-19T21:57:54.428+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "categoria": "redes",
+    "auxiliar": "Pierini, Clementina",
+    "day": 20,
+    "valor": 1,
+    "updated_by": "florencia",
+    "updated_at": "2026-11-20T22:01:27.535435+00:00"
   },
   {
     "year": 2026,
