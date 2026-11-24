@@ -56135,6 +56135,15 @@
   {
     "year": 2026,
     "month": 10,
+    "row_key": "wa_autorizaciones",
+    "day": 20,
+    "valor": 251,
+    "updated_by": "Ale",
+    "updated_at": "2026-11-24T12:00:32.354323+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
     "row_key": "wa_general",
     "day": 2,
     "valor": 609,
@@ -56239,6 +56248,15 @@
     "valor": 583,
     "updated_by": "gisela spies",
     "updated_at": "2026-11-20T13:30:58.352+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "wa_general",
+    "day": 20,
+    "valor": 562,
+    "updated_by": "Ale",
+    "updated_at": "2026-11-24T12:00:20.42479+00:00"
   },
   {
     "year": 2026,

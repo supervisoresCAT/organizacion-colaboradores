@@ -1302,5 +1302,525 @@
       "updated_by": "German"
     },
     "hecho_por": "German"
+  },
+  {
+    "id": 62,
+    "created_at": "2026-11-24T12:00:20.42479+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 562,
+      "row_key": "wa_general",
+      "updated_at": "2026-11-24T12:00:20.42479+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 63,
+    "created_at": "2026-11-24T12:00:32.354323+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 251,
+      "row_key": "wa_autorizaciones",
+      "updated_at": "2026-11-24T12:00:32.354323+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 64,
+    "created_at": "2026-11-24T12:01:28.412524+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 39,
+      "auxiliar": "Aguilar, Cecilia",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:01:28.412524+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 65,
+    "created_at": "2026-11-24T12:02:36.359773+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 52,
+      "auxiliar": "Almiron, Agostina",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:02:36.359773+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 66,
+    "created_at": "2026-11-24T12:02:59.068513+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 36,
+      "auxiliar": "Ayala, Carolina",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:02:59.068513+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 67,
+    "created_at": "2026-11-24T12:03:34.310083+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 51,
+      "auxiliar": "Carpensano, Paula",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:03:34.310083+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 68,
+    "created_at": "2026-11-24T12:03:46.678223+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 6,
+      "auxiliar": "Carpenzano, Micaela",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:03:46.678223+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 69,
+    "created_at": "2026-11-24T12:04:00.503168+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 43,
+      "auxiliar": "Clausen, Valeria",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:04:00.503168+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 70,
+    "created_at": "2026-11-24T12:04:21.642302+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 28,
+      "auxiliar": "Dayer, Federico",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:04:21.642302+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 71,
+    "created_at": "2026-11-24T12:04:45.984466+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 29,
+      "auxiliar": "Gaitan, Joaquin",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:04:45.984466+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 72,
+    "created_at": "2026-11-24T12:05:12.992311+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 2,
+      "auxiliar": "Macaudiere, Rocio",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:05:12.992311+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 73,
+    "created_at": "2026-11-24T12:05:23.227901+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 40,
+      "auxiliar": "Mazzolari, Fiorella",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:05:23.227901+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 74,
+    "created_at": "2026-11-24T12:05:34.55384+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 44,
+      "auxiliar": "Monzón, Andrea",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:05:34.55384+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 75,
+    "created_at": "2026-11-24T12:06:03.595771+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 33,
+      "auxiliar": "Pierini, Clementina",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:06:03.595771+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 76,
+    "created_at": "2026-11-24T12:06:14.063181+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 51,
+      "auxiliar": "Ravelo, Facundo",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:06:14.063181+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 77,
+    "created_at": "2026-11-24T12:06:31.804082+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 4,
+      "auxiliar": "Romagnoli, Brisa",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:06:31.804082+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 78,
+    "created_at": "2026-11-24T12:06:42.676619+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 18,
+      "auxiliar": "Romero, Cristian",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:06:42.676619+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 79,
+    "created_at": "2026-11-24T12:06:58.934424+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "auxiliar": "Sarina, Gaston",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:06:58.934424+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 80,
+    "created_at": "2026-11-24T12:07:25.563639+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 54,
+      "auxiliar": "Schdmit, Flavia",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:07:25.563639+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 81,
+    "created_at": "2026-11-24T12:07:34.245615+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 47,
+      "auxiliar": "Sovrano, Gerónimo",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:07:34.245615+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 82,
+    "created_at": "2026-11-24T12:07:46.453127+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 23,
+      "auxiliar": "Unno, Catalina",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:07:46.453127+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 83,
+    "created_at": "2026-11-24T12:08:21.139355+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 29,
+      "auxiliar": "Muga, Florencia",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:08:21.139355+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 84,
+    "created_at": "2026-11-24T12:08:34.996387+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 51,
+      "auxiliar": "Martinez, Nahuel",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:08:34.996387+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 85,
+    "created_at": "2026-11-24T12:08:55.279584+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 3,
+      "auxiliar": "Scattolini, Melisa",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:08:55.279584+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 86,
+    "created_at": "2026-11-24T12:09:09.009157+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 44,
+      "auxiliar": "Viñas, Julieta Sofia",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:09:09.009157+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 87,
+    "created_at": "2026-11-24T12:09:26.550736+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 22,
+      "auxiliar": "Fernandez, Juan Pablo",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:09:26.550736+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 88,
+    "created_at": "2026-11-24T12:09:49.796825+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 46,
+      "auxiliar": "Prieto, Bruno Rene",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:09:49.796825+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 89,
+    "created_at": "2026-11-24T12:10:02.336584+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 53,
+      "auxiliar": "Schiavetti, Alejandro",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:10:02.336584+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
+  },
+  {
+    "id": 90,
+    "created_at": "2026-11-24T12:10:10.747126+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 7,
+      "auxiliar": "Zini, Ayelen",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T12:10:10.747126+00:00",
+      "updated_by": "Ale"
+    },
+    "hecho_por": "Ale"
   }
 ]
