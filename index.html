@@ -1575,6 +1575,7 @@ function actualizarSumaCelda() {
   box.innerHTML = total === antes ? `Queda en <b>${total}</b> (sin cambios)` : `Pasa de ${antes} a <b>${total}</b>`;
 }
 function abrirCeldaCampana(rowKey, dayIdx) {
+  if (guardandoCelda) return; // primero termina de guardar la anterior
   const fila = FILAS_CAMPANAS.find(f => f.key === rowKey);
   const rowData = ensureCampanasMonth(currentYear, currentMonth);
   const valorActual = (rowData[rowKey] || [])[dayIdx] || 0;
@@ -1590,6 +1591,7 @@ function abrirCeldaCampana(rowKey, dayIdx) {
   verificarCeldaConNube(celdaCtx);
 }
 function abrirCeldaAux(nombre, dayIdx) {
+  if (guardandoCelda) return; // primero termina de guardar la anterior
   const cat = CATEGORIAS.find(c => c.id === currentCat);
   const catData = ensureAuxMonth(currentYear, currentMonth, currentCat);
   const valorActual = (catData[nombre] || [])[dayIdx] || 0;
@@ -1612,6 +1614,16 @@ function claveDeCtx(ctx) {
 // Lee el valor que hay HOY en la nube para esa celda (null si no se pudo leer).
 async function leerCeldaNube(ctx) {
   if (!sb) return null;
+  // Con tiempo límite: antes, si la consulta se colgaba, el botón quedaba en "Guardando…" para siempre
+  // y ninguna carga posterior se guardaba hasta recargar la página.
+  let timer;
+  const limite = new Promise(res => { timer = setTimeout(() => res('timeout'), 4000); });
+  const r = await Promise.race([leerCeldaNubeSinLimite(ctx), limite]);
+  clearTimeout(timer);
+  if (r === 'timeout') { console.warn('La nube tardó en responder; se guarda igual (queda en la cola segura).'); return null; }
+  return r;
+}
+async function leerCeldaNubeSinLimite(ctx) {
   try {
     const q = ctx.tipo === 'campana'
       ? sb.from('campanas_diario').select('*').eq('year', ctx.year).eq('month', ctx.month).eq('row_key', ctx.key).eq('day', ctx.dayIdx + 1)
@@ -1651,10 +1663,31 @@ function avisarCeldaAbierta(tipo, r) {
   document.getElementById('celda-meta').textContent = `⚠ Ojo: ${r.updated_by || 'otra persona'} acaba de cargar ${r.valor} en esta celda.`;
 }
 function cerrarCelda() {
+  // Si se está guardando, se cierra sola cuando termina (antes este cierre descartaba el número sin avisar).
+  if (guardandoCelda) { cerrarAlTerminar = true; return; }
   document.getElementById('celda-overlay').classList.remove('show');
   celdaCtx = null;
 }
-let guardandoCelda = false;
+// ¿Escribió algo que todavía no se guardó?
+function celdaConCambios() {
+  if (!celdaCtx) return false;
+  const sinValorPrevio = document.getElementById('celda-fila').classList.contains('sin-valor');
+  const base = document.getElementById('celda-input').value;
+  if (sinValorPrevio) return base !== '' && (parseInt(base) || 0) !== (celdaCtx.valorOriginal || 0);
+  return document.getElementById('celda-sumar').value !== '' || (parseInt(base) || 0) !== (celdaCtx.valorOriginal || 0);
+}
+// Clic afuera o Escape: si hay un número escrito sin guardar, se pregunta en vez de perderlo.
+function cerrarCeldaPreguntando() {
+  if (guardandoCelda) { cerrarAlTerminar = true; return; }
+  if (celdaConCambios()) {
+    if (confirm('Escribiste un número que todavía no se guardó.\n\nAceptar = guardarlo · Cancelar = descartarlo')) { guardarCelda(); return; }
+  }
+  cerrarCelda();
+}
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape' && document.getElementById('celda-overlay').classList.contains('show')) { e.preventDefault(); cerrarCeldaPreguntando(); }
+});
+let guardandoCelda = false, cerrarAlTerminar = false;
 async function guardarCelda() {
   if (!celdaCtx || guardandoCelda) return;
   const ctx = celdaCtx;
@@ -1669,12 +1702,14 @@ async function guardarCelda() {
   const btn = document.getElementById('celda-guardar');
   let srv = null;
   if (!hayPendiente(claveDeCtx(ctx))) {
-    guardandoCelda = true;
+    guardandoCelda = true; cerrarAlTerminar = false;
     if (btn) { btn.disabled = true; btn.textContent = 'Guardando…'; }
-    srv = await leerCeldaNube(ctx);
-    guardandoCelda = false;
-    if (btn) { btn.disabled = false; btn.textContent = 'Guardar'; }
-    if (celdaCtx !== ctx) return;
+    try { srv = await leerCeldaNube(ctx); }
+    finally {
+      guardandoCelda = false;
+      if (btn) { btn.disabled = false; btn.textContent = 'Guardar'; }
+    }
+    // Aunque mientras tanto hayan hecho clic afuera, el número se guarda igual (ctx quedó intacto).
   }
   if (srv) {
     const enNube = parseInt(srv.valor) || 0;
@@ -1686,6 +1721,7 @@ async function guardarCelda() {
         const aporte = sinValorPrevio ? base : suma;
         const sumado = enNube + aporte;
         if (!confirm(`Ojo: mientras cargabas, ${quien} dejó ${enNube} en esta celda.\n\n¿Sumo tu ${aporte} a eso? Quedaría en ${sumado}.\n\nAceptar = sumar · Cancelar = no guardar todavía y revisar`)) {
+          cerrarAlTerminar = false;
           document.getElementById('celda-input').value = enNube || '';
           prepararModoCelda(enNube);
           document.getElementById('celda-meta').textContent = `⚠ Valor actualizado: ${quien} había cargado ${enNube}.`;
@@ -1694,6 +1730,7 @@ async function guardarCelda() {
         }
         nuevo = sumado;
       } else if (!confirm(`Ojo: mientras corregías, ${quien} cambió esta celda a ${enNube}.\n\n¿La reemplazo igual por ${nuevo}?`)) {
+        cerrarAlTerminar = false;
         document.getElementById('celda-input').value = enNube || '';
         prepararModoCelda(enNube);
         render();
@@ -1703,7 +1740,8 @@ async function guardarCelda() {
   }
   if (ctx.tipo === 'campana') setCampanaValor(ctx.key, ctx.dayIdx, nuevo, ctx.year, ctx.month);
   else setAuxValor(ctx.nombre, ctx.dayIdx, nuevo, ctx.year, ctx.month, ctx.cat);
-  cerrarCelda();
+  cerrarAlTerminar = false;
+  if (celdaCtx === ctx) cerrarCelda();
 }
 
 // ── Exportar / restaurar respaldo manual ──
@@ -2507,7 +2545,7 @@ arrancar();
     </div>
   </div>
 </div>
-<div class="sup-overlay" id="celda-overlay" onclick="if(event.target===this) cerrarCelda()">
+<div class="sup-overlay" id="celda-overlay" onclick="if(event.target===this) cerrarCeldaPreguntando()">
   <div class="sup-box">
     <div class="sup-icon" id="celda-icon">📝</div>
     <h2 id="celda-titulo">Cargar valor</h2>
