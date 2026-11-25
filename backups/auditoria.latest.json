@@ -1822,5 +1822,2351 @@
       "updated_by": "Ale"
     },
     "hecho_por": "Ale"
+  },
+  {
+    "id": 91,
+    "created_at": "2026-11-24T15:13:40.357191+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 8,
+      "auxiliar": "Cosimano, Ivana",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T15:13:40.357191+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 92,
+    "created_at": "2026-11-24T15:17:20.223782+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 8,
+      "auxiliar": "Laperchia, Solana",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T15:17:20.223782+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 93,
+    "created_at": "2026-11-24T15:19:05.614145+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "auxiliar": "Franco, Sybela Maria",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T15:19:05.614145+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 94,
+    "created_at": "2026-11-24T15:50:55.74481+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 23,
+      "auxiliar": "Ludueña, Rocio del Valle",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-20T21:44:41.224678+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 24,
+      "auxiliar": "Ludueña, Rocio del Valle",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T15:50:55.74481+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 95,
+    "created_at": "2026-11-24T16:41:43.311861+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 575,
+      "auxiliar": "Ocanto, Mateo",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T16:41:43.311861+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 96,
+    "created_at": "2026-11-24T16:42:42.293613+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 575,
+      "auxiliar": "Ocanto, Mateo",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T16:41:43.311861+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 0,
+      "auxiliar": "Ocanto, Mateo",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T16:42:42.293613+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 97,
+    "created_at": "2026-11-24T16:43:05.849589+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 0,
+      "auxiliar": "Ocanto, Mateo",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T16:42:42.293613+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "auxiliar": "Ocanto, Mateo",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T16:43:05.849589+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 98,
+    "created_at": "2026-11-24T16:43:16.556027+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "auxiliar": "Ocanto, Mateo",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T16:43:05.849589+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 0,
+      "auxiliar": "Ocanto, Mateo",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T16:43:16.556027+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 99,
+    "created_at": "2026-11-24T16:47:15.782182+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 21,
+      "year": 2026,
+      "month": 10,
+      "valor": 31,
+      "row_key": "general_ing",
+      "updated_at": "2026-11-24T16:47:15.782182+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 100,
+    "created_at": "2026-11-24T16:47:18.48391+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 7,
+      "row_key": "general_ing",
+      "updated_at": "2026-11-24T16:47:18.48391+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 101,
+    "created_at": "2026-11-24T16:47:22.155488+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 23,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "row_key": "general_ing",
+      "updated_at": "2026-11-24T16:47:22.155488+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 102,
+    "created_at": "2026-11-24T16:47:28.439698+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 21,
+      "year": 2026,
+      "month": 10,
+      "valor": 3,
+      "row_key": "general_der",
+      "updated_at": "2026-11-24T16:47:28.439698+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 103,
+    "created_at": "2026-11-24T16:47:43.335636+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 21,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "row_key": "farmacia_ing",
+      "updated_at": "2026-11-24T16:47:43.335636+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 104,
+    "created_at": "2026-11-24T16:47:47.967535+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 6,
+      "row_key": "farmacia_ing",
+      "updated_at": "2026-11-24T16:47:47.967535+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 105,
+    "created_at": "2026-11-24T16:47:50.477129+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 23,
+      "year": 2026,
+      "month": 10,
+      "valor": 13,
+      "row_key": "farmacia_ing",
+      "updated_at": "2026-11-24T16:47:50.477129+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 106,
+    "created_at": "2026-11-24T16:48:00.144024+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 36,
+      "row_key": "farmacia_ing",
+      "updated_at": "2026-11-24T16:48:00.144024+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 107,
+    "created_at": "2026-11-24T16:48:15.38748+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 21,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-24T16:48:15.38748+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 108,
+    "created_at": "2026-11-24T16:48:17.897743+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-24T16:48:17.897743+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 109,
+    "created_at": "2026-11-24T16:48:21.228072+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 23,
+      "year": 2026,
+      "month": 10,
+      "valor": 16,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-24T16:48:21.228072+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 110,
+    "created_at": "2026-11-24T16:48:23.792814+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 10,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-24T16:48:23.792814+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 111,
+    "created_at": "2026-11-24T16:48:27.055172+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 21,
+      "year": 2026,
+      "month": 10,
+      "valor": 19,
+      "row_key": "prestadores_der",
+      "updated_at": "2026-11-24T16:48:27.055172+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 112,
+    "created_at": "2026-11-24T16:48:41.177624+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "row_key": "reintegros_ing",
+      "updated_at": "2026-11-21T11:55:52.106028+00:00",
+      "updated_by": "German"
+    },
+    "despues": {
+      "day": 20,
+      "year": 2026,
+      "month": 10,
+      "valor": 69,
+      "row_key": "reintegros_ing",
+      "updated_at": "2026-11-24T16:48:41.177624+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 113,
+    "created_at": "2026-11-24T16:48:45.48133+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 21,
+      "year": 2026,
+      "month": 10,
+      "valor": 17,
+      "row_key": "reintegros_ing",
+      "updated_at": "2026-11-24T16:48:45.48133+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 114,
+    "created_at": "2026-11-24T16:48:51.156734+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 4,
+      "row_key": "reintegros_ing",
+      "updated_at": "2026-11-24T16:48:51.156734+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 115,
+    "created_at": "2026-11-24T16:48:53.826116+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 23,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "row_key": "reintegros_ing",
+      "updated_at": "2026-11-24T16:48:53.826116+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 116,
+    "created_at": "2026-11-24T16:48:55.879785+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 10,
+      "row_key": "reintegros_ing",
+      "updated_at": "2026-11-24T16:48:55.879785+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 117,
+    "created_at": "2026-11-24T16:49:12.933776+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 21,
+      "year": 2026,
+      "month": 10,
+      "valor": 2,
+      "row_key": "wa_ambulatorio_ing",
+      "updated_at": "2026-11-24T16:49:12.933776+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 118,
+    "created_at": "2026-11-24T16:49:15.174991+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 1,
+      "row_key": "wa_ambulatorio_ing",
+      "updated_at": "2026-11-24T16:49:15.174991+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 119,
+    "created_at": "2026-11-24T16:49:19.048872+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 23,
+      "year": 2026,
+      "month": 10,
+      "valor": 3,
+      "row_key": "wa_ambulatorio_ing",
+      "updated_at": "2026-11-24T16:49:19.048872+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 120,
+    "created_at": "2026-11-24T16:49:34.121327+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 21,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-24T16:49:34.121327+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 121,
+    "created_at": "2026-11-24T16:49:37.131769+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 22,
+      "year": 2026,
+      "month": 10,
+      "valor": 18,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-24T16:49:37.131769+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 122,
+    "created_at": "2026-11-24T16:49:39.730894+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 23,
+      "year": 2026,
+      "month": 10,
+      "valor": 22,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-24T16:49:39.730894+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 123,
+    "created_at": "2026-11-24T16:49:43.021458+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 1,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-24T16:49:43.021458+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 124,
+    "created_at": "2026-11-24T16:49:59.259923+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 12,
+      "auxiliar": "Venturino, Milagros",
+      "categoria": "redes",
+      "updated_at": "2026-11-24T16:49:59.259923+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "hecho_por": "Mateo Ocanto"
+  },
+  {
+    "id": 125,
+    "created_at": "2026-11-24T17:14:18.166754+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 6,
+      "auxiliar": "Rodriguez, Valentina",
+      "categoria": "whatsapp",
+      "updated_at": "2026-11-24T17:14:18.166754+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 126,
+    "created_at": "2026-11-24T17:39:26.273666+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 43,
+      "auxiliar": "Gonzalez, Ma. De los Angeles",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T17:39:26.273666+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 127,
+    "created_at": "2026-11-24T17:39:57.290715+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 32,
+      "auxiliar": "Murolo, Jonatan",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T17:39:57.290715+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 128,
+    "created_at": "2026-11-24T17:41:06.044215+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 24,
+      "auxiliar": "Pascuale, Paula",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T17:41:06.044215+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 129,
+    "created_at": "2026-11-24T17:43:39.704908+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 12,
+      "auxiliar": "Rodriguez, Florencia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T17:43:39.704908+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 130,
+    "created_at": "2026-11-24T17:48:02.304306+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 43,
+      "auxiliar": "Gonzalez, Ma. De los Angeles",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T17:39:26.273666+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 45,
+      "auxiliar": "Gonzalez, Ma. De los Angeles",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T17:48:02.304306+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 131,
+    "created_at": "2026-11-24T17:50:22.232704+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 20,
+      "auxiliar": "Romero, Ximena",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T17:50:22.232704+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 132,
+    "created_at": "2026-11-24T17:51:04.349434+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 30,
+      "auxiliar": "Culcuy, Yenit",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T17:51:04.349434+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 133,
+    "created_at": "2026-11-24T17:51:34.06983+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 11,
+      "auxiliar": "Perri, German",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T17:51:34.06983+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 134,
+    "created_at": "2026-11-24T17:52:01.509014+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 13,
+      "row_key": "wa_ambulatorio_ing",
+      "updated_at": "2026-11-24T17:52:01.509014+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 135,
+    "created_at": "2026-11-24T17:52:12.012793+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 1,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-24T16:49:43.021458+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 63,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-24T17:52:12.012793+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 136,
+    "created_at": "2026-11-24T17:52:20.762792+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 2,
+      "row_key": "wa_programas_especiales_ing",
+      "updated_at": "2026-11-24T17:52:20.762792+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 137,
+    "created_at": "2026-11-24T17:52:40.35891+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "row_key": "wa_auditoria_farmacia_ing",
+      "updated_at": "2026-11-24T17:52:40.35891+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 138,
+    "created_at": "2026-11-24T17:52:52.334894+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "row_key": "general_ing",
+      "updated_at": "2026-11-24T17:52:52.334894+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 139,
+    "created_at": "2026-11-24T17:53:09.239408+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 10,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-24T16:48:23.792814+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 25,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-24T17:53:09.239408+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 140,
+    "created_at": "2026-11-24T17:57:08.605836+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 45,
+      "auxiliar": "Gonzalez, Ma. De los Angeles",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T17:48:02.304306+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 46,
+      "auxiliar": "Gonzalez, Ma. De los Angeles",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T17:57:08.605836+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 141,
+    "created_at": "2026-11-24T17:57:36.902903+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 46,
+      "auxiliar": "Gonzalez, Ma. De los Angeles",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T17:57:08.605836+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 47,
+      "auxiliar": "Gonzalez, Ma. De los Angeles",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T17:57:36.902903+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "hecho_por": "Andrea Ortiz"
+  },
+  {
+    "id": 142,
+    "created_at": "2026-11-24T18:11:05.512901+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 30,
+      "auxiliar": "Culcuy, Yenit",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T17:51:04.349434+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 31,
+      "auxiliar": "Culcuy, Yenit",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T18:11:05.512901+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 143,
+    "created_at": "2026-11-24T18:35:55.409935+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 28,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T18:35:55.409935+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 144,
+    "created_at": "2026-11-24T18:36:32.504895+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 24,
+      "auxiliar": "Pascuale, Paula",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T17:41:06.044215+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 27,
+      "auxiliar": "Pascuale, Paula",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T18:36:32.504895+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 145,
+    "created_at": "2026-11-24T18:44:56.584682+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 30,
+      "auxiliar": "Macaudiere, Rocio",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T18:44:56.584682+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 146,
+    "created_at": "2026-11-24T18:45:42.679703+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "auxiliar": "Sozio, Marco",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T18:45:42.679703+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 147,
+    "created_at": "2026-11-24T18:46:31.111892+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 27,
+      "auxiliar": "Andreu, Maira",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T18:46:31.111892+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 148,
+    "created_at": "2026-11-24T18:47:40.357452+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "auxiliar": "Fazzino, Melisa",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T18:47:40.357452+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 149,
+    "created_at": "2026-11-24T18:50:59.958724+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 16,
+      "auxiliar": "Fernandez, Juan Pablo",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T18:50:59.958724+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 150,
+    "created_at": "2026-11-24T18:51:40.874354+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "auxiliar": "Sozio, Marco",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T18:45:42.679703+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 16,
+      "auxiliar": "Sozio, Marco",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T18:51:40.874354+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 151,
+    "created_at": "2026-11-24T19:04:19.477519+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 16,
+      "auxiliar": "Sozio, Marco",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T18:51:40.874354+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 33,
+      "auxiliar": "Sozio, Marco",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T19:04:19.477519+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 152,
+    "created_at": "2026-11-24T19:08:30.226308+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 0,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:08:30.226308+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 153,
+    "created_at": "2026-11-24T19:08:43.881266+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 0,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:08:30.226308+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 20,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:08:43.881266+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 154,
+    "created_at": "2026-11-24T19:11:24.286731+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 19,
+      "auxiliar": "Unno, Catalina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T19:11:24.286731+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 155,
+    "created_at": "2026-11-24T19:12:57.927453+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 12,
+      "auxiliar": "Rodriguez, Florencia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T17:43:39.704908+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "auxiliar": "Rodriguez, Florencia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T19:12:57.927453+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 156,
+    "created_at": "2026-11-24T19:16:36.365373+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 8,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T19:16:36.365373+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 157,
+    "created_at": "2026-11-24T19:23:57.482617+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 10,
+      "auxiliar": "Faccioli, Sofia",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T19:23:57.482617+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 158,
+    "created_at": "2026-11-24T19:24:05.370668+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 10,
+      "auxiliar": "Faccioli, Sofia",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T19:23:57.482617+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 0,
+      "auxiliar": "Faccioli, Sofia",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T19:24:05.370668+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 159,
+    "created_at": "2026-11-24T19:24:10.525375+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 10,
+      "auxiliar": "Faccioli, Sofia",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-24T19:24:10.525375+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 160,
+    "created_at": "2026-11-24T19:28:19.823958+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 32,
+      "auxiliar": "Murolo, Jonatan",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T17:39:57.290715+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 35,
+      "auxiliar": "Murolo, Jonatan",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T19:28:19.823958+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 161,
+    "created_at": "2026-11-24T19:32:03.50711+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 28,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T18:35:55.409935+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 39,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T19:32:03.50711+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 162,
+    "created_at": "2026-11-24T19:35:08.658711+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 24,
+      "auxiliar": "Zappacosta, Antonela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:35:08.658711+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 163,
+    "created_at": "2026-11-24T19:36:06.365728+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 10,
+      "auxiliar": "Faccioli, Sofia",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-24T19:24:10.525375+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 30,
+      "auxiliar": "Faccioli, Sofia",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-24T19:36:06.365728+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 164,
+    "created_at": "2026-11-24T19:37:19.332511+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 17,
+      "auxiliar": "Menotti, Aranda Giuliana",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:37:19.332511+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 165,
+    "created_at": "2026-11-24T19:38:32.95467+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 16,
+      "auxiliar": "Alvado, Gisela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:38:32.95467+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 166,
+    "created_at": "2026-11-24T19:41:20.189877+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 15,
+      "auxiliar": "Fazzino, Melisa",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T18:47:40.357452+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 16,
+      "auxiliar": "Fazzino, Melisa",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T19:41:20.189877+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 167,
+    "created_at": "2026-11-24T19:44:30.101019+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 3,
+      "auxiliar": "Schneider, Astrid",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-24T19:44:30.101019+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 168,
+    "created_at": "2026-11-24T20:55:28.503773+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 39,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T19:32:03.50711+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 59,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T20:55:28.503773+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 169,
+    "created_at": "2026-11-24T21:16:36.328498+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 39,
+      "auxiliar": "Venturino, Milagros",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:16:36.328498+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 170,
+    "created_at": "2026-11-24T21:17:43.347026+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 7,
+      "auxiliar": "Machado, Natalia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:17:43.347026+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 171,
+    "created_at": "2026-11-24T21:18:14.820382+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 7,
+      "auxiliar": "Machado, Natalia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:17:43.347026+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 9,
+      "auxiliar": "Machado, Natalia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:18:14.820382+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 172,
+    "created_at": "2026-11-24T21:20:39.253875+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 9,
+      "auxiliar": "Machado, Natalia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:18:14.820382+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 26,
+      "auxiliar": "Machado, Natalia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:20:39.253875+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 173,
+    "created_at": "2026-11-24T21:24:09.721297+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 59,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T20:55:28.503773+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 63,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T21:24:09.721297+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 174,
+    "created_at": "2026-11-24T21:26:57.069104+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 8,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T19:16:36.365373+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 13,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:26:57.069104+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 175,
+    "created_at": "2026-11-24T21:29:34.849557+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 17,
+      "auxiliar": "Menotti, Aranda Giuliana",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:37:19.332511+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 21,
+      "auxiliar": "Menotti, Aranda Giuliana",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:29:34.849557+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 176,
+    "created_at": "2026-11-24T21:30:21.612113+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 16,
+      "auxiliar": "Alvado, Gisela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:38:32.95467+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 21,
+      "auxiliar": "Alvado, Gisela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:30:21.612113+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 177,
+    "created_at": "2026-11-24T21:31:10.820026+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 20,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:08:43.881266+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 22,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:31:10.820026+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 178,
+    "created_at": "2026-11-24T21:32:06.843353+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 30,
+      "auxiliar": "Faccioli, Sofia",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-24T19:36:06.365728+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 31,
+      "auxiliar": "Faccioli, Sofia",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-24T21:32:06.843353+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 179,
+    "created_at": "2026-11-24T21:44:35.226115+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 63,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T21:24:09.721297+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 66,
+      "auxiliar": "Redigonda, Macarena",
+      "categoria": "carga",
+      "updated_at": "2026-11-24T21:44:35.226115+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 180,
+    "created_at": "2026-11-24T21:45:33.472195+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 13,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:26:57.069104+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 14,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:45:33.472195+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 181,
+    "created_at": "2026-11-24T21:49:07.125472+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 26,
+      "auxiliar": "Machado, Natalia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:20:39.253875+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 28,
+      "auxiliar": "Machado, Natalia",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:49:07.125472+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 182,
+    "created_at": "2026-11-24T21:50:02.057106+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 21,
+      "auxiliar": "Alvado, Gisela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:30:21.612113+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 23,
+      "auxiliar": "Alvado, Gisela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:50:02.057106+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 183,
+    "created_at": "2026-11-24T21:50:38.128092+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 22,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:31:10.820026+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 25,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:50:38.128092+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 184,
+    "created_at": "2026-11-24T21:51:53.534626+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 25,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:50:38.128092+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 26,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:51:53.534626+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 185,
+    "created_at": "2026-11-24T21:58:17.880101+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 19,
+      "auxiliar": "Unno, Catalina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T19:11:24.286731+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 33,
+      "auxiliar": "Unno, Catalina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:58:17.880101+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 186,
+    "created_at": "2026-11-24T21:59:30.240814+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 14,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:45:33.472195+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 16,
+      "auxiliar": "Perez, Melina",
+      "categoria": "mails",
+      "updated_at": "2026-11-24T21:59:30.240814+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 187,
+    "created_at": "2026-11-24T22:02:12.642807+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 21,
+      "auxiliar": "Menotti, Aranda Giuliana",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:29:34.849557+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 24,
+      "auxiliar": "Menotti, Aranda Giuliana",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T22:02:12.642807+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 188,
+    "created_at": "2026-11-24T22:02:43.662592+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 26,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T21:51:53.534626+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 27,
+      "auxiliar": "Lanteri, Santiago",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T22:02:43.662592+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 189,
+    "created_at": "2026-11-24T22:04:44.72252+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 3,
+      "auxiliar": "Pierini, Clementina",
+      "categoria": "redes",
+      "updated_at": "2026-11-24T22:04:44.72252+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 190,
+    "created_at": "2026-11-24T22:05:33.220624+00:00",
+    "tabla": "aux_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 24,
+      "auxiliar": "Zappacosta, Antonela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T19:35:08.658711+00:00",
+      "updated_by": "florencia"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 25,
+      "auxiliar": "Zappacosta, Antonela",
+      "categoria": "linea7075",
+      "updated_at": "2026-11-24T22:05:33.220624+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 191,
+    "created_at": "2026-11-24T22:07:45.315861+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "auxiliar": "Regazzoni, Bruno",
+      "categoria": "apoyo",
+      "updated_at": "2026-11-24T22:07:45.315861+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 192,
+    "created_at": "2026-11-24T22:08:38.082049+00:00",
+    "tabla": "aux_diario",
+    "operacion": "INSERT",
+    "antes": null,
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "auxiliar": "Romero, Priscila",
+      "categoria": "brigadas",
+      "updated_at": "2026-11-24T22:08:38.082049+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 193,
+    "created_at": "2026-11-24T22:10:21.0507+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 5,
+      "row_key": "general_ing",
+      "updated_at": "2026-11-24T17:52:52.334894+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 20,
+      "row_key": "general_ing",
+      "updated_at": "2026-11-24T22:10:21.0507+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 194,
+    "created_at": "2026-11-24T22:10:30.434274+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 36,
+      "row_key": "farmacia_ing",
+      "updated_at": "2026-11-24T16:48:00.144024+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 64,
+      "row_key": "farmacia_ing",
+      "updated_at": "2026-11-24T22:10:30.434274+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 195,
+    "created_at": "2026-11-24T22:10:40.167762+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 25,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-24T17:53:09.239408+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 90,
+      "row_key": "prestadores_ing",
+      "updated_at": "2026-11-24T22:10:40.167762+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 196,
+    "created_at": "2026-11-24T22:10:47.54051+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 10,
+      "row_key": "reintegros_ing",
+      "updated_at": "2026-11-24T16:48:55.879785+00:00",
+      "updated_by": "Mateo Ocanto"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 19,
+      "row_key": "reintegros_ing",
+      "updated_at": "2026-11-24T22:10:47.54051+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 197,
+    "created_at": "2026-11-24T22:10:57.492152+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 63,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-24T17:52:12.012793+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 114,
+      "row_key": "wa_internaciones_ing",
+      "updated_at": "2026-11-24T22:10:57.492152+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 198,
+    "created_at": "2026-11-24T22:11:06.312867+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 13,
+      "row_key": "wa_ambulatorio_ing",
+      "updated_at": "2026-11-24T17:52:01.509014+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 34,
+      "row_key": "wa_ambulatorio_ing",
+      "updated_at": "2026-11-24T22:11:06.312867+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
+  },
+  {
+    "id": 199,
+    "created_at": "2026-11-24T22:11:15.460294+00:00",
+    "tabla": "campanas_diario",
+    "operacion": "UPDATE",
+    "antes": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 2,
+      "row_key": "wa_programas_especiales_ing",
+      "updated_at": "2026-11-24T17:52:20.762792+00:00",
+      "updated_by": "Andrea Ortiz"
+    },
+    "despues": {
+      "day": 24,
+      "year": 2026,
+      "month": 10,
+      "valor": 4,
+      "row_key": "wa_programas_especiales_ing",
+      "updated_at": "2026-11-24T22:11:15.460294+00:00",
+      "updated_by": "florencia"
+    },
+    "hecho_por": "florencia"
   }
 ]
