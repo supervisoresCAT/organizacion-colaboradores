@@ -54587,6 +54587,15 @@
   {
     "year": 2026,
     "month": 10,
+    "row_key": "farmacia_der",
+    "day": 24,
+    "valor": 3,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:34:23.272699+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
     "row_key": "farmacia_ing",
     "day": 1,
     "valor": 10,
@@ -54796,9 +54805,18 @@
     "month": 10,
     "row_key": "farmacia_ing",
     "day": 24,
-    "valor": 64,
+    "valor": 74,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:34:20.47333+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "farmacia_ing",
+    "day": 25,
+    "valor": 30,
     "updated_by": "florencia",
-    "updated_at": "2026-11-24T22:10:30.434274+00:00"
+    "updated_at": "2026-11-25T21:29:45.322804+00:00"
   },
   {
     "year": 2026,
@@ -54970,6 +54988,15 @@
     "valor": 3,
     "updated_by": "Mateo Ocanto",
     "updated_at": "2026-11-24T16:47:28.439698+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "general_der",
+    "day": 24,
+    "valor": 39,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:34:15.52099+00:00"
   },
   {
     "year": 2026,
@@ -55183,9 +55210,18 @@
     "month": 10,
     "row_key": "general_ing",
     "day": 24,
-    "valor": 20,
+    "valor": 160,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:34:12.440774+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "general_ing",
+    "day": 25,
+    "valor": 24,
     "updated_by": "florencia",
-    "updated_at": "2026-11-24T22:10:21.0507+00:00"
+    "updated_at": "2026-11-25T21:32:14.632622+00:00"
   },
   {
     "year": 2026,
@@ -55330,6 +55366,15 @@
     "valor": 19,
     "updated_by": "Mateo Ocanto",
     "updated_at": "2026-11-24T16:48:27.055172+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "prestadores_der",
+    "day": 24,
+    "valor": 164,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:34:32.57426+00:00"
   },
   {
     "year": 2026,
@@ -55543,9 +55588,18 @@
     "month": 10,
     "row_key": "prestadores_ing",
     "day": 24,
-    "valor": 90,
+    "valor": 184,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:34:29.30139+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "prestadores_ing",
+    "day": 25,
+    "valor": 52,
     "updated_by": "florencia",
-    "updated_at": "2026-11-24T22:10:40.167762+00:00"
+    "updated_at": "2026-11-25T21:29:54.453652+00:00"
   },
   {
     "year": 2026,
@@ -55699,6 +55753,15 @@
     "valor": 9,
     "updated_by": "German",
     "updated_at": "2026-11-21T11:10:09.395106+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "reintegros_der",
+    "day": 24,
+    "valor": 9,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:34:43.720747+00:00"
   },
   {
     "year": 2026,
@@ -55912,9 +55975,18 @@
     "month": 10,
     "row_key": "reintegros_ing",
     "day": 24,
-    "valor": 19,
-    "updated_by": "florencia",
-    "updated_at": "2026-11-24T22:10:47.54051+00:00"
+    "valor": 72,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:34:40.19688+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "reintegros_ing",
+    "day": 25,
+    "valor": 6,
+    "updated_by": "Andrea Ortiz",
+    "updated_at": "2026-11-25T17:55:05.73989+00:00"
   },
   {
     "year": 2026,
@@ -56119,9 +56191,18 @@
     "month": 10,
     "row_key": "wa_ambulatorio_ing",
     "day": 24,
-    "valor": 34,
+    "valor": 41,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:34:50.484084+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "wa_ambulatorio_ing",
+    "day": 25,
+    "valor": 41,
     "updated_by": "florencia",
-    "updated_at": "2026-11-24T22:11:06.312867+00:00"
+    "updated_at": "2026-11-25T21:30:20.849186+00:00"
   },
   {
     "year": 2026,
@@ -56351,6 +56432,15 @@
   {
     "year": 2026,
     "month": 10,
+    "row_key": "wa_autorizaciones",
+    "day": 24,
+    "valor": 365,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-25T12:16:37.241002+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
     "row_key": "wa_general",
     "day": 2,
     "valor": 609,
@@ -56464,6 +56554,15 @@
     "valor": 562,
     "updated_by": "Ale",
     "updated_at": "2026-11-24T12:00:20.42479+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "wa_general",
+    "day": 24,
+    "valor": 755,
+    "updated_by": "victoria",
+    "updated_at": "2026-11-25T12:16:32.602313+00:00"
   },
   {
     "year": 2026,
@@ -56677,9 +56776,18 @@
     "month": 10,
     "row_key": "wa_internaciones_ing",
     "day": 24,
-    "valor": 114,
+    "valor": 124,
+    "updated_by": "Mateo Ocanto",
+    "updated_at": "2026-11-25T16:35:01.225221+00:00"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "row_key": "wa_internaciones_ing",
+    "day": 25,
+    "valor": 89,
     "updated_by": "florencia",
-    "updated_at": "2026-11-24T22:10:57.492152+00:00"
+    "updated_at": "2026-11-25T21:30:09.903054+00:00"
   },
   {
     "year": 2026,
