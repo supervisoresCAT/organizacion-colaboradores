@@ -32704,5 +32704,767 @@
     "resumen": "florencia cargó 2 para Pierini, Clementina en Redes Respondidos (día 25 de Noviembre)",
     "updated_by": "florencia",
     "created_at": "2026-11-25T22:03:51.874956+00:00"
+  },
+  {
+    "id": 5523,
+    "resumen": "Andrea Ortiz cargó 9 para Murolo, Jonatan en Mails Gestionados (día 25 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T13:52:24.360207+00:00"
+  },
+  {
+    "id": 5524,
+    "resumen": "Andrea Ortiz cargó 13 para Pascuale, Paula en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:40:55.635109+00:00"
+  },
+  {
+    "id": 5525,
+    "resumen": "Andrea Ortiz cargó 15 para Menotti, Aranda Giuliana en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:53:57.364939+00:00"
+  },
+  {
+    "id": 5526,
+    "resumen": "Andrea Ortiz cargó 8 para Romero, Ximena en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:54:37.285164+00:00"
+  },
+  {
+    "id": 5527,
+    "resumen": "Andrea Ortiz cargó 10 para Perri, German en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:54:59.921536+00:00"
+  },
+  {
+    "id": 5528,
+    "resumen": "Andrea Ortiz cargó 21 para Zappacosta, Antonela en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:55:32.610075+00:00"
+  },
+  {
+    "id": 5529,
+    "resumen": "Andrea Ortiz cargó 52 para Venturino, Milagros en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:56:34.750733+00:00"
+  },
+  {
+    "id": 5530,
+    "resumen": "Andrea Ortiz cargó 19 para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:57:47.99844+00:00"
+  },
+  {
+    "id": 5531,
+    "resumen": "Andrea Ortiz cargó 11 para Murolo, Jonatan en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:58:36.796992+00:00"
+  },
+  {
+    "id": 5532,
+    "resumen": "Andrea Ortiz cambió de 11 a 20 (+9) para Murolo, Jonatan en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:58:40.568442+00:00"
+  },
+  {
+    "id": 5533,
+    "resumen": "Andrea Ortiz borró 9 para Murolo, Jonatan en Mails Gestionados (día 25 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T15:58:44.293754+00:00"
+  },
+  {
+    "id": 5534,
+    "resumen": "Andrea Ortiz cargó 5 para Sozio, Marco en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T16:02:49.309124+00:00"
+  },
+  {
+    "id": 5535,
+    "resumen": "Florencia cambió de 52 a 58 (+6) para Venturino, Milagros en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T16:27:39.819136+00:00"
+  },
+  {
+    "id": 5536,
+    "resumen": "Florencia cargó 6 para Venturino, Milagros en Redes Respondidos (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T16:29:18.573518+00:00"
+  },
+  {
+    "id": 5537,
+    "resumen": "Mateo Ocanto cambió de 24 a 183 (+159) en General › Ingresos del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:44:34.56304+00:00"
+  },
+  {
+    "id": 5538,
+    "resumen": "Mateo Ocanto cargó 32 en General › Derivaciones del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:44:37.622648+00:00"
+  },
+  {
+    "id": 5539,
+    "resumen": "Mateo Ocanto cambió de 30 a 46 (+16) en Farmacia › Ingresos del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:44:42.417497+00:00"
+  },
+  {
+    "id": 5540,
+    "resumen": "Mateo Ocanto cargó 1 en Farmacia › Derivaciones del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:44:47.045119+00:00"
+  },
+  {
+    "id": 5541,
+    "resumen": "Mateo Ocanto cambió de 52 a 165 (+113) en Prestadores › Ingresos del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:44:52.394296+00:00"
+  },
+  {
+    "id": 5542,
+    "resumen": "Mateo Ocanto cargó 104 en Prestadores › Derivaciones del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:44:57.647599+00:00"
+  },
+  {
+    "id": 5543,
+    "resumen": "Mateo Ocanto cargó 7 en Prestadores › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:45:02.501957+00:00"
+  },
+  {
+    "id": 5544,
+    "resumen": "Mateo Ocanto cambió de 6 a 44 (+38) en Reintegros › Ingresos del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:45:09.274146+00:00"
+  },
+  {
+    "id": 5545,
+    "resumen": "Mateo Ocanto cargó 10 en Reintegros › Derivaciones del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:45:11.42455+00:00"
+  },
+  {
+    "id": 5546,
+    "resumen": "Mateo Ocanto cargó 10 en Reintegros › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:45:13.857214+00:00"
+  },
+  {
+    "id": 5547,
+    "resumen": "Mateo Ocanto cambió de 41 a 46 (+5) en Ambulatorio › Ingresos del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:45:59.669872+00:00"
+  },
+  {
+    "id": 5548,
+    "resumen": "Mateo Ocanto cambió de 46 a 63 (+17) en Ambulatorio › Ingresos del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:46:12.966339+00:00"
+  },
+  {
+    "id": 5549,
+    "resumen": "Mateo Ocanto cargó 2 en Auditoría de Farmacia › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:46:25.647107+00:00"
+  },
+  {
+    "id": 5550,
+    "resumen": "Mateo Ocanto cambió de 89 a 99 (+10) en Internaciones › Ingresos del día (día 25 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:46:31.298466+00:00"
+  },
+  {
+    "id": 5551,
+    "resumen": "Mateo Ocanto cargó 28 en Internaciones › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:46:45.366592+00:00"
+  },
+  {
+    "id": 5552,
+    "resumen": "Mateo Ocanto cargó 9 para Laperchia, Solana en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:47:30.873885+00:00"
+  },
+  {
+    "id": 5553,
+    "resumen": "Mateo Ocanto cargó 7 para Cosimano, Ivana en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:47:39.822924+00:00"
+  },
+  {
+    "id": 5554,
+    "resumen": "Mateo Ocanto cargó 4 para Armua, Gonzalo en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:47:46.660012+00:00"
+  },
+  {
+    "id": 5555,
+    "resumen": "Mateo Ocanto cargó 14 para Capaldi, Camila en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:47:56.671905+00:00"
+  },
+  {
+    "id": 5556,
+    "resumen": "Mateo Ocanto cargó 9 para Muga, Florencia en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:48:03.782717+00:00"
+  },
+  {
+    "id": 5557,
+    "resumen": "Mateo Ocanto cargó 9 para Giudice, Franco en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:48:12.392039+00:00"
+  },
+  {
+    "id": 5558,
+    "resumen": "Mateo Ocanto cargó 8 para Rubiolo, Valentina en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:48:18.807698+00:00"
+  },
+  {
+    "id": 5559,
+    "resumen": "Mateo Ocanto cargó 17 para Rodriguez, Valentina en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:48:28.067926+00:00"
+  },
+  {
+    "id": 5560,
+    "resumen": "Mateo Ocanto cargó 5 para Regazzoni, Bruno en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Mateo Ocanto",
+    "created_at": "2026-11-26T16:48:35.318625+00:00"
+  },
+  {
+    "id": 5561,
+    "resumen": "Andrea Ortiz cambió de 5 a 10 (+5) para Sozio, Marco en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:02:08.313824+00:00"
+  },
+  {
+    "id": 5562,
+    "resumen": "Andrea Ortiz cambió de 58 a 60 (+2) para Venturino, Milagros en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:20:57.114869+00:00"
+  },
+  {
+    "id": 5563,
+    "resumen": "Andrea Ortiz cambió de 13 a 15 (+2) para Pascuale, Paula en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:21:26.071723+00:00"
+  },
+  {
+    "id": 5564,
+    "resumen": "Andrea Ortiz cambió de 19 a 22 (+3) para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:22:11.838654+00:00"
+  },
+  {
+    "id": 5565,
+    "resumen": "Andrea Ortiz cargó 7 para Rodriguez, Florencia en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:22:57.230625+00:00"
+  },
+  {
+    "id": 5566,
+    "resumen": "Andrea Ortiz cargó 11 para Jaure, Florencia en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:23:30.707497+00:00"
+  },
+  {
+    "id": 5567,
+    "resumen": "Andrea Ortiz cambió de 22 a 28 (+6) para Gonzalez, Ma. De los Angeles en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:25:18.737383+00:00"
+  },
+  {
+    "id": 5568,
+    "resumen": "Andrea Ortiz cambió de 20 a 24 (+4) para Murolo, Jonatan en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:28:19.81711+00:00"
+  },
+  {
+    "id": 5569,
+    "resumen": "Andrea Ortiz cambió de 15 a 20 (+5) para Menotti, Aranda Giuliana en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:28:43.879801+00:00"
+  },
+  {
+    "id": 5570,
+    "resumen": "Andrea Ortiz cambió de 8 a 9 (+1) para Romero, Ximena en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:29:14.538306+00:00"
+  },
+  {
+    "id": 5571,
+    "resumen": "Andrea Ortiz cambió de 10 a 17 (+7) para Perri, German en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:29:41.728523+00:00"
+  },
+  {
+    "id": 5572,
+    "resumen": "Andrea Ortiz cambió de 21 a 27 (+6) para Zappacosta, Antonela en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:29:57.280767+00:00"
+  },
+  {
+    "id": 5573,
+    "resumen": "Andrea Ortiz cargó 9 para Culcuy, Yenit en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:30:21.515773+00:00"
+  },
+  {
+    "id": 5574,
+    "resumen": "Andrea Ortiz cargó 9 para Alvado, Gisela en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:30:47.356718+00:00"
+  },
+  {
+    "id": 5575,
+    "resumen": "Florencia cargó 11 para Faccioli, Sofia en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T17:30:55.682096+00:00"
+  },
+  {
+    "id": 5576,
+    "resumen": "Andrea Ortiz cambió de 10 a 15 (+5) para Sozio, Marco en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:32:51.485603+00:00"
+  },
+  {
+    "id": 5577,
+    "resumen": "Andrea Ortiz cargó 24 para Redigonda, Macarena en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:36:37.081898+00:00"
+  },
+  {
+    "id": 5578,
+    "resumen": "Florencia cambió de 8 a 17 (+9) para Rubiolo, Valentina en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T17:39:25.767096+00:00"
+  },
+  {
+    "id": 5579,
+    "resumen": "Florencia cambió de 5 a 9 (+4) para Regazzoni, Bruno en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T17:41:33.515248+00:00"
+  },
+  {
+    "id": 5580,
+    "resumen": "Florencia cambió de 9 a 10 (+1) para Regazzoni, Bruno en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T17:42:01.832859+00:00"
+  },
+  {
+    "id": 5581,
+    "resumen": "Florencia cargó 10 para Antonini, Tatiana en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T17:42:41.910889+00:00"
+  },
+  {
+    "id": 5582,
+    "resumen": "Andrea Ortiz cargó 5 en General › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:54:11.531877+00:00"
+  },
+  {
+    "id": 5583,
+    "resumen": "Andrea Ortiz cargó 5 en Farmacia › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:54:25.210347+00:00"
+  },
+  {
+    "id": 5584,
+    "resumen": "Andrea Ortiz cambió de 10 a 15 (+5) en Reintegros › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:54:33.989862+00:00"
+  },
+  {
+    "id": 5585,
+    "resumen": "Andrea Ortiz cambió de 7 a 30 (+23) en Prestadores › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:55:36.722335+00:00"
+  },
+  {
+    "id": 5586,
+    "resumen": "Andrea Ortiz cargó 3 en Programas Especiales › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:55:47.937098+00:00"
+  },
+  {
+    "id": 5587,
+    "resumen": "Andrea Ortiz cambió de 28 a 59 (+31) en Internaciones › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:55:58.72137+00:00"
+  },
+  {
+    "id": 5588,
+    "resumen": "Andrea Ortiz cargó 14 en Ambulatorio › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Andrea Ortiz",
+    "created_at": "2026-11-26T17:57:10.737699+00:00"
+  },
+  {
+    "id": 5589,
+    "resumen": "Florencia cargó 14 para Fernandez, Juan Pablo en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T18:13:13.545198+00:00"
+  },
+  {
+    "id": 5590,
+    "resumen": "Florencia cargó 8 para Romero, Priscila en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T18:14:38.879522+00:00"
+  },
+  {
+    "id": 5591,
+    "resumen": "Florencia cambió de 24 a 33 (+9) para Redigonda, Macarena en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T18:20:53.928495+00:00"
+  },
+  {
+    "id": 5592,
+    "resumen": "Florencia cambió de 15 a 21 (+6) para Sozio, Marco en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T18:29:35.873382+00:00"
+  },
+  {
+    "id": 5593,
+    "resumen": "Florencia cambió de 11 a 18 (+7) para Faccioli, Sofia en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T18:46:33.838137+00:00"
+  },
+  {
+    "id": 5594,
+    "resumen": "Florencia cambió de 33 a 47 (+14) para Redigonda, Macarena en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T19:07:54.809215+00:00"
+  },
+  {
+    "id": 5595,
+    "resumen": "Florencia cargó 6 para Macaudiere, Rocio en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T19:15:56.515656+00:00"
+  },
+  {
+    "id": 5596,
+    "resumen": "Florencia cambió de 6 a 8 (+2) para Macaudiere, Rocio en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T19:16:06.484124+00:00"
+  },
+  {
+    "id": 5597,
+    "resumen": "Florencia cambió de 47 a 59 (+12) para Redigonda, Macarena en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:07:46.910384+00:00"
+  },
+  {
+    "id": 5598,
+    "resumen": "Florencia cargó 4 para Pierini, Clementina en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:08:53.268049+00:00"
+  },
+  {
+    "id": 5599,
+    "resumen": "Florencia cambió de 18 a 28 (+10) para Faccioli, Sofia en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:09:34.950433+00:00"
+  },
+  {
+    "id": 5600,
+    "resumen": "Florencia cambió de 9 a 22 (+13) para Culcuy, Yenit en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:24:52.856043+00:00"
+  },
+  {
+    "id": 5601,
+    "resumen": "Florencia cambió de 9 a 19 (+10) para Alvado, Gisela en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:25:40.63303+00:00"
+  },
+  {
+    "id": 5602,
+    "resumen": "Florencia cargó 4 para Lanteri, Santiago en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:26:07.426536+00:00"
+  },
+  {
+    "id": 5603,
+    "resumen": "Florencia cargó 16 para Eguiazu, Agustina en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:27:53.236862+00:00"
+  },
+  {
+    "id": 5604,
+    "resumen": "Florencia cambió de 16 a 19 (+3) para Eguiazu, Agustina en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:30:36.681853+00:00"
+  },
+  {
+    "id": 5605,
+    "resumen": "Florencia cargó 29 para Unno, Catalina en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:31:46.374824+00:00"
+  },
+  {
+    "id": 5606,
+    "resumen": "Florencia cambió de 7 a 10 (+3) para Rodriguez, Florencia en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:32:17.30092+00:00"
+  },
+  {
+    "id": 5607,
+    "resumen": "Florencia cambió de 11 a 20 (+9) para Jaure, Florencia en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:32:41.604141+00:00"
+  },
+  {
+    "id": 5608,
+    "resumen": "Florencia cambió de 24 a 27 (+3) para Murolo, Jonatan en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:33:41.888567+00:00"
+  },
+  {
+    "id": 5609,
+    "resumen": "Florencia cargó 15 para Machado, Natalia en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:35:38.453509+00:00"
+  },
+  {
+    "id": 5610,
+    "resumen": "Florencia cambió de 10 a 33 (+23) para Antonini, Tatiana en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T20:36:41.445374+00:00"
+  },
+  {
+    "id": 5611,
+    "resumen": "Florencia cambió de 4 a 20 (+16) para Pierini, Clementina en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:02:10.119155+00:00"
+  },
+  {
+    "id": 5612,
+    "resumen": "Florencia cambió de 59 a 62 (+3) para Redigonda, Macarena en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:02:50.858831+00:00"
+  },
+  {
+    "id": 5613,
+    "resumen": "Florencia cambió de 20 a 23 (+3) para Pierini, Clementina en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:04:02.761685+00:00"
+  },
+  {
+    "id": 5614,
+    "resumen": "Florencia cambió de 28 a 33 (+5) para Faccioli, Sofia en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:05:45.540617+00:00"
+  },
+  {
+    "id": 5615,
+    "resumen": "Florencia cambió de 19 a 24 (+5) para Eguiazu, Agustina en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:07:00.357258+00:00"
+  },
+  {
+    "id": 5616,
+    "resumen": "Florencia cargó 6 para Zini, Ayelen en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:08:16.753106+00:00"
+  },
+  {
+    "id": 5617,
+    "resumen": "Florencia cambió de 14 a 30 (+16) para Fernandez, Juan Pablo en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:09:08.733046+00:00"
+  },
+  {
+    "id": 5618,
+    "resumen": "Florencia cambió de 8 a 15 (+7) para Romero, Priscila en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:12:41.523696+00:00"
+  },
+  {
+    "id": 5619,
+    "resumen": "Florencia cargó 17 para Ludueña, Rocio del Valle en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:14:22.544934+00:00"
+  },
+  {
+    "id": 5620,
+    "resumen": "Florencia cambió de 4 a 14 (+10) para Armua, Gonzalo en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:20:16.401289+00:00"
+  },
+  {
+    "id": 5621,
+    "resumen": "Florencia cambió de 5 a 83 (+78) en General › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:22:56.423226+00:00"
+  },
+  {
+    "id": 5622,
+    "resumen": "Florencia cambió de 5 a 31 (+26) en Farmacia › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:23:07.154702+00:00"
+  },
+  {
+    "id": 5623,
+    "resumen": "Florencia deshizo un cambio: volvió a 5 (estaba en 31) en Farmacia › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:23:28.309313+00:00"
+  },
+  {
+    "id": 5624,
+    "resumen": "Florencia cambió de 5 a 31 (+26) en Farmacia › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:23:33.051218+00:00"
+  },
+  {
+    "id": 5625,
+    "resumen": "Florencia cambió de 30 a 83 (+53) en Prestadores › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:23:41.842894+00:00"
+  },
+  {
+    "id": 5626,
+    "resumen": "Florencia cambió de 15 a 48 (+33) en Reintegros › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:23:55.241945+00:00"
+  },
+  {
+    "id": 5627,
+    "resumen": "Florencia cambió de 59 a 102 (+43) en Internaciones › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:24:04.878328+00:00"
+  },
+  {
+    "id": 5628,
+    "resumen": "Florencia cambió de 14 a 28 (+14) en Ambulatorio › Ingresos del día (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:24:13.783616+00:00"
+  },
+  {
+    "id": 5629,
+    "resumen": "Florencia cambió de 22 a 27 (+5) para Culcuy, Yenit en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:36:44.302953+00:00"
+  },
+  {
+    "id": 5630,
+    "resumen": "Florencia cambió de 62 a 73 (+11) para Redigonda, Macarena en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:37:23.398163+00:00"
+  },
+  {
+    "id": 5631,
+    "resumen": "Florencia cambió de 23 a 29 (+6) para Pierini, Clementina en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:38:15.25537+00:00"
+  },
+  {
+    "id": 5632,
+    "resumen": "Florencia cambió de 73 a 74 (+1) para Redigonda, Macarena en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:42:46.10044+00:00"
+  },
+  {
+    "id": 5633,
+    "resumen": "Florencia cambió de 33 a 38 (+5) para Faccioli, Sofia en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:43:48.774318+00:00"
+  },
+  {
+    "id": 5634,
+    "resumen": "Florencia cambió de 38 a 39 (+1) para Faccioli, Sofia en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:44:02.130728+00:00"
+  },
+  {
+    "id": 5635,
+    "resumen": "Florencia cambió de 39 a 40 (+1) para Faccioli, Sofia en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:46:08.846829+00:00"
+  },
+  {
+    "id": 5636,
+    "resumen": "Florencia cambió de 29 a 33 (+4) para Unno, Catalina en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:46:52.707875+00:00"
+  },
+  {
+    "id": 5637,
+    "resumen": "Florencia cambió de 19 a 24 (+5) para Alvado, Gisela en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:48:11.022489+00:00"
+  },
+  {
+    "id": 5638,
+    "resumen": "Florencia cambió de 17 a 18 (+1) para Perri, German en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:49:24.242482+00:00"
+  },
+  {
+    "id": 5639,
+    "resumen": "Florencia cambió de 27 a 29 (+2) para Zappacosta, Antonela en Línea 7075 (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:49:53.833703+00:00"
+  },
+  {
+    "id": 5640,
+    "resumen": "Florencia cambió de 24 a 36 (+12) para Eguiazu, Agustina en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:50:42.692848+00:00"
+  },
+  {
+    "id": 5641,
+    "resumen": "Florencia cambió de 30 a 34 (+4) para Fernandez, Juan Pablo en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:52:01.042231+00:00"
+  },
+  {
+    "id": 5642,
+    "resumen": "Florencia cambió de 15 a 20 (+5) para Romero, Priscila en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:53:16.202358+00:00"
+  },
+  {
+    "id": 5643,
+    "resumen": "Florencia cambió de 17 a 21 (+4) para Ludueña, Rocio del Valle en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:53:53.139705+00:00"
+  },
+  {
+    "id": 5644,
+    "resumen": "Florencia cambió de 8 a 9 (+1) para Macaudiere, Rocio en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:56:00.603383+00:00"
+  },
+  {
+    "id": 5645,
+    "resumen": "Florencia cambió de 9 a 19 (+10) para Giudice, Franco en Soporte Eventual (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:56:51.849062+00:00"
+  },
+  {
+    "id": 5646,
+    "resumen": "Florencia cambió de 15 a 20 (+5) para Machado, Natalia en Mails Gestionados (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T21:58:01.218896+00:00"
+  },
+  {
+    "id": 5647,
+    "resumen": "Florencia cambió de 74 a 77 (+3) para Redigonda, Macarena en Carga de Solicitudes (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T22:00:07.147449+00:00"
+  },
+  {
+    "id": 5648,
+    "resumen": "Florencia cambió de 40 a 41 (+1) para Faccioli, Sofia en Equipo de Apoyo (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T22:00:50.318893+00:00"
+  },
+  {
+    "id": 5649,
+    "resumen": "Florencia cargó 3 para Pierini, Clementina en Redes Respondidos (día 26 de Noviembre)",
+    "updated_by": "Florencia",
+    "created_at": "2026-11-26T22:05:26.501904+00:00"
   }
 ]
